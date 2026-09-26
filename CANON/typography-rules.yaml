@@ -1,0 +1,6 @@
+version_b:
+  required_first: true
+  manuscript_must_match_approved_text: true
+  critical_text_in_hard_gutter: false
+  environmental_text_allowed: true
+left_text_zone_default: {x_min: 650, x_max: 2250}
