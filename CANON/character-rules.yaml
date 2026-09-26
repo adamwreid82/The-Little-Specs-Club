@@ -1,0 +1,13 @@
+height_order: [Ben, Leo, Vinny, Steph, Maya]
+continuity:
+  source_image_is_authority: true
+  preserve_face: true
+  preserve_hair: true
+  preserve_body_proportions: true
+  preserve_normal_clothing: true
+  preserve_construction_clothing: true
+  no_unapproved_accessories: true
+special:
+  Ben:
+    glasses: black_frames_with_clear_side_deflectors
+  recurring_trade_rule: established_specialist_required_when_trade_materially_shown
