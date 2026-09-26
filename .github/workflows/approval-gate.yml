@@ -1,0 +1,10 @@
+name: Approval Gate
+on: workflow_dispatch
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          echo "FINAL LOCKED is a human approval state."
+          echo "Automation must not promote a spread without Adam's explicit approval record."
