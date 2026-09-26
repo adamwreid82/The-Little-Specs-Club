@@ -1,0 +1,7 @@
+format: Amazon KDP paperback
+trim: "8.5 x 8.5 in"
+full_bleed: true
+spread_px: [5100, 2550]
+versions:
+  B: manuscript_texted
+  A: text_free_from_approved_B_art
