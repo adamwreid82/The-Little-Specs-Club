@@ -1,0 +1,10 @@
+site_continuity:
+  use_locked_station_design: true
+  use_locked_site_reference: true
+  generic_workers_support_only: true
+  recurring_specialist_for_material_trade: true
+ppe:
+  must_match_scene_stage: true
+branding:
+  use_current_approved_branding_only: true
+  hard_hat_stickers_must_be_imaged_on_hat_at_correct_angle: true
