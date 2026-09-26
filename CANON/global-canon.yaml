@@ -1,0 +1,16 @@
+series: The Little Specs Club
+spread:
+  width_px: 5100
+  height_px: 2550
+  aspect_ratio: "2:1"
+  centerline_x: 2550
+  hard_gutter: {x_min: 2349, x_max: 2751}
+  effective_safety_px: [550, 600]
+approval:
+  final_locked_requires: Adam
+  auto_lock: false
+production:
+  generate_version_b_first: true
+  derive_version_a_after_b_approval: true
+  preserve_approved_source_images: true
+  no_unapproved_character_drift: true
