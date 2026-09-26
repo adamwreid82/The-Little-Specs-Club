@@ -1,0 +1,21 @@
+book: 1
+project: Middle Creek Fire & Rescue Station No. 2
+series_arc:
+  book_1: site_and_footing
+  book_2: walls
+  book_3: in_wall_systems
+  book_4: finishes
+  book_5: turnover
+station:
+  apparatus_bays: 3
+  public_entrance: true
+temporary_sign:
+  required_when_applicable: true
+  text:
+    - MIDDLE CREEK FIRE & RESCUE STATION NO. 2
+    - COMING SOON
+  permanent_monument_sign_allowed: false
+early_scene_rules:
+  kids_ppe_before_site_entry: false
+  teacher_ppe_before_site_entry: false
+  kids_project_stickers_before_pages_11_12: false
