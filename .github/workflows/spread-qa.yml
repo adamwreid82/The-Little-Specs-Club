@@ -1,0 +1,16 @@
+name: Spread QA
+on:
+  workflow_dispatch:
+    inputs:
+      spread:
+        description: "Book 1 spread folder, e.g. spread-09-10"
+        required: true
+jobs:
+  qa:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install pillow pyyaml
+      - run: python QA/run_spread_qa.py BOOK-01/${{ inputs.spread }}
