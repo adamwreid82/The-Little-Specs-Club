@@ -1,0 +1,8 @@
+spread: "19-20"
+status: DEVELOPMENT
+version_b: {status: pending, path: version-b/}
+version_a: {status: pending, path: version-a/}
+qa: {status: pending, path: qa/}
+archive: archive/
+final_locked: false
+approved_by: null
