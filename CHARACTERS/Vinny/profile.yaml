@@ -1,4 +1,9 @@
 character: Vinny
-source_authority: approved_project_source_image
-status: source-reference-pending
+source_authority: google_drive_00_master_canon
+master_profile_drive_id: 1vG_CJ45X87ZsYlNr-Rq2VJiuRHaTtw4S
+approved_image_drive_id: 1m-mxpb7Fpu04jWj5sYVJTHxvXXPySuSa
+approved_image_sha256: 82ce28090c7c0dbe68da71f9a234197aacc58cce5b27bb146e669577c7ffd3ee
+status: APPROVED_SOURCE_CONNECTED
 continuity_required: true
+preserve_normal_clothing: true
+preserve_construction_clothing: true
