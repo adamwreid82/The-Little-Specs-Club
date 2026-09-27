@@ -1,12 +1,45 @@
 spread: "05-06"
-status: DEVELOPMENT
+title: Where Is the Fire Station?
+status: ARTWORK LOCKED - PRINT PREPARATION PENDING
+artwork_locked: true
+final_locked: false
+approved_by: Adam
+approved_date: "2026-09-27"
+approval_evidence: "Lock it"
+approval_scope: exact latest Version B artwork including current Leo face and hair; not uncreated production derivatives
 version_b:
-  status: pending
+  status: ARTWORK LOCKED
   path: version-b/
+  storage: google_drive
+  drive_id: 130bZ3O_AazUXSqGhviSyiORf6FTQoVd6
+  filename: Pages_5-6_Version_B_ARTWORK_LOCKED_2026-09-27.png
+  sha256: aec4a85987b509a3ac070b3d5bcdd3ff7c957000e045d166a4ba0109c5f0f139
+  dimensions_px: [1774, 887]
 version_a:
-  status: pending
+  status: PENDING - derive from current approved B
   path: version-a/
 qa:
-  status: pending
-final_locked: false
-approved_by: null
+  status: AUTHOR APPROVED - PRODUCTION CHECKS PENDING
+  report: qa/PRODUCTION_REVIEW_2026-09-27.md
+  drive_report_id: 16B7FVC2KyGztBlXclnJFJtXZf3wCRZbO
+  source_pairs_used: [Ben, Leo, Vinny, Steph, Maya, Mrs-Harper]
+  visible_proportions: VISUAL_PASS_NOT_MEASUREMENT_CERTIFIED
+  obscured_facial_features: NOT_VERIFIABLE_FROM_THIS_VIEW
+  numeric_height_order: NOT_VERIFIED_IN_STAGGERED_PERSPECTIVE
+  exact_sign_and_held_picture_asset_match: NOT_PIXEL_CERTIFIED
+  production_dimensions: PENDING
+  required_dimensions_px: [5100, 2550]
+  version_pair_integrity: PENDING
+  bleed_exports: PENDING
+  physical_proof: NOT_PERFORMED
+excavator_placement:
+  status: AUTHOR_ACCEPTED
+  evidence: The excavator is fine where it is
+  date: "2026-09-27"
+  scope: this spread only; no change to people or text gutter rules
+  preserve: true
+previous_artwork:
+  drive_id: 19FcZpxeDpSbKAVLBxVd-QlwR-lVuY7cc
+  status: SUPERSEDED
+  preserved: true
+next_step: Preserve approved artwork; prepare matching text-free A, production sizing and bleed exports, then verify production quality.
