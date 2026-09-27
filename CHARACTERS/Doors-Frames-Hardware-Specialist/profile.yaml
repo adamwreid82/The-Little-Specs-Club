@@ -1,4 +1,8 @@
-character: Doors-Frames-Hardware-Specialist
-source_authority: approved_project_source_image
-status: source-reference-pending
+character: Matthias Becker
+role: Doors, Frames & Hardware Foreman
+source_authority: google_drive_00_master_canon
+master_profile_drive_id: 1AezDbqDE-fRxdzpMECr4thS1qQ_tzEJ_
+approved_image_drive_id: 1SSu1FS_GU-TmvcaKpeo79WTEBYbWdSiA
+status: APPROVED_SOURCE_CONNECTED
+recurring_specialist_required_when_trade_materially_shown: true
 continuity_required: true
