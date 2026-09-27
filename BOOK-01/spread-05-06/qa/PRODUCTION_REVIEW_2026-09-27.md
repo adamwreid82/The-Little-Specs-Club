@@ -20,3 +20,18 @@ Visible cast, normal-clothing chronology, absence of premature stickers, early c
 ## Remaining production work
 
 Prepare 5100 × 2550 production output while preserving approved composition, and assess source-detail suitability. Derive matching text-free Version A from this B; historical Version A files are not a matching pair. Prepare separate-page bleed exports, verify A/B pixel differences and measured text/trim/gutter clearance, and complete whole-book assembly, pagination, Print Previewer and physical proof. No production derivative or print proof is certified by this artwork lock. No other spread was changed.
+
+## Production preparation completed, 2026-09-27
+
+The approved native Version B remains locked and unchanged. A 5100 × 2550, 300-PPI-metadata texted derivative and matching text-free Version A are now prepared, together with two-page bleed PDFs. These new derivatives are PRINT REVIEW files, not newly author-approved locks.
+
+Version A uses generated sky repair isolated with a feathered mask; native pixels below y=321 and the excavator region are unchanged. At production size there are zero A/B changes outside the declared upper region y=0–939. This region includes the sky and some treetop edges around manuscript removal; it excludes all people, the sign, held picture and accepted excavator. No claim is made that the whole generated text-free image preserved pixels: only the isolated repair was adopted.
+
+The PDFs contain LEFT then RIGHT page assets, each 8.625 × 8.75 inches, for 8.5-inch square trim. Bleed is edge-extended outside the approved trim image. Rendered pages were inspected for clipping, text remnants and patch seams. Text and people clear the established central band; the excavator's author-accepted exception is preserved. Native visible text has approximately 1 inch of top clearance at intended trim scale, and shoes about 0.5 inch bottom clearance. This does not replace final assembled-book preflight.
+
+These are Lanczos enlargements of a 1774 × 887 source (approximately 104 source pixels per inch across a 17-inch spread). No increase in native detail or physical-proof certification is claimed. Whole-book page count, LEFT-on-even/RIGHT-on-following-odd pagination, Print Previewer and physical proof remain pending. The spread number 5–6 remains a production identifier.
+
+- Pages_5-6_Version_A_5100x2550_PRINT_REVIEW.png: https://drive.google.com/file/d/13gAX7DbbwqSM4KqP7jikxwGMvgt5XDgU/view ; SHA256 31187dc468ecf15df74f2b599ebb35fdd6ea9e00905068e8d3a666bed6622d4d
+- Pages_5-6_Version_A_BLEED_PRINT_REVIEW.pdf: https://drive.google.com/file/d/1xtSO_GepvVOX3AlcNgsPP9ihH5x5g0x9/view ; SHA256 a2fe9a05f977cd0a244acc5d5b2aea8e0b896149e13fa1905fb8ecd2272495f9
+- Pages_5-6_Version_B_5100x2550_PRINT_REVIEW.png: https://drive.google.com/file/d/1DfYKIPsJhSD84v_NGF-3i2ezCwkF2bw9/view ; SHA256 8c0dc41b1c5fbf083f30613711a7086c4f51636fe368d710cb7c486a875701dd
+- Pages_5-6_Version_B_BLEED_PRINT_REVIEW.pdf: https://drive.google.com/file/d/1xQxmKmloFE3qbuehKmfYYhvvaLjUjT97/view ; SHA256 0a0c02770f29f4fe18dd288bca8bd817d233409c8372b4414e2234b95c37f48b

@@ -1,45 +1,97 @@
-spread: "05-06"
+spread: 05-06
 title: Where Is the Fire Station?
-status: ARTWORK LOCKED - PRINT PREPARATION PENDING
+status: ARTWORK LOCKED - PRODUCTION EXPORTS READY FOR REVIEW
 artwork_locked: true
 final_locked: false
 approved_by: Adam
-approved_date: "2026-09-27"
-approval_evidence: "Lock it"
-approval_scope: exact latest Version B artwork including current Leo face and hair; not uncreated production derivatives
+approved_date: '2026-09-27'
+approval_evidence: Lock it
+approval_scope: exact latest Version B artwork including current Leo face and hair;
+  not uncreated production derivatives
 version_b:
-  status: ARTWORK LOCKED
+  status: PRINT REVIEW PENDING
   path: version-b/
   storage: google_drive
-  drive_id: 130bZ3O_AazUXSqGhviSyiORf6FTQoVd6
-  filename: Pages_5-6_Version_B_ARTWORK_LOCKED_2026-09-27.png
-  sha256: aec4a85987b509a3ac070b3d5bcdd3ff7c957000e045d166a4ba0109c5f0f139
-  dimensions_px: [1774, 887]
+  drive_id: 1DfYKIPsJhSD84v_NGF-3i2ezCwkF2bw9
+  filename: Pages_5-6_Version_B_5100x2550_PRINT_REVIEW.png
+  sha256: 8c0dc41b1c5fbf083f30613711a7086c4f51636fe368d710cb7c486a875701dd
+  dimensions_px:
+  - 5100
+  - 2550
+  bleed_pdf:
+    drive_id: 1xQxmKmloFE3qbuehKmfYYhvvaLjUjT97
+    filename: Pages_5-6_Version_B_BLEED_PRINT_REVIEW.pdf
+    sha256: 0a0c02770f29f4fe18dd288bca8bd817d233409c8372b4414e2234b95c37f48b
+    page_size_inches:
+    - 8.625
+    - 8.75
+    page_order:
+    - LEFT
+    - RIGHT
 version_a:
-  status: PENDING - derive from current approved B
+  status: PRINT REVIEW PENDING
   path: version-a/
+  storage: google_drive
+  drive_id: 13gAX7DbbwqSM4KqP7jikxwGMvgt5XDgU
+  filename: Pages_5-6_Version_A_5100x2550_PRINT_REVIEW.png
+  sha256: 31187dc468ecf15df74f2b599ebb35fdd6ea9e00905068e8d3a666bed6622d4d
+  dimensions_px:
+  - 5100
+  - 2550
+  bleed_pdf:
+    drive_id: 1xtSO_GepvVOX3AlcNgsPP9ihH5x5g0x9
+    filename: Pages_5-6_Version_A_BLEED_PRINT_REVIEW.pdf
+    sha256: a2fe9a05f977cd0a244acc5d5b2aea8e0b896149e13fa1905fb8ecd2272495f9
+    page_size_inches:
+    - 8.625
+    - 8.75
+    page_order:
+    - LEFT
+    - RIGHT
 qa:
-  status: AUTHOR APPROVED - PRODUCTION CHECKS PENDING
+  status: EXPORT CHECKS COMPLETE - AUTHOR REVIEW AND PHYSICAL PROOF PENDING
   report: qa/PRODUCTION_REVIEW_2026-09-27.md
   drive_report_id: 16B7FVC2KyGztBlXclnJFJtXZf3wCRZbO
-  source_pairs_used: [Ben, Leo, Vinny, Steph, Maya, Mrs-Harper]
+  source_pairs_used:
+  - Ben
+  - Leo
+  - Vinny
+  - Steph
+  - Maya
+  - Mrs-Harper
   visible_proportions: VISUAL_PASS_NOT_MEASUREMENT_CERTIFIED
   obscured_facial_features: NOT_VERIFIABLE_FROM_THIS_VIEW
   numeric_height_order: NOT_VERIFIED_IN_STAGGERED_PERSPECTIVE
   exact_sign_and_held_picture_asset_match: NOT_PIXEL_CERTIFIED
-  production_dimensions: PENDING
-  required_dimensions_px: [5100, 2550]
-  version_pair_integrity: PENDING
-  bleed_exports: PENDING
+  production_dimensions: PASS
+  required_dimensions_px:
+  - 5100
+  - 2550
+  version_pair_integrity: PASS_OUTSIDE_DECLARED_UPPER_REGION
+  bleed_exports: PREPARED_AND_RENDER_REVIEWED
   physical_proof: NOT_PERFORMED
+  drive_pixel_qa_id: 1yITRhSEO5Go5MchpC0ElT7HUMIXpsbN-
+  pair_changes_outside_declared_upper_region: 0
+  native_detail_print_certified: false
 excavator_placement:
   status: AUTHOR_ACCEPTED
   evidence: The excavator is fine where it is
-  date: "2026-09-27"
+  date: '2026-09-27'
   scope: this spread only; no change to people or text gutter rules
   preserve: true
 previous_artwork:
   drive_id: 19FcZpxeDpSbKAVLBxVd-QlwR-lVuY7cc
   status: SUPERSEDED
   preserved: true
-next_step: Preserve approved artwork; prepare matching text-free A, production sizing and bleed exports, then verify production quality.
+next_step: Review production derivatives; complete assembled-book preflight, pagination
+  and physical proof before publication.
+approved_native_artwork:
+  status: ARTWORK LOCKED
+  path: version-b/
+  storage: google_drive
+  drive_id: 130bZ3O_AazUXSqGhviSyiORf6FTQoVd6
+  filename: Pages_5-6_Version_B_ARTWORK_LOCKED_2026-09-27.png
+  sha256: aec4a85987b509a3ac070b3d5bcdd3ff7c957000e045d166a4ba0109c5f0f139
+  dimensions_px:
+  - 1774
+  - 887

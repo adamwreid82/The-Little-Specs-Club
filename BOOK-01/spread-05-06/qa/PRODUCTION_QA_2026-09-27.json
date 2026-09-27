@@ -1,0 +1,55 @@
+{
+  "native_source_sha256": "aec4a85987b509a3ac070b3d5bcdd3ff7c957000e045d166a4ba0109c5f0f139",
+  "native_dimensions": [
+    1774,
+    887
+  ],
+  "text_removal_changes_outside_mask": 0,
+  "all_pixels_below_native_y321_unchanged": true,
+  "excavator_region_unchanged": true,
+  "method": "ImageGen sky repair isolated with a feathered mask; Lanczos enlargement; edge-extended bleed. No native detail increase claimed.",
+  "physical_proof_performed": false,
+  "author_approval_of_derivatives": "PENDING",
+  "pair_difference_pixels": 2912399,
+  "pair_changes_outside_declared_upper_region": 0,
+  "declared_upper_region_5100": [
+    0,
+    0,
+    5100,
+    940
+  ],
+  "pdf_page_size_inches": [
+    8.625,
+    8.75
+  ],
+  "pdf_page_order": [
+    "LEFT",
+    "RIGHT"
+  ],
+  "files": [
+    {
+      "name": "Pages_5-6_Version_A_5100x2550_PRINT_REVIEW.png",
+      "bytes": 13899116,
+      "sha256": "31187dc468ecf15df74f2b599ebb35fdd6ea9e00905068e8d3a666bed6622d4d",
+      "drive_id": "13gAX7DbbwqSM4KqP7jikxwGMvgt5XDgU"
+    },
+    {
+      "name": "Pages_5-6_Version_A_BLEED_PRINT_REVIEW.pdf",
+      "bytes": 35916971,
+      "sha256": "a2fe9a05f977cd0a244acc5d5b2aea8e0b896149e13fa1905fb8ecd2272495f9",
+      "drive_id": "1xtSO_GepvVOX3AlcNgsPP9ihH5x5g0x9"
+    },
+    {
+      "name": "Pages_5-6_Version_B_5100x2550_PRINT_REVIEW.png",
+      "bytes": 14552621,
+      "sha256": "8c0dc41b1c5fbf083f30613711a7086c4f51636fe368d710cb7c486a875701dd",
+      "drive_id": "1DfYKIPsJhSD84v_NGF-3i2ezCwkF2bw9"
+    },
+    {
+      "name": "Pages_5-6_Version_B_BLEED_PRINT_REVIEW.pdf",
+      "bytes": 37016429,
+      "sha256": "0a0c02770f29f4fe18dd288bca8bd817d233409c8372b4414e2234b95c37f48b",
+      "drive_id": "1xQxmKmloFE3qbuehKmfYYhvvaLjUjT97"
+    }
+  ]
+}
