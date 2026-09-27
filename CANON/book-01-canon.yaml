@@ -19,3 +19,8 @@ early_scene_rules:
   kids_ppe_before_site_entry: false
   teacher_ppe_before_site_entry: false
   kids_project_stickers_before_pages_11_12: false
+  teacher_project_stickers_before_pages_11_12: false
+sticker_ceremony:
+  pages: [11, 12]
+  recipients: [Ben, Leo, Vinny, Steph, Maya, Mrs-Harper]
+  receipt_timing: together
