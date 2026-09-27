@@ -380,3 +380,17 @@ job_sticker_cast_records:
       job_stickers_allowed: false
       confirmed_stickers: []
       reason: civic_ceremonial_profile_prohibits_PPE_and_project_stickers
+children_vest_back_emblem:
+  placement_status: AUTHOR_LOCKED
+  characters: [Ben, Leo, Vinny, Steph, Maya]
+  artwork: existing_approved_circular_Club_Emblem
+  position: upper_back_centered_between_vertical_reflective_strips_and_above_horizontal_reflective_strip
+  same_relative_position_on_every_childs_vest: true
+  placement_reference: vest_panel_and_reflective_strips_not_camera
+  preserve_existing_approved_emblem_scale: true
+  natural_hair_and_hoodie_occlusion: allowed
+  full_visibility_required: false
+  move_lower_shrink_or_reposition_to_expose_emblem: false
+  move_hair_or_hoodie_to_expose_emblem: false
+  follow_vest_fabric_perspective_and_pose: true
+  preserve_existing_vest_design_and_reflective_strip_layout: true
