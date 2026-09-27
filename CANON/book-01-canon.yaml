@@ -10,6 +10,21 @@ station:
   apparatus_bays: 3
   public_entrance: true
 temporary_sign:
+  status: APPROVED_LOCKED
+  approved_by: Adam
+  approved_date: "2026-09-12"
+  design_registry_key: project_visuals.fire_station_temporary_construction_sign
+  preserve: [emblem, exact_wording, layout, typography_hierarchy, panel_proportions, post_mounted_construction, placement_logic]
+  palette: [red, cream, charcoal, gold]
+  redesign_or_substitute_without_approval: false
+  start: beginning_of_visible_construction_activity
+  transition_condition: exterior_permanent_site_work_and_landscaping_complete_and_monument_sign_being_installed_or_in_place
+  remove_when_permanent_sign_installed: true
+  reappear_in_later_completed_site_scenes: false
+  use_approved_design_when_sign_location_visible: true
+  camera_angle_may_change: true
+  natural_occlusion_allowed: true
+  weathering_or_dust_may_change_design_or_wording: false
   required_when_applicable: true
   text:
     - MIDDLE CREEK FIRE & RESCUE STATION NO. 2

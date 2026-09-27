@@ -49,6 +49,18 @@ project_visuals:
     reference_scope: monument_sign_depicted_in_complete_exterior_reference
     standalone_asset: false
     usage_rule: CANON/book-01-canon.yaml#monument_sign
+  fire_station_temporary_construction_sign:
+    status: APPROVED_LOCKED
+    approved_by: Adam
+    approved_date: "2026-09-12"
+    reference_verified_date: "2026-09-27"
+    image_id: 1MKMV9-qoF2Ar6L5Ha6pGYXthKvgOsnLM
+    sha256: 7bf0a0a00a1c76b930f19922cfb5bd93059e282961ccd1ce2799829b76eb8a27
+    asset_filename: Middle_Creek_Fire_Rescue_Station_No_2_Temporary_Construction_Sign_CANON_EDITION_5_APPROVED.png
+    approval_record_drive_id: 1EqtxPZ8p15JaNUPTBCWakFEoT1FfHt-UPuHd0YbUa4Y
+    approval_record_sections: [C5-SITE-004, C5-SIGN-009]
+    reference_scope: approved_sign_design_in_image_with_background_context
+    usage_rule: CANON/book-01-canon.yaml#temporary_sign
   early_site: {image_id: 1KwyrKCwuK94TK6w6M3w2Dszy_EOWr6QU, sha256: 7eb6607667f24d9c4a2f2321fa0d449d5fe7384719566da0eb2f1fdd70bf0307}
   fire_station_project_sticker: {image_id: 1-nHpjvk0OBnVLBpLPjtPCTpyIde4nUAz, sha256: adcfdcdbe9c533268012e45d5c2662cf10c8b5ef684eb389528cf7107a4975ba}
 rules:

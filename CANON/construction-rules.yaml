@@ -13,3 +13,10 @@ monument_sign:
   chronology_rule: CANON/book-01-canon.yaml#monument_sign
   distinguish_future_station_picture_from_live_site: true
   preserve_locked_design: true
+temporary_construction_sign:
+  design_registry_key: project_visuals.fire_station_temporary_construction_sign
+  chronology_rule: CANON/book-01-canon.yaml#temporary_sign
+  exact_approved_design_required: true
+  preserve_scene_perspective_and_placement_logic: true
+  background_in_sign_reference_does_not_override_locked_site_layout: true
+  remove_after_permanent_sign_installation: true
