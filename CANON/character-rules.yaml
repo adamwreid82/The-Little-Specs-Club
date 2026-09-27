@@ -54,17 +54,23 @@ fire_station_project_sticker:
     hidden_when_placement_faces_away: true
     Maya_back_view: hidden_or_barely_visible_at_side_edge_if_geometry_permits_never_relocated_to_rear
   timing:
-    children: [Ben, Leo, Vinny, Steph, Maya]
+    participants: [Ben, Leo, Vinny, Steph, Maya, Mrs-Harper]
     first_application: Book_1_pages_11_12_sticker_ceremony
     before_ceremony: absent
     after_ceremony: preserve_locked_placement_across_books
-    Mrs-Harper: preserve_approved_profile_project_history
+    Mrs-Harper: same_receipt_timing_as_children
   independent_of_LS_badge_redesign: true
 job_sticker_lifetime_continuity:
   status: AUTHOR_LOCKED
   applies_to: every_character_who_receives_a_job_sticker
   scope: all_jobs_and_books
   history: cumulative_in_story_chronological_order
+  synchronized_sticker_history:
+    characters: [Ben, Leo, Vinny, Steph, Maya, Mrs-Harper]
+    same_job_stickers_at_same_story_point: true
+    receive_each_new_job_sticker_together: true
+    applies_to_all_future_jobs: true
+    placement: preserve_each_characters_own_permanent_locations
   rules:
     - Each received job sticker permanently occupies its established location on that character's hard hat.
     - The Fire Station sticker remains in its existing locked location on all subsequent jobs.
