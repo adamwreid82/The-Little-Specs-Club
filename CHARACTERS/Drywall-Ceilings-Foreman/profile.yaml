@@ -1,4 +1,8 @@
-character: Drywall-Ceilings-Foreman
-source_authority: approved_project_source_image
-status: source-reference-pending
+character: Luis Mendoza
+role: Drywall & Ceilings Foreman
+source_authority: google_drive_00_master_canon
+master_profile_drive_id: 1iLVzifnM16EHL4xG2uhTFIs00uY33ByS
+approved_image_drive_id: 1cB-Kurd99KMyKaKmar4rYTnw0U1JCFCk
+status: APPROVED_SOURCE_CONNECTED
+recurring_specialist_required_when_trade_materially_shown: true
 continuity_required: true
