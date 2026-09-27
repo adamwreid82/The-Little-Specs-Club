@@ -383,7 +383,7 @@ job_sticker_cast_records:
 children_vest_back_emblem:
   placement_status: AUTHOR_LOCKED
   characters: [Ben, Leo, Vinny, Steph, Maya]
-  artwork: existing_approved_circular_Club_Emblem
+  artwork: approved_locked_circular_Club_Emblem_yellow_Little_blue_rivet_i_dot
   position: upper_back_centered_between_vertical_reflective_strips_and_above_horizontal_reflective_strip
   same_relative_position_on_every_childs_vest: true
   placement_reference: vest_panel_and_reflective_strips_not_camera
@@ -394,3 +394,14 @@ children_vest_back_emblem:
   move_hair_or_hoodie_to_expose_emblem: false
   follow_vest_fabric_perspective_and_pose: true
   preserve_existing_vest_design_and_reflective_strip_layout: true
+  artwork_status: APPROVED_LOCKED
+  artwork_approved_date: 2026-09-27
+  asset_registry_key: branding_assets.circular_club_emblem
+  asset_filename: Little_Specs_Club_Circular_Vest_Back_Emblem_APPROVED_LOCKED.png
+  image_id: 1-mBZA9mDqfIQdSXOhPK83ZCvbIo30U21
+  sha256: 102ddb58397734515a0c11cd5fe205c070dfeff5677f9c63aeb15f2656b607c3
+  design_revision: yellow_Little_with_blue_rivet_i_dot
+  use_exact_locked_asset: true
+  redraw_regenerate_reinterpret_recolor_mirror_or_substitute: false
+  applies_to_Mrs_Harper: false
+  source_sheets_and_profiles_updated_in_place: 2026-09-27
