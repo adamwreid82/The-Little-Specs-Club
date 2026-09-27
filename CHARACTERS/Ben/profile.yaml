@@ -1,4 +1,9 @@
 character: Ben
-source_authority: approved_project_source_image
-status: source-reference-pending
+source_authority: google_drive_00_master_canon
+master_profile_drive_id: 1rhPTyBiDT9OevTiI9ncFGYR8JPbLVt6m
+approved_image_drive_id: 1lkboZGWom6Vw7et5J5__5dBivj7i2TRx
+approved_image_sha256: 99089df0212ed7e7ae3d6cea3e0a8c9995e22e859357e92e5eb7876cae58df6d
+status: APPROVED_SOURCE_CONNECTED
 continuity_required: true
+preserve_normal_clothing: true
+preserve_construction_clothing: true
