@@ -1,12 +1,12 @@
 spread: 03-04
 title: The Big Announcement
-status: ARTWORK CORRECTION ACCEPTED - PRINT REVIEW PENDING
+status: FINAL LOCKED
 version_b:
-  status: PRINT REVIEW PENDING
+  status: APPROVED LOCKED
   path: version-b/
   storage: google_drive
   drive_id: 1d-JlCft5sXCpA7hWo6kb2_anvMjHok-4
-  filename: Pages_3-4_Version_B_REV2_5100x2550_REVIEW.png
+  filename: Pages_3-4_Version_B_REV2_5100x2550_FINAL_LOCKED.png
   sha256: fb6fad4d8f90c0c7ccfa2a94436b28618a21c89b6fca7540530c1ded77182f12
   dimensions_px:
   - 5100
@@ -20,12 +20,14 @@ version_b:
     page_order:
     - LEFT
     - RIGHT
+    filename: Pages_3-4_Version_B_REV2_BLEED_FINAL_LOCKED.pdf
+    status: APPROVED LOCKED
 version_a:
-  status: PRINT REVIEW PENDING
+  status: APPROVED LOCKED
   path: version-a/
   storage: google_drive
   drive_id: 1rH2LgiH62T7IsBK0LykZShZ0Vsxn00ET
-  filename: Pages_3-4_Version_A_REV2_5100x2550_REVIEW.png
+  filename: Pages_3-4_Version_A_REV2_5100x2550_FINAL_LOCKED.png
   sha256: 47df228bc3dcdd58578e0aee728494e2dbae68db51803e056bb7bfe93ff6e79a
   dimensions_px:
   - 5100
@@ -39,6 +41,8 @@ version_a:
     page_order:
     - LEFT
     - RIGHT
+    filename: Pages_3-4_Version_A_REV2_BLEED_FINAL_LOCKED.pdf
+    status: APPROVED LOCKED
 qa:
   status: EXPORT CHECKS COMPLETE - PRINT PROOF PENDING
   reviewed_date: '2026-09-27'
@@ -53,7 +57,7 @@ qa:
   - 5100
   - 2550
   version_pair_integrity: PASS_OUTSIDE_TEXT_WALL_REGION
-  print_readiness: NOT_FINAL_CERTIFIED
+  print_readiness: AUTHOR_APPROVED_PHYSICAL_PROOF_NOT_PERFORMED
   monument_sign_scope: PASS
   monument_sign_resolution: Adam approved future-station classroom depiction on 2026-09-27;
     physical installation remains prohibited at live Book 1 site.
@@ -66,16 +70,16 @@ qa:
   native_detail_print_certified: false
   pagination: Assemble LEFT on an even physical page and RIGHT on the following odd
     page; 03-04 remains production identifier.
-final_locked: false
-approved_by: null
-next_step: Review production files at actual size; resolve sharpness through physical
-  proof and confirm whole-book pagination before final print approval.
+final_locked: true
+approved_by: Adam
+next_step: Whole-book assembly, pagination, Print Previewer and physical proof before
+  publication.
 previous_artwork:
-  status: ARTWORK APPROVED - PRINT PREPARATION PENDING
+  status: SUPERSEDED - PRESERVED HISTORICAL ARTWORK
   path: version-b/
   storage: google_drive
   drive_id: 1vNDS5zWx7xMl9MKxBh9iVZsl1tJxI3K1
-  filename: Pages_3-4_The_Big_Announcement_Version_B_ARTWORK_APPROVED_2026-09-26.png
+  filename: Pages_3-4_The_Big_Announcement_Version_B_ARTWORK_APPROVED_2026-09-26_SUPERSEDED_2026-09-27.png
   sha256: 2fa72a00cf7745ab1260e98e897f485e976458bc48db073e7e6583cb2bfe07f0
   dimensions_px:
   - 1774
@@ -86,6 +90,7 @@ previous_artwork:
     tracker_id: 1iZJl6rpulBaugvxubUzudPak1eIXoMrYiD-oEOvO8mQ
     review_log_entry: 33
   preserved: true
+  superseded_by_drive_id: 1d-JlCft5sXCpA7hWo6kb2_anvMjHok-4
 hand_correction:
   accepted_by: Adam
   accepted_date: '2026-09-27'
@@ -99,3 +104,12 @@ hand_correction:
   - 189
   - 417
   changed_pixels_outside_mask: 0
+approved_date: '2026-09-27'
+approval:
+  approved_by: Adam
+  approved_date: '2026-09-27'
+  evidence: Approved, update all drive files and @GitHub
+  scope: REV2 Version A and B PNG masters and bleed PDFs
+  physical_proof_performed: false
+  whole_book_assembly_verified: false
+  review_log_row: 37
