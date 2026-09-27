@@ -40,11 +40,12 @@ missing/unreadable supplied files, absent registered hashes, and mismatching byt
 `--strict` promotes incomplete metadata warnings to failure. The tool never downloads,
 modifies source files, repairs registered hashes, or grants approval.
 
-### Open audit debt
+### Adult hash audit completed 2026-09-27
 
-Elena Rivera and Marcus Jackson currently lack profile SHA256 values in the source
-registry. These produce explicit warnings in reference-only CI and fail strict checks.
-Previously reported adult source hash discrepancies still require the separate raw-Drive
-audit. Existing adult hashes are not recertified by this validator change. The five child
-profile YAML copies were synchronized to the already verified emblem-update hashes;
-no image or Word profile was edited by this change.
+The raw-Drive audit reconciled the 22 adult source/profile pairs (44 files), including
+Elena Rivera and Marcus Jackson's missing profile hashes. See
+`CANON/ADULT_SOURCE_HASH_AUDIT_2026-09-27.md` for the previous values, verified raw
+hashes, scope, and evidence. No source art or Word profile content was changed.
+This completed audit does not make future reference-only CI runs byte verification;
+supply fresh raw files when checking live Drive content. The five child profile YAML
+copies were separately synchronized to the verified emblem-update hashes.
