@@ -15,6 +15,7 @@ temporary_sign:
     - MIDDLE CREEK FIRE & RESCUE STATION NO. 2
     - COMING SOON
   permanent_monument_sign_allowed: false
+  permanent_monument_sign_scope: physically_installed_at_live_book_1_site
 early_scene_rules:
   kids_ppe_before_site_entry: false
   teacher_ppe_before_site_entry: false
@@ -24,3 +25,16 @@ sticker_ceremony:
   pages: [11, 12]
   recipients: [Ben, Leo, Vinny, Steph, Maya, Mrs-Harper]
   receipt_timing: together
+
+monument_sign:
+  status: APPROVED_LOCKED
+  approved_by: Adam
+  approved_date: "2026-09-27"
+  design_registry_key: project_visuals.fire_station_monument_sign
+  future_completed_station_pictures_allowed: true
+  classroom_pictures_drawings_and_renderings_allowed: true
+  pages_03_04_approved_picture_allowed: true
+  physically_installed_at_live_book_1_site_allowed: false
+  later_installation: follow_established_story_phase_without_inventing_scene_or_date
+  preserve: [wording, emblem, lettering_arrangement, colors, materials, cap, proportions, site_relationship]
+  redesign_or_mirror: false

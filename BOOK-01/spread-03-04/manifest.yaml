@@ -31,7 +31,8 @@ qa:
   required_dimensions_px: [5100, 2550]
   version_pair_integrity: NOT_ESTABLISHED
   print_readiness: PENDING
-  rule_scope_question: Permanent monument sign in approved future-station classroom picture versus live Book 1 site.
+  monument_sign_scope: PASS
+  monument_sign_resolution: Adam approved future-station classroom depiction on 2026-09-27; physical installation remains prohibited at live Book 1 site.
 final_locked: false
 approved_by: null
 next_step: Prepare production master preserving approved artwork; verify detail, typography, matching Version A and print exports.

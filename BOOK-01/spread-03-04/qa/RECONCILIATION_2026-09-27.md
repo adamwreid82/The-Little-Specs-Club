@@ -37,6 +37,6 @@ GitHub's prior DEVELOPMENT/pending manifest did not identify the approved artwor
 
 The September 10 “Version A - APPROVED” folder/file remains historical under the September 21 reopening and September 26 replacement history; its name alone does not make it the current A. The September 15–19 audit describes earlier candidates and is not certification of this September 26 raster. Historical files and logs were preserved.
 
-One rule-scope ambiguity is recorded, not silently resolved: book-01-canon.yaml says permanent_monument_sign_allowed: false, while the locked completed-station reference and approved classroom pictures show that sign. This is a picture of the future station, not an installed sign at the live Book 1 site. Preserve the approved picture; clarify the rule's depiction-versus-live-site scope before enforcing it mechanically.
+The monument-sign scope question was resolved by Adam on 2026-09-27. The design is locked to the existing approved exterior reference. Classroom pictures of the future completed station may show it, including Pages 3–4; physical installation at the live Book 1 site remains prohibited. Sign-scope QA: PASS. The artwork and other pending production checks are unchanged.
 
 Next production work for this spread: prepare the required-size production master from the approved artwork, verify detail and typography, establish its matching text-free Version A, then check final print exports. No regeneration or change to approved composition was performed by this review. No other spread was reconciled.

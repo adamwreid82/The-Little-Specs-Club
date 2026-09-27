@@ -8,3 +8,8 @@ ppe:
 branding:
   use_current_approved_branding_only: true
   hard_hat_stickers_must_be_imaged_on_hat_at_correct_angle: true
+monument_sign:
+  design_registry_key: project_visuals.fire_station_monument_sign
+  chronology_rule: CANON/book-01-canon.yaml#monument_sign
+  distinguish_future_station_picture_from_live_site: true
+  preserve_locked_design: true

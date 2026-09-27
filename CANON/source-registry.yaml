@@ -39,6 +39,16 @@ characters:
   Mayor-Thomas-Whitaker: {profile_id: 1sePhT5kayhUtmfDyTFQ4DyYU_k0lWzCw, image_id: 1mXnar5Tl1iBPSSP_MaL1Xq7YVNTKabXB, profile_sha256: 563aae37e50fa113ea92a54a50d28a7d4df652b5cad579055eeb650d5926403b, image_sha256: 0be2b5d1355c42c8a077ac38302e45d39c91add993411a0c11a87b916fa091f8, company: "Town of Middle Creek", branding_authority: source_image}
 project_visuals:
   fire_station_exterior: {image_id: 1RGxuYGxHAnmnjZhTX6CSYOU16qKZ8oqD, sha256: dc682f7483859fd71d84b91e4233c7a9fd2183797b99629c1fcb652bcee52eb0}
+  fire_station_monument_sign:
+    status: APPROVED_LOCKED
+    approved_by: Adam
+    approved_date: "2026-09-27"
+    image_id: 1RGxuYGxHAnmnjZhTX6CSYOU16qKZ8oqD
+    sha256: dc682f7483859fd71d84b91e4233c7a9fd2183797b99629c1fcb652bcee52eb0
+    asset_filename: modern_middle_creek_fire_station.png
+    reference_scope: monument_sign_depicted_in_complete_exterior_reference
+    standalone_asset: false
+    usage_rule: CANON/book-01-canon.yaml#monument_sign
   early_site: {image_id: 1KwyrKCwuK94TK6w6M3w2Dszy_EOWr6QU, sha256: 7eb6607667f24d9c4a2f2321fa0d449d5fe7384719566da0eb2f1fdd70bf0307}
   fire_station_project_sticker: {image_id: 1-nHpjvk0OBnVLBpLPjtPCTpyIde4nUAz, sha256: adcfdcdbe9c533268012e45d5c2662cf10c8b5ef684eb389528cf7107a4975ba}
 rules:
