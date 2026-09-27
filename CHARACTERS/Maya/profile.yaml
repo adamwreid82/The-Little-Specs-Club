@@ -1,4 +1,9 @@
 character: Maya
-source_authority: approved_project_source_image
-status: source-reference-pending
+source_authority: google_drive_00_master_canon
+master_profile_drive_id: 1nERipp0Qz3AUFuYFkJ25rOuM0UfIGnV3
+approved_image_drive_id: 1RZtZjt-3eX0iFFcKw1ZxtnlXj3pkoerU
+approved_image_sha256: 2a53862cddfc93587fe4ae3c63b4e7a57cb3439e67254e1fd1b26007afa82aac
+status: APPROVED_SOURCE_CONNECTED
 continuity_required: true
+preserve_normal_clothing: true
+preserve_construction_clothing: true
