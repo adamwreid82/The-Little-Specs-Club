@@ -11,3 +11,16 @@ special:
   Ben:
     glasses: black_frames_with_clear_side_deflectors
   recurring_trade_rule: established_specialist_required_when_trade_materially_shown
+hard_hat_badge:
+  approved_date: 2026-09-27
+  characters: [Ben, Leo, Vinny, Steph, Maya, Mrs-Harper]
+  logo_id: 1T2tCGf79Efg-xpuYWBAi04-d7XG99sP_
+  logo_sha256: 96a47ac122989b3527e3fc5f8aa58544fd438799c2c4d7041cca4ef40de34a42
+  design: blue_LS_with_tilted_yellow_hard_hat_over_L
+  contrast: dark_contour_and_narrow_white_outline_as_approved_source_sheet
+  specifications_not_glasses: true
+  preserve_helmet_colors: true
+  preserve_vest_emblems_and_project_stickers: true
+  no_front_badge_on_rear_views: true
+  supersedes_plain_LS_mark: true
+  legacy_spreads_require_badge_continuity_check_before_production: true
