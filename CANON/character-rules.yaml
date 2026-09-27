@@ -24,3 +24,39 @@ hard_hat_badge:
   no_front_badge_on_rear_views: true
   supersedes_plain_LS_mark: true
   legacy_spreads_require_badge_continuity_check_before_production: true
+fire_station_project_sticker:
+  status: APPROVED_LOCKED
+  authority: google_drive_00_master_canon
+  asset_registry_key: project_visuals.fire_station_project_sticker
+  asset_filename: Fire_Station_Project_Sticker_APPROVED_LOCKED.png
+  image_id: 1-nHpjvk0OBnVLBpLPjtPCTpyIde4nUAz
+  sha256: adcfdcdbe9c533268012e45d5c2662cf10c8b5ef684eb389528cf7107a4975ba
+  placement_reference: wearers_left_and_right
+  placements:
+    Ben: left_side_above_ear_slightly_back
+    Leo: right_side_above_ear_slightly_back
+    Vinny: back_left_toward_rear
+    Steph: front_right_beside_LS_badge
+    Maya: front_left_beside_LS_badge
+    Mrs-Harper: rear_right
+  scale:
+    authority: approved_individual_source_images
+    locked_size: smaller_canon_size_established_by_approved_Maya_source
+    historical_comparison: approximately_half_the_earlier_oversized_version
+    enlarge_for_readability_or_camera_emphasis: false
+  rendering:
+    use_exact_locked_asset: true
+    redraw_regenerate_reinterpret_recolor_simplify_or_substitute: false
+    mirror: false
+    relocate_or_rotate_for_camera_visibility: false
+    follow_helmet_surface_and_perspective: true
+    allow_natural_occlusion: true
+    hidden_when_placement_faces_away: true
+    Maya_back_view: hidden_or_barely_visible_at_side_edge_if_geometry_permits_never_relocated_to_rear
+  timing:
+    children: [Ben, Leo, Vinny, Steph, Maya]
+    first_application: Book_1_pages_11_12_sticker_ceremony
+    before_ceremony: absent
+    after_ceremony: preserve_locked_placement_across_books
+    Mrs-Harper: preserve_approved_profile_project_history
+  independent_of_LS_badge_redesign: true
