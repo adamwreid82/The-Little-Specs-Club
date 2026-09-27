@@ -39,6 +39,25 @@ fire_station_project_sticker:
     Steph: front_right_beside_LS_badge
     Maya: front_left_beside_LS_badge
     Mrs-Harper: rear_right
+    Elena-Rivera: "left-rear quadrant, slightly above the band"
+    Marcus-Jackson: "back-right quadrant, toward the rear"
+    Omar-Haddad: "right side, slightly toward the rear"
+    Darius-Cole: "left side, slightly toward the rear"
+    Matthias-Becker: "right side, slightly toward the rear"
+    Luis-Mendoza: "left side, slightly toward the rear"
+    Priya-Patel: "rear-left quadrant"
+    Daniel-Brooks: "left side toward the rear, just behind the midpoint"
+    Tony-Marino: "rear-center-right, above the band"
+    Claire-Morgan: "right-rear quadrant, slightly above the band"
+    Andre-Lewis: "right side, slightly toward the rear, above the band"
+    Danny-Novak: "right-rear quadrant, slightly above the band"
+    Erik-Halvorsen: "left-rear side, above the band and slightly toward the back"
+    Sam-Carter: "left side, slightly behind the midpoint, above the band"
+    Hannah-Kowalski: "rear-right quadrant, just above the band"
+    Natalie-Chen: "back-left quadrant, slightly above the band"
+    Rafael-Martinez: "right side, slightly toward the rear"
+    Marisol-Vega: "right side, matching the approved right-side helmet detail"
+    Adrian-Park: "left side, slightly toward the rear"
   scale:
     authority: approved_individual_source_images
     locked_size: smaller_canon_size_established_by_approved_Maya_source
@@ -87,3 +106,277 @@ job_sticker_lifetime_continuity:
   visibility:
     physically_present_even_when_hidden_by_view_angle: true
     move_stickers_to_face_camera: false
+job_sticker_cast_records:
+  scope: all_27_characters_in_current_source_registry
+  location_coordinates: wearers_left_and_right
+  lifetime_rule: job_sticker_lifetime_continuity
+  immutable_asset: project_visuals.fire_station_project_sticker
+  adult_scale: approved_smaller_realistic_scale_relative_to_helmet_using_Mrs_Harper_reference
+  source_image_review: labeled_helmet_details_reviewed_against_written_profiles
+  source_image_asset_match: not_pixel_verified
+  incorrect_existing_depiction: correct_to_locked_asset_and_location_without_redefining_canon
+  correction_vs_new_job: replacing_incorrect_artwork_of_same_sticker_does_not_remove_prior_job_history
+  historical_completeness: records_confirm_Fire_Station_only_do_not_invent_earlier_jobs
+  future_jobs: add_only_after_receipt_and_lock_a_new_unoccupied_location_per_character
+  adults:
+    Elena-Rivera:
+      profile_drive_id: 1nplm3aa__GwX4zVAlZ85usrKFuijLQdX
+      image_drive_id: 1LMyoOO57gA-NQxgtF5poW7UPvfVjgqjP
+      status: PLACEMENT_AND_CUMULATIVE_HISTORY_LOCKED
+      confirmed_stickers:
+        - project: Middle_Creek_Fire_Rescue_Station_No_2
+          asset_registry_key: project_visuals.fire_station_project_sticker
+          permanent_location: "left-rear quadrant, slightly above the band"
+          ownership: confirmed_by_approved_profile
+          receipt_scene: not_specified_in_approved_profile
+          retain_on_all_subsequent_jobs: true
+      lifetime_rule: job_sticker_lifetime_continuity
+      child_ceremony_timing_applies: false
+    Marcus-Jackson:
+      profile_drive_id: 1fz_v6E5jSGrZD6LVdlDaVflPCloME6T5
+      image_drive_id: 1Y9-w_J1cnz_abDKpIL8Iz5W1GfvA_8xh
+      status: PLACEMENT_AND_CUMULATIVE_HISTORY_LOCKED
+      confirmed_stickers:
+        - project: Middle_Creek_Fire_Rescue_Station_No_2
+          asset_registry_key: project_visuals.fire_station_project_sticker
+          permanent_location: "back-right quadrant, toward the rear"
+          ownership: confirmed_by_approved_profile
+          receipt_scene: not_specified_in_approved_profile
+          retain_on_all_subsequent_jobs: true
+      lifetime_rule: job_sticker_lifetime_continuity
+      child_ceremony_timing_applies: false
+    Omar-Haddad:
+      profile_drive_id: 1_3fVjalO6s29OKVUvaiDIyY-jDXgAsGZ
+      image_drive_id: 1O3aQjII-MCTJkKGXBFGnFKlkrVAEooFU
+      status: PLACEMENT_AND_CUMULATIVE_HISTORY_LOCKED
+      confirmed_stickers:
+        - project: Middle_Creek_Fire_Rescue_Station_No_2
+          asset_registry_key: project_visuals.fire_station_project_sticker
+          permanent_location: "right side, slightly toward the rear"
+          ownership: confirmed_by_approved_profile
+          receipt_scene: not_specified_in_approved_profile
+          retain_on_all_subsequent_jobs: true
+      lifetime_rule: job_sticker_lifetime_continuity
+      child_ceremony_timing_applies: false
+    Darius-Cole:
+      profile_drive_id: 1bGxDE5g2ADoVMR0otnrduAXXk4hIM4UO
+      image_drive_id: 19DwA63zOWkf0wzcRLEsirKVKAwRl6IoR
+      status: PLACEMENT_AND_CUMULATIVE_HISTORY_LOCKED
+      confirmed_stickers:
+        - project: Middle_Creek_Fire_Rescue_Station_No_2
+          asset_registry_key: project_visuals.fire_station_project_sticker
+          permanent_location: "left side, slightly toward the rear"
+          ownership: confirmed_by_approved_profile
+          receipt_scene: not_specified_in_approved_profile
+          retain_on_all_subsequent_jobs: true
+      lifetime_rule: job_sticker_lifetime_continuity
+      child_ceremony_timing_applies: false
+    Matthias-Becker:
+      profile_drive_id: 1AezDbqDE-fRxdzpMECr4thS1qQ_tzEJ_
+      image_drive_id: 1SSu1FS_GU-TmvcaKpeo79WTEBYbWdSiA
+      status: PLACEMENT_AND_CUMULATIVE_HISTORY_LOCKED
+      confirmed_stickers:
+        - project: Middle_Creek_Fire_Rescue_Station_No_2
+          asset_registry_key: project_visuals.fire_station_project_sticker
+          permanent_location: "right side, slightly toward the rear"
+          ownership: confirmed_by_approved_profile
+          receipt_scene: not_specified_in_approved_profile
+          retain_on_all_subsequent_jobs: true
+      lifetime_rule: job_sticker_lifetime_continuity
+      child_ceremony_timing_applies: false
+    Luis-Mendoza:
+      profile_drive_id: 1iLVzifnM16EHL4xG2uhTFIs00uY33ByS
+      image_drive_id: 1cB-Kurd99KMyKaKmar4rYTnw0U1JCFCk
+      status: PLACEMENT_AND_CUMULATIVE_HISTORY_LOCKED
+      confirmed_stickers:
+        - project: Middle_Creek_Fire_Rescue_Station_No_2
+          asset_registry_key: project_visuals.fire_station_project_sticker
+          permanent_location: "left side, slightly toward the rear"
+          ownership: confirmed_by_approved_profile
+          receipt_scene: not_specified_in_approved_profile
+          retain_on_all_subsequent_jobs: true
+      lifetime_rule: job_sticker_lifetime_continuity
+      child_ceremony_timing_applies: false
+    Priya-Patel:
+      profile_drive_id: 1ZyHR-GirFpMwk8DcRqlJVpy0RHXUBKd6
+      image_drive_id: 19ZMf5fqX8WGlhs7I7tJx_iFgrdlgpe8e
+      status: PLACEMENT_AND_CUMULATIVE_HISTORY_LOCKED
+      confirmed_stickers:
+        - project: Middle_Creek_Fire_Rescue_Station_No_2
+          asset_registry_key: project_visuals.fire_station_project_sticker
+          permanent_location: "rear-left quadrant"
+          ownership: confirmed_by_approved_profile
+          receipt_scene: not_specified_in_approved_profile
+          retain_on_all_subsequent_jobs: true
+      lifetime_rule: job_sticker_lifetime_continuity
+      child_ceremony_timing_applies: false
+    Daniel-Brooks:
+      profile_drive_id: 1yk_XlyuOxhaKMIms-e7mwbCrviNKZrKZ
+      image_drive_id: 1TVWd4mtznkx3tFEKNKF_TClF5VBPILey
+      status: PLACEMENT_AND_CUMULATIVE_HISTORY_LOCKED
+      confirmed_stickers:
+        - project: Middle_Creek_Fire_Rescue_Station_No_2
+          asset_registry_key: project_visuals.fire_station_project_sticker
+          permanent_location: "left side toward the rear, just behind the midpoint"
+          ownership: confirmed_by_approved_profile
+          receipt_scene: not_specified_in_approved_profile
+          retain_on_all_subsequent_jobs: true
+      lifetime_rule: job_sticker_lifetime_continuity
+      child_ceremony_timing_applies: false
+    Tony-Marino:
+      profile_drive_id: 1tJnFRmAnXSViwGbNxi9-RAyuBz9KD9Uq
+      image_drive_id: 1FjL5YJLklpXpHnqHGZmVc8Ps87IgvJro
+      status: PLACEMENT_AND_CUMULATIVE_HISTORY_LOCKED
+      confirmed_stickers:
+        - project: Middle_Creek_Fire_Rescue_Station_No_2
+          asset_registry_key: project_visuals.fire_station_project_sticker
+          permanent_location: "rear-center-right, above the band"
+          ownership: confirmed_by_approved_profile
+          receipt_scene: not_specified_in_approved_profile
+          retain_on_all_subsequent_jobs: true
+      lifetime_rule: job_sticker_lifetime_continuity
+      child_ceremony_timing_applies: false
+    Claire-Morgan:
+      profile_drive_id: 1e1eXCok2BoUhiI0EJMPlJbSrAOl-fGNl
+      image_drive_id: 1ApL7UT7gBmjU87isBkMIgmH7yfl6osGI
+      status: PLACEMENT_AND_CUMULATIVE_HISTORY_LOCKED
+      confirmed_stickers:
+        - project: Middle_Creek_Fire_Rescue_Station_No_2
+          asset_registry_key: project_visuals.fire_station_project_sticker
+          permanent_location: "right-rear quadrant, slightly above the band"
+          ownership: confirmed_by_approved_profile
+          receipt_scene: not_specified_in_approved_profile
+          retain_on_all_subsequent_jobs: true
+      lifetime_rule: job_sticker_lifetime_continuity
+      child_ceremony_timing_applies: false
+    Andre-Lewis:
+      profile_drive_id: 18CwXMwvHtzpdfFHvRrwP6kt627X8OVuY
+      image_drive_id: 19t86oLfRhIKYzmYNbusdw5_4tCDw7WXt
+      status: PLACEMENT_AND_CUMULATIVE_HISTORY_LOCKED
+      confirmed_stickers:
+        - project: Middle_Creek_Fire_Rescue_Station_No_2
+          asset_registry_key: project_visuals.fire_station_project_sticker
+          permanent_location: "right side, slightly toward the rear, above the band"
+          ownership: confirmed_by_approved_profile
+          receipt_scene: not_specified_in_approved_profile
+          retain_on_all_subsequent_jobs: true
+      lifetime_rule: job_sticker_lifetime_continuity
+      child_ceremony_timing_applies: false
+    Danny-Novak:
+      profile_drive_id: 1kA8So6rSfZzlBka3W4C7afJRy40FxAVe
+      image_drive_id: 1nwcHFsFOjHeOwn5Ia8ojuH0aPkeruhXC
+      status: PLACEMENT_AND_CUMULATIVE_HISTORY_LOCKED
+      confirmed_stickers:
+        - project: Middle_Creek_Fire_Rescue_Station_No_2
+          asset_registry_key: project_visuals.fire_station_project_sticker
+          permanent_location: "right-rear quadrant, slightly above the band"
+          ownership: confirmed_by_approved_profile
+          receipt_scene: not_specified_in_approved_profile
+          retain_on_all_subsequent_jobs: true
+      lifetime_rule: job_sticker_lifetime_continuity
+      child_ceremony_timing_applies: false
+    Erik-Halvorsen:
+      profile_drive_id: 1x2hsPULWLsbQz5P-9AKD2bijnhJM2qNQ
+      image_drive_id: 1RTlNNdcM4OABk5cyx5ojrWXZ6T9uo2yl
+      status: PLACEMENT_AND_CUMULATIVE_HISTORY_LOCKED
+      confirmed_stickers:
+        - project: Middle_Creek_Fire_Rescue_Station_No_2
+          asset_registry_key: project_visuals.fire_station_project_sticker
+          permanent_location: "left-rear side, above the band and slightly toward the back"
+          ownership: confirmed_by_approved_profile
+          receipt_scene: not_specified_in_approved_profile
+          retain_on_all_subsequent_jobs: true
+      lifetime_rule: job_sticker_lifetime_continuity
+      child_ceremony_timing_applies: false
+    Sam-Carter:
+      profile_drive_id: 1kK4mZofl4ThreXAmEOiTfobtroYz73g8
+      image_drive_id: 1Qi3rZ38Z9ECfoDh9INZtJKrhlNiQL8MM
+      status: PLACEMENT_AND_CUMULATIVE_HISTORY_LOCKED
+      confirmed_stickers:
+        - project: Middle_Creek_Fire_Rescue_Station_No_2
+          asset_registry_key: project_visuals.fire_station_project_sticker
+          permanent_location: "left side, slightly behind the midpoint, above the band"
+          ownership: confirmed_by_approved_profile
+          receipt_scene: not_specified_in_approved_profile
+          retain_on_all_subsequent_jobs: true
+      lifetime_rule: job_sticker_lifetime_continuity
+      child_ceremony_timing_applies: false
+    Hannah-Kowalski:
+      profile_drive_id: 1tYW3YSp7wUOd15lhtnFei86bk5ZQjJi0
+      image_drive_id: 1dpTbrZcPD1B0IUZQqEI91ShVnrXdRJ3X
+      status: PLACEMENT_AND_CUMULATIVE_HISTORY_LOCKED
+      confirmed_stickers:
+        - project: Middle_Creek_Fire_Rescue_Station_No_2
+          asset_registry_key: project_visuals.fire_station_project_sticker
+          permanent_location: "rear-right quadrant, just above the band"
+          ownership: confirmed_by_approved_profile
+          receipt_scene: not_specified_in_approved_profile
+          retain_on_all_subsequent_jobs: true
+      lifetime_rule: job_sticker_lifetime_continuity
+      child_ceremony_timing_applies: false
+    Rebecca-Foster:
+      profile_drive_id: 1D8decViO9EqAkdoV26jGNTqw1opps8zx
+      image_drive_id: 1V1Di0i9D2jR20yvGI2hcEw0yY5dj0qb8
+      status: NO_JOB_STICKERS_LOCKED
+      job_stickers_allowed: false
+      confirmed_stickers: []
+      reason: municipal_inspector_profile_prohibits_project_stickers
+    Natalie-Chen:
+      profile_drive_id: 1kexCprbvMpHthz30eyCKVWwuPx6KKCML
+      image_drive_id: 1YDeJ77qoOWC38ImzZ-L8ssI9VOtVzyWb
+      status: PLACEMENT_AND_CUMULATIVE_HISTORY_LOCKED
+      confirmed_stickers:
+        - project: Middle_Creek_Fire_Rescue_Station_No_2
+          asset_registry_key: project_visuals.fire_station_project_sticker
+          permanent_location: "back-left quadrant, slightly above the band"
+          ownership: confirmed_by_approved_profile
+          receipt_scene: not_specified_in_approved_profile
+          retain_on_all_subsequent_jobs: true
+      lifetime_rule: job_sticker_lifetime_continuity
+      child_ceremony_timing_applies: false
+    Rafael-Martinez:
+      profile_drive_id: 1Wc3dRKOlp1tQhDu85x1rH5eRHBeNR_er
+      image_drive_id: 1EZwyjIPxGsllz_wDM5SKZTtNXwbtMqyg
+      status: PLACEMENT_AND_CUMULATIVE_HISTORY_LOCKED
+      confirmed_stickers:
+        - project: Middle_Creek_Fire_Rescue_Station_No_2
+          asset_registry_key: project_visuals.fire_station_project_sticker
+          permanent_location: "right side, slightly toward the rear"
+          ownership: confirmed_by_approved_profile
+          receipt_scene: not_specified_in_approved_profile
+          retain_on_all_subsequent_jobs: true
+      lifetime_rule: job_sticker_lifetime_continuity
+      child_ceremony_timing_applies: false
+    Marisol-Vega:
+      profile_drive_id: 1fb6kliVp8mMyQCn33RYO0VtfudvWQkzl
+      image_drive_id: 1KE81oMwAByCvB82ISJLnGEmNxbYVwmQ5
+      status: PLACEMENT_AND_CUMULATIVE_HISTORY_LOCKED
+      confirmed_stickers:
+        - project: Middle_Creek_Fire_Rescue_Station_No_2
+          asset_registry_key: project_visuals.fire_station_project_sticker
+          permanent_location: "right side, matching the approved right-side helmet detail"
+          ownership: confirmed_by_approved_profile
+          receipt_scene: not_specified_in_approved_profile
+          retain_on_all_subsequent_jobs: true
+      lifetime_rule: job_sticker_lifetime_continuity
+      child_ceremony_timing_applies: false
+    Adrian-Park:
+      profile_drive_id: 1b413iqNNYc1IVnDeFm6FI9U6g_oRpI7M
+      image_drive_id: 1lgne6yQTzA8jdd-xRWDUsLsljdF3xsxt
+      status: PLACEMENT_AND_CUMULATIVE_HISTORY_LOCKED
+      confirmed_stickers:
+        - project: Middle_Creek_Fire_Rescue_Station_No_2
+          asset_registry_key: project_visuals.fire_station_project_sticker
+          permanent_location: "left side, slightly toward the rear"
+          ownership: confirmed_by_approved_profile
+          receipt_scene: not_specified_in_approved_profile
+          retain_on_all_subsequent_jobs: true
+      lifetime_rule: job_sticker_lifetime_continuity
+      child_ceremony_timing_applies: false
+    Mayor-Thomas-Whitaker:
+      profile_drive_id: 1sePhT5kayhUtmfDyTFQ4DyYU_k0lWzCw
+      image_drive_id: 1mXnar5Tl1iBPSSP_MaL1Xq7YVNTKabXB
+      status: NO_JOB_STICKERS_LOCKED
+      job_stickers_allowed: false
+      confirmed_stickers: []
+      reason: civic_ceremonial_profile_prohibits_PPE_and_project_stickers
