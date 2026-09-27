@@ -1,4 +1,9 @@
 character: Steph
-source_authority: approved_project_source_image
-status: source-reference-pending
+source_authority: google_drive_00_master_canon
+master_profile_drive_id: 1hzABye97w5caJMYh90wvyGXrd17gXCBS
+approved_image_drive_id: 1gF-pOjdltQVujd5NyCcX-Brh-EI0vQ9j
+approved_image_sha256: f94efd69c6460e85d36e8c1d28a62696b87c98ec8e88bede8088d9cc9d9515c9
+status: APPROVED_SOURCE_CONNECTED
 continuity_required: true
+preserve_normal_clothing: true
+preserve_construction_clothing: true
