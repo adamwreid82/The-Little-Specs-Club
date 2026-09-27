@@ -1,12 +1,37 @@
 spread: "03-04"
-status: DEVELOPMENT
+title: The Big Announcement
+status: ARTWORK APPROVED - PRINT PREPARATION PENDING
 version_b:
-  status: pending
+  status: ARTWORK APPROVED - PRINT PREPARATION PENDING
   path: version-b/
+  storage: google_drive
+  drive_id: 1vNDS5zWx7xMl9MKxBh9iVZsl1tJxI3K1
+  filename: Pages_3-4_The_Big_Announcement_Version_B_ARTWORK_APPROVED_2026-09-26.png
+  sha256: 2fa72a00cf7745ab1260e98e897f485e976458bc48db073e7e6583cb2bfe07f0
+  dimensions_px: [1774, 887]
+  artwork_approved_by: Adam
+  artwork_approved_date: "2026-09-26"
+  approval_evidence:
+    tracker_id: 1iZJl6rpulBaugvxubUzudPak1eIXoMrYiD-oEOvO8mQ
+    review_log_entry: 33
 version_a:
-  status: pending
+  status: PENDING MATCHING DERIVATIVE OF CURRENT APPROVED B
   path: version-a/
+  note: Historical Version A files are not certified as a matching pair.
 qa:
-  status: pending
+  status: PRODUCTION ISSUES OPEN
+  reviewed_date: "2026-09-27"
+  report: qa/RECONCILIATION_2026-09-27.md
+  drive_report_id: 1CVTMTGgZTsoWj3RZehgH1h48hPD0s9jy
+  visible_character_continuity: NO_CONFIRMED_MATERIAL_MISMATCH
+  ppe_and_sticker_chronology: PASS
+  manuscript_prose_manual_review: PASS
+  aspect_ratio: PASS
+  production_dimensions: FAIL
+  required_dimensions_px: [5100, 2550]
+  version_pair_integrity: NOT_ESTABLISHED
+  print_readiness: PENDING
+  rule_scope_question: Permanent monument sign in approved future-station classroom picture versus live Book 1 site.
 final_locked: false
 approved_by: null
+next_step: Prepare production master preserving approved artwork; verify detail, typography, matching Version A and print exports.
