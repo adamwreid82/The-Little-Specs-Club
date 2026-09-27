@@ -10,11 +10,11 @@ character_manifest:
 project_visual_manifest:
   id: 1ad6fQHUUZFfNZsR_I-VFLatKpk4RIsuP
 characters:
-  Ben: {profile_id: 1rhPTyBiDT9OevTiI9ncFGYR8JPbLVt6m, image_id: 1lkboZGWom6Vw7et5J5__5dBivj7i2TRx, image_sha256: fe8e28ca4d43527d1a8a35d03ef5a34b7e4084f3fd10476f574a1463a9027486, profile_sha256: 314bfce9979e10b3a2844efc8dd5db5e96c9c474365e7eff76ef501de3fa6f45, logo_id: 1T2tCGf79Efg-xpuYWBAi04-d7XG99sP_, logo_sha256: 96a47ac122989b3527e3fc5f8aa58544fd438799c2c4d7041cca4ef40de34a42}
-  Leo: {profile_id: 1JD1OTpwF7EJizHYwaE-31j-z-kMPRqbx, image_id: 1PmH5IMF_HI_s9y1slZM9DXbWzTYVnbGc, image_sha256: 96558c54e8bbcdfd8902f03352a8193576fb1ae7b7053b9828f00d5716e9e846, profile_sha256: 0f9d36fb9175ffb1c155e44b4c20ec82f4fb5521eb5d50b4e9b73bdd5bf1b1ca, logo_id: 1T2tCGf79Efg-xpuYWBAi04-d7XG99sP_, logo_sha256: 96a47ac122989b3527e3fc5f8aa58544fd438799c2c4d7041cca4ef40de34a42}
-  Vinny: {profile_id: 1vG_CJ45X87ZsYlNr-Rq2VJiuRHaTtw4S, image_id: 1m-mxpb7Fpu04jWj5sYVJTHxvXXPySuSa, image_sha256: 7dfbf8190b2d01c0dc7576410698d49147e1e563edec770bbf086f7d1ebc5ab5, profile_sha256: dc43b6165edc968d3c258d90cb7f4bb76cc0e46eb1cd50de6a442fc68dae6fdb, logo_id: 1T2tCGf79Efg-xpuYWBAi04-d7XG99sP_, logo_sha256: 96a47ac122989b3527e3fc5f8aa58544fd438799c2c4d7041cca4ef40de34a42}
-  Steph: {profile_id: 1hzABye97w5caJMYh90wvyGXrd17gXCBS, image_id: 1gF-pOjdltQVujd5NyCcX-Brh-EI0vQ9j, image_sha256: 347826ea71f5fb8a841fcc39c10c39d0341d0c79773a44c2fce2b0bd56b6ef90, profile_sha256: 3223005c285f9c2e2747ec68dc1f6c0ebca17c59b0315dad4ad95ddff74c5be7, logo_id: 1T2tCGf79Efg-xpuYWBAi04-d7XG99sP_, logo_sha256: 96a47ac122989b3527e3fc5f8aa58544fd438799c2c4d7041cca4ef40de34a42}
-  Maya: {profile_id: 1nERipp0Qz3AUFuYFkJ25rOuM0UfIGnV3, image_id: 1RZtZjt-3eX0iFFcKw1ZxtnlXj3pkoerU, image_sha256: 5a87b5d60a14ed8dd2cc97e517c5e86f388752332b928ed0bc7d78fb5690248e, profile_sha256: 4f7d065fee09987b115d379bcd2cf74e74e05b965eca2ba7944f615a2c95af2f, logo_id: 1T2tCGf79Efg-xpuYWBAi04-d7XG99sP_, logo_sha256: 96a47ac122989b3527e3fc5f8aa58544fd438799c2c4d7041cca4ef40de34a42}
+  Ben: {profile_id: 1rhPTyBiDT9OevTiI9ncFGYR8JPbLVt6m, image_id: 1lkboZGWom6Vw7et5J5__5dBivj7i2TRx, image_sha256: 7d80c07dd66d305d1811da5dc5b20e3351b196c623ef1c3c0fc9a75795fbb08b, profile_sha256: 5fab37be1eb08aa9e71ed3087e1794a7e30f0777e23354706d6d7020d2e132a8, logo_id: 1T2tCGf79Efg-xpuYWBAi04-d7XG99sP_, logo_sha256: 96a47ac122989b3527e3fc5f8aa58544fd438799c2c4d7041cca4ef40de34a42, vest_back_emblem_id: 1-mBZA9mDqfIQdSXOhPK83ZCvbIo30U21, vest_back_emblem_sha256: 102ddb58397734515a0c11cd5fe205c070dfeff5677f9c63aeb15f2656b607c3}
+  Leo: {profile_id: 1JD1OTpwF7EJizHYwaE-31j-z-kMPRqbx, image_id: 1PmH5IMF_HI_s9y1slZM9DXbWzTYVnbGc, image_sha256: 830158fe4a00fd6a2ec4791593ae43c5add811ec4cce3f0ba2080de7eaa319a3, profile_sha256: d2c24d0fb0d4262a738972f2e8e5972c82231db4719fab49ca1312c64e8ecd5b, logo_id: 1T2tCGf79Efg-xpuYWBAi04-d7XG99sP_, logo_sha256: 96a47ac122989b3527e3fc5f8aa58544fd438799c2c4d7041cca4ef40de34a42, vest_back_emblem_id: 1-mBZA9mDqfIQdSXOhPK83ZCvbIo30U21, vest_back_emblem_sha256: 102ddb58397734515a0c11cd5fe205c070dfeff5677f9c63aeb15f2656b607c3}
+  Vinny: {profile_id: 1vG_CJ45X87ZsYlNr-Rq2VJiuRHaTtw4S, image_id: 1m-mxpb7Fpu04jWj5sYVJTHxvXXPySuSa, image_sha256: db9e5d966fd39dcc0f242d1df93d64d3a9b2ad52672a341bf293b87c689f7219, profile_sha256: b69e2d455657479ed9076f88c49d7462fba599e899c87a7d1d0d9f1520d4914e, logo_id: 1T2tCGf79Efg-xpuYWBAi04-d7XG99sP_, logo_sha256: 96a47ac122989b3527e3fc5f8aa58544fd438799c2c4d7041cca4ef40de34a42, vest_back_emblem_id: 1-mBZA9mDqfIQdSXOhPK83ZCvbIo30U21, vest_back_emblem_sha256: 102ddb58397734515a0c11cd5fe205c070dfeff5677f9c63aeb15f2656b607c3}
+  Steph: {profile_id: 1hzABye97w5caJMYh90wvyGXrd17gXCBS, image_id: 1gF-pOjdltQVujd5NyCcX-Brh-EI0vQ9j, image_sha256: 0338ba00d3cc122c7e1baecca56b577f51b54ea4a8f24ed2b7bbbc29685b934a, profile_sha256: b001f923646aaf0d875994c418460c77049612452f158ced77c568478ad7d7e8, logo_id: 1T2tCGf79Efg-xpuYWBAi04-d7XG99sP_, logo_sha256: 96a47ac122989b3527e3fc5f8aa58544fd438799c2c4d7041cca4ef40de34a42, vest_back_emblem_id: 1-mBZA9mDqfIQdSXOhPK83ZCvbIo30U21, vest_back_emblem_sha256: 102ddb58397734515a0c11cd5fe205c070dfeff5677f9c63aeb15f2656b607c3}
+  Maya: {profile_id: 1nERipp0Qz3AUFuYFkJ25rOuM0UfIGnV3, image_id: 1RZtZjt-3eX0iFFcKw1ZxtnlXj3pkoerU, image_sha256: 405c184a953d966e68f5517078feef8bf056ceb405deb17842d9c9b9ab8e180c, profile_sha256: f1824deec8163a56f53a01724aa45f37be0a9e3f30b15ad4239e08fff25e2d24, logo_id: 1T2tCGf79Efg-xpuYWBAi04-d7XG99sP_, logo_sha256: 96a47ac122989b3527e3fc5f8aa58544fd438799c2c4d7041cca4ef40de34a42, vest_back_emblem_id: 1-mBZA9mDqfIQdSXOhPK83ZCvbIo30U21, vest_back_emblem_sha256: 102ddb58397734515a0c11cd5fe205c070dfeff5677f9c63aeb15f2656b607c3}
   Mrs-Harper: {profile_id: 1WFn924opY9kuG2ZWYukYBI97Xm6vytu0, image_id: 1a8RlfOktPoAQ__pLTtLIyaA3qidnPOaD, image_sha256: ac95bce80c63cafa60bc088555a4cf66dfe86147ce51342185d773cee825f288, profile_sha256: 965c95f7659d185929cd58030805f0224f9229e6f3c81ee8544b1e98aac49d34, logo_id: 1T2tCGf79Efg-xpuYWBAi04-d7XG99sP_, logo_sha256: 96a47ac122989b3527e3fc5f8aa58544fd438799c2c4d7041cca4ef40de34a42}
   Elena-Rivera: {profile_id: 1nplm3aa__GwX4zVAlZ85usrKFuijLQdX, image_id: 1LMyoOO57gA-NQxgtF5poW7UPvfVjgqjP, image_sha256: b3d4c2bd169f86b5403c1563ba2b0702d4dac4b9e2d582ee07d4e04c9eef541e, company: "Civic Ridge Construction Group", logo_id: 16WYU93YUQ71HOUVTLb6bWZ1YPcVAJaiJ, logo_sha256: 429a3e07a21fbe0b285c4e2673fb4339868a6b915997a16c319e1c7c3291d17e}
   Marcus-Jackson: {profile_id: 1fz_v6E5jSGrZD6LVdlDaVflPCloME6T5, image_id: 1Y9-w_J1cnz_abDKpIL8Iz5W1GfvA_8xh, image_sha256: d2bddfdf69ad5d95d88c9f8a0c052b2af2ea3fce7db7066adba37d3a20a05a26, company: "Civic Ridge Construction Group", logo_id: 16WYU93YUQ71HOUVTLb6bWZ1YPcVAJaiJ, logo_sha256: 429a3e07a21fbe0b285c4e2673fb4339868a6b915997a16c319e1c7c3291d17e}
@@ -46,3 +46,16 @@ rules:
   never_use_general_search_as_authority: true
   never_regenerate_locked_assets: true
   preserve_normal_and_construction_clothing: true
+branding_assets:
+  circular_club_emblem:
+    status: APPROVED_LOCKED
+    approved_date: 2026-09-27
+    authority: Google Drive 00 MASTER CANON
+    characters: [Ben, Leo, Vinny, Steph, Maya]
+    asset_filename: Little_Specs_Club_Circular_Vest_Back_Emblem_APPROVED_LOCKED.png
+    image_id: 1-mBZA9mDqfIQdSXOhPK83ZCvbIo30U21
+    sha256: 102ddb58397734515a0c11cd5fe205c070dfeff5677f9c63aeb15f2656b607c3
+    design_revision: yellow_Little_with_blue_rivet_i_dot
+    supersedes: earlier_circular_vest_back_emblem_depictions
+    placement_rule: children_vest_back_emblem
+    exact_asset_required: true
