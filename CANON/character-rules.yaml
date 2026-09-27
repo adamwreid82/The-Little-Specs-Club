@@ -60,3 +60,24 @@ fire_station_project_sticker:
     after_ceremony: preserve_locked_placement_across_books
     Mrs-Harper: preserve_approved_profile_project_history
   independent_of_LS_badge_redesign: true
+job_sticker_lifetime_continuity:
+  status: AUTHOR_LOCKED
+  applies_to: every_character_who_receives_a_job_sticker
+  scope: all_jobs_and_books
+  history: cumulative_in_story_chronological_order
+  rules:
+    - Each received job sticker permanently occupies its established location on that character's hard hat.
+    - The Fire Station sticker remains in its existing locked location on all subsequent jobs.
+    - Each new job sticker is placed in a different unoccupied location on that character's hard hat.
+    - Once established, each new sticker location is permanent for every subsequent job and book.
+    - New stickers do not replace, remove, relocate, cover, or resize earlier stickers to make room.
+    - Depict every sticker already received by that point in the story, subject to natural perspective and occlusion.
+    - Do not depict a future job sticker before the character receives it.
+  placement_records:
+    keyed_by: character_and_job
+    record_new_approved_location_before_production: true
+    preserve_all_prior_locations: true
+    future_locations: not_yet_assigned
+  visibility:
+    physically_present_even_when_hidden_by_view_angle: true
+    move_stickers_to_face_camera: false
