@@ -1,0 +1,33 @@
+version: 1
+authority: Google Drive 00 MASTER CANON
+drive_root:
+  id: 1lZihrEE5rIfUJ6s037CSl6Gew8TQXoKN
+master_canon:
+  id: 1OTQjEHdbfK6QrrBnziuclUakBqwyeMrP
+  directory_id: 1Wa4kxIoSShw-u0XOUISDa-PMYjntf3ZNvoNwoXqeQ9M
+character_manifest:
+  id: 1uT-bZmcMbkwhzTjNJaiaipmCEXob7EAd
+project_visual_manifest:
+  id: 1ad6fQHUUZFfNZsR_I-VFLatKpk4RIsuP
+characters:
+  Ben: {profile_id: 1rhPTyBiDT9OevTiI9ncFGYR8JPbLVt6m, image_id: 1lkboZGWom6Vw7et5J5__5dBivj7i2TRx, image_sha256: 99089df0212ed7e7ae3d6cea3e0a8c9995e22e859357e92e5eb7876cae58df6d}
+  Leo: {profile_id: 1JD1OTpwF7EJizHYwaE-31j-z-kMPRqbx, image_id: 1PmH5IMF_HI_s9y1slZM9DXbWzTYVnbGc, image_sha256: 09a79c87887af8b4f47019c965465fefb1821aa43b0a639e2f76868414057769}
+  Vinny: {profile_id: 1vG_CJ45X87ZsYlNr-Rq2VJiuRHaTtw4S, image_id: 1m-mxpb7Fpu04jWj5sYVJTHxvXXPySuSa, image_sha256: 82ce28090c7c0dbe68da71f9a234197aacc58cce5b27bb146e669577c7ffd3ee}
+  Steph: {profile_id: 1hzABye97w5caJMYh90wvyGXrd17gXCBS, image_id: 1gF-pOjdltQVujd5NyCcX-Brh-EI0vQ9j, image_sha256: f94efd69c6460e85d36e8c1d28a62696b87c98ec8e88bede8088d9cc9d9515c9}
+  Maya: {profile_id: 1nERipp0Qz3AUFuYFkJ25rOuM0UfIGnV3, image_id: 1RZtZjt-3eX0iFFcKw1ZxtnlXj3pkoerU, image_sha256: 2a53862cddfc93587fe4ae3c63b4e7a57cb3439e67254e1fd1b26007afa82aac}
+  Mrs-Harper: {profile_id: 1WFn924opY9kuG2ZWYukYBI97Xm6vytu0, image_id: 1a8RlfOktPoAQ__pLTtLIyaA3qidnPOaD, image_sha256: 18f18ab4023a57a6ed51a33e2937fc7872b3f2ac9c8f365b2efe11c7152165c3}
+  Elena-Rivera: {profile_id: 1nplm3aa__GwX4zVAlZ85usrKFuijLQdX, image_id: 1LMyoOO57gA-NQxgtF5poW7UPvfVjgqjP, image_sha256: b3d4c2bd169f86b5403c1563ba2b0702d4dac4b9e2d582ee07d4e04c9eef541e}
+  Marcus-Jackson: {profile_id: 1fz_v6E5jSGrZD6LVdlDaVflPCloME6T5, image_id: 1Y9-w_J1cnz_abDKpIL8Iz5W1GfvA_8xh, image_sha256: d2bddfdf69ad5d95d88c9f8a0c052b2af2ea3fce7db7066adba37d3a20a05a26}
+  Omar-Haddad: {profile_id: 1_3fVjalO6s29OKVUvaiDIyY-jDXgAsGZ, image_id: 1O3aQjII-MCTJkKGXBFGnFKlkrVAEooFU}
+  Darius-Cole: {profile_id: 1bGxDE5g2ADoVMR0otnrduAXXk4hIM4UO, image_id: 19DwA63zOWkf0wzcRLEsirKVKAwRl6IoR}
+  Matthias-Becker: {profile_id: 1AezDbqDE-fRxdzpMECr4thS1qQ_tzEJ_, image_id: 1SSu1FS_GU-TmvcaKpeo79WTEBYbWdSiA}
+  Luis-Mendoza: {profile_id: 1iLVzifnM16EHL4xG2uhTFIs00uY33ByS, image_id: 1cB-Kurd99KMyKaKmar4rYTnw0U1JCFCk}
+project_visuals:
+  fire_station_exterior: {image_id: 1RGxuYGxHAnmnjZhTX6CSYOU16qKZ8oqD, sha256: dc682f7483859fd71d84b91e4233c7a9fd2183797b99629c1fcb652bcee52eb0}
+  early_site: {image_id: 1KwyrKCwuK94TK6w6M3w2Dszy_EOWr6QU, sha256: 7eb6607667f24d9c4a2f2321fa0d449d5fe7384719566da0eb2f1fdd70bf0307}
+  fire_station_project_sticker: {image_id: 1-nHpjvk0OBnVLBpLPjtPCTpyIde4nUAz, sha256: adcfdcdbe9c533268012e45d5c2662cf10c8b5ef684eb389528cf7107a4975ba}
+rules:
+  retrieve_profile_and_image_for_every_named_character: true
+  never_use_general_search_as_authority: true
+  never_regenerate_locked_assets: true
+  preserve_normal_and_construction_clothing: true
