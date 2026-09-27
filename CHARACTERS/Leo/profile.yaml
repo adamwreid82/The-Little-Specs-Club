@@ -1,4 +1,9 @@
 character: Leo
-source_authority: approved_project_source_image
-status: source-reference-pending
+source_authority: google_drive_00_master_canon
+master_profile_drive_id: 1JD1OTpwF7EJizHYwaE-31j-z-kMPRqbx
+approved_image_drive_id: 1PmH5IMF_HI_s9y1slZM9DXbWzTYVnbGc
+approved_image_sha256: 09a79c87887af8b4f47019c965465fefb1821aa43b0a639e2f76868414057769
+status: APPROVED_SOURCE_CONNECTED
 continuity_required: true
+preserve_normal_clothing: true
+preserve_construction_clothing: true
