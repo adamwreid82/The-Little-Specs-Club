@@ -40,3 +40,7 @@ The September 10 “Version A - APPROVED” folder/file remains historical under
 The monument-sign scope question was resolved by Adam on 2026-09-27. The design is locked to the existing approved exterior reference. Classroom pictures of the future completed station may show it, including Pages 3–4; physical installation at the live Book 1 site remains prohibited. Sign-scope QA: PASS. The artwork and other pending production checks are unchanged.
 
 Next production work for this spread: prepare the required-size production master from the approved artwork, verify detail and typography, establish its matching text-free Version A, then check final print exports. No regeneration or change to approved composition was performed by this review. No other spread was reconciled.
+
+## Production follow-up — 2026-09-27
+
+The earlier assessment missed Ben's raised-hand anatomy error. Adam identified it; the second dorsal-left-hand correction was accepted. Corrected 5100 × 2550 A/B files and separate-page bleed PDF review exports now exist. The prior dimensions and missing-pair findings are resolved for those derivatives, while source-detail/physical-proof and whole-book pagination checks remain open. See [production review](PRODUCTION_REVIEW_2026-09-27.md), also on Drive: https://drive.google.com/file/d/14lrswxI3Knxcjm3WwL8zWtZdEy5eX47K/view . No final print approval is inferred.

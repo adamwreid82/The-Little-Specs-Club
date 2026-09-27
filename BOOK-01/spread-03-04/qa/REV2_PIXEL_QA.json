@@ -1,0 +1,54 @@
+{
+  "hand_changed_pixels_native": 10024,
+  "hand_edit_bbox_native": [
+    93,
+    311,
+    189,
+    417
+  ],
+  "hand_changes_outside_mask": 0,
+  "text_removal_changes_outside_mask": 0,
+  "text_removal_bbox_native": [
+    996,
+    10,
+    1684,
+    420
+  ],
+  "method": "ImageGen local hand correction and wall repair, isolated with masks; Lanczos enlargement. No native-detail increase claimed.",
+  "pair_diff_pixels_5100": 1801028,
+  "pair_diff_bbox_5100": [
+    2856,
+    22,
+    4848,
+    1215
+  ],
+  "pair_changes_outside_text_wall_region": 0,
+  "files": [
+    {
+      "name": "Pages_3-4_Version_A_REV2_5100x2550_REVIEW.png",
+      "bytes": 11066385,
+      "sha256": "47df228bc3dcdd58578e0aee728494e2dbae68db51803e056bb7bfe93ff6e79a"
+    },
+    {
+      "name": "Pages_3-4_Version_A_REV2_BLEED_REVIEW.pdf",
+      "bytes": 31332641,
+      "sha256": "95d11be3ace8690015173d0af54947f35e05d45fbf5d08ba0d0ed63a1548757b"
+    },
+    {
+      "name": "Pages_3-4_Version_B_REV2_5100x2550_REVIEW.png",
+      "bytes": 11683888,
+      "sha256": "fb6fad4d8f90c0c7ccfa2a94436b28618a21c89b6fca7540530c1ded77182f12"
+    },
+    {
+      "name": "Pages_3-4_Version_B_REV2_BLEED_REVIEW.pdf",
+      "bytes": 32267897,
+      "sha256": "c94afae9233e5e3a2329872762ad349409e87815c2788319a02da2c5ed8a89b7"
+    }
+  ],
+  "declared_text_wall_region_5100": [
+    2850,
+    0,
+    4860,
+    1220
+  ]
+}
