@@ -1,4 +1,8 @@
-character: Low-Voltage-Fire-Alarm-Technician
-source_authority: approved_project_source_image
-status: source-reference-pending
+character: Darius Cole
+role: Low Voltage / Fire Alarm Technician
+source_authority: google_drive_00_master_canon
+master_profile_drive_id: 1bGxDE5g2ADoVMR0otnrduAXXk4hIM4UO
+approved_image_drive_id: 19DwA63zOWkf0wzcRLEsirKVKAwRl6IoR
+status: APPROVED_SOURCE_CONNECTED
+recurring_specialist_required_when_trade_materially_shown: true
 continuity_required: true
