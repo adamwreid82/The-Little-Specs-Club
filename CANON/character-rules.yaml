@@ -405,3 +405,168 @@ children_vest_back_emblem:
   redraw_regenerate_reinterpret_recolor_mirror_or_substitute: false
   applies_to_Mrs_Harper: false
   source_sheets_and_profiles_updated_in_place: 2026-09-27
+
+character_dimensions_and_helmet_colors:
+  status: EXISTING_APPROVED_CANON_RECONCILED
+  reference_verified_date: '2026-09-27'
+  authority: Google Drive 00 MASTER CANON
+  source_registry: CANON/source-registry.yaml
+  sources_used_together:
+  - current_individual_word_profile
+  - current_paired_source_png
+  standing_height_measurement: barefoot_ground_to_top_of_head
+  exclude_from_standing_height:
+  - hair_volume
+  - hard_hat
+  - other_headgear
+  - footwear
+  perspective_posture_terrain_and_footwear_may_change_apparent_height: true
+  preserve_underlying_body_scale: true
+  exaggerate_half_inch_or_one_inch_differences: false
+  derive_height_from_independently_scaled_source_sheet_figures: false
+  centimeter_values_in_older_profiles_may_be_rounded: true
+  canonical_numeric_height_unit: inches
+  helmet_color_rendering: match_approved_source_under_scene_lighting
+  character_art_or_profiles_modified: false
+  unrelated_source_hashes_recertified: false
+  characters:
+    Ben:
+      standing_height_inches: 53
+      hard_hat_color: white
+      profile_drive_id: 1rhPTyBiDT9OevTiI9ncFGYR8JPbLVt6m
+      image_drive_id: 1lkboZGWom6Vw7et5J5__5dBivj7i2TRx
+    Leo:
+      standing_height_inches: 52.5
+      hard_hat_color: blue
+      profile_drive_id: 1JD1OTpwF7EJizHYwaE-31j-z-kMPRqbx
+      image_drive_id: 1PmH5IMF_HI_s9y1slZM9DXbWzTYVnbGc
+    Vinny:
+      standing_height_inches: 52
+      hard_hat_color: green
+      profile_drive_id: 1vG_CJ45X87ZsYlNr-Rq2VJiuRHaTtw4S
+      image_drive_id: 1m-mxpb7Fpu04jWj5sYVJTHxvXXPySuSa
+    Steph:
+      standing_height_inches: 51.5
+      hard_hat_color: light_gray
+      profile_drive_id: 1hzABye97w5caJMYh90wvyGXrd17gXCBS
+      image_drive_id: 1gF-pOjdltQVujd5NyCcX-Brh-EI0vQ9j
+    Maya:
+      standing_height_inches: 51
+      hard_hat_color: yellow
+      profile_drive_id: 1nERipp0Qz3AUFuYFkJ25rOuM0UfIGnV3
+      image_drive_id: 1RZtZjt-3eX0iFFcKw1ZxtnlXj3pkoerU
+    Mrs-Harper:
+      standing_height_inches: 65
+      hard_hat_color: white
+      profile_drive_id: 1WFn924opY9kuG2ZWYukYBI97Xm6vytu0
+      image_drive_id: 1a8RlfOktPoAQ__pLTtLIyaA3qidnPOaD
+    Elena-Rivera:
+      standing_height_inches: 65
+      hard_hat_color: white
+      profile_drive_id: 1nplm3aa__GwX4zVAlZ85usrKFuijLQdX
+      image_drive_id: 1LMyoOO57gA-NQxgtF5poW7UPvfVjgqjP
+    Marcus-Jackson:
+      standing_height_inches: 72
+      hard_hat_color: blue
+      profile_drive_id: 1fz_v6E5jSGrZD6LVdlDaVflPCloME6T5
+      image_drive_id: 1Y9-w_J1cnz_abDKpIL8Iz5W1GfvA_8xh
+    Omar-Haddad:
+      standing_height_inches: 70
+      hard_hat_color: red
+      profile_drive_id: 1_3fVjalO6s29OKVUvaiDIyY-jDXgAsGZ
+      image_drive_id: 1O3aQjII-MCTJkKGXBFGnFKlkrVAEooFU
+    Darius-Cole:
+      standing_height_inches: 71
+      hard_hat_color: royal_blue
+      profile_drive_id: 1bGxDE5g2ADoVMR0otnrduAXXk4hIM4UO
+      image_drive_id: 19DwA63zOWkf0wzcRLEsirKVKAwRl6IoR
+    Matthias-Becker:
+      standing_height_inches: 75
+      hard_hat_color: forest_green
+      profile_drive_id: 1AezDbqDE-fRxdzpMECr4thS1qQ_tzEJ_
+      image_drive_id: 1SSu1FS_GU-TmvcaKpeo79WTEBYbWdSiA
+      hard_hat_finish: matte
+    Luis-Mendoza:
+      standing_height_inches: 69
+      hard_hat_color: light_gray
+      profile_drive_id: 1iLVzifnM16EHL4xG2uhTFIs00uY33ByS
+      image_drive_id: 1cB-Kurd99KMyKaKmar4rYTnw0U1JCFCk
+      hard_hat_finish: matte
+    Priya-Patel:
+      standing_height_inches: 62
+      hard_hat_color: yellow
+      profile_drive_id: 1ZyHR-GirFpMwk8DcRqlJVpy0RHXUBKd6
+      image_drive_id: 19ZMf5fqX8WGlhs7I7tJx_iFgrdlgpe8e
+    Daniel-Brooks:
+      standing_height_inches: 70
+      hard_hat_color: green
+      profile_drive_id: 1yk_XlyuOxhaKMIms-e7mwbCrviNKZrKZ
+      image_drive_id: 1TVWd4mtznkx3tFEKNKF_TClF5VBPILey
+    Tony-Marino:
+      standing_height_inches: 70
+      hard_hat_color: white
+      profile_drive_id: 1tJnFRmAnXSViwGbNxi9-RAyuBz9KD9Uq
+      image_drive_id: 1FjL5YJLklpXpHnqHGZmVc8Ps87IgvJro
+    Claire-Morgan:
+      standing_height_inches: 67
+      hard_hat_color: white
+      profile_drive_id: 1e1eXCok2BoUhiI0EJMPlJbSrAOl-fGNl
+      image_drive_id: 1ApL7UT7gBmjU87isBkMIgmH7yfl6osGI
+    Andre-Lewis:
+      standing_height_inches: 69
+      hard_hat_color: red
+      profile_drive_id: 18CwXMwvHtzpdfFHvRrwP6kt627X8OVuY
+      image_drive_id: 19t86oLfRhIKYzmYNbusdw5_4tCDw7WXt
+    Danny-Novak:
+      standing_height_inches: 74
+      hard_hat_color: white
+      profile_drive_id: 1kA8So6rSfZzlBka3W4C7afJRy40FxAVe
+      image_drive_id: 1nwcHFsFOjHeOwn5Ia8ojuH0aPkeruhXC
+    Erik-Halvorsen:
+      standing_height_inches: 73
+      hard_hat_color: teal
+      profile_drive_id: 1x2hsPULWLsbQz5P-9AKD2bijnhJM2qNQ
+      image_drive_id: 1RTlNNdcM4OABk5cyx5ojrWXZ6T9uo2yl
+    Sam-Carter:
+      standing_height_inches: 68
+      hard_hat_color: gray
+      profile_drive_id: 1kK4mZofl4ThreXAmEOiTfobtroYz73g8
+      image_drive_id: 1Qi3rZ38Z9ECfoDh9INZtJKrhlNiQL8MM
+    Hannah-Kowalski:
+      standing_height_inches: 66
+      hard_hat_color: light_blue
+      profile_drive_id: 1tYW3YSp7wUOd15lhtnFei86bk5ZQjJi0
+      image_drive_id: 1dpTbrZcPD1B0IUZQqEI91ShVnrXdRJ3X
+    Rebecca-Foster:
+      standing_height_inches: 64
+      hard_hat_color: white
+      profile_drive_id: 1D8decViO9EqAkdoV26jGNTqw1opps8zx
+      image_drive_id: 1V1Di0i9D2jR20yvGI2hcEw0yY5dj0qb8
+    Natalie-Chen:
+      standing_height_inches: 63
+      hard_hat_color: orange
+      profile_drive_id: 1kexCprbvMpHthz30eyCKVWwuPx6KKCML
+      image_drive_id: 1YDeJ77qoOWC38ImzZ-L8ssI9VOtVzyWb
+    Rafael-Martinez:
+      standing_height_inches: 70
+      hard_hat_color: tan
+      profile_drive_id: 1Wc3dRKOlp1tQhDu85x1rH5eRHBeNR_er
+      image_drive_id: 1EZwyjIPxGsllz_wDM5SKZTtNXwbtMqyg
+    Marisol-Vega:
+      standing_height_inches: 67
+      hard_hat_color: light_cream_off_white
+      profile_drive_id: 1fb6kliVp8mMyQCn33RYO0VtfudvWQkzl
+      image_drive_id: 1KE81oMwAByCvB82ISJLnGEmNxbYVwmQ5
+    Adrian-Park:
+      standing_height_inches: 71
+      hard_hat_color: dark_gray
+      profile_drive_id: 1b413iqNNYc1IVnDeFm6FI9U6g_oRpI7M
+      image_drive_id: 1lgne6yQTzA8jdd-xRWDUsLsljdF3xsxt
+      height_conflict_resolution: Approved profile explicitly supersedes contradictory height text in generated source-sheet
+        label; 5 feet 11 inches controls.
+    Mayor-Thomas-Whitaker:
+      standing_height_inches: 70
+      hard_hat_color: null
+      profile_drive_id: 1sePhT5kayhUtmfDyTFQ4DyYU_k0lWzCw
+      image_drive_id: 1mXnar5Tl1iBPSSP_MaL1Xq7YVNTKabXB
+      construction_ppe_allowed: false
