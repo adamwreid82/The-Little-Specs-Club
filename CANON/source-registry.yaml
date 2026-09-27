@@ -16,14 +16,14 @@ characters:
   Steph: {profile_id: 1hzABye97w5caJMYh90wvyGXrd17gXCBS, image_id: 1gF-pOjdltQVujd5NyCcX-Brh-EI0vQ9j, image_sha256: 0338ba00d3cc122c7e1baecca56b577f51b54ea4a8f24ed2b7bbbc29685b934a, profile_sha256: b001f923646aaf0d875994c418460c77049612452f158ced77c568478ad7d7e8, logo_id: 1T2tCGf79Efg-xpuYWBAi04-d7XG99sP_, logo_sha256: 96a47ac122989b3527e3fc5f8aa58544fd438799c2c4d7041cca4ef40de34a42, vest_back_emblem_id: 1-mBZA9mDqfIQdSXOhPK83ZCvbIo30U21, vest_back_emblem_sha256: 102ddb58397734515a0c11cd5fe205c070dfeff5677f9c63aeb15f2656b607c3}
   Maya: {profile_id: 1nERipp0Qz3AUFuYFkJ25rOuM0UfIGnV3, image_id: 1RZtZjt-3eX0iFFcKw1ZxtnlXj3pkoerU, image_sha256: 405c184a953d966e68f5517078feef8bf056ceb405deb17842d9c9b9ab8e180c, profile_sha256: f1824deec8163a56f53a01724aa45f37be0a9e3f30b15ad4239e08fff25e2d24, logo_id: 1T2tCGf79Efg-xpuYWBAi04-d7XG99sP_, logo_sha256: 96a47ac122989b3527e3fc5f8aa58544fd438799c2c4d7041cca4ef40de34a42, vest_back_emblem_id: 1-mBZA9mDqfIQdSXOhPK83ZCvbIo30U21, vest_back_emblem_sha256: 102ddb58397734515a0c11cd5fe205c070dfeff5677f9c63aeb15f2656b607c3}
   Mrs-Harper: {profile_id: 1WFn924opY9kuG2ZWYukYBI97Xm6vytu0, image_id: 1a8RlfOktPoAQ__pLTtLIyaA3qidnPOaD, image_sha256: ac95bce80c63cafa60bc088555a4cf66dfe86147ce51342185d773cee825f288, profile_sha256: 965c95f7659d185929cd58030805f0224f9229e6f3c81ee8544b1e98aac49d34, logo_id: 1T2tCGf79Efg-xpuYWBAi04-d7XG99sP_, logo_sha256: 96a47ac122989b3527e3fc5f8aa58544fd438799c2c4d7041cca4ef40de34a42}
-  Elena-Rivera: {profile_id: 1nplm3aa__GwX4zVAlZ85usrKFuijLQdX, image_id: 1LMyoOO57gA-NQxgtF5poW7UPvfVjgqjP, image_sha256: b3d4c2bd169f86b5403c1563ba2b0702d4dac4b9e2d582ee07d4e04c9eef541e, company: "Civic Ridge Construction Group", logo_id: 16WYU93YUQ71HOUVTLb6bWZ1YPcVAJaiJ, logo_sha256: 429a3e07a21fbe0b285c4e2673fb4339868a6b915997a16c319e1c7c3291d17e}
-  Marcus-Jackson: {profile_id: 1fz_v6E5jSGrZD6LVdlDaVflPCloME6T5, image_id: 1Y9-w_J1cnz_abDKpIL8Iz5W1GfvA_8xh, image_sha256: d2bddfdf69ad5d95d88c9f8a0c052b2af2ea3fce7db7066adba37d3a20a05a26, company: "Civic Ridge Construction Group", logo_id: 16WYU93YUQ71HOUVTLb6bWZ1YPcVAJaiJ, logo_sha256: 429a3e07a21fbe0b285c4e2673fb4339868a6b915997a16c319e1c7c3291d17e}
+  Elena-Rivera: {profile_id: 1nplm3aa__GwX4zVAlZ85usrKFuijLQdX, image_id: 1LMyoOO57gA-NQxgtF5poW7UPvfVjgqjP, image_sha256: b3d4c2bd169f86b5403c1563ba2b0702d4dac4b9e2d582ee07d4e04c9eef541e, company: "Civic Ridge Construction Group", logo_id: 1fxorW51CQTRe80sbMjrminP1LCMouu3E, logo_sha256: 0faa73b171719d357c9a1bc11781b71fdd485937d78f2155a2dc6588f481fbd3}
+  Marcus-Jackson: {profile_id: 1fz_v6E5jSGrZD6LVdlDaVflPCloME6T5, image_id: 1Y9-w_J1cnz_abDKpIL8Iz5W1GfvA_8xh, image_sha256: d2bddfdf69ad5d95d88c9f8a0c052b2af2ea3fce7db7066adba37d3a20a05a26, company: "Civic Ridge Construction Group", logo_id: 1LiC6REi7qsbYCZWgvE2PLRZ82ABPOdpL, logo_sha256: 0112c267691d7e3417c996cb8ad9c21f3d2bfcdc7a81712bee98cac235ca67f9}
   Omar-Haddad: {profile_id: 1_3fVjalO6s29OKVUvaiDIyY-jDXgAsGZ, image_id: 1O3aQjII-MCTJkKGXBFGnFKlkrVAEooFU, profile_sha256: c8735b76a9aaba6b2beada69c8980d23a4be3f2a6ce3f4b70da8a1888ed5e2c4, image_sha256: 419080f6ed702e8c8156e334b58159a54b71e03d06f32f65781ad0ee394f042a, company: "Redshield Fire Protection", logo_id: 1Hpb2A5xz9e61zGH4weCMusEu5rVjMTdN, logo_sha256: 206292b24840df49f91032dcbded241c93eca70bab787a287300e5d5acc21cec}
   Darius-Cole: {profile_id: 1bGxDE5g2ADoVMR0otnrduAXXk4hIM4UO, image_id: 19DwA63zOWkf0wzcRLEsirKVKAwRl6IoR, profile_sha256: 46f5ac7cdf77b3922c51613c3b47a0894c702f1915f10cc07935680f9cf450f6, image_sha256: fb043570754af2414af4e1f2b359ceacfb94ff614288121c6f8750dab39d17ec, company: "Signalcrest Systems", logo_id: 1s68Yo-8mPKkmqnLOoxIW5bL-QeAQhGYc, logo_sha256: 190e724f164058dcccdd56893b636e5e0b9fc84e0858d83613da99c892628ace}
   Matthias-Becker: {profile_id: 1AezDbqDE-fRxdzpMECr4thS1qQ_tzEJ_, image_id: 1SSu1FS_GU-TmvcaKpeo79WTEBYbWdSiA, profile_sha256: 9957b6d13fe1424ade48099aa4c68fb5f7f581fe65e6ce3ddd63de3baba4a37b, image_sha256: f3d6a4a76a6c1656d3420bba3d7bca92cc20ae5658e6c5eddb61438187b22678, company: "Doortech Solutions", logo_id: 17MXnh65J1PUxkC6gwF-QVWkccKD2oyot, logo_sha256: 0d8ae8b61b91691e2e037f54426f30cfb3cba2408365a737cfb35181b3c53a58}
   Luis-Mendoza: {profile_id: 1iLVzifnM16EHL4xG2uhTFIs00uY33ByS, image_id: 1cB-Kurd99KMyKaKmar4rYTnw0U1JCFCk, profile_sha256: 2ad1341d7357f351901a9f5af7a5b4175d8b439b98d95478e731eefe5fa6c296, image_sha256: db71ce1351582e1a31dfdbca9a41762d3ebfa4fff387e90d757a59ac2e0e41b3, company: "LevelLine Interior Systems", logo_id: 1OECG6fFNGVejLd8JrB8TZc7NcVBwG8Zd, logo_sha256: 6acc15412f7ff67a0abad8adf429c93296ee3fe9651ce7fef29b6f51e438cc77}
   Priya-Patel: {profile_id: 1ZyHR-GirFpMwk8DcRqlJVpy0RHXUBKd6, image_id: 19ZMf5fqX8WGlhs7I7tJx_iFgrdlgpe8e, profile_sha256: 781589121cefc603394cc23a52fec983b3eae3a2887748a33c86fc7506051641, image_sha256: 921d2f25818fe76c8b3e65f287126f47c6f886a1d5f7a8328413bc933659cbdb, company: "Mason Vale Engineering", logo_id: 1D4PbZIA9a8kxKzvB1ikkEd83UVEUvvd3, logo_sha256: 6a17d475a2f9a40e09bf7114ffc483471fc3f65179bae1b600eedcfd581e991a}
-  Daniel-Brooks: {profile_id: 1yk_XlyuOxhaKMIms-e7mwbCrviNKZrKZ, image_id: 1TVWd4mtznkx3tFEKNKF_TClF5VBPILey, profile_sha256: ca7e02e41c98d5ebb4f0f2107fb423c977201b7a9a0f7cc2eec59280e66c8327, image_sha256: 0d44df43f7438303100b1513df74ed9a6101f4df3799d15f8e8882d03cded22c, company: "Civic Ridge Construction Group", logo_id: 16WYU93YUQ71HOUVTLb6bWZ1YPcVAJaiJ, logo_sha256: 429a3e07a21fbe0b285c4e2673fb4339868a6b915997a16c319e1c7c3291d17e}
+  Daniel-Brooks: {profile_id: 1yk_XlyuOxhaKMIms-e7mwbCrviNKZrKZ, image_id: 1TVWd4mtznkx3tFEKNKF_TClF5VBPILey, profile_sha256: ca7e02e41c98d5ebb4f0f2107fb423c977201b7a9a0f7cc2eec59280e66c8327, image_sha256: 0d44df43f7438303100b1513df74ed9a6101f4df3799d15f8e8882d03cded22c, company: "Civic Ridge Construction Group", logo_id: 1NuuEPJ9RaAOcBGd7rM-cL2w7KMkJRxXz, logo_sha256: 90dc152734f2539d87c590ac36c54f9994c4b992edf05ee7225ff21e5ddc727b}
   Tony-Marino: {profile_id: 1tJnFRmAnXSViwGbNxi9-RAyuBz9KD9Uq, image_id: 1FjL5YJLklpXpHnqHGZmVc8Ps87IgvJro, profile_sha256: 7d94e2604a25c8df705c6c9a50da85a32b63ffcee686a8342c0753a7c14b00cc, image_sha256: 096c6eb25d0e7491b113209899c2821b8baeda1b14fb941546384068e8e13ef6, company: "Redfern General Trades", logo_id: 1Rtphl_UKRFO0u1iEtFMgT9ajLp2Zp-Nh, logo_sha256: 6399ec23ca2c47061a41f9faad8da87ea044bfcff70658310d4112650cfc4822}
   Claire-Morgan: {profile_id: 1e1eXCok2BoUhiI0EJMPlJbSrAOl-fGNl, image_id: 1ApL7UT7gBmjU87isBkMIgmH7yfl6osGI, profile_sha256: 05d9f854f79fb788a25bcf17a2dcded8fab177c27b39754b7222dfd0a8663d58, image_sha256: a0de9814bee9ec01085ecbc2e4c7aef4733c0e8d7d360ecc4512b7b605718bca, company: "Harlow Finch Architects", logo_id: 13hMYEF6vMYU1Owio4_L1kiJ2_XJIPuG5, logo_sha256: e73e77180bd7354e29ee3f134c3bd7a8b81831e21122c94e484b285f11475fb4}
   Andre-Lewis: {profile_id: 18CwXMwvHtzpdfFHvRrwP6kt627X8OVuY, image_id: 19t86oLfRhIKYzmYNbusdw5_4tCDw7WXt, profile_sha256: 8acda1faf28f817c179f1d86837b65a4d209313c7a8fdbf6614f91b27b087561, image_sha256: 837f6a6af7416b67d23056a463573186de988ce1d007581457e9407100d49bb4, company: "BrightLine Electrical Services", logo_id: 1lnRl4cOQsAvUmaBOJBP-JsQekLPJzblP, logo_sha256: fa7f511cdc884fa447e937ec5fde1e4ba9e24fca3f1348832244fa9a58b76a40}
@@ -59,3 +59,26 @@ branding_assets:
     supersedes: earlier_circular_vest_back_emblem_depictions
     placement_rule: children_vest_back_emblem
     exact_asset_required: true
+  civic_ridge_hard_hat_variants:
+    status: APPROVED_LOCKED
+    authority: Google Drive 00 MASTER CANON
+    reference_verified_date: 2026-09-27
+    variants:
+      Daniel-Brooks:
+        variant: GREEN
+        asset_filename: Civic_Ridge_Construction_Group_Logo_GREEN_Hard_Hat_APPROVED_LOCKED.png
+        image_id: 1NuuEPJ9RaAOcBGd7rM-cL2w7KMkJRxXz
+        sha256: 90dc152734f2539d87c590ac36c54f9994c4b992edf05ee7225ff21e5ddc727b
+      Elena-Rivera:
+        variant: WHITE
+        asset_filename: Civic_Ridge_Construction_Group_Logo_WHITE_Hard_Hat_APPROVED_LOCKED.png
+        image_id: 1fxorW51CQTRe80sbMjrminP1LCMouu3E
+        sha256: 0faa73b171719d357c9a1bc11781b71fdd485937d78f2155a2dc6588f481fbd3
+      Marcus-Jackson:
+        variant: BLUE
+        asset_filename: Civic_Ridge_Construction_Group_Logo_BLUE_Hard_Hat_APPROVED_LOCKED.png
+        image_id: 1LiC6REi7qsbYCZWgvE2PLRZ82ABPOdpL
+        sha256: 0112c267691d7e3417c996cb8ad9c21f3d2bfcdc7a81712bee98cac235ca67f9
+    reconciliation_scope: standalone_logo_references_only
+    adult_source_art_modified: false
+    adult_source_hashes_recertified: false
