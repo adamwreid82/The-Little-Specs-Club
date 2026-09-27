@@ -1,4 +1,9 @@
 character: Mrs-Harper
-source_authority: approved_project_source_image
-status: source-reference-pending
+source_authority: google_drive_00_master_canon
+master_profile_drive_id: 1WFn924opY9kuG2ZWYukYBI97Xm6vytu0
+approved_image_drive_id: 1a8RlfOktPoAQ__pLTtLIyaA3qidnPOaD
+approved_image_sha256: 18f18ab4023a57a6ed51a33e2937fc7872b3f2ac9c8f365b2efe11c7152165c3
+status: APPROVED_SOURCE_CONNECTED
 continuity_required: true
+preserve_normal_clothing: true
+preserve_construction_clothing: true
