@@ -1,13 +1,13 @@
 {
   "spread": "07-08",
   "title": "Meet the Project Team",
-  "status": "ARTWORK LOCKED - PRODUCTION EXPORTS READY FOR REVIEW",
+  "status": "FINAL LOCKED",
   "artwork_locked": true,
-  "final_locked": false,
+  "final_locked": true,
   "approved_by": "Adam",
   "approved_date": "2026-09-27",
-  "approval_evidence": "Approve and continue with the other steps",
-  "approval_scope": "Exact latest corrected Version B artwork; derivatives require production review",
+  "approval_evidence": "Approve",
+  "approval_scope": "Repaired revision 2 Version A and Version B production masters and associated bleed PDFs",
   "approved_native_artwork": {
     "filename": "Pages_7-8_Version_B_ARTWORK_LOCKED_2026-09-27.png",
     "sha256": "210292658823ded0a8a3fd0eaa68ebb5dff1488fc11bbfa22ea8d6105c9072cb",
@@ -26,7 +26,7 @@
     "drive_id": "1CbSBYHhmhXA5McMXE97A6P9duLPYDsNP",
     "path": "version-a/",
     "storage": "google_drive",
-    "status": "PRINT REVIEW PENDING",
+    "status": "FINAL LOCKED",
     "dimensions_px": [
       5100,
       2550
@@ -35,7 +35,8 @@
       "filename": "Pages_7-8_Version_A_BLEED_PRINT_REVIEW.pdf",
       "sha256": "850ef64cb09958ac1356766aad42320126d5d57e62060abedd3d738aaf416d92",
       "size_bytes": 27853530,
-      "drive_id": "1Xg4Gy-wuqDxpT2zUg_CbDgblGWeovmAC"
+      "drive_id": "1Xg4Gy-wuqDxpT2zUg_CbDgblGWeovmAC",
+      "status": "FINAL LOCKED"
     }
   },
   "version_b": {
@@ -45,7 +46,7 @@
     "drive_id": "1yfa1yKunfjTN_Fwhm4qNCFXahPhzl7-f",
     "path": "version-b/",
     "storage": "google_drive",
-    "status": "PRINT REVIEW PENDING",
+    "status": "FINAL LOCKED",
     "dimensions_px": [
       5100,
       2550
@@ -54,11 +55,12 @@
       "filename": "Pages_7-8_Version_B_BLEED_PRINT_REVIEW.pdf",
       "sha256": "0a048eb856c23b7529ea4bb5e951ab398797018f9e76526bfb635ab8dc4e16fe",
       "size_bytes": 28045138,
-      "drive_id": "129CahEyi6OwW0TIGCoEdkLCBY-HfoCVt"
+      "drive_id": "129CahEyi6OwW0TIGCoEdkLCBY-HfoCVt",
+      "status": "FINAL LOCKED"
     }
   },
   "qa": {
-    "status": "REPAIRED EXPORT CHECKS PASS - AUTHOR REVIEW AND PRINT PROOF PENDING",
+    "status": "FINAL LOCKED BY AUTHOR - ASSEMBLED BOOK PREFLIGHT AND PHYSICAL PROOF PENDING",
     "report": "qa/PRODUCTION_REVIEW_2026-09-27.md",
     "drive_report_id": "1Z0mSRQNbv7ZWtKlvYe9mQTr4SS7aKMRi",
     "drive_pixel_qa_id": "1iRPHMBIeDkz6kq8-huBwYHydznV76_IY",
@@ -94,5 +96,5 @@
     "status": "SUPERSEDED",
     "preserved": true
   },
-  "next_step": "Author review of repaired production derivatives, assembled-book preflight and physical proof before publication."
+  "next_step": "Proceed to Pages 9-10; complete assembled-book preflight and physical proof before publication."
 }
