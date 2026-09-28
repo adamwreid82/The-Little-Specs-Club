@@ -570,3 +570,90 @@ character_dimensions_and_helmet_colors:
       profile_drive_id: 1sePhT5kayhUtmfDyTFQ4DyYU_k0lWzCw
       image_drive_id: 1mXnar5Tl1iBPSSP_MaL1Xq7YVNTKabXB
       construction_ppe_allowed: false
+
+hard_hat_badge_application_lock:
+  status: AUTHOR_LOCKED_SOURCE_ANCHORED
+  author: Adam
+  recorded_date: "2026-09-28"
+  characters: [Ben, Leo, Vinny, Steph, Maya, Mrs-Harper]
+  scope: approved_LS_hard_hat_badge_only
+  authority: approved_individual_source_PNG_and_paired_profile
+  artwork_rule: hard_hat_badge
+  rule:
+    - Preserve each character's own badge location and proportional size on their own helmet.
+    - Do not impose a shared screen-pixel size or move the badge toward the camera for visibility.
+    - Use the exact locked badge artwork; preserve its intrinsic proportions before projection.
+    - Apply only perspective, surface curvature and natural occlusion required by the helmet pose.
+    - The badge belongs on the front helmet panel; never add it to a rear view.
+    - Existing approved source art is unchanged; these measurements do not authorize redesign.
+  validation:
+    artwork_identity_and_application_are_separate_checks: true
+    must_check: [asset_identity, character_specific_scale, front_panel_location, brim_clearance, perspective, no_ghosting]
+    source_view_or_pose_rectification_required_for_numeric_comparison: true
+    compare_raw_screen_ratios_across_different_camera_angles: false
+    automatic_numeric_pass_tolerance: not_yet_author_approved
+    hidden_or_unmeasurable_application: UNVERIFIED_not_PASS
+    existing_spreads_automatically_certified: false
+  calibration:
+    status: SOURCE_DERIVED_MEASUREMENTS_NOT_SEPARATE_ART_APPROVAL
+    reference_view: first_front_facing_JOB_SITE_PPE_character_view_on_each_approved_sheet
+    rationale: consistent_character_view_sample_without_using_cropped_enlarged_Ben_helmet_detail
+    coordinate_system: original_source_PNG_pixels_origin_top_left_x_right_y_down
+    badge_bbox: [left, top, right, bottom]
+    badge_bbox_scope: visible_badge_including_contrast_outline_excluding_project_sticker
+    helmet_width_definition: full_projected_outer_helmet_width_including_brim_in_this_reference_view
+    vertical_reference: crown_top_to_front_brim_at_badge_centerline
+    formulas:
+      width_fraction: "(badge_right - badge_left) / (helmet_right - helmet_left)"
+      center_x_fraction: "((badge_left + badge_right)/2 - helmet_left) / (helmet_right - helmet_left)"
+      center_y_fraction: "((badge_top + badge_bottom)/2 - crown_y) / (front_brim_y - crown_y)"
+      bottom_clearance_fraction: "(front_brim_y - badge_bottom) / (front_brim_y - crown_y)"
+    measurement_method: manual_visual_landmarks_at_4x_reference_magnification
+    estimated_landmark_uncertainty_source_pixels: 2
+    measurement_uncertainty_is_not_a_production_tolerance: true
+    ratios_are_reference_projection_samples_not_universal_physical_dimensions: true
+    physical_inches: not_established
+    authority_if_rounding_or_landmark_choice_conflicts: approved_source_PNG
+    samples:
+      Ben:
+        registry_character: Ben
+        source_dimensions: [1024, 1536]
+        helmet_left_right: [586, 758]
+        crown_y: 191
+        front_brim_y: 256
+        badge_bbox: [666, 212, 707, 251]
+      Leo:
+        registry_character: Leo
+        source_dimensions: [1145, 1374]
+        helmet_left_right: [596, 753]
+        crown_y: 178
+        front_brim_y: 238
+        badge_bbox: [674, 194, 714, 233]
+      Vinny:
+        registry_character: Vinny
+        source_dimensions: [1024, 1536]
+        helmet_left_right: [559, 730]
+        crown_y: 195
+        front_brim_y: 262
+        badge_bbox: [634, 216, 681, 260]
+      Steph:
+        registry_character: Steph
+        source_dimensions: [1024, 1536]
+        helmet_left_right: [587, 734]
+        crown_y: 199
+        front_brim_y: 259
+        badge_bbox: [661, 221, 691, 251]
+      Maya:
+        registry_character: Maya
+        source_dimensions: [1024, 1536]
+        helmet_left_right: [537, 679]
+        crown_y: 216
+        front_brim_y: 269
+        badge_bbox: [586, 227, 625, 261]
+      Mrs-Harper:
+        registry_character: Mrs-Harper
+        source_dimensions: [1024, 1536]
+        helmet_left_right: [560, 694]
+        crown_y: 152
+        front_brim_y: 207
+        badge_bbox: [623, 167, 655, 197]
