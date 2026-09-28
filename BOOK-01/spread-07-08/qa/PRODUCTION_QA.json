@@ -1,58 +1,68 @@
 {
-  "native_dimensions": [
-    1774,
-    887
+  "pair_changes_outside_text_alpha": 0,
+  "text_pixels_in_hard_gutter": 0,
+  "left_text_bbox": [
+    650,
+    160,
+    2019,
+    512
   ],
+  "right_text_bbox": [
+    3000,
+    160,
+    4343,
+    779
+  ],
+  "top_text_clearance_inches": 0.5333333333333333,
+  "halo_repair_native_bbox": [
+    1371,
+    176,
+    1579,
+    287
+  ],
+  "revision": 2,
   "production_dimensions": [
     5100,
     2550
   ],
-  "native_A_B_difference_bbox": [
-    0,
-    0,
-    1773,
-    341
+  "native_artwork_dimensions": [
+    1774,
+    887
   ],
+  "new_text_font": "Nimbus Roman 64 px (15.36 pt at 300 ppi)",
+  "pdf_page_count_each": 2,
   "pdf_page_size_points": [
     621,
     630
   ],
-  "pdf_page_count_each": 2,
-  "pdf_page_order": [
+  "page_order": [
     "LEFT",
     "RIGHT"
   ],
-  "artwork_approval": "Adam: Approve and continue with the other steps",
-  "approval_date_local": "2026-09-27",
-  "native_detail_added": false,
   "physical_proof": "NOT_PERFORMED",
+  "native_detail_added": false,
+  "author_approval_of_repaired_derivatives": "PENDING",
+  "repair_instruction": "Correct these issues",
   "assets": [
     {
       "filename": "Pages_7-8_Version_A_5100x2550_PRINT_REVIEW.png",
-      "sha256": "9b7826fdf93fc951a287bb655f1c1da4b87e5b66d88ad6906f1dba9534757703",
-      "size_bytes": 12657831
+      "sha256": "321486421d49f6b5fe051d3bf923955ce1038a2b17ba505b7a42d425b5cf68b1",
+      "size_bytes": 12654842
     },
     {
       "filename": "Pages_7-8_Version_A_BLEED_PRINT_REVIEW.pdf",
-      "sha256": "fa23c2901eb764c9a5e36adba06e79de406c6731ee1fb27d8f8876adf8858819",
-      "size_bytes": 27862958
+      "sha256": "850ef64cb09958ac1356766aad42320126d5d57e62060abedd3d738aaf416d92",
+      "size_bytes": 27853530
     },
     {
       "filename": "Pages_7-8_Version_B_5100x2550_PRINT_REVIEW.png",
-      "sha256": "0f6dc43b26cc655cbaaa96128c534b352c79276d13c4528c1c646ec3c19e7e7c",
-      "size_bytes": 13553642
-    },
-    {
-      "filename": "Pages_7-8_Version_B_ARTWORK_LOCKED_2026-09-27.png",
-      "sha256": "210292658823ded0a8a3fd0eaa68ebb5dff1488fc11bbfa22ea8d6105c9072cb",
-      "size_bytes": 2583364
+      "sha256": "93fbd58ea8725935d49ac310a4ce4b441cf9dad26d6c0b2495ddadca75c23acc",
+      "size_bytes": 12892902
     },
     {
       "filename": "Pages_7-8_Version_B_BLEED_PRINT_REVIEW.pdf",
-      "sha256": "e844dd22652494ed38afaa2eb4c9ba523dcca738973713a67fb6d44e9d55ebba",
-      "size_bytes": 29030219
+      "sha256": "0a048eb856c23b7529ea4bb5e951ab398797018f9e76526bfb635ab8dc4e16fe",
+      "size_bytes": 28045138
     }
-  ],
-  "native_changes_below_y350": 0,
-  "text_removal_scope": "Upper background and sky restoration with protected head/helmet/equipment polygons; not a letters-only pixel difference."
+  ]
 }

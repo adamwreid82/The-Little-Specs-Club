@@ -21,8 +21,8 @@
   },
   "version_a": {
     "filename": "Pages_7-8_Version_A_5100x2550_PRINT_REVIEW.png",
-    "sha256": "9b7826fdf93fc951a287bb655f1c1da4b87e5b66d88ad6906f1dba9534757703",
-    "size_bytes": 12657831,
+    "sha256": "321486421d49f6b5fe051d3bf923955ce1038a2b17ba505b7a42d425b5cf68b1",
+    "size_bytes": 12654842,
     "drive_id": "1CbSBYHhmhXA5McMXE97A6P9duLPYDsNP",
     "path": "version-a/",
     "storage": "google_drive",
@@ -33,15 +33,15 @@
     ],
     "bleed_pdf": {
       "filename": "Pages_7-8_Version_A_BLEED_PRINT_REVIEW.pdf",
-      "sha256": "fa23c2901eb764c9a5e36adba06e79de406c6731ee1fb27d8f8876adf8858819",
-      "size_bytes": 27862958,
+      "sha256": "850ef64cb09958ac1356766aad42320126d5d57e62060abedd3d738aaf416d92",
+      "size_bytes": 27853530,
       "drive_id": "1Xg4Gy-wuqDxpT2zUg_CbDgblGWeovmAC"
     }
   },
   "version_b": {
     "filename": "Pages_7-8_Version_B_5100x2550_PRINT_REVIEW.png",
-    "sha256": "0f6dc43b26cc655cbaaa96128c534b352c79276d13c4528c1c646ec3c19e7e7c",
-    "size_bytes": 13553642,
+    "sha256": "93fbd58ea8725935d49ac310a4ce4b441cf9dad26d6c0b2495ddadca75c23acc",
+    "size_bytes": 12892902,
     "drive_id": "1yfa1yKunfjTN_Fwhm4qNCFXahPhzl7-f",
     "path": "version-b/",
     "storage": "google_drive",
@@ -52,32 +52,47 @@
     ],
     "bleed_pdf": {
       "filename": "Pages_7-8_Version_B_BLEED_PRINT_REVIEW.pdf",
-      "sha256": "e844dd22652494ed38afaa2eb4c9ba523dcca738973713a67fb6d44e9d55ebba",
-      "size_bytes": 29030219,
+      "sha256": "0a048eb856c23b7529ea4bb5e951ab398797018f9e76526bfb635ab8dc4e16fe",
+      "size_bytes": 28045138,
       "drive_id": "129CahEyi6OwW0TIGCoEdkLCBY-HfoCVt"
     }
   },
   "qa": {
-    "status": "EXPORT CHECKS COMPLETE - PRINT PREFLIGHT AND AUTHOR DERIVATIVE REVIEW PENDING",
+    "status": "REPAIRED EXPORT CHECKS PASS - AUTHOR REVIEW AND PRINT PROOF PENDING",
     "report": "qa/PRODUCTION_REVIEW_2026-09-27.md",
     "drive_report_id": "1Z0mSRQNbv7ZWtKlvYe9mQTr4SS7aKMRi",
     "drive_pixel_qa_id": "1iRPHMBIeDkz6kq8-huBwYHydznV76_IY",
     "all_five_remote_asset_sha256_reverified": true,
     "native_A_B_changes_below_y350": 0,
-    "text_removal_scope": "Upper background and sky restoration with protected head/helmet/equipment polygons; not a letters-only pixel difference.",
+    "text_removal_scope": "Upper background restoration from approved native image; current A/B production pair differs only by manuscript layer.",
     "physical_proof": "NOT_PERFORMED",
     "print_detail_certified": false,
     "full_canon_pixel_match_certified": false,
-    "open_layout_checks": [
-      "Left text starts outside default x_min=650",
-      "Top manuscript clearance approximately 0.23 inch from trim"
+    "open_layout_checks": [],
+    "approval_is_global_rule_exception": false,
+    "production_revision": 2,
+    "left_text_bbox": [
+      650,
+      160,
+      2019,
+      512
     ],
-    "approval_is_global_rule_exception": false
+    "right_text_bbox": [
+      3000,
+      160,
+      4343,
+      779
+    ],
+    "top_text_clearance_inches": 0.5333333333333333,
+    "halo_repair": "VISUAL PASS",
+    "pair_changes_outside_text_alpha": 0,
+    "text_pixels_in_hard_gutter": 0,
+    "all_four_repaired_export_sha256_reverified": true
   },
   "previous_artwork": {
     "drive_id": "1iWU1kW4ib2rfNNvQJs7nomMFz5V1ivky",
     "status": "SUPERSEDED",
     "preserved": true
   },
-  "next_step": "Review derivatives and complete margin/trim, assembled-book pagination and physical proof checks before publication."
+  "next_step": "Author review of repaired production derivatives, assembled-book preflight and physical proof before publication."
 }

@@ -1,37 +1,38 @@
-# Pages 7-8 production review
-Approval date: 2026-09-27 (America/Chicago). Production work completed 2026-09-28 UTC.
+# Pages 7-8 production review, revision 2
+Artwork approval: Adam, 2026-09-27 (America/Chicago), "Approve and continue with the other steps".
+Repair authorization: "Correct these issues", following the export review.
+Current state: approved native artwork preserved; repaired production derivatives ready for author review. Physical print proof pending.
 
-Adam approved the exact latest corrected Version B with: "Approve and continue with the other steps".
-Artwork is locked. New production derivatives are prepared for review, not separately author-approved or publication-certified.
+## Repairs completed
+- Removed the pale sky halo above Jackson's blue helmet using a localized generated repair. Native repair differences are confined to x=1371..1579, y=176..287. No change outside this patch relative to the previous text-free native image.
+- Rebuilt manuscript as a separate 64 px Nimbus Roman text layer (15.36 pt at 300 ppi), preserving manuscript wording.
+- Left text bounds: x=650..2019, y=160..512. PASS against x=650..2250.
+- Right text bounds: x=3000..4343, y=160..779.
+- Top text clearance: 160 px / 300 = 0.533 inch from trim.
+- Hard gutter x=2349..2751: zero text pixels.
+- A/B difference verification: zero changes outside the text layer alpha.
+- Both PNGs: 5100 x 2550. Both bleed PDFs: two pages, LEFT then RIGHT, 621 x 630 pt (8.625 x 8.75 in). All four PDF page renders visually inspected.
+- Bleed remains edge-extended: 38 px outer, 37 px top, 38 px bottom. Full-book assembly must place left and right on appropriate physical even/odd pages.
 
-## Controlling artwork
-Drive: https://drive.google.com/file/d/1q-7fESvLMvNWwnTnyVTA-S9uBTITy6G6/view
-SHA256: 210292658823ded0a8a3fd0eaa68ebb5dff1488fc11bbfa22ea8d6105c9072cb
-Native: 1774 x 887. Exact Library recovery: libfile_f07c38433e2481918ca2567578fd8791.
-Supersedes the September 21 candidate 1iWU1kW4ib2rfNNvQJs7nomMFz5V1ivky. Older files remain historical references.
+## Stable references
+Approved native artwork (unchanged): https://drive.google.com/file/d/1q-7fESvLMvNWwnTnyVTA-S9uBTITy6G6/view
+Native SHA256: 210292658823ded0a8a3fd0eaa68ebb5dff1488fc11bbfa22ea8d6105c9072cb
+Version A: https://drive.google.com/file/d/1CbSBYHhmhXA5McMXE97A6P9duLPYDsNP/view
+Version B: https://drive.google.com/file/d/1yfa1yKunfjTN_Fwhm4qNCFXahPhzl7-f/view
+A bleed PDF: https://drive.google.com/file/d/1Xg4Gy-wuqDxpT2zUg_CbDgblGWeovmAC/view
+B bleed PDF: https://drive.google.com/file/d/129CahEyi6OwW0TIGCoEdkLCBY-HfoCVt/view
+QA: https://drive.google.com/file/d/1iRPHMBIeDkz6kq8-huBwYHydznV76_IY/view
+Report: https://drive.google.com/file/d/1Z0mSRQNbv7ZWtKlvYe9mQTr4SS7aKMRi/view
 
-## Production deliverables
-Version A 5100 x 2550: https://drive.google.com/file/d/1CbSBYHhmhXA5McMXE97A6P9duLPYDsNP/view?usp=drivesdk
-Version B 5100 x 2550: https://drive.google.com/file/d/1yfa1yKunfjTN_Fwhm4qNCFXahPhzl7-f/view?usp=drivesdk
-Version A bleed PDF: https://drive.google.com/file/d/1Xg4Gy-wuqDxpT2zUg_CbDgblGWeovmAC/view?usp=drivesdk
-Version B bleed PDF: https://drive.google.com/file/d/129CahEyi6OwW0TIGCoEdkLCBY-HfoCVt/view?usp=drivesdk
-Machine-readable QA: https://drive.google.com/file/d/1iRPHMBIeDkz6kq8-huBwYHydznV76_IY/view?usp=drivesdk
+## Scope and remaining checks
+The three identified export defects (halo, left text position and top clearance) are repaired. The previous export revision is superseded in place, preserving Drive file IDs.
+The repaired derivatives have not yet received a separate author approval. Native scene approval remains intact; this is not an approval of unseen future edits.
+Native illustration remains 1774 x 887, about 104 ppi at 17 inches. Text was rendered freshly at production size, but illustration enlargement adds no native detail. Physical print sharpness, assembled-book preflight and KDP Previewer review remain pending.
+This is a production repair review, not a new full character-source certification. Exact heights in perspective, clear side deflectors, hidden adult sticker inventory and tiny branding are not newly certified. No approvals or receipt history were invented.
+Version A's earlier sky restoration changes upper background/cloud pixels relative to the approved texted native image. The new A/B production pair is identical outside the manuscript layer.
 
-Version B is a Lanczos enlargement of the approved native artwork with no redesign.
-Version A uses image-generated sky restoration composited into the upper background, with protected head, helmet and excavator regions. It is not a letters-only pixel edit. Native A/B differences are confined to y=0..341; zero changes at or below y=350. Upper sky, clouds and some treetop/background pixels differ. Text-free sky appearance remains subject to derivative review.
-All five image/PDF files were downloaded from Drive again; their SHA256 values match local exports.
-
-Both bleed PDFs contain two separate pages, LEFT then RIGHT, 621 x 630 points (8.625 x 8.75 inches). Bleed uses edge extension: 38 px outer edge, 37 px top, 38 px bottom. Both pages of each PDF were rendered and inspected for export failures. These are spread production IDs; assembled-book pagination must place the left image on a physical even page and the right image on the following odd page.
-
-## Review scope and limitations
-The approved scene includes all eight people, normal clothing for the five children and Harper, PPE for Rivera and Jackson, corrected vest treatment and Maya zipper, and the revised Ben/Leo gaze. People and manuscript remain outside the hard center gutter. Early-site earthwork and visitor-side fencing are preserved.
-Author approval is recorded separately from QA. This export operation does not certify exact source-pixel identity, numerical heights in perspective, Ben's clear side deflectors, hidden adult sticker inventory, or tiny Civic Ridge lettering. No new sticker receipt history is inferred.
-The approved left text begins left of the default x=650 text zone after enlargement. Top manuscript clearance is roughly 0.23 inch from trim. These layout observations remain for print preflight; the approval is not silently interpreted as a global canon exception.
-Native artwork is approximately 104 pixels per inch at a 17-inch spread. Enlargement creates the required pixel dimensions, not additional native detail. Full-book assembly, final margin/trim checks, KDP Previewer review and a physical proof remain pending.
-
-## File hashes
-- Pages_7-8_Version_A_5100x2550_PRINT_REVIEW.png: 9b7826fdf93fc951a287bb655f1c1da4b87e5b66d88ad6906f1dba9534757703
-- Pages_7-8_Version_A_BLEED_PRINT_REVIEW.pdf: fa23c2901eb764c9a5e36adba06e79de406c6731ee1fb27d8f8876adf8858819
-- Pages_7-8_Version_B_5100x2550_PRINT_REVIEW.png: 0f6dc43b26cc655cbaaa96128c534b352c79276d13c4528c1c646ec3c19e7e7c
-- Pages_7-8_Version_B_ARTWORK_LOCKED_2026-09-27.png: 210292658823ded0a8a3fd0eaa68ebb5dff1488fc11bbfa22ea8d6105c9072cb
-- Pages_7-8_Version_B_BLEED_PRINT_REVIEW.pdf: e844dd22652494ed38afaa2eb4c9ba523dcca738973713a67fb6d44e9d55ebba
+## Current export hashes
+- Pages_7-8_Version_A_5100x2550_PRINT_REVIEW.png: 321486421d49f6b5fe051d3bf923955ce1038a2b17ba505b7a42d425b5cf68b1
+- Pages_7-8_Version_A_BLEED_PRINT_REVIEW.pdf: 850ef64cb09958ac1356766aad42320126d5d57e62060abedd3d738aaf416d92
+- Pages_7-8_Version_B_5100x2550_PRINT_REVIEW.png: 93fbd58ea8725935d49ac310a4ce4b441cf9dad26d6c0b2495ddadca75c23acc
+- Pages_7-8_Version_B_BLEED_PRINT_REVIEW.pdf: 0a048eb856c23b7529ea4bb5e951ab398797018f9e76526bfb635ab8dc4e16fe
