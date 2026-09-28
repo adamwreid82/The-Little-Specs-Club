@@ -41,7 +41,7 @@
   ],
   "physical_proof": "NOT_PERFORMED",
   "native_detail_added": false,
-  "author_approval_of_repaired_derivatives": "PENDING",
+  "author_approval_of_repaired_derivatives": "APPROVED - FINAL LOCKED",
   "repair_instruction": "Correct these issues",
   "assets": [
     {
@@ -64,5 +64,8 @@
       "sha256": "0a048eb856c23b7529ea4bb5e951ab398797018f9e76526bfb635ab8dc4e16fe",
       "size_bytes": 28045138
     }
-  ]
+  ],
+  "approved_by": "Adam",
+  "approval_date": "2026-09-27",
+  "approval_evidence": "Approve"
 }
