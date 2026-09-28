@@ -1,0 +1,83 @@
+{
+  "spread": "07-08",
+  "title": "Meet the Project Team",
+  "status": "ARTWORK LOCKED - PRODUCTION EXPORTS READY FOR REVIEW",
+  "artwork_locked": true,
+  "final_locked": false,
+  "approved_by": "Adam",
+  "approved_date": "2026-09-27",
+  "approval_evidence": "Approve and continue with the other steps",
+  "approval_scope": "Exact latest corrected Version B artwork; derivatives require production review",
+  "approved_native_artwork": {
+    "filename": "Pages_7-8_Version_B_ARTWORK_LOCKED_2026-09-27.png",
+    "sha256": "210292658823ded0a8a3fd0eaa68ebb5dff1488fc11bbfa22ea8d6105c9072cb",
+    "size_bytes": 2583364,
+    "drive_id": "1q-7fESvLMvNWwnTnyVTA-S9uBTITy6G6",
+    "dimensions_px": [
+      1774,
+      887
+    ],
+    "status": "ARTWORK LOCKED"
+  },
+  "version_a": {
+    "filename": "Pages_7-8_Version_A_5100x2550_PRINT_REVIEW.png",
+    "sha256": "9b7826fdf93fc951a287bb655f1c1da4b87e5b66d88ad6906f1dba9534757703",
+    "size_bytes": 12657831,
+    "drive_id": "1CbSBYHhmhXA5McMXE97A6P9duLPYDsNP",
+    "path": "version-a/",
+    "storage": "google_drive",
+    "status": "PRINT REVIEW PENDING",
+    "dimensions_px": [
+      5100,
+      2550
+    ],
+    "bleed_pdf": {
+      "filename": "Pages_7-8_Version_A_BLEED_PRINT_REVIEW.pdf",
+      "sha256": "fa23c2901eb764c9a5e36adba06e79de406c6731ee1fb27d8f8876adf8858819",
+      "size_bytes": 27862958,
+      "drive_id": "1Xg4Gy-wuqDxpT2zUg_CbDgblGWeovmAC"
+    }
+  },
+  "version_b": {
+    "filename": "Pages_7-8_Version_B_5100x2550_PRINT_REVIEW.png",
+    "sha256": "0f6dc43b26cc655cbaaa96128c534b352c79276d13c4528c1c646ec3c19e7e7c",
+    "size_bytes": 13553642,
+    "drive_id": "1yfa1yKunfjTN_Fwhm4qNCFXahPhzl7-f",
+    "path": "version-b/",
+    "storage": "google_drive",
+    "status": "PRINT REVIEW PENDING",
+    "dimensions_px": [
+      5100,
+      2550
+    ],
+    "bleed_pdf": {
+      "filename": "Pages_7-8_Version_B_BLEED_PRINT_REVIEW.pdf",
+      "sha256": "e844dd22652494ed38afaa2eb4c9ba523dcca738973713a67fb6d44e9d55ebba",
+      "size_bytes": 29030219,
+      "drive_id": "129CahEyi6OwW0TIGCoEdkLCBY-HfoCVt"
+    }
+  },
+  "qa": {
+    "status": "EXPORT CHECKS COMPLETE - PRINT PREFLIGHT AND AUTHOR DERIVATIVE REVIEW PENDING",
+    "report": "qa/PRODUCTION_REVIEW_2026-09-27.md",
+    "drive_report_id": "1Z0mSRQNbv7ZWtKlvYe9mQTr4SS7aKMRi",
+    "drive_pixel_qa_id": "1iRPHMBIeDkz6kq8-huBwYHydznV76_IY",
+    "all_five_remote_asset_sha256_reverified": true,
+    "native_A_B_changes_below_y350": 0,
+    "text_removal_scope": "Upper background and sky restoration with protected head/helmet/equipment polygons; not a letters-only pixel difference.",
+    "physical_proof": "NOT_PERFORMED",
+    "print_detail_certified": false,
+    "full_canon_pixel_match_certified": false,
+    "open_layout_checks": [
+      "Left text starts outside default x_min=650",
+      "Top manuscript clearance approximately 0.23 inch from trim"
+    ],
+    "approval_is_global_rule_exception": false
+  },
+  "previous_artwork": {
+    "drive_id": "1iWU1kW4ib2rfNNvQJs7nomMFz5V1ivky",
+    "status": "SUPERSEDED",
+    "preserved": true
+  },
+  "next_step": "Review derivatives and complete margin/trim, assembled-book pagination and physical proof checks before publication."
+}

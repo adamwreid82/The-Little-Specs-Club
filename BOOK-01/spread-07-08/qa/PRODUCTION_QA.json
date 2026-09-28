@@ -1,0 +1,58 @@
+{
+  "native_dimensions": [
+    1774,
+    887
+  ],
+  "production_dimensions": [
+    5100,
+    2550
+  ],
+  "native_A_B_difference_bbox": [
+    0,
+    0,
+    1773,
+    341
+  ],
+  "pdf_page_size_points": [
+    621,
+    630
+  ],
+  "pdf_page_count_each": 2,
+  "pdf_page_order": [
+    "LEFT",
+    "RIGHT"
+  ],
+  "artwork_approval": "Adam: Approve and continue with the other steps",
+  "approval_date_local": "2026-09-27",
+  "native_detail_added": false,
+  "physical_proof": "NOT_PERFORMED",
+  "assets": [
+    {
+      "filename": "Pages_7-8_Version_A_5100x2550_PRINT_REVIEW.png",
+      "sha256": "9b7826fdf93fc951a287bb655f1c1da4b87e5b66d88ad6906f1dba9534757703",
+      "size_bytes": 12657831
+    },
+    {
+      "filename": "Pages_7-8_Version_A_BLEED_PRINT_REVIEW.pdf",
+      "sha256": "fa23c2901eb764c9a5e36adba06e79de406c6731ee1fb27d8f8876adf8858819",
+      "size_bytes": 27862958
+    },
+    {
+      "filename": "Pages_7-8_Version_B_5100x2550_PRINT_REVIEW.png",
+      "sha256": "0f6dc43b26cc655cbaaa96128c534b352c79276d13c4528c1c646ec3c19e7e7c",
+      "size_bytes": 13553642
+    },
+    {
+      "filename": "Pages_7-8_Version_B_ARTWORK_LOCKED_2026-09-27.png",
+      "sha256": "210292658823ded0a8a3fd0eaa68ebb5dff1488fc11bbfa22ea8d6105c9072cb",
+      "size_bytes": 2583364
+    },
+    {
+      "filename": "Pages_7-8_Version_B_BLEED_PRINT_REVIEW.pdf",
+      "sha256": "e844dd22652494ed38afaa2eb4c9ba523dcca738973713a67fb6d44e9d55ebba",
+      "size_bytes": 29030219
+    }
+  ],
+  "native_changes_below_y350": 0,
+  "text_removal_scope": "Upper background and sky restoration with protected head/helmet/equipment polygons; not a letters-only pixel difference."
+}
