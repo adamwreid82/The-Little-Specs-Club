@@ -1,7 +1,7 @@
 # Pages 7-8 production review, revision 2
 Artwork approval: Adam, 2026-09-27 (America/Chicago), "Approve and continue with the other steps".
 Repair authorization: "Correct these issues", following the export review.
-Current state: approved native artwork preserved; repaired production derivatives ready for author review. Physical print proof pending.
+Current state: approved native artwork preserved; revision 2 A/B production masters and bleed PDFs FINAL LOCKED by Adam on 2026-09-27 with 'Approve'. Physical print proof pending.
 
 ## Repairs completed
 - Removed the pale sky halo above Jackson's blue helmet using a localized generated repair. Native repair differences are confined to x=1371..1579, y=176..287. No change outside this patch relative to the previous text-free native image.
@@ -26,7 +26,7 @@ Report: https://drive.google.com/file/d/1Z0mSRQNbv7ZWtKlvYe9mQTr4SS7aKMRi/view
 
 ## Scope and remaining checks
 The three identified export defects (halo, left text position and top clearance) are repaired. The previous export revision is superseded in place, preserving Drive file IDs.
-The repaired derivatives have not yet received a separate author approval. Native scene approval remains intact; this is not an approval of unseen future edits.
+Adam separately approved the repaired revision 2 A/B production masters and bleed PDFs with 'Approve'. Native scene approval remains intact. This lock covers these exact hashes and is not approval of future edits.
 Native illustration remains 1774 x 887, about 104 ppi at 17 inches. Text was rendered freshly at production size, but illustration enlargement adds no native detail. Physical print sharpness, assembled-book preflight and KDP Previewer review remain pending.
 This is a production repair review, not a new full character-source certification. Exact heights in perspective, clear side deflectors, hidden adult sticker inventory and tiny branding are not newly certified. No approvals or receipt history were invented.
 Version A's earlier sky restoration changes upper background/cloud pixels relative to the approved texted native image. The new A/B production pair is identical outside the manuscript layer.
@@ -36,3 +36,6 @@ Version A's earlier sky restoration changes upper background/cloud pixels relati
 - Pages_7-8_Version_A_BLEED_PRINT_REVIEW.pdf: 850ef64cb09958ac1356766aad42320126d5d57e62060abedd3d738aaf416d92
 - Pages_7-8_Version_B_5100x2550_PRINT_REVIEW.png: 93fbd58ea8725935d49ac310a4ce4b441cf9dad26d6c0b2495ddadca75c23acc
 - Pages_7-8_Version_B_BLEED_PRINT_REVIEW.pdf: 0a048eb856c23b7529ea4bb5e951ab398797018f9e76526bfb635ab8dc4e16fe
+
+## Final lock
+The four production filenames retain PRINT_REVIEW for stable existing references; their controlling status is now FINAL LOCKED. Bytes and hashes did not change during approval. Next spread: Pages 9-10. Physical proof and whole-book preflight remain publication checks, not an outstanding artwork approval.
