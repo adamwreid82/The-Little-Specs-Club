@@ -1,8 +1,18 @@
 spread: "25-26"
-status: DEVELOPMENT
-version_b: {status: pending, path: version-b/}
-version_a: {status: pending, path: version-a/}
-qa: {status: pending, path: qa/}
-archive: archive/
+status: VERSION_B_REVIEW_REQUIRED
 final_locked: false
 approved_by: null
+version_b:
+  status: review_required
+  drive_id: 1yZ8YJL6x63mtHsMlZlPeNlyMIPSoKX8s
+  sha256: 7d06caa00a6f86395e3203e3155d12a7b1e4f6e76762d4d05cbb896facba2f42
+  dimensions_pixels: [1774, 887]
+  revision: 6
+version_a: {status: pending_author_approval, path: version-a/}
+qa:
+  status: issues_and_unverified_checks_documented
+  all_pass: false
+  drive_id: 1N42ispYrnMWn7LLYHmzQ2XmrZzh0HVxk
+  report: qa/BATCH_CANDIDATE_2026-10-01.md
+approval_folder_id: 1yv-jiONWGFHG2LqmWK9yfCYlW2BVjfJ-
+archive: archive/
