@@ -108,7 +108,15 @@ branding_assets:
 helmet_badge_application_reference:
   rules_file: CANON/character-rules.yaml
   rules_key: hard_hat_badge_application_lock
+  status: AUTHOR_APPROVED_WORKING_BASELINE
+  approved_date: "2026-10-01"
   characters: [Ben, Leo, Vinny, Steph, Maya, Mrs-Harper]
+  additional_employer_logo_character: Daniel-Brooks
+  filename: Helmet_Logo_Size_Position_BASELINE_APPROVED_2026-10-01.png
+  drive_id: 1avjiIqZbZXG9Vo7HDBb34wAJ0K1jKPZd
+  sha256: 91e77046e46bfe37b5bb09cbb33d74eaece755855aa8e8540a18d1217595a898
   source_ids_and_hashes: characters
   source_images_or_profiles_modified: false
-  scope: individual_helmet_location_and_proportional_size
+  scope: current_helmet_logo_sizes_and_positions_only
+  later_explicit_author_adjustments_allowed: true
+  whole_spread_approved_by_this_lock: false
