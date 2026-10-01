@@ -1,0 +1,20 @@
+book: 1
+pages: [11, 12]
+status: VERSION_B_REVIEW_REQUIRED
+approved: false
+candidate:
+  drive_id: 1ibLq9kZA-aaQgbdsg16tl2aGtIEohjs9
+  sha256: 1129eea84edcbc52e17c5976f3ba6ec66595e8b5225fe729639ab73fc767e2d8
+  dimensions_pixels: [1774, 887]
+  revision: 3
+  folder_id: 1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ
+audit:
+  drive_id: 1jxrnt3UwTmtIbz2NoxlUwykoaZNpDIwX
+  all_pass: false
+  report: qa/BATCH_CANDIDATE_2026-10-01.md
+open_items:
+  - proposed_sticker_manuscript_reconciliation_requires_Adam
+  - exact_logo_and_sticker_application_unverified
+  - outer_margin_and_background_material_review
+  - print_export_5100x2550_pending
+final_lock_requires: Adam
