@@ -1,0 +1,52 @@
+{
+  "spread": "09-10",
+  "title": "Safety Orientation",
+  "status": "FINAL LOCKED",
+  "artwork_locked": true,
+  "final_locked": true,
+  "approved_by": "Adam",
+  "approved_date": "2026-10-01",
+  "approval_evidence": "I approve this spread",
+  "approval_scope": "Exact current revision 12 Version B spread only; later derivatives require review",
+  "version_b": {
+    "filename": "Pages_9-10_Version_B_FINAL_LOCKED_2026-10-01.png",
+    "drive_id": "1hV7tS64uxaaTwVwkfpH7G8GL6RYujpk4",
+    "sha256": "91e77046e46bfe37b5bb09cbb33d74eaece755855aa8e8540a18d1217595a898",
+    "size_bytes": 10848121,
+    "dimensions_px": [
+      5100,
+      2550
+    ],
+    "path": "version-b/",
+    "storage": "google_drive",
+    "status": "FINAL LOCKED"
+  },
+  "version_a": {
+    "status": "MATCHING DERIVATIVE PENDING",
+    "path": "version-a/"
+  },
+  "helmet_logo_baseline": {
+    "rules": "CANON/character-rules.yaml#hard_hat_badge_application_lock",
+    "drive_id": "1avjiIqZbZXG9Vo7HDBb34wAJ0K1jKPZd",
+    "same_bytes_as_version_b": true,
+    "later_author_adjustments_allowed": true
+  },
+  "qa": {
+    "status": "AUTHOR APPROVED; PRINT PREPARATION PENDING",
+    "report": "qa/PRODUCTION_REVIEW_2026-10-01.md",
+    "drive_report_id": "1RK4NEr-MU8TySYix7kkedEGHUQ3MQ0X4",
+    "full_canon_pixel_match_certified": false,
+    "print_detail_certified": false,
+    "matching_version_a": "PENDING",
+    "bleed_exports": "PENDING",
+    "assembled_book_preflight": "NOT_PERFORMED",
+    "physical_proof": "NOT_PERFORMED",
+    "approval_is_global_rule_exception": false
+  },
+  "previous_artwork": {
+    "drive_id": "1ilYeddTYjDd6tpw54szZ7t8peHYeHG-7",
+    "status": "SUPERSEDED",
+    "preserved": true
+  },
+  "next_step": "Derive and review matching Version A and print exports from locked Version B without redesign."
+}
