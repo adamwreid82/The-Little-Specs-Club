@@ -571,8 +571,9 @@ character_dimensions_and_helmet_colors:
       image_drive_id: 1mXnar5Tl1iBPSSP_MaL1Xq7YVNTKabXB
       construction_ppe_allowed: false
 
-hard_hat_badge_application_lock:
-  status: AUTHOR_LOCKED_SOURCE_ANCHORED
+historical_hard_hat_badge_application_lock_2026_09_28:
+  status: SUPERSEDED_REFERENCE_ONLY
+  superseded_by: hard_hat_badge_application_lock
   author: Adam
   recorded_date: "2026-09-28"
   characters: [Ben, Leo, Vinny, Steph, Maya, Mrs-Harper]
@@ -657,3 +658,44 @@ hard_hat_badge_application_lock:
         crown_y: 152
         front_brim_y: 207
         badge_bbox: [623, 167, 655, 197]
+
+
+hard_hat_badge_application_lock:
+  status: AUTHOR_APPROVED_WORKING_BASELINE
+  author: Adam
+  recorded_date: "2026-10-01"
+  approval_scope: current_helmet_logo_sizes_and_positions_only
+  later_explicit_author_adjustments_allowed: true
+  whole_spread_approved_by_this_lock: false
+  characters: [Ben, Leo, Vinny, Steph, Maya, Mrs-Harper]
+  artwork_rule: hard_hat_badge
+  reference:
+    filename: Helmet_Logo_Size_Position_BASELINE_APPROVED_2026-10-01.png
+    drive_id: 1avjiIqZbZXG9Vo7HDBb34wAJ0K1jKPZd
+    sha256: 91e77046e46bfe37b5bb09cbb33d74eaece755855aa8e8540a18d1217595a898
+    dimensions_pixels: [5100, 2550]
+    origin: Pages_9_10_revision_12_Leo_centerline_correction
+  rule:
+    - Use the current reference as the controlling baseline for helmet logo size and position.
+    - All six LS badges use the common size approved from Leo, preserving the current reference relationship.
+    - Center each badge on the wearer's facial centerline and orient it in the same direction as the nose.
+    - Preserve the approved raised placement and the final Leo centerline correction shown in the reference.
+    - Use the exact locked LS artwork with dark contour and narrow outer white contrast outline.
+    - Preserve intrinsic artwork proportions before applying helmet perspective and surface curvature.
+    - Adapt naturally to future camera distance, pose and occlusion; equal raw screen pixels across different views are not required.
+    - Keep badges on the helmet front panel; never add a front badge to a rear view or move it toward the camera for visibility.
+    - This baseline supersedes conflicting older source-specific logo size and placement instructions only.
+    - Profiles and source sheets remain authoritative together for all other character details.
+  employer_logo:
+    character: Daniel-Brooks
+    artwork_reference: Civic_Ridge_Construction_Group_Logo_GREEN_Hard_Hat_APPROVED_LOCKED.png
+    rule: Preserve Brooks's current employer-logo size and position in the reference as its own baseline; the Leo-size rule applies only to LS badges.
+    other_adults_inferred: false
+  validation:
+    artwork_identity_and_application_are_separate_checks: true
+    must_check: [asset_identity, approved_reference_scale, facial_centerline, nose_direction, raised_placement, perspective, no_ghosting]
+    physical_inches: not_established
+    automatic_numeric_pass_tolerance: not_author_approved
+    hidden_or_unmeasurable_application: UNVERIFIED_not_PASS
+    existing_spreads_automatically_certified: false
+    source_images_or_profiles_modified: false
