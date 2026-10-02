@@ -4,10 +4,10 @@ final_locked: false
 approved_by: null
 version_b:
   status: review_required
-  drive_id: 19cOikG9tTsojpbHdZfK676vMUZFLmxab
-  sha256: 870d1157728f0a9d97bdc5ab5c232529dba8e2069941aa4fe862c08ac5ec21a8
+  drive_id: 1q_cG5C9z-6Dj3VOw0Km3E97v4WouU21M
+  sha256: 9df71a707fec4d739f54efe47126d201520e4ecb4ce76f1916857bf0fbf5f7ab
   dimensions_pixels: [1774, 887]
-  revision: 2
+  revision: people_perspective_recheck
 version_a: {status: pending_author_approval, path: version-a/}
 qa:
   status: issues_and_unverified_checks_documented
@@ -16,3 +16,13 @@ qa:
   report: qa/BATCH_CANDIDATE_2026-10-01.md
 approval_folder_id: 1gznbWRTwe3Aa6KYKiSNfBXUd8H-Jm_-z
 archive: archive/
+
+people_perspective_recheck:
+  date: '2026-10-02'
+  status: REVIEW_REQUIRED_NOT_ALL_PASS
+  all_pass: false
+  perspective: "Low ground-level oblique view beside leaning stake"
+  preserved_previous_candidate: https://drive.google.com/file/d/19cOikG9tTsojpbHdZfK676vMUZFLmxab/view
+  review_url: https://drive.google.com/file/d/1q_cG5C9z-6Dj3VOw0Km3E97v4WouU21M/view?usp=drivesdk
+  audit_url: https://drive.google.com/file/d/1bwxaHO6XBO7aVWBefIxmXUDronR_SS2c/view
+  findings: "Before: Existing: Maya cargo pockets missing; Ben cargo pockets and workboot drift; Leo near-facing right side sticker absent; Steph hair too wavy. Change to low oblique ground-level view with leaning stake prominent.\nLow viewpoint with foreground stake and diagonal tire track achieved. Exact five children, Harper and Rivera. Children observe; nobody moves stake.\nBen: white helmet, black frames, blue shirt, plain khakis and dark shoes restored; side shields indistinct; left sticker visible at side edge, exact scale/location not certifiable.\nLeo: blue/navy/charcoal/orange vest/brown boots/clear eyewear/curls match visible source; right project sticker missing in first repair, explicitly restored in second.\nVinny: compact curls/round face, green/blue cargo/dark shoes and clear eyewear visible. Wrong visible right-side sticker in first draft explicitly removed (rear-left should be hidden).\nSteph: long straight red hair, blue eyes, lavender/olive/gray/purple shoes and clear eyewear visible; front-right sticker present.\nMaya: long dark curls, hoops, pink/yellow/blue cargo/purple shoes and clear eyewear; front-left sticker visible.\nHarper and Rivera: adult height broadly plausible at rear depth; source hairstyles/outfits/lanyard or tablet, brown work footwear, white LS versus Civic Ridge helmet and clear eyewear distinguish them.\nUnresolved: exact tiny badges/decals and numeric height unverified. Rivera far-right shoe/body edge and Maya hair near left margin. Steph extended fingertip touches gutter boundary. Figure depth varies visibly; not a measured stature pass. Text unchanged by visual reading; final typography and construction detail preflight pending. NOT ALL-PASS.\nSecond repair visually verified: Leo small right-side sticker restored and Vinny incorrect visible-side sticker removed; exact sticker asset remains simplified and unverified."
