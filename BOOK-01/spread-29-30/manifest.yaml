@@ -1,8 +1,18 @@
 spread: "29-30"
-status: DEVELOPMENT
-version_b: {status: pending, path: version-b/}
+status: REVIEW_REQUIRED
+version_b:
+  status: candidate_review_required
+  drive_id: 14LH5o_fdPIm-lwrJDCqk3eAiai5zc_No
+  drive_url: https://drive.google.com/file/d/14LH5o_fdPIm-lwrJDCqk3eAiai5zc_No/view?usp=drivesdk
 version_a: {status: pending, path: version-a/}
-qa: {status: pending, path: qa/}
-archive: archive/
+qa:
+  status: issues_and_unverified_items
+  drive_id: 1wwRZ2su72p58fyQC61UVJ8ImlDs2oHRs
+  drive_url: https://drive.google.com/file/d/1wwRZ2su72p58fyQC61UVJ8ImlDs2oHRs/view?usp=drivesdk
+archive:
+  drive_id: 1Dgdwpl3CeoEruD6zV875fMUuwSNsavCV
 final_locked: false
 approved_by: null
+print_ready: false
+dimensions: [1774, 887]
+production_date: "2026-10-02"
