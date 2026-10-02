@@ -4,10 +4,10 @@ final_locked: false
 approved_by: null
 version_b:
   status: review_required
-  drive_id: 1PCmHNWqc7BbLCApZuwUbqYSYVVttGCof
-  sha256: eae0d5e453004cebfca02b2084101ea6dec6abe0974db0c97302d7c091184a4b
+  drive_id: 1jx2INXwKdrGQ9GTM4D8-UHRFZTFrE_dv
+  sha256: fe6e30d5e4e81438e15816a5f6a118ddc9b70b38542ab0c96cacf93e4b99e1f1
   dimensions_pixels: [1774, 887]
-  revision: 6
+  revision: people_perspective_recheck
 version_a: {status: pending_author_approval, path: version-a/}
 qa:
   status: issues_and_unverified_checks_documented
@@ -16,3 +16,13 @@ qa:
   report: qa/BATCH_CANDIDATE_2026-10-01.md
 approval_folder_id: 1IrLM9I2MVjQBLd2tuEs5cskUDvH5h7AL
 archive: archive/
+
+people_perspective_recheck:
+  date: '2026-10-02'
+  status: REVIEW_REQUIRED_NOT_ALL_PASS
+  all_pass: false
+  perspective: "Rear three-quarter visitor view toward excavator"
+  preserved_previous_candidate: https://drive.google.com/file/d/1PCmHNWqc7BbLCApZuwUbqYSYVVttGCof/view
+  review_url: https://drive.google.com/file/d/1jx2INXwKdrGQ9GTM4D8-UHRFZTFrE_dv/view?usp=drivesdk
+  audit_url: https://drive.google.com/file/d/1KyJlaNhNUefP6UGAOCwvY86V3znpjiKr/view
+  findings: "Before: Existing: Steph/Maya clear safety glasses absent, Maya plain jeans; Ben footwear/pockets drift. Change to visitor-side three-quarter rear view looking toward excavator while retaining readable faces.\nNew rear three-quarter viewpoint achieved; five kids, Harper, Jackson plus distant operator. Visitors outside continuous barrier watching excavator.\nBen: source blue/plain khaki/dark shoes/white helmet/black frames; face mostly profile, side shield unverified.\nLeo: navy/charcoal/brown boots/blue helmet/orange vest edging/short curls/clear eyewear. Vinny: green/blue cargos/dark shoes/compact curls/clear eyewear. Steph: straight red/gray/lavender/olive/purple shoes/clear eyewear. Maya: long dark curls/yellow/pink/blue cargo/purple shoes/clear eyewear.\nHarper: brown waves/purple/floral/dark slacks/white helmet/work shoes/clear eyewear, no club back emblem. Jackson: older gray-haired/bearded sturdy man/navy/charcoal/blue Civic Ridge/orange vest trim/radio/clear eyewear, proper professional observer role.\nFirst draft failed back emblems (LS instead of club circle), had camera-facing side LS logos, and wrong near-side project stickers on Leo, Steph and Jackson. Focused second repair explicitly supplied exact club circle and targeted these defects.\nUnverified: mostly hidden faces, eye colors/freckles, numeric stature, hidden lifetime sticker inventory. Detailed source matching cannot receive full pass from rear view. Ben near gutter and Harper near outer edge. Exact company and club graphics remain subject to identity and application checks, not automatically passed. NOT ALL-PASS.\nSecond repair: wrong near-side Leo/Steph/Jackson project stickers removed, visible vest circles in correct upper panel restored but artwork is simplified and not exact. Helmet LS moved forward. This introduced an incorrect LS on adult Jackson; third targeted edit restores Civic Ridge only. Ben remains at central gutter edge; full geometry not passed.\nThird repair verified: Jackson restored to Civic Ridge employer logo, no adult LS. Circular vest marks remain simplified versions rather than exact locked artwork; this is an unresolved asset fidelity failure."
