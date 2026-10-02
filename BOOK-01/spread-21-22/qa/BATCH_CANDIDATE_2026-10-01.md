@@ -1,3 +1,36 @@
+# Pages 21-22 — people and perspective recheck
+
+Recheck date: 2026-10-02. Status: REVIEW REQUIRED — NOT APPROVED, NOT PRINT READY, NOT ALL-PASS.
+Authority: current Drive approved paired source PNGs/profiles; CANON/source-registry.yaml and character-rules.yaml; October 1 approved helmet size/position baseline. Source authority was not changed.
+Scope: person count/identity, face and hair, skin/eyes, underlying scale, normal clothing, PPE, eyewear, helmet colors, LS/employer logos, permanent wearer-relative sticker location and scale, vest-back emblems, pose/anatomy and continuity. Camera variation requested by Adam; hidden details are not automatically passed.
+Important audit correction: Maya's approved paired PNG includes cargo pockets on blue jeans. Earlier claims that plain jeans were a required repair were incorrect.
+Limits: generated small logos/stickers are not exact-asset or pose-rectified scale certified. Exact underlying height in staggered/posed perspective cannot be numerically certified. Hidden details are UNVERIFIED, not PASS. Approval and print-preflight remain separate. No numerical tolerance has been invented.
+
+Current recheck candidate: https://drive.google.com/file/d/133u9iF92gK_Srd-1H0ZRx0IEB4CaohYd/view?usp=drivesdk
+Preserved prior candidate: https://drive.google.com/file/d/1V_HgKqpAuf2X4_83u74tKS5qYhlpBEeV/view
+Local file validation: 35f6de855670271fc50a68b87989582d1e9f9fe9014857e4916b9c6f5a340599
+(1774, 887)
+
+Perspective: Child-eye side conversation across diagonal barrier
+
+## Recheck findings
+
+Before: Existing: Maya front-left sticker missing where shell appears visible; Maya cargo pockets missing; Ben khaki cargo/workboot drift. Change to side-angle conversation with Patel.
+Five kids, Harper and Patel present; child-eye side conversation with diagonal barrier achieved only modestly.
+Ben: side-swept hair/black glasses/white helmet/blue shirt/plain khakis/dark footwear repaired; side shields and hidden left sticker unverified.
+Leo: tight curls/navy hoodie/charcoal cargos/brown boots/blue helmet/orange vest/clear glasses visible; right-side sticker mostly far-side in this angle, not certified.
+Vinny: compact curls/round cheeks/green hoodie+hat/blue cargos/dark shoes/clear glasses; rear-left sticker naturally hidden.
+Steph: straight red hair/blue eyes/lavender/olive/gray helmet/purple shoes/clear glasses; missing front-right sticker targeted.
+Maya: curls/hoops/pink/blue cargo/yellow/purple shoes/clear glasses; first revision put sticker on wrong near/right side, focused repair requested correct far/front-left.
+Patel: source dark ponytail/black glasses/teal blouse/charcoal slacks/brown workboots/yellow Mason Vale helmet; incorrect visible right-side project sticker targeted for removal, rear-left should be hidden.
+Harper: white LS/floral blouse/purple cardigan/lanyard/dark slacks/brown workboots/clear glasses; foreground fence crossed her legs in first revision, moved behind to clarify visitor side.
+Unresolved: exact decal/LS artwork, perspective alignment/scale and numeric heights not certified. Patel pointing hand crosses center gutter and points more toward excavator than ground described in prose; retain construction/story review. Outer Maya hair/feet margins tight. NOT ALL-PASS.
+Final repair verified: Steph front-right sticker restored; wrong near-side Maya and Patel stickers removed. Maya front-left is now occluded/not visible rather than verified present. Harper barrier moved behind and brown workboots visible. Patel hand still within gutter. Exact tiny sticker art not passed.
+
+## Prior audit retained as history
+
+The following describes the previous candidate; it is not a current-pass certificate.
+
 # Pages 21-22 candidate audit
 
 Date: 2026-10-01. Status: REVIEW REQUIRED. Not approved; not all-pass.
@@ -28,3 +61,4 @@ Authority: fresh GitHub CANON source-registry and character-rules, Book 1/global
 2. Verify Maya front-left sticker occlusion in this pose; repair visibility if the correct panel should show, without changing permanent location.
 3. Verify exact small badge/sticker art and side shields in print proof.
 4. Preserve existing canon heights, colors and sticker positions; this candidate creates no new standard.
+
