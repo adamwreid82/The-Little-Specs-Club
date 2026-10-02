@@ -1,3 +1,35 @@
+# Pages 11-12 — people and perspective recheck
+
+Recheck date: 2026-10-02. Status: REVIEW REQUIRED — NOT APPROVED, NOT PRINT READY, NOT ALL-PASS.
+Authority: current Drive approved paired source PNGs/profiles; CANON/source-registry.yaml and character-rules.yaml; October 1 approved helmet size/position baseline. Source authority was not changed.
+Scope: person count/identity, face and hair, skin/eyes, underlying scale, normal clothing, PPE, eyewear, helmet colors, LS/employer logos, permanent wearer-relative sticker location and scale, vest-back emblems, pose/anatomy and continuity. Camera variation requested by Adam; hidden details are not automatically passed.
+Important audit correction: Maya's approved paired PNG includes cargo pockets on blue jeans. Earlier claims that plain jeans were a required repair were incorrect.
+Limits: generated small logos/stickers are not exact-asset or pose-rectified scale certified. Exact underlying height in staggered/posed perspective cannot be numerically certified. Hidden details are UNVERIFIED, not PASS. Approval and print-preflight remain separate. No numerical tolerance has been invented.
+
+Current recheck candidate: https://drive.google.com/file/d/1_q_d6JsGYzE6AJY23-MkxQU2exSFkW86/view?usp=drivesdk
+Preserved prior candidate: https://drive.google.com/file/d/1ibLq9kZA-aaQgbdsg16tl2aGtIEohjs9/view
+Local file validation: 0b2515ba1b35f83a0e1a07c8fca605572f37b91c181cd344f70f6d91dac406c8
+(1774, 887)
+
+Perspective: Raised diagonal view across sticker table
+
+## Recheck findings
+
+Visible cast PASS: Ben, Leo, Vinny, Steph, Maya, Harper, Rivera, Brooks, no extra child.
+Ben: black frames/blue shirt/khakis/white helmet identifiable; side deflectors not clear; applied left sticker remains too high/frontward to certify slightly-rear placement.
+Leo: navy hoodie, charcoal cargo, blue helmet, orange vest trim and clear glasses visible; one loose sticker, no duplicate.
+Vinny: compact curls, round face, green hoodie/helmet, blue cargo and clear glasses visible; one loose sticker, no wrong-side attached sticker.
+Steph: straight red hair, blue eyes, lavender/olive/gray helmet, clear glasses restored; only one loose sticker held beside wearer front-right after duplicate removal.
+Maya: curls, hoops, pink, blue cargo, yellow helmet, glasses visible; missing sticker restored at front-left. Sticker still visually oversized against approved smaller source.
+Harper: floral blouse/cardigan/lanyard/wavy hair/white helmet/glasses restored; loose sticker at waist. Brooks and Rivera retain source outfit/employer helmets; small rear project stickers occluded/unverified.
+Perspective modestly raised diagonal table view, still mostly frontal cast. Brooks crowded against right edge, Vinny left clothing overlaps edge of gutter band: unresolved layout failures.
+Exact sticker/LS artwork and size/alignment not certified; lower legs/feet cropped, numeric height unverified. Four attempts preserved. NOT ALL-PASS.
+Existing proposed manuscript reconciliation still requires Adam; source manuscript unchanged.
+
+## Prior audit retained as history
+
+The following describes the previous candidate; it is not a current-pass certificate.
+
 # Pages 11–12 candidate audit
 Date: 2026-10-01. Status: REVIEW REQUIRED, NOT APPROVED, NOT ALL-PASS.
 Image: https://drive.google.com/file/d/1ibLq9kZA-aaQgbdsg16tl2aGtIEohjs9/view
@@ -25,3 +57,4 @@ Initial draft had wrong visible sticker positions and Maya in gutter. R2 correct
 4. Review faces/proportions and remaining margin/background-material questions before final lock.
 ## Production status
 Candidate saved for review only. Version A and print-ready export deferred until approval. No approved source image, profile, prior spread, placement rule, or canonical manuscript changed.
+
