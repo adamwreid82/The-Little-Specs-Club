@@ -1,3 +1,36 @@
+# Pages 19-20 — people and perspective recheck
+
+Recheck date: 2026-10-02. Status: REVIEW REQUIRED — NOT APPROVED, NOT PRINT READY, NOT ALL-PASS.
+Authority: current Drive approved paired source PNGs/profiles; CANON/source-registry.yaml and character-rules.yaml; October 1 approved helmet size/position baseline. Source authority was not changed.
+Scope: person count/identity, face and hair, skin/eyes, underlying scale, normal clothing, PPE, eyewear, helmet colors, LS/employer logos, permanent wearer-relative sticker location and scale, vest-back emblems, pose/anatomy and continuity. Camera variation requested by Adam; hidden details are not automatically passed.
+Important audit correction: Maya's approved paired PNG includes cargo pockets on blue jeans. Earlier claims that plain jeans were a required repair were incorrect.
+Limits: generated small logos/stickers are not exact-asset or pose-rectified scale certified. Exact underlying height in staggered/posed perspective cannot be numerically certified. Hidden details are UNVERIFIED, not PASS. Approval and print-preflight remain separate. No numerical tolerance has been invented.
+
+Current recheck candidate: https://drive.google.com/file/d/1WoPc0kas47MpDpClzeFG8M4vNioXAUVp/view?usp=drivesdk
+Preserved prior candidate: https://drive.google.com/file/d/1EZR44gowo8aO7qATN_YoeolQvy4UgLZV/view
+Local file validation: 7082aec36687099904c7e6f0a7a980cd68e36c33cce62b6c20b045ee32422b29
+(1774, 887)
+
+Perspective: Modestly elevated offset wide survey/conversation view
+
+## Recheck findings
+
+Before: Existing: very small faces, PPE eyewear on several people not visible, Maya plain jeans; broad front-on panorama. Change to elevated diagonal site view with separate conversation and survey groups.
+Nine-person count: all five children plus Harper, Rivera, Natalie, Jackson present. No extra child. Natalie resets point; Jackson investigates tracks with radio. Perspective variation is modest (wider offset conversation/survey view); requested strong elevated angle was not fully achieved.
+Ben: blue shirt/plain khakis/dark shoes/black glasses repaired; wrong near-side sticker removed in targeted repair; far left-side sticker hidden. Side shields unverified.
+Leo: source short curls, navy hoodie, charcoal cargo, brown boots, blue helmet, orange vest edging/clear eyewear. Missing visible right sticker targeted.
+Vinny: green hoodie+helmet, compact curls/round cheeks, blue cargo and dark shoes, clear eyewear; rear-left decal hidden.
+Steph: straight red hair/blue eyes/lavender/olive/gray/purple footwear correct; missing eyewear and front-right sticker targeted.
+Maya: curls/hoops/pink/blue cargo/yellow/purple footwear restored; missing eyewear targeted, front-left sticker present.
+Harper: floral blouse/purple cardigan/lanyard/wavy brown hair/dark slacks/white LS, eyewear visible. Rivera: dark low ponytail/blue blouse/dark slacks/white Civic Ridge/clear eyewear. Adult shoes dark brown; exact work-shoe match requires review.
+Natalie: low straight ponytail/rust/charcoal/orange Eastmark/brown boots/eyewear match visible source. Jackson: gray hair/beard, sturdy adult, navy/charcoal/blue Civic Ridge/orange vest trim/brown boots/clear eyewear and radio match. Their rear job stickers hidden.
+Unverified: exact tiny artwork and asset scale, source facial nuances/freckles, numeric stature. Initial candidate Maya crossed gutter; compacting repair requested. NOT ALL-PASS.
+Final focused repair: Steph sticker now viewer-left of LS, Maya viewer-right, Ben wrong near-side sticker absent, Leo right sticker visible. Girls eyewear remains faint/insufficient to confidently certify; left group was not moved enough and Maya still overlaps central gutter. These remain failures/unverified, not passes.
+
+## Prior audit retained as history
+
+The following describes the previous candidate; it is not a current-pass certificate.
+
 # Pages 19-20 candidate audit
 
 Date: 2026-10-01. Status: REVIEW REQUIRED. Not approved; not all-pass.
@@ -28,3 +61,4 @@ Authority: fresh GitHub CANON source-registry and character-rules, Book 1/global
 2. Review child/adult likeness and perspective height ratios; retain existing locked measurements, do not infer new ones.
 3. Verify exact badge/sticker applications and hidden fixed inventory at final proof; no new placements proposed.
 4. Author review does not waive outer margins or 5100×2550 print preparation.
+
