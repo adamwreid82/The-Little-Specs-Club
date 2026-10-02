@@ -1,3 +1,34 @@
+# Pages 23-24 — people and perspective recheck
+
+Recheck date: 2026-10-02. Status: REVIEW REQUIRED — NOT APPROVED, NOT PRINT READY, NOT ALL-PASS.
+Authority: current Drive approved paired source PNGs/profiles; CANON/source-registry.yaml and character-rules.yaml; October 1 approved helmet size/position baseline. Source authority was not changed.
+Scope: person count/identity, face and hair, skin/eyes, underlying scale, normal clothing, PPE, eyewear, helmet colors, LS/employer logos, permanent wearer-relative sticker location and scale, vest-back emblems, pose/anatomy and continuity. Camera variation requested by Adam; hidden details are not automatically passed.
+Important audit correction: Maya's approved paired PNG includes cargo pockets on blue jeans. Earlier claims that plain jeans were a required repair were incorrect.
+Limits: generated small logos/stickers are not exact-asset or pose-rectified scale certified. Exact underlying height in staggered/posed perspective cannot be numerically certified. Hidden details are UNVERIFIED, not PASS. Approval and print-preflight remain separate. No numerical tolerance has been invented.
+
+Current recheck candidate: https://drive.google.com/file/d/1jx2INXwKdrGQ9GTM4D8-UHRFZTFrE_dv/view?usp=drivesdk
+Preserved prior candidate: https://drive.google.com/file/d/1PCmHNWqc7BbLCApZuwUbqYSYVVttGCof/view
+Local file validation: fe6e30d5e4e81438e15816a5f6a118ddc9b70b38542ab0c96cacf93e4b99e1f1
+(1774, 887)
+
+Perspective: Rear three-quarter visitor view toward excavator
+
+## Recheck findings
+
+Before: Existing: Steph/Maya clear safety glasses absent, Maya plain jeans; Ben footwear/pockets drift. Change to visitor-side three-quarter rear view looking toward excavator while retaining readable faces.
+New rear three-quarter viewpoint achieved; five kids, Harper, Jackson plus distant operator. Visitors outside continuous barrier watching excavator.
+Ben: source blue/plain khaki/dark shoes/white helmet/black frames; face mostly profile, side shield unverified.
+Leo: navy/charcoal/brown boots/blue helmet/orange vest edging/short curls/clear eyewear. Vinny: green/blue cargos/dark shoes/compact curls/clear eyewear. Steph: straight red/gray/lavender/olive/purple shoes/clear eyewear. Maya: long dark curls/yellow/pink/blue cargo/purple shoes/clear eyewear.
+Harper: brown waves/purple/floral/dark slacks/white helmet/work shoes/clear eyewear, no club back emblem. Jackson: older gray-haired/bearded sturdy man/navy/charcoal/blue Civic Ridge/orange vest trim/radio/clear eyewear, proper professional observer role.
+First draft failed back emblems (LS instead of club circle), had camera-facing side LS logos, and wrong near-side project stickers on Leo, Steph and Jackson. Focused second repair explicitly supplied exact club circle and targeted these defects.
+Unverified: mostly hidden faces, eye colors/freckles, numeric stature, hidden lifetime sticker inventory. Detailed source matching cannot receive full pass from rear view. Ben near gutter and Harper near outer edge. Exact company and club graphics remain subject to identity and application checks, not automatically passed. NOT ALL-PASS.
+Second repair: wrong near-side Leo/Steph/Jackson project stickers removed, visible vest circles in correct upper panel restored but artwork is simplified and not exact. Helmet LS moved forward. This introduced an incorrect LS on adult Jackson; third targeted edit restores Civic Ridge only. Ben remains at central gutter edge; full geometry not passed.
+Third repair verified: Jackson restored to Civic Ridge employer logo, no adult LS. Circular vest marks remain simplified versions rather than exact locked artwork; this is an unresolved asset fidelity failure.
+
+## Prior audit retained as history
+
+The following describes the previous candidate; it is not a current-pass certificate.
+
 # Pages 23-24 candidate audit
 
 Date: 2026-10-01. Status: REVIEW REQUIRED. Not approved; not all-pass.
@@ -29,3 +60,4 @@ Authority: fresh GitHub CANON source-registry and character-rules, Book 1/global
 2. Verify all fixed sticker visibility/occlusion and precise approved badge artwork at final scale.
 3. Retain current excavation-before-underground sequence; no new equipment/site dimensions inferred.
 4. Final print proof must resolve outer/bottom safety margins and output resolution.
+
