@@ -3,8 +3,8 @@ pages: [11, 12]
 status: VERSION_B_REVIEW_REQUIRED
 approved: false
 candidate:
-  drive_id: 1_q_d6JsGYzE6AJY23-MkxQU2exSFkW86
-  sha256: 0b2515ba1b35f83a0e1a07c8fca605572f37b91c181cd344f70f6d91dac406c8
+  drive_id: 1baSa2fVpbmr7-RjLIgrWnUqEoGaQk35g
+  sha256: fb5563627d3bdc6f8ff3774858c5af2eeaab647563cc13cdcd353319a4439026
   dimensions_pixels: [1774, 887]
   revision: people_perspective_recheck_r4
   folder_id: 1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ
@@ -25,5 +25,10 @@ people_perspective_recheck:
   all_pass: false
   perspective: raised_diagonal_table_view
   preserved_previous_candidate: https://drive.google.com/file/d/1ibLq9kZA-aaQgbdsg16tl2aGtIEohjs9/view
-  review_url: https://drive.google.com/file/d/1_q_d6JsGYzE6AJY23-MkxQU2exSFkW86/view?usp=drivesdk
+  review_url: https://drive.google.com/file/d/1baSa2fVpbmr7-RjLIgrWnUqEoGaQk35g/view?usp=drivesdk
   unresolved: [sticker_scale_and_exact_art, Ben_sticker_placement, Ben_side_shields, outer_margin, gutter_clothing_overlap, cropped_feet, numeric_height]
+
+# Resumed canon/perspective repair 2026-10-03; not all-pass
+# Current SHA256: fb5563627d3bdc6f8ff3774858c5af2eeaab647563cc13cdcd353319a4439026
+# Previous preserved candidate: https://drive.google.com/file/d/1_q_d6JsGYzE6AJY23-MkxQU2exSFkW86/view
+# Current audit: https://drive.google.com/file/d/1jxrnt3UwTmtIbz2NoxlUwykoaZNpDIwX/view
