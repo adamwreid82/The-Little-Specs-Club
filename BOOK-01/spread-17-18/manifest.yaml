@@ -40,3 +40,21 @@ people_perspective_recheck:
   audit_url: https://drive.google.com/file/d/1bwxaHO6XBO7aVWBefIxmXUDronR_SS2c/view
   findings: "Five children, Harper and Rivera remain. Low foreground leaning-stake view and exact text retained; nobody moves stake. Steph's shortened pointing gesture now clear of center gutter. Bottom ground space increased. Maya hair and Rivera remain near outer edges.\nBen: white LS/black rectangular glasses/blue shirt/plain khakis/dark low shoes; small left sticker at shell edge, precise placement and side shields unresolved.\nLeo: blue LS/short curls/navy/charcoal cargos/lime vest orange trim; lost glasses restored, brown boots restored after footwear edit changed them black. Right-side sticker remains visible.\nVinny: green LS/hoodie/compact curls/blue cargos/dark low shoes/clear glasses. Rear-left sticker hidden, no front duplicate.\nSteph: gray LS/straight red hair/blue eyes/lavender/olive cargos/purple-gray shoes/clear glasses, invented gold earrings removed. Front-right sticker visible viewer-left beside LS.\nMaya: yellow LS/long curls/hoops/pink/blue cargos/purple shoes/clear glasses, front-left sticker visible.\nHarper: white LS/wavy brown hair/hoops/purple floral/ID/simple lime vest/dark slacks/brown work boots/clear glasses. Rivera: white Civic Ridge/dark low ponytail/hoops/blue blouse/lime vest/dark slacks/brown boots/clear glasses/tablet.\nClothing/eyewear repairs inspected after each edit; exact facial nuance and stature not automatically passed."
   unresolved: "Outer left hair and right footwear margins remain tight despite request. Sticker pictures are visibly simplified, exact employer/LS marks and hidden inventory unresolved. Rivera sticker seems relatively forward on visible shell; precise left-rear lock must be checked. Foreground stake clear of middle but full layout/engineering proof remains."
+
+lettering_only_revision_2026_10_03:
+  status: REVIEW_REQUIRED_NOT_APPROVED
+  font_family: Architects Daughter
+  font_size_pt: 18
+  spread_trim_inches: [17, 8.5]
+  export_dimensions_px: [5100, 2550]
+  export_dpi: 300
+  exact_embedded_type_verified: true
+  original_pixels_outside_lettering_preserved: true
+  pdf_drive_id: 1ImEI_IFBR7ouzqOE64yI2nPAbh-Yh0kw
+  png_drive_id: 1XoqsSQFs8Bb42AZsYX5g2jAsRG9DjRVz
+  audit_drive_id: 1XUlrZKLUzNOJ8_rHLjdKEsGa_hOWRUks
+  edit_package_drive_id: 1G5EKin97_FmXhG0NAVozD1zJmQMojrKu
+  original_assets_preserved: true
+  artwork_approval_transferred: false
+  native_artwork_print_detail_verified: false
+  print_ready: false
