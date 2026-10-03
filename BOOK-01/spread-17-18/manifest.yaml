@@ -7,7 +7,7 @@ version_b:
   drive_id: 1tdKGTvsiF7Ir0k4XXsRJaHPBoOft7shH
   sha256: 23c7bc62c36f0ce158c353d1f8adfcf2e593bb742d8b2e17c506ef26db85166a
   dimensions_pixels: [1774, 887]
-  revision: people_perspective_recheck
+  revision: canon_perspective_resume_2026_10_03
 version_a: {status: pending_author_approval, path: version-a/}
 qa:
   status: issues_and_unverified_checks_documented
@@ -17,13 +17,13 @@ qa:
 approval_folder_id: 1gznbWRTwe3Aa6KYKiSNfBXUd8H-Jm_-z
 archive: archive/
 
-people_perspective_recheck:
+historical_people_perspective_recheck_2026_10_02:
   date: '2026-10-02'
   status: REVIEW_REQUIRED_NOT_ALL_PASS
   all_pass: false
   perspective: "Low ground-level oblique view beside leaning stake"
   preserved_previous_candidate: https://drive.google.com/file/d/19cOikG9tTsojpbHdZfK676vMUZFLmxab/view
-  review_url: https://drive.google.com/file/d/1tdKGTvsiF7Ir0k4XXsRJaHPBoOft7shH/view?usp=drivesdk
+  review_url: https://drive.google.com/file/d/1q_cG5C9z-6Dj3VOw0Km3E97v4WouU21M/view?usp=drivesdk
   audit_url: https://drive.google.com/file/d/1bwxaHO6XBO7aVWBefIxmXUDronR_SS2c/view
   findings: "Before: Existing: Maya cargo pockets missing; Ben cargo pockets and workboot drift; Leo near-facing right side sticker absent; Steph hair too wavy. Change to low oblique ground-level view with leaning stake prominent.\nLow viewpoint with foreground stake and diagonal tire track achieved. Exact five children, Harper and Rivera. Children observe; nobody moves stake.\nBen: white helmet, black frames, blue shirt, plain khakis and dark shoes restored; side shields indistinct; left sticker visible at side edge, exact scale/location not certifiable.\nLeo: blue/navy/charcoal/orange vest/brown boots/clear eyewear/curls match visible source; right project sticker missing in first repair, explicitly restored in second.\nVinny: compact curls/round face, green/blue cargo/dark shoes and clear eyewear visible. Wrong visible right-side sticker in first draft explicitly removed (rear-left should be hidden).\nSteph: long straight red hair, blue eyes, lavender/olive/gray/purple shoes and clear eyewear visible; front-right sticker present.\nMaya: long dark curls, hoops, pink/yellow/blue cargo/purple shoes and clear eyewear; front-left sticker visible.\nHarper and Rivera: adult height broadly plausible at rear depth; source hairstyles/outfits/lanyard or tablet, brown work footwear, white LS versus Civic Ridge helmet and clear eyewear distinguish them.\nUnresolved: exact tiny badges/decals and numeric height unverified. Rivera far-right shoe/body edge and Maya hair near left margin. Steph extended fingertip touches gutter boundary. Figure depth varies visibly; not a measured stature pass. Text unchanged by visual reading; final typography and construction detail preflight pending. NOT ALL-PASS.\nSecond repair visually verified: Leo small right-side sticker restored and Vinny incorrect visible-side sticker removed; exact sticker asset remains simplified and unverified."
 
@@ -31,3 +31,12 @@ people_perspective_recheck:
 # Current SHA256: 23c7bc62c36f0ce158c353d1f8adfcf2e593bb742d8b2e17c506ef26db85166a
 # Previous preserved candidate: https://drive.google.com/file/d/1q_cG5C9z-6Dj3VOw0Km3E97v4WouU21M/view
 # Current audit: https://drive.google.com/file/d/1bwxaHO6XBO7aVWBefIxmXUDronR_SS2c/view
+
+people_perspective_recheck:
+  date: "2026-10-03"
+  status: REVIEW_REQUIRED_NOT_ALL_PASS
+  all_pass: false
+  review_url: https://drive.google.com/file/d/1tdKGTvsiF7Ir0k4XXsRJaHPBoOft7shH/view?usp=drivesdk
+  audit_url: https://drive.google.com/file/d/1bwxaHO6XBO7aVWBefIxmXUDronR_SS2c/view
+  findings: "Five children, Harper and Rivera remain. Low foreground leaning-stake view and exact text retained; nobody moves stake. Steph's shortened pointing gesture now clear of center gutter. Bottom ground space increased. Maya hair and Rivera remain near outer edges.\nBen: white LS/black rectangular glasses/blue shirt/plain khakis/dark low shoes; small left sticker at shell edge, precise placement and side shields unresolved.\nLeo: blue LS/short curls/navy/charcoal cargos/lime vest orange trim; lost glasses restored, brown boots restored after footwear edit changed them black. Right-side sticker remains visible.\nVinny: green LS/hoodie/compact curls/blue cargos/dark low shoes/clear glasses. Rear-left sticker hidden, no front duplicate.\nSteph: gray LS/straight red hair/blue eyes/lavender/olive cargos/purple-gray shoes/clear glasses, invented gold earrings removed. Front-right sticker visible viewer-left beside LS.\nMaya: yellow LS/long curls/hoops/pink/blue cargos/purple shoes/clear glasses, front-left sticker visible.\nHarper: white LS/wavy brown hair/hoops/purple floral/ID/simple lime vest/dark slacks/brown work boots/clear glasses. Rivera: white Civic Ridge/dark low ponytail/hoops/blue blouse/lime vest/dark slacks/brown boots/clear glasses/tablet.\nClothing/eyewear repairs inspected after each edit; exact facial nuance and stature not automatically passed."
+  unresolved: "Outer left hair and right footwear margins remain tight despite request. Sticker pictures are visibly simplified, exact employer/LS marks and hidden inventory unresolved. Rivera sticker seems relatively forward on visible shell; precise left-rear lock must be checked. Foreground stake clear of middle but full layout/engineering proof remains."
