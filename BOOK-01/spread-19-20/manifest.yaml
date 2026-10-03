@@ -7,7 +7,7 @@ version_b:
   drive_id: 1RHnXJfhVuNMzg2X--Ho7CzGbcNhisWLy
   sha256: be73be475d535a57c2cb1d692244a362e47ed205aa2b9ad61339e8b77219e344
   dimensions_pixels: [1774, 887]
-  revision: people_perspective_recheck
+  revision: canon_perspective_resume_2026_10_03
 version_a: {status: pending_author_approval, path: version-a/}
 qa:
   status: issues_and_unverified_checks_documented
@@ -17,13 +17,13 @@ qa:
 approval_folder_id: 1k29Auvrhre7wft6fWGFl_6Se63wbxY25
 archive: archive/
 
-people_perspective_recheck:
+historical_people_perspective_recheck_2026_10_02:
   date: '2026-10-02'
   status: REVIEW_REQUIRED_NOT_ALL_PASS
   all_pass: false
   perspective: "Modestly elevated offset wide survey/conversation view"
   preserved_previous_candidate: https://drive.google.com/file/d/1EZR44gowo8aO7qATN_YoeolQvy4UgLZV/view
-  review_url: https://drive.google.com/file/d/1RHnXJfhVuNMzg2X--Ho7CzGbcNhisWLy/view?usp=drivesdk
+  review_url: https://drive.google.com/file/d/1WoPc0kas47MpDpClzeFG8M4vNioXAUVp/view?usp=drivesdk
   audit_url: https://drive.google.com/file/d/1mM734Mnb5h2VrGU6KLc7TLtuWpilr6Rh/view
   findings: "Before: Existing: very small faces, PPE eyewear on several people not visible, Maya plain jeans; broad front-on panorama. Change to elevated diagonal site view with separate conversation and survey groups.\nNine-person count: all five children plus Harper, Rivera, Natalie, Jackson present. No extra child. Natalie resets point; Jackson investigates tracks with radio. Perspective variation is modest (wider offset conversation/survey view); requested strong elevated angle was not fully achieved.\nBen: blue shirt/plain khakis/dark shoes/black glasses repaired; wrong near-side sticker removed in targeted repair; far left-side sticker hidden. Side shields unverified.\nLeo: source short curls, navy hoodie, charcoal cargo, brown boots, blue helmet, orange vest edging/clear eyewear. Missing visible right sticker targeted.\nVinny: green hoodie+helmet, compact curls/round cheeks, blue cargo and dark shoes, clear eyewear; rear-left decal hidden.\nSteph: straight red hair/blue eyes/lavender/olive/gray/purple footwear correct; missing eyewear and front-right sticker targeted.\nMaya: curls/hoops/pink/blue cargo/yellow/purple footwear restored; missing eyewear targeted, front-left sticker present.\nHarper: floral blouse/purple cardigan/lanyard/wavy brown hair/dark slacks/white LS, eyewear visible. Rivera: dark low ponytail/blue blouse/dark slacks/white Civic Ridge/clear eyewear. Adult shoes dark brown; exact work-shoe match requires review.\nNatalie: low straight ponytail/rust/charcoal/orange Eastmark/brown boots/eyewear match visible source. Jackson: gray hair/beard, sturdy adult, navy/charcoal/blue Civic Ridge/orange vest trim/brown boots/clear eyewear and radio match. Their rear job stickers hidden.\nUnverified: exact tiny artwork and asset scale, source facial nuances/freckles, numeric stature. Initial candidate Maya crossed gutter; compacting repair requested. NOT ALL-PASS.\nFinal focused repair: Steph sticker now viewer-left of LS, Maya viewer-right, Ben wrong near-side sticker absent, Leo right sticker visible. Girls eyewear remains faint/insufficient to confidently certify; left group was not moved enough and Maya still overlaps central gutter. These remain failures/unverified, not passes."
 
@@ -31,3 +31,12 @@ people_perspective_recheck:
 # Current SHA256: be73be475d535a57c2cb1d692244a362e47ed205aa2b9ad61339e8b77219e344
 # Previous preserved candidate: https://drive.google.com/file/d/1WoPc0kas47MpDpClzeFG8M4vNioXAUVp/view
 # Current audit: https://drive.google.com/file/d/1mM734Mnb5h2VrGU6KLc7TLtuWpilr6Rh/view
+
+people_perspective_recheck:
+  date: "2026-10-03"
+  status: REVIEW_REQUIRED_NOT_ALL_PASS
+  all_pass: false
+  review_url: https://drive.google.com/file/d/1RHnXJfhVuNMzg2X--Ho7CzGbcNhisWLy/view?usp=drivesdk
+  audit_url: https://drive.google.com/file/d/1mM734Mnb5h2VrGU6KLc7TLtuWpilr6Rh/view
+  findings: "Nine characters retained. Left group reduced coherently; Maya now clear of center band. Offset wide view preserved; text visually unchanged. Natalie resets point; Jackson inspects tracks, children observe.\nBen white LS/black frames/blue shirt/plain khakis/dark low shoes retained; side shields not resolved. Leo blue LS/navy/charcoal cargos/brown boots/orange vest trim/short curls retained. Vinny green LS/hoodie/blue cargos/dark low shoes/compact curls retained; attempted eye-color correction not confidently verified.\nSteph gray LS/straight red hair/blue eyes/lavender/olive cargo/purple-gray shoes. Front-right sticker viewer-left beside LS. Attempted earring removal not confidently verified at small scale.\nMaya yellow LS/long curls/hoops/pink/blue cargo/purple shoes; front-left sticker visible. Harper white LS/wavy hair/hoops/purple floral/ID/simple lime vest/dark slacks/brown footwear. Rivera white Civic Ridge/low dark ponytail/blue blouse/lime vest/dark slacks/brown footwear/tablet.\nNatalie orange Eastmark/rust shirt/charcoal cargos/brown boots/low straight ponytail; Jackson older gray beard/navy/charcoal cargos/brown boots/blue Civic Ridge/lime orange vest/radio. Distinct roles retained.\nClear safety eyewear was added across cast; Natalie/Jackson and adults' glasses visible. In final smaller child group some rims/side temples remain faint, so complete eye-protection pass is withheld."
+  unresolved: "Vinny exact brown iris and Steph accessory removal remain UNVERIFIED after focused repair; do not treat request as proof. Girls' and smaller children's fine eyewear/temples require closer source-scale proof. Adult footwear exact work-shoe construction unresolved. Tiny stickers/employer marks simplified; hidden inventories and exact height unverified. Perspective remains modest rather than strongly elevated. Construction instrument/hand/stake geometry still illustrative."
