@@ -1,3 +1,31 @@
+# Pages 11-12 current canon and perspective audit
+Date: 2026-10-03. REVIEW REQUIRED. NOT APPROVED; NOT ALL-PASS; NOT PRINT-READY.
+Candidate: https://drive.google.com/file/d/1baSa2fVpbmr7-RjLIgrWnUqEoGaQk35g/view?usp=drivesdk
+SHA256: fb5563627d3bdc6f8ff3774858c5af2eeaab647563cc13cdcd353319a4439026
+Native dimensions: 1774 × 887.
+
+## Current source and draft check
+Drive folder and latest audit inspected before generation; prior candidates and archived drafts preserved. Current approved character PNGs and CANON rules remain authority. No approved source assets modified. Maya cargo pockets follow her approved PNG; earlier plain-jeans claims were incorrect.
+
+## Current visible inspection and repair outcome
+Five children, Harper, Rivera and Brooks retained. Right group reduced and moved clear of center; Brooks now inside right edge. Raised diagonal table perspective retained. Maya duplicate loose sticker introduced by reframing was removed. One sticker per child/Harper, applied or held, is visible; Rivera demonstrates one.
+Ben: neat hair/black rectangular glasses/white LS/blue shirt/plain khakis; left-side sticker still relatively high/frontward, exact slightly-rear placement not passed; feet out of view and side shields unresolved.
+Leo: short curls/navy/charcoal cargo/blue LS/lime orange vest/clear glasses; loose sticker and no attached duplicate; feet cropped.
+Vinny: compact curls/round cheeks/green hoodie+helmet/blue cargo/dark low shoes repaired; clear glasses visible; one loose sticker.
+Steph: straight red hair/blue eyes/lavender/olive/gray LS/purple-gray footwear repaired; clear glasses; one loose sticker near front-right intended placement, no attached duplicate.
+Maya: long brown curls/hoops/pink/yellow/blue cargo/purple footwear repaired; clear glasses; one applied front-left sticker with hand, no duplicate.
+Harper: white LS/wavy hair/hoops/purple floral/ID/simple lime vest/dark slacks/brown work footwear restored; clear glasses and one loose sticker. Rivera source ponytail/blue blouse/white Civic Ridge/glasses/lime vest visible. Brooks green quarterzip/green Civic Ridge/glasses/charcoal cargos/brown boots visible; employer patch artwork approximate.
+Current proposed wording remains unchanged: STATION NO. 2, BUILDING BRIGHTER TOMORROWS, and ceremony explicitly includes Harper. These are NOT approved manuscript changes; source manuscript left untouched.
+
+## Checks that remain unresolved
+Ben sticker rearward refinement remains open. Exact small sticker/LS/employer artwork and physical scale still unverified; held decals remain enlarged in foreground. Right and left groups now have visibly different apparent scale/depth; perspective-adjusted stature not certified. Lower left figures cropped. Text partially overlays site background rather than only sky; final typography/layout unresolved. Adam must approve/reject existing manuscript proposal separately.
+Generated tiny logos/stickers/emblems are not exact-pixel certified. Hidden inventory is UNVERIFIED, not passed or authorized for removal. Pose-adjusted canonical height, minute facial likeness/freckles, fine anatomy and exact Ben side-shield construction remain unverified unless explicitly checked above. Numerical placement tolerances were not invented.
+Resolution FAIL: native 1774 × 887 is below 5100 × 2550. Final print typography/bleed/margins remain unverified. Illustrative construction geometry is not an approved engineering detail or new site lock.
+
+## Review decisions
+Adam to review likeness, remaining defects, exact branding and final composition. Version A awaits B approval. Original manuscript retained unless explicitly flagged below; no canon change or approval assigned.
+
+## Previous audit — historical, describes previous candidate only
 # Pages 11-12 — people and perspective recheck
 
 Recheck date: 2026-10-02. Status: REVIEW REQUIRED — NOT APPROVED, NOT PRINT READY, NOT ALL-PASS.
@@ -57,4 +85,5 @@ Initial draft had wrong visible sticker positions and Maya in gutter. R2 correct
 4. Review faces/proportions and remaining margin/background-material questions before final lock.
 ## Production status
 Candidate saved for review only. Version A and print-ready export deferred until approval. No approved source image, profile, prior spread, placement rule, or canonical manuscript changed.
+
 
