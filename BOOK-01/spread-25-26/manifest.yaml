@@ -4,10 +4,10 @@ final_locked: false
 approved_by: null
 version_b:
   status: review_required
-  drive_id: 1yZ8YJL6x63mtHsMlZlPeNlyMIPSoKX8s
-  sha256: 7d06caa00a6f86395e3203e3155d12a7b1e4f6e76762d4d05cbb896facba2f42
+  drive_id: 1zJcyPcrySiUvvx4fyosGWsmXNXTn_8md
+  sha256: 29fa305cf0a2bd17219e67d1f8e72b9e9e39fad0c9a05e86ef0427b383fcc707
   dimensions_pixels: [1774, 887]
-  revision: 6
+  revision: 7
 version_a: {status: pending_author_approval, path: version-a/}
 qa:
   status: issues_and_unverified_checks_documented
@@ -16,3 +16,6 @@ qa:
   report: qa/BATCH_CANDIDATE_2026-10-01.md
 approval_folder_id: 1yv-jiONWGFHG2LqmWK9yfCYlW2BVjfJ-
 archive: archive/
+
+previous_candidate_drive_id: 1yZ8YJL6x63mtHsMlZlPeNlyMIPSoKX8s
+resumed_repair_date: "2026-10-03"
