@@ -1,3 +1,29 @@
+# Pages 19-20 current canon and perspective audit
+Date: 2026-10-03. REVIEW REQUIRED. NOT APPROVED; NOT ALL-PASS; NOT PRINT-READY.
+Candidate: https://drive.google.com/file/d/1RHnXJfhVuNMzg2X--Ho7CzGbcNhisWLy/view?usp=drivesdk
+SHA256: be73be475d535a57c2cb1d692244a362e47ed205aa2b9ad61339e8b77219e344
+Native dimensions: 1774 × 887.
+
+## Current source and draft check
+Drive folder and latest audit inspected before generation; prior candidates and archived drafts preserved. Current approved character PNGs and CANON rules remain authority. No approved source assets modified. Maya cargo pockets follow her approved PNG; earlier plain-jeans claims were incorrect.
+
+## Current visible inspection and repair outcome
+Nine characters retained. Left group reduced coherently; Maya now clear of center band. Offset wide view preserved; text visually unchanged. Natalie resets point; Jackson inspects tracks, children observe.
+Ben white LS/black frames/blue shirt/plain khakis/dark low shoes retained; side shields not resolved. Leo blue LS/navy/charcoal cargos/brown boots/orange vest trim/short curls retained. Vinny green LS/hoodie/blue cargos/dark low shoes/compact curls retained; attempted eye-color correction not confidently verified.
+Steph gray LS/straight red hair/blue eyes/lavender/olive cargo/purple-gray shoes. Front-right sticker viewer-left beside LS. Attempted earring removal not confidently verified at small scale.
+Maya yellow LS/long curls/hoops/pink/blue cargo/purple shoes; front-left sticker visible. Harper white LS/wavy hair/hoops/purple floral/ID/simple lime vest/dark slacks/brown footwear. Rivera white Civic Ridge/low dark ponytail/blue blouse/lime vest/dark slacks/brown footwear/tablet.
+Natalie orange Eastmark/rust shirt/charcoal cargos/brown boots/low straight ponytail; Jackson older gray beard/navy/charcoal cargos/brown boots/blue Civic Ridge/lime orange vest/radio. Distinct roles retained.
+Clear safety eyewear was added across cast; Natalie/Jackson and adults' glasses visible. In final smaller child group some rims/side temples remain faint, so complete eye-protection pass is withheld.
+
+## Checks that remain unresolved
+Vinny exact brown iris and Steph accessory removal remain UNVERIFIED after focused repair; do not treat request as proof. Girls' and smaller children's fine eyewear/temples require closer source-scale proof. Adult footwear exact work-shoe construction unresolved. Tiny stickers/employer marks simplified; hidden inventories and exact height unverified. Perspective remains modest rather than strongly elevated. Construction instrument/hand/stake geometry still illustrative.
+Generated tiny logos/stickers/emblems are not exact-pixel certified. Hidden inventory is UNVERIFIED, not passed or authorized for removal. Pose-adjusted canonical height, minute facial likeness/freckles, fine anatomy and exact Ben side-shield construction remain unverified unless explicitly checked above. Numerical placement tolerances were not invented.
+Resolution FAIL: native 1774 × 887 is below 5100 × 2550. Final print typography/bleed/margins remain unverified. Illustrative construction geometry is not an approved engineering detail or new site lock.
+
+## Review decisions
+Adam to review likeness, remaining defects, exact branding and final composition. Version A awaits B approval. Original manuscript retained unless explicitly flagged below; no canon change or approval assigned.
+
+## Previous audit — historical, describes previous candidate only
 # Pages 19-20 — people and perspective recheck
 
 Recheck date: 2026-10-02. Status: REVIEW REQUIRED — NOT APPROVED, NOT PRINT READY, NOT ALL-PASS.
@@ -61,4 +87,5 @@ Authority: fresh GitHub CANON source-registry and character-rules, Book 1/global
 2. Review child/adult likeness and perspective height ratios; retain existing locked measurements, do not infer new ones.
 3. Verify exact badge/sticker applications and hidden fixed inventory at final proof; no new placements proposed.
 4. Author review does not waive outer margins or 5100×2550 print preparation.
+
 
