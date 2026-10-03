@@ -6,7 +6,7 @@ candidate:
   drive_id: 1baSa2fVpbmr7-RjLIgrWnUqEoGaQk35g
   sha256: fb5563627d3bdc6f8ff3774858c5af2eeaab647563cc13cdcd353319a4439026
   dimensions_pixels: [1774, 887]
-  revision: people_perspective_recheck_r4
+  revision: canon_perspective_resume_2026_10_03
   folder_id: 1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ
 audit:
   drive_id: 1jxrnt3UwTmtIbz2NoxlUwykoaZNpDIwX
@@ -19,16 +19,25 @@ open_items:
   - print_export_5100x2550_pending
 final_lock_requires: Adam
 
-people_perspective_recheck:
+historical_people_perspective_recheck_2026_10_02:
   date: '2026-10-02'
   status: REPAIRED_WITH_UNRESOLVED_FAILURES
   all_pass: false
   perspective: raised_diagonal_table_view
   preserved_previous_candidate: https://drive.google.com/file/d/1ibLq9kZA-aaQgbdsg16tl2aGtIEohjs9/view
-  review_url: https://drive.google.com/file/d/1baSa2fVpbmr7-RjLIgrWnUqEoGaQk35g/view?usp=drivesdk
+  review_url: https://drive.google.com/file/d/1_q_d6JsGYzE6AJY23-MkxQU2exSFkW86/view?usp=drivesdk
   unresolved: [sticker_scale_and_exact_art, Ben_sticker_placement, Ben_side_shields, outer_margin, gutter_clothing_overlap, cropped_feet, numeric_height]
 
 # Resumed canon/perspective repair 2026-10-03; not all-pass
 # Current SHA256: fb5563627d3bdc6f8ff3774858c5af2eeaab647563cc13cdcd353319a4439026
 # Previous preserved candidate: https://drive.google.com/file/d/1_q_d6JsGYzE6AJY23-MkxQU2exSFkW86/view
 # Current audit: https://drive.google.com/file/d/1jxrnt3UwTmtIbz2NoxlUwykoaZNpDIwX/view
+
+people_perspective_recheck:
+  date: "2026-10-03"
+  status: REVIEW_REQUIRED_NOT_ALL_PASS
+  all_pass: false
+  review_url: https://drive.google.com/file/d/1baSa2fVpbmr7-RjLIgrWnUqEoGaQk35g/view?usp=drivesdk
+  audit_url: https://drive.google.com/file/d/1jxrnt3UwTmtIbz2NoxlUwykoaZNpDIwX/view
+  findings: "Five children, Harper, Rivera and Brooks retained. Right group reduced and moved clear of center; Brooks now inside right edge. Raised diagonal table perspective retained. Maya duplicate loose sticker introduced by reframing was removed. One sticker per child/Harper, applied or held, is visible; Rivera demonstrates one.\nBen: neat hair/black rectangular glasses/white LS/blue shirt/plain khakis; left-side sticker still relatively high/frontward, exact slightly-rear placement not passed; feet out of view and side shields unresolved.\nLeo: short curls/navy/charcoal cargo/blue LS/lime orange vest/clear glasses; loose sticker and no attached duplicate; feet cropped.\nVinny: compact curls/round cheeks/green hoodie+helmet/blue cargo/dark low shoes repaired; clear glasses visible; one loose sticker.\nSteph: straight red hair/blue eyes/lavender/olive/gray LS/purple-gray footwear repaired; clear glasses; one loose sticker near front-right intended placement, no attached duplicate.\nMaya: long brown curls/hoops/pink/yellow/blue cargo/purple footwear repaired; clear glasses; one applied front-left sticker with hand, no duplicate.\nHarper: white LS/wavy hair/hoops/purple floral/ID/simple lime vest/dark slacks/brown work footwear restored; clear glasses and one loose sticker. Rivera source ponytail/blue blouse/white Civic Ridge/glasses/lime vest visible. Brooks green quarterzip/green Civic Ridge/glasses/charcoal cargos/brown boots visible; employer patch artwork approximate.\nCurrent proposed wording remains unchanged: STATION NO. 2, BUILDING BRIGHTER TOMORROWS, and ceremony explicitly includes Harper. These are NOT approved manuscript changes; source manuscript left untouched."
+  unresolved: "Ben sticker rearward refinement remains open. Exact small sticker/LS/employer artwork and physical scale still unverified; held decals remain enlarged in foreground. Right and left groups now have visibly different apparent scale/depth; perspective-adjusted stature not certified. Lower left figures cropped. Text partially overlays site background rather than only sky; final typography/layout unresolved. Adam must approve/reject existing manuscript proposal separately."
