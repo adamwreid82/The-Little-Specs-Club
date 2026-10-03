@@ -7,7 +7,7 @@ version_b:
   drive_id: 1FqINZbwuvS1xtafK-fho1A5CC8vv4Xj3
   sha256: be3230d4b0f1ef1090ce8671c1efebb1c511ad0d46651409feb4cc7fc34f41b2
   dimensions_pixels: [1774, 887]
-  revision: people_perspective_recheck
+  revision: canon_perspective_resume_2026_10_03
 version_a: {status: pending_author_approval, path: version-a/}
 qa:
   status: issues_and_unverified_checks_documented
@@ -17,13 +17,13 @@ qa:
 approval_folder_id: 1NiCkm3pZd35143wpNA4Rq6bufo5JgiB5
 archive: archive/
 
-people_perspective_recheck:
+historical_people_perspective_recheck_2026_10_02:
   date: '2026-10-02'
   status: REVIEW_REQUIRED_NOT_ALL_PASS
   all_pass: false
   perspective: "Child-eye side conversation across diagonal barrier"
   preserved_previous_candidate: https://drive.google.com/file/d/1V_HgKqpAuf2X4_83u74tKS5qYhlpBEeV/view
-  review_url: https://drive.google.com/file/d/1FqINZbwuvS1xtafK-fho1A5CC8vv4Xj3/view?usp=drivesdk
+  review_url: https://drive.google.com/file/d/133u9iF92gK_Srd-1H0ZRx0IEB4CaohYd/view?usp=drivesdk
   audit_url: https://drive.google.com/file/d/1aVGm8nlv61cidOF8N9dRBqVhCVDeXOut/view
   findings: "Before: Existing: Maya front-left sticker missing where shell appears visible; Maya cargo pockets missing; Ben khaki cargo/workboot drift. Change to side-angle conversation with Patel.\nFive kids, Harper and Patel present; child-eye side conversation with diagonal barrier achieved only modestly.\nBen: side-swept hair/black glasses/white helmet/blue shirt/plain khakis/dark footwear repaired; side shields and hidden left sticker unverified.\nLeo: tight curls/navy hoodie/charcoal cargos/brown boots/blue helmet/orange vest/clear glasses visible; right-side sticker mostly far-side in this angle, not certified.\nVinny: compact curls/round cheeks/green hoodie+hat/blue cargos/dark shoes/clear glasses; rear-left sticker naturally hidden.\nSteph: straight red hair/blue eyes/lavender/olive/gray helmet/purple shoes/clear glasses; missing front-right sticker targeted.\nMaya: curls/hoops/pink/blue cargo/yellow/purple shoes/clear glasses; first revision put sticker on wrong near/right side, focused repair requested correct far/front-left.\nPatel: source dark ponytail/black glasses/teal blouse/charcoal slacks/brown workboots/yellow Mason Vale helmet; incorrect visible right-side project sticker targeted for removal, rear-left should be hidden.\nHarper: white LS/floral blouse/purple cardigan/lanyard/dark slacks/brown workboots/clear glasses; foreground fence crossed her legs in first revision, moved behind to clarify visitor side.\nUnresolved: exact decal/LS artwork, perspective alignment/scale and numeric heights not certified. Patel pointing hand crosses center gutter and points more toward excavator than ground described in prose; retain construction/story review. Outer Maya hair/feet margins tight. NOT ALL-PASS.\nFinal repair verified: Steph front-right sticker restored; wrong near-side Maya and Patel stickers removed. Maya front-left is now occluded/not visible rather than verified present. Harper barrier moved behind and brown workboots visible. Patel hand still within gutter. Exact tiny sticker art not passed."
 
@@ -31,3 +31,12 @@ people_perspective_recheck:
 # Current SHA256: be3230d4b0f1ef1090ce8671c1efebb1c511ad0d46651409feb4cc7fc34f41b2
 # Previous preserved candidate: https://drive.google.com/file/d/133u9iF92gK_Srd-1H0ZRx0IEB4CaohYd/view
 # Current audit: https://drive.google.com/file/d/1aVGm8nlv61cidOF8N9dRBqVhCVDeXOut/view
+
+people_perspective_recheck:
+  date: "2026-10-03"
+  status: REVIEW_REQUIRED_NOT_ALL_PASS
+  all_pass: false
+  review_url: https://drive.google.com/file/d/1FqINZbwuvS1xtafK-fho1A5CC8vv4Xj3/view?usp=drivesdk
+  audit_url: https://drive.google.com/file/d/1aVGm8nlv61cidOF8N9dRBqVhCVDeXOut/view
+  findings: "Five children, Harper and Patel retained. Patel now points DOWN beside her body toward ground, not horizontally at excavator; hand clearly outside center band. Child-eye side conversation viewpoint and exact manuscript retained. Maya moved slightly inward.\nBen white LS/black glasses/blue shirt/plain khakis/dark brown low shoes; side-shield construction unresolved. Leo blue LS/navy/charcoal cargo/brown boots/orange vest trim/clear glasses/short curls. Vinny green LS/green hoodie/blue cargo/dark low shoes/compact curls/clear glasses.\nSteph gray LS/straight red hair/light blue eyes/lavender/olive cargo/purple-gray shoes/clear glasses; front-right sticker viewer-left beside LS. Earring removal attempted twice, small gold loop still appears at ear: FAIL/UNVERIFIED, do not pass accessory check.\nMaya yellow LS/long curls/hoops/pink/blue cargo/purple footwear/clear glasses. Far front-left sticker hidden. Harper white LS/wavy brown hair/hoops/purple floral/ID/simple lime vest/dark slacks/brown boots; clear glasses restored after first-edit regression.\nPatel yellow Mason Vale/black glasses/teal blouse/low dark ponytail/lime silver vest/charcoal slacks/brown boots/notebook; employer badge retained. Rear-left project sticker hidden.\nVisitor boundary and children observing maintained; no physical work by children."
+  unresolved: "Steph tiny gold ear accessory remains unresolved despite removal prompts. Outer margins, especially Harper right edge and bottom shoes, remain tight. Exact project picture/LS/employer art and hidden sticker inventory not certified. Ben footwear and side shields require final source-scale proof; exact posture-adjusted stature and site layout unverified."
