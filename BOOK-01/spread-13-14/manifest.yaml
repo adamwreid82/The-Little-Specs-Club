@@ -7,7 +7,7 @@ version_b:
   drive_id: 1LInqDl-7DxYmcRnhXyG4iT4VRJrRPAA6
   sha256: 135bbe07ebf0af192658d6d116ce5dbcfe413b8873939aebc6a9d4a02ce14915
   dimensions_pixels: [1774, 887]
-  revision: people_perspective_recheck
+  revision: canon_perspective_resume_2026_10_03
 version_a: {status: pending_author_approval, path: version-a/}
 qa:
   status: issues_and_unverified_checks_documented
@@ -17,13 +17,13 @@ qa:
 approval_folder_id: 1MI-qmY1nxqZsgf44lMNrOYPI3C_CYyph
 archive: archive/
 
-people_perspective_recheck:
+historical_people_perspective_recheck_2026_10_02:
   date: '2026-10-02'
   status: REVIEW_REQUIRED_NOT_ALL_PASS
   all_pass: false
   perspective: "High oblique view of measurement and plan"
   preserved_previous_candidate: https://drive.google.com/file/d/1vC8O4hGaKKhGGi__S4YZeN2fM80OtuAz/view
-  review_url: https://drive.google.com/file/d/1LInqDl-7DxYmcRnhXyG4iT4VRJrRPAA6/view?usp=drivesdk
+  review_url: https://drive.google.com/file/d/12L2fa-zVEFtOl9EmWLrsU-6sMCimjhcG/view?usp=drivesdk
   audit_url: https://drive.google.com/file/d/16veLojh7PiYYJTNsDjWqxEUmsiKxF3kI/view
   findings: "Previous candidate: Existing: five kids, Harper and Natalie; correct base colors. Ben khakis appear cargo-style unlike source; sticker art simplified (Maya generic center), clear side shields and exact decal application not certified. Perspective frontal crouching lineup; change to overhead diagonal measurement focus.\nVisible count/roles: five kids, Natalie and Harper; no extra child. High oblique view achieved, keeps measuring action and text.\nBen: source face/hair/black glasses/white helmet/blue shirt, plain khakis and dark shoes restored. Left project sticker naturally turned away; clear side deflectors not resolved enough to certify.\nLeo: source skin/curls/blue/navy/charcoal/orange vest visible; clear glasses. A repair accidentally darkened his boots; subsequent focused repair requested brown workboots. Right project sticker on far side/occluded in this view, not certified.\nVinny: compact brown curls/round cheeks/green hoodie+hat/blue cargo/clear spectacles; brown boots corrected to dark shoes.\nSteph: blue eyes/fair skin/straight red hair/light lavender/olive/gray helmet/clear eyewear; front-right round sticker visible, fine exact art unverified.\nMaya: curls/hoops/pink/blue cargo/yellow/clear eyewear; front-left sticker visible, exact art and scale not certified.\nNatalie: orange Eastmark/rust shirt/charcoal cargo/brown boots/low ponytail/clear eyewear; back-left decal hidden. Harper: white LS/purple cardigan/floral blouse/lanyard/dark slacks/brown boots/clear eyewear; rear-right decal hidden.\nUnresolved: Leo's left silhouette/boot edge near gutter; numeric height unverified in crouched depth; tiny emblem/LS exact reproduction unverified; Natalie/Harper near outer margins. Text and machinery/background construction detail still need final preflight. NOT ALL-PASS.\nFinal boot repair visually verified brown; small project sticker artwork deteriorated into simplified symbols and remains a FAIL for exact locked-asset identity."
 
@@ -31,3 +31,12 @@ people_perspective_recheck:
 # Current SHA256: 135bbe07ebf0af192658d6d116ce5dbcfe413b8873939aebc6a9d4a02ce14915
 # Previous preserved candidate: https://drive.google.com/file/d/12L2fa-zVEFtOl9EmWLrsU-6sMCimjhcG/view
 # Current audit: https://drive.google.com/file/d/16veLojh7PiYYJTNsDjWqxEUmsiKxF3kI/view
+
+people_perspective_recheck:
+  date: "2026-10-03"
+  status: REVIEW_REQUIRED_NOT_ALL_PASS
+  all_pass: false
+  review_url: https://drive.google.com/file/d/1LInqDl-7DxYmcRnhXyG4iT4VRJrRPAA6/view?usp=drivesdk
+  audit_url: https://drive.google.com/file/d/16veLojh7PiYYJTNsDjWqxEUmsiKxF3kI/view
+  findings: "Five children, Harper and Natalie preserved. Text now lies mostly over sky instead of gravel; raised oblique view retained with horizon added. Wording visually unchanged. Front LS badges accidentally replaced by station circles in first draft were restored on six helmets; Eastmark mountain restored on Natalie.\nBen: black rectangular glasses/white LS/blue shirt/plain khakis/dark low shoes; side shields unresolved, left sticker out of view.\nLeo: blue LS/navy/charcoal cargos/brown boots/orange vest edging/clear glasses visible; right-side sticker not resolved.\nVinny: green LS/hoodie/compact curls/round cheeks/blue cargos/dark low shoes; clear eyewear faint, not confidently passed; rear-left hidden.\nSteph: gray LS/straight red hair/blue eyes/lavender/olive/purple-gray shoes, clear glasses. Small station circle viewer-left beside LS corresponds front-right. Freckles unresolved.\nMaya: yellow LS/long curls/hoops/pink/blue cargos/purple shoes and clear glasses; small station circle viewer-right corresponds front-left.\nHarper: white LS/wavy brown hair/hoops/purple floral/ID/simple lime vest/dark slacks/brown boots/clear glasses. Natalie: orange Eastmark/rust shirt/dark cargo/brown boots/low dark ponytail/clear glasses/lime vest, survey rod and plan.\nMaya checks tape/plan, Natalie supervises; no child resets a stake. Main surveying story retained."
+  unresolved: "FAIL/UNVERIFIED: six front LS badges enlarged relative to working baseline during restoration, exact size/art not passed. Leo remains close to center boundary; survey tape crosses center and requires key-object gutter review. Natalie rod/hand remains near left edge. Some lower text lies near tree line rather than uniformly empty sky. Exact decal artwork, hidden inventories, fine eyewear and measurements remain unresolved."
