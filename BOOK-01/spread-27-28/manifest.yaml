@@ -2,8 +2,8 @@ spread: "27-28"
 status: REVIEW_REQUIRED
 version_b:
   status: candidate_review_required
-  drive_id: 1k-nAi6Vd1DXWux8HV_3zGFVCBNgQJ_6S
-  drive_url: https://drive.google.com/file/d/1k-nAi6Vd1DXWux8HV_3zGFVCBNgQJ_6S/view?usp=drivesdk
+  drive_id: 1E-q_MFLr_oeuGfLXivDXPR44h5Y93rRg
+  drive_url: https://drive.google.com/file/d/1E-q_MFLr_oeuGfLXivDXPR44h5Y93rRg/view?usp=drivesdk
 version_a: {status: pending, path: version-a/}
 qa:
   status: issues_and_unverified_items
@@ -16,3 +16,8 @@ approved_by: null
 print_ready: false
 dimensions: [1774, 887]
 production_date: "2026-10-02"
+
+# Resumed canon/perspective repair 2026-10-03; not all-pass
+# Current SHA256: 13387c1f8de8a6e69e11e0bdd233a154d195bf4666e70202bfeacae85fbf8b6f
+# Previous preserved candidate: https://drive.google.com/file/d/1k-nAi6Vd1DXWux8HV_3zGFVCBNgQJ_6S/view
+# Current audit: https://drive.google.com/file/d/1c0tEIsY4UncaayXZt4Ffx7wpqWNzBhzt/view
