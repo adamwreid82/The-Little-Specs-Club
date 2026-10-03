@@ -40,3 +40,21 @@ people_perspective_recheck:
   audit_url: https://drive.google.com/file/d/1aVGm8nlv61cidOF8N9dRBqVhCVDeXOut/view
   findings: "Five children, Harper and Patel retained. Patel now points DOWN beside her body toward ground, not horizontally at excavator; hand clearly outside center band. Child-eye side conversation viewpoint and exact manuscript retained. Maya moved slightly inward.\nBen white LS/black glasses/blue shirt/plain khakis/dark brown low shoes; side-shield construction unresolved. Leo blue LS/navy/charcoal cargo/brown boots/orange vest trim/clear glasses/short curls. Vinny green LS/green hoodie/blue cargo/dark low shoes/compact curls/clear glasses.\nSteph gray LS/straight red hair/light blue eyes/lavender/olive cargo/purple-gray shoes/clear glasses; front-right sticker viewer-left beside LS. Earring removal attempted twice, small gold loop still appears at ear: FAIL/UNVERIFIED, do not pass accessory check.\nMaya yellow LS/long curls/hoops/pink/blue cargo/purple footwear/clear glasses. Far front-left sticker hidden. Harper white LS/wavy brown hair/hoops/purple floral/ID/simple lime vest/dark slacks/brown boots; clear glasses restored after first-edit regression.\nPatel yellow Mason Vale/black glasses/teal blouse/low dark ponytail/lime silver vest/charcoal slacks/brown boots/notebook; employer badge retained. Rear-left project sticker hidden.\nVisitor boundary and children observing maintained; no physical work by children."
   unresolved: "Steph tiny gold ear accessory remains unresolved despite removal prompts. Outer margins, especially Harper right edge and bottom shoes, remain tight. Exact project picture/LS/employer art and hidden sticker inventory not certified. Ben footwear and side shields require final source-scale proof; exact posture-adjusted stature and site layout unverified."
+
+lettering_only_revision_2026_10_03:
+  status: REVIEW_REQUIRED_NOT_APPROVED
+  font_family: Architects Daughter
+  font_size_pt: 18
+  spread_trim_inches: [17, 8.5]
+  export_dimensions_px: [5100, 2550]
+  export_dpi: 300
+  exact_embedded_type_verified: true
+  original_pixels_outside_lettering_preserved: true
+  pdf_drive_id: 1TK6Z0vBfNGeEtitGLAx1cWz4u2i2FhQY
+  png_drive_id: 1bkhspJPkEw6N2tQTWIAQ1Puc1pD5libm
+  audit_drive_id: 192Q3M0b-xnjElNih7pROwB5eUbD6-yfj
+  edit_package_drive_id: 1NbEWGNsfkPWZincUAM0g5H8qQ8t62XDc
+  original_assets_preserved: true
+  artwork_approval_transferred: false
+  native_artwork_print_detail_verified: false
+  print_ready: false
