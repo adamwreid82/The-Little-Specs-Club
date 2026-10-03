@@ -40,3 +40,21 @@ people_perspective_recheck:
   audit_url: https://drive.google.com/file/d/1ozREuWFQeMxnTgsNrQ6-t7GRNgkJfmSH/view
   findings: "Six characters retained, low child-eye drawing scene preserved and all manuscript words visibly unchanged. Figure groups reduced/inset; outer space improved. Foreground drawing remains left of gutter; no actual completed building added.\nBen: white LS/black rectangular glasses/blue shirt/plain khakis/dark low shoes. Left project sticker still high/frontward rather than certifiably slightly rear; side shields unresolved.\nLeo: blue LS/short curls/navy/charcoal cargos/brown boots/lime vest orange trim/clear glasses. Right-side sticker visible, exact asset simplified.\nVinny: green LS/hoodie/compact curls/blue cargos/dark low shoes/clear glasses; rear-left sticker hidden.\nSteph: gray LS/straight red hair/blue eyes/lavender/olive cargo/purple-gray shoes/clear glasses. Front-right picture viewer-left beside LS; exact decal artwork remains simplified.\nMaya: yellow LS/long curls/hoops/pink/blue cargo/purple footwear/clear glasses/lime vest visible. Front-left sticker viewer-right; not exact-certified.\nHarper: white LS/wavy hair/hoops/purple floral/ID/dark slacks/brown work shoes/clear glasses; missing lime-silver vest restored after reframing regression, no child back emblem. Rear-right sticker hidden.\nSource facial identities recognizable; not a numeric likeness/height pass."
   unresolved: "Ben sticker needs rearward placement proof. Front LS and small station pictures remain simplified and not baseline-scale certified. Outer margins improved visually but Leo's shoe and Harper still require numerical print-safe check. Drawing artwork/station details and perspective-adjusted stature unverified. No hidden inventory pass."
+
+lettering_only_revision_2026_10_03:
+  status: REVIEW_REQUIRED_NOT_APPROVED
+  font_family: Architects Daughter
+  font_size_pt: 18
+  spread_trim_inches: [17, 8.5]
+  export_dimensions_px: [5100, 2550]
+  export_dpi: 300
+  exact_embedded_type_verified: true
+  original_pixels_outside_lettering_preserved: true
+  pdf_drive_id: 1cxMZb5ycAqtEmqqhEQF6tlBWNtO7I3HO
+  png_drive_id: 1rO1f9e7dT95vpKt96rG3eIRkttt28Kac
+  audit_drive_id: 1dpjQ5_R0ObhL5MKf_0xoUOHGwXr2OsHS
+  edit_package_drive_id: 1lMTWqpMK-R-diwPYXIZuBkaY7Iz7TP5v
+  original_assets_preserved: true
+  artwork_approval_transferred: false
+  native_artwork_print_detail_verified: false
+  print_ready: false
