@@ -40,3 +40,21 @@ people_perspective_recheck:
   audit_url: https://drive.google.com/file/d/1mM734Mnb5h2VrGU6KLc7TLtuWpilr6Rh/view
   findings: "Nine characters retained. Left group reduced coherently; Maya now clear of center band. Offset wide view preserved; text visually unchanged. Natalie resets point; Jackson inspects tracks, children observe.\nBen white LS/black frames/blue shirt/plain khakis/dark low shoes retained; side shields not resolved. Leo blue LS/navy/charcoal cargos/brown boots/orange vest trim/short curls retained. Vinny green LS/hoodie/blue cargos/dark low shoes/compact curls retained; attempted eye-color correction not confidently verified.\nSteph gray LS/straight red hair/blue eyes/lavender/olive cargo/purple-gray shoes. Front-right sticker viewer-left beside LS. Attempted earring removal not confidently verified at small scale.\nMaya yellow LS/long curls/hoops/pink/blue cargo/purple shoes; front-left sticker visible. Harper white LS/wavy hair/hoops/purple floral/ID/simple lime vest/dark slacks/brown footwear. Rivera white Civic Ridge/low dark ponytail/blue blouse/lime vest/dark slacks/brown footwear/tablet.\nNatalie orange Eastmark/rust shirt/charcoal cargos/brown boots/low straight ponytail; Jackson older gray beard/navy/charcoal cargos/brown boots/blue Civic Ridge/lime orange vest/radio. Distinct roles retained.\nClear safety eyewear was added across cast; Natalie/Jackson and adults' glasses visible. In final smaller child group some rims/side temples remain faint, so complete eye-protection pass is withheld."
   unresolved: "Vinny exact brown iris and Steph accessory removal remain UNVERIFIED after focused repair; do not treat request as proof. Girls' and smaller children's fine eyewear/temples require closer source-scale proof. Adult footwear exact work-shoe construction unresolved. Tiny stickers/employer marks simplified; hidden inventories and exact height unverified. Perspective remains modest rather than strongly elevated. Construction instrument/hand/stake geometry still illustrative."
+
+lettering_only_revision_2026_10_03:
+  status: REVIEW_REQUIRED_NOT_APPROVED
+  font_family: Architects Daughter
+  font_size_pt: 18
+  spread_trim_inches: [17, 8.5]
+  export_dimensions_px: [5100, 2550]
+  export_dpi: 300
+  exact_embedded_type_verified: true
+  original_pixels_outside_lettering_preserved: true
+  pdf_drive_id: 1JcJrWlBtpRjkFjmKHmQZPSFxPt35-ZqV
+  png_drive_id: 1jBW2-z6hRo4l9eRAfPJAEISkp8CuJ1eC
+  audit_drive_id: 1J0kWx5xNSjq2XpK223ulImZ0WnIQb6m3
+  edit_package_drive_id: 12ouHGF2wpUm8Be-BtCAyAVbVZCVRwoc_
+  original_assets_preserved: true
+  artwork_approval_transferred: false
+  native_artwork_print_detail_verified: false
+  print_ready: false
