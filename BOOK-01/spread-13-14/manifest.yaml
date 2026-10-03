@@ -40,3 +40,21 @@ people_perspective_recheck:
   audit_url: https://drive.google.com/file/d/16veLojh7PiYYJTNsDjWqxEUmsiKxF3kI/view
   findings: "Five children, Harper and Natalie preserved. Text now lies mostly over sky instead of gravel; raised oblique view retained with horizon added. Wording visually unchanged. Front LS badges accidentally replaced by station circles in first draft were restored on six helmets; Eastmark mountain restored on Natalie.\nBen: black rectangular glasses/white LS/blue shirt/plain khakis/dark low shoes; side shields unresolved, left sticker out of view.\nLeo: blue LS/navy/charcoal cargos/brown boots/orange vest edging/clear glasses visible; right-side sticker not resolved.\nVinny: green LS/hoodie/compact curls/round cheeks/blue cargos/dark low shoes; clear eyewear faint, not confidently passed; rear-left hidden.\nSteph: gray LS/straight red hair/blue eyes/lavender/olive/purple-gray shoes, clear glasses. Small station circle viewer-left beside LS corresponds front-right. Freckles unresolved.\nMaya: yellow LS/long curls/hoops/pink/blue cargos/purple shoes and clear glasses; small station circle viewer-right corresponds front-left.\nHarper: white LS/wavy brown hair/hoops/purple floral/ID/simple lime vest/dark slacks/brown boots/clear glasses. Natalie: orange Eastmark/rust shirt/dark cargo/brown boots/low dark ponytail/clear glasses/lime vest, survey rod and plan.\nMaya checks tape/plan, Natalie supervises; no child resets a stake. Main surveying story retained."
   unresolved: "FAIL/UNVERIFIED: six front LS badges enlarged relative to working baseline during restoration, exact size/art not passed. Leo remains close to center boundary; survey tape crosses center and requires key-object gutter review. Natalie rod/hand remains near left edge. Some lower text lies near tree line rather than uniformly empty sky. Exact decal artwork, hidden inventories, fine eyewear and measurements remain unresolved."
+
+lettering_only_revision_2026_10_03:
+  status: REVIEW_REQUIRED_NOT_APPROVED
+  font_family: Architects Daughter
+  font_size_pt: 18
+  spread_trim_inches: [17, 8.5]
+  export_dimensions_px: [5100, 2550]
+  export_dpi: 300
+  exact_embedded_type_verified: true
+  original_pixels_outside_lettering_preserved: true
+  pdf_drive_id: 1BDsjMvQuLJ80nOV_qvtyvzjMDtvdcEmJ
+  png_drive_id: 1DqdIOJS5ExybgyA_5t4Naxwf-sE5pPsF
+  audit_drive_id: 1xgwyXRLcVmDEBUDQ_71t5GI1ufmUpf4k
+  edit_package_drive_id: 14u8VyCD86RxkzcNP9Xf8D9f0slxyUbR8
+  original_assets_preserved: true
+  artwork_approval_transferred: false
+  native_artwork_print_detail_verified: false
+  print_ready: false
