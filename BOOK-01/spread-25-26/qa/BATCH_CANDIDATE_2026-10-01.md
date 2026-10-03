@@ -1,3 +1,35 @@
+# Pages 25–26 Version B current audit
+Date: 2026-10-03. REVIEW REQUIRED. Not approved, not all-pass, not print-ready.
+Candidate: https://drive.google.com/file/d/1zJcyPcrySiUvvx4fyosGWsmXNXTn_8md/view?usp=drivesdk
+SHA256: 29fa305cf0a2bd17219e67d1f8e72b9e9e39fad0c9a05e86ef0427b383fcc707
+Dimensions: 1774 × 887. Revision: 7 (resumed repair; intermediate drafts preserved).
+
+## Source and draft reconciliation
+Current Drive queue/folder/audit and GitHub CANON source-registry/character-rules checked before editing. Approved child, Harper, Rivera, Erik and Andre source images visually compared. Latest saved repair r2 was parent of recovered local Steph correction; recovered draft saved separately at https://drive.google.com/file/d/1lWNc1C__Q3utwWCdLGVsvnz3aHIZuHTJ/view. All previous candidates and source assets preserved.
+
+## Character-by-character visible check
+- Ben: white LS helmet, black rectangular glasses, neat dark hair, blue button shirt, plain khakis and dark low shoes visible. Clear side shields not resolved: UNVERIFIED.
+- Leo: blue LS helmet, short tight curls, warm brown complexion, navy hoodie, charcoal cargos, brown boots, lime vest with orange trim and clear glasses visible. Right-side project sticker hidden/not resolved: UNVERIFIED.
+- Vinny: green LS helmet/hoodie, compact soft curls, round cheeks, blue cargos, dark low shoes and clear glasses visible. Rear-left sticker hidden: UNVERIFIED.
+- Steph: gray LS helmet, straight red hair, blue eyes, lavender hoodie, olive cargos, purple-gray shoes and clear glasses visible. REPAIRED: round sticker now viewer-left of LS, corresponding to wearer front-right in current pose. Its station artwork is simplified and exact source scale not certified; position repair does not approve artwork. Freckles not resolved.
+- Maya: yellow LS helmet, long dark curls, hoops, pink hoodie, blue CARGO jeans and purple footwear, clear glasses visible. Prior plain-jeans audit claim corrected to approved PNG. Front-left sticker on viewer-right in pose; picture/scale not exact-certified.
+- Harper: white LS helmet, wavy brown hair/hoops, purple cardigan/floral blouse, ID, dark slacks, brown work footwear. REPAIRED simple lime/silver vest present; no invented club emblem. Rear-right sticker hidden. Fine likeness unverified.
+- Rivera: white Civic Ridge employer helmet, low dark ponytail/hoops, blue blouse, lime/silver vest, dark slacks, brown work boots; schedule interaction retained. Exact employer artwork and rear-left sticker unverified.
+- Erik: teal ClearFlow helmet, blue shirt, lime/silver vest, dark trousers, brown boots, gloves, clear glasses, tool pouch visible. Employer patch/helmet recognizable but not exact asset-certified; rear-left sticker hidden.
+- Andre: red BrightLine helmet, charcoal shirt and source orange shoulder accents, charcoal trousers, brown boots, gloves, clear glasses and tools visible. REPAIRED incorrect orange vest borders removed; lime/silver vest and yellow lightning/dark-wordmark patch restored. Exact patch artwork remains unverified; right-rear helmet sticker not resolved.
+
+## Story, perspective and unresolved production
+Nine named people present. Underground plumbing/electrical work precedes concrete; children observe from visitor side. Original text visibly retained. Low oblique foreground trade work versus smaller visitor group provides depth; this targeted repair retains that camera.
+FAIL/UNVERIFIED: tiny generated LS/project/employer marks cannot be certified identical to approved assets. All hidden sticker inventory, precise height ratios adjusted for depth, fine facial likeness/anatomy and Ben side shields remain unchecked. No hidden detail passed.
+FAIL: left worker/pipe crop remains close to outer/bottom edges. Rivera fingertips are near the protected gutter boundary; do not carry forward prior unconditional gutter pass. Final margin measurement and typesetting remain.
+FAIL: native resolution below 5100 × 2550 target. No print readiness.
+UNVERIFIED: pipe sizes/routes/connection/support geometry and station footprint. Illustration does not establish construction standards.
+
+## Decisions for Adam
+Review repaired sticker position and likeness. Exact small artwork, scale and production proof remain required; no new tolerances or canon changes authorized. Version A awaits B approval.
+
+## Historical audit (superseded findings retained)
+The following describes the older candidate only; current repairs above supersede its Steph side and clothing claims.
 # Pages 25-26 candidate audit
 
 Date: 2026-10-01. Status: REVIEW REQUIRED. Not approved; not all-pass.
@@ -30,3 +62,4 @@ Authority: fresh GitHub CANON source-registry and character-rules, Book 1/global
 3. Verify remaining sticker occlusion and precise asset applications at final scale.
 4. Review illustrative underfloor pipe/conduit geometry before establishing any recurring technical standard; no dimensions/routes are inferred.
 5. Final margins/resolution/typography proof remains required.
+
