@@ -19,3 +19,13 @@ archive: archive/
 
 previous_candidate_drive_id: 1yZ8YJL6x63mtHsMlZlPeNlyMIPSoKX8s
 resumed_repair_date: "2026-10-03"
+
+people_perspective_recheck:
+  date: "2026-10-03"
+  status: REVIEW_REQUIRED_NOT_ALL_PASS
+  all_pass: false
+  review_url: https://drive.google.com/file/d/1zJcyPcrySiUvvx4fyosGWsmXNXTn_8md/view?usp=drivesdk
+  audit_url: https://drive.google.com/file/d/1N42ispYrnMWn7LLYHmzQ2XmrZzh0HVxk/view
+  findings: "Steph wearer-front-right sticker side corrected; Harper lime vest and Andre vest/patch repaired. Full current audit on Drive and repository QA."
+  unresolved: "Steph side repaired, precise picture/scale unverified; Ben side shields; foreground crop and Rivera fingertip/gutter clearance; exact trade branding."
+  consolidated_review_url: https://drive.google.com/file/d/19ZsfZHFPEAJx6aje5z8IZSku0XpmvpK5/view
