@@ -50,3 +50,20 @@
   },
   "next_step": "Derive and review matching Version A and print exports from locked Version B without redesign."
 }
+
+lettering_only_revision_2026_10_03:
+  status: REVIEW_REQUIRED_NOT_APPROVED
+  font_family: Architects Daughter
+  font_size_pt: 18
+  spread_trim_inches: [17, 8.5]
+  export_dimensions_px: [5100, 2550]
+  export_dpi: 300
+  exact_embedded_type_verified: true
+  original_pixels_outside_lettering_preserved: true
+  pdf_drive_id: 1NUqNtH5HIjGrxcKQVjaCfFyGUg8L-Z3S
+  png_drive_id: 1HPf8CUjZ3dI5-GgspZFfqlLwhynvTMGw
+  audit_drive_id: 1UYOPPSnALAah51iEt-Sc0rqDe5A9JP9_
+  edit_package_drive_id: 1AMifWEutbKEjs0VHqwSaFR-iDVWaQU6o
+  prior_assets_preserved: true
+  artwork_approval_transferred: false
+  print_ready: false
