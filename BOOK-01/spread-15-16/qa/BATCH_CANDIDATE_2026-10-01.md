@@ -1,3 +1,31 @@
+# Pages 15-16 current canon and perspective audit
+Date: 2026-10-03. REVIEW REQUIRED. NOT APPROVED; NOT ALL-PASS; NOT PRINT-READY.
+Candidate: https://drive.google.com/file/d/1TZi-s672YZodvnYQU9zetWxkxS_ltlsS/view?usp=drivesdk
+SHA256: ca36a73ddfdca5942517edc8d3f92200094aaf2aeaf3ececd53af89f95d45575
+Native dimensions: 1774 × 887.
+
+## Current source and draft check
+Drive folder and latest audit inspected before generation; prior candidates and archived drafts preserved. Current approved character PNGs and CANON rules remain authority. No approved source assets modified. Maya cargo pockets follow her approved PNG; earlier plain-jeans claims were incorrect.
+
+## Current visible inspection and repair outcome
+Six characters retained, low child-eye drawing scene preserved and all manuscript words visibly unchanged. Figure groups reduced/inset; outer space improved. Foreground drawing remains left of gutter; no actual completed building added.
+Ben: white LS/black rectangular glasses/blue shirt/plain khakis/dark low shoes. Left project sticker still high/frontward rather than certifiably slightly rear; side shields unresolved.
+Leo: blue LS/short curls/navy/charcoal cargos/brown boots/lime vest orange trim/clear glasses. Right-side sticker visible, exact asset simplified.
+Vinny: green LS/hoodie/compact curls/blue cargos/dark low shoes/clear glasses; rear-left sticker hidden.
+Steph: gray LS/straight red hair/blue eyes/lavender/olive cargo/purple-gray shoes/clear glasses. Front-right picture viewer-left beside LS; exact decal artwork remains simplified.
+Maya: yellow LS/long curls/hoops/pink/blue cargo/purple footwear/clear glasses/lime vest visible. Front-left sticker viewer-right; not exact-certified.
+Harper: white LS/wavy hair/hoops/purple floral/ID/dark slacks/brown work shoes/clear glasses; missing lime-silver vest restored after reframing regression, no child back emblem. Rear-right sticker hidden.
+Source facial identities recognizable; not a numeric likeness/height pass.
+
+## Checks that remain unresolved
+Ben sticker needs rearward placement proof. Front LS and small station pictures remain simplified and not baseline-scale certified. Outer margins improved visually but Leo's shoe and Harper still require numerical print-safe check. Drawing artwork/station details and perspective-adjusted stature unverified. No hidden inventory pass.
+Generated tiny logos/stickers/emblems are not exact-pixel certified. Hidden inventory is UNVERIFIED, not passed or authorized for removal. Pose-adjusted canonical height, minute facial likeness/freckles, fine anatomy and exact Ben side-shield construction remain unverified unless explicitly checked above. Numerical placement tolerances were not invented.
+Resolution FAIL: native 1774 × 887 is below 5100 × 2550. Final print typography/bleed/margins remain unverified. Illustrative construction geometry is not an approved engineering detail or new site lock.
+
+## Review decisions
+Adam to review likeness, remaining defects, exact branding and final composition. Version A awaits B approval. Original manuscript retained unless explicitly flagged below; no canon change or approval assigned.
+
+## Previous audit — historical, describes previous candidate only
 # Pages 15-16 — people and perspective recheck
 
 Recheck date: 2026-10-02. Status: REVIEW REQUIRED — NOT APPROVED, NOT PRINT READY, NOT ALL-PASS.
@@ -61,4 +89,5 @@ Authority: current GitHub CANON source registry, character rules, global, Book 1
 1. Review Steph's imagining-through-the-drawing composition and facial likenesses.
 2. Verify held station image and tiny helmet artwork against approved assets at final scale.
 3. Confirm perspective height relationships and outer-margin adjustments before final approval.
+
 
