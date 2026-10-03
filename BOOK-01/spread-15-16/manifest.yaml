@@ -4,8 +4,8 @@ final_locked: false
 approved_by: null
 version_b:
   status: review_required
-  drive_id: 1lPbuMu4MmafXegCZjYA-KBQsVsvhRp77
-  sha256: 455bccfbbaedc798a8980e528a5b9e02f68a5a5c157226c714178e9c13dfb2a3
+  drive_id: 1TZi-s672YZodvnYQU9zetWxkxS_ltlsS
+  sha256: ca36a73ddfdca5942517edc8d3f92200094aaf2aeaf3ececd53af89f95d45575
   dimensions_pixels: [1774, 887]
   revision: people_perspective_recheck
 version_a: {status: pending_author_approval, path: version-a/}
@@ -23,6 +23,11 @@ people_perspective_recheck:
   all_pass: false
   perspective: "Low child-eye oblique drawing scene"
   preserved_previous_candidate: https://drive.google.com/file/d/1AYJYcwS1sObaw4nqYSZjBX6TnqmnusBb/view
-  review_url: https://drive.google.com/file/d/1lPbuMu4MmafXegCZjYA-KBQsVsvhRp77/view?usp=drivesdk
+  review_url: https://drive.google.com/file/d/1TZi-s672YZodvnYQU9zetWxkxS_ltlsS/view?usp=drivesdk
   audit_url: https://drive.google.com/file/d/1ozREuWFQeMxnTgsNrQ6-t7GRNgkJfmSH/view
   findings: "Prior defects: Existing: Maya cargo pockets missing; Ben has cargo pockets/workboots rather than source plain khakis/dark shoes; Steph hair wavy at tips; oversized sticker; camera frontal. Change to child-height oblique angle beside drawing.\nNew low child-eye view achieved, five children+Harper, held drawing retains three truck doors, no actual completed building.\nBen: identifiable side-swept hair, black frames, blue shirt, white helmet, plain khakis and dark shoes repaired; side shields remain not fully resolved; sticker left position too far forward to certify.\nLeo: short tight curls, navy/charcoal, blue helmet, orange edging, brown boots and clear glasses visible; right-side project sticker visible, exact scale/art unverified.\nVinny: green helmet/hoodie, round face/compact curls, blue cargo, clear glasses, dark shoes. First revision added wrong front-left project sticker; targeted removal requested because rear-left should be hidden.\nSteph: straight hair corrected, blue eyes, lavender, olive cargo, purple/dark shoes, gray helmet and clear eyewear visible; front-right sticker visible at small size.\nMaya: blue cargo restored, curls/hoops/pink/yellow/clear eyewear/purple dark shoes match visible source attributes; front-left sticker visible.\nHarper: floral blouse/lanyard/cardigan/dark trousers/white LS helmet/glasses visible; first revision had office flats, work-shoe repair requested.\nUnverified: exact stickers/LS source artwork, pose-rectified scale/centerline, numeric heights and obscured rear details. Some source face nuances/freckles too small to verify. Fine typography/construction/print margins require preflight. NOT ALL-PASS.\nFinal repair verified: incorrect Vinny front sticker removed, Harper brown work shoes restored, feet within frame. Outer Leo shoe margin still narrow. Small sticker artwork remains visibly simplified; no exact asset pass."
+
+# Resumed canon/perspective repair 2026-10-03; not all-pass
+# Current SHA256: ca36a73ddfdca5942517edc8d3f92200094aaf2aeaf3ececd53af89f95d45575
+# Previous preserved candidate: https://drive.google.com/file/d/1lPbuMu4MmafXegCZjYA-KBQsVsvhRp77/view
+# Current audit: https://drive.google.com/file/d/1ozREuWFQeMxnTgsNrQ6-t7GRNgkJfmSH/view
