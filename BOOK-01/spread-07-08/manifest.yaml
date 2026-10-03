@@ -98,3 +98,16 @@
   },
   "next_step": "Proceed to Pages 9-10; complete assembled-book preflight and physical proof before publication."
 }
+
+typography_revision_2026_10_03:
+  status: REVIEW_REQUIRED_NOT_APPROVED
+  font_family: Architects Daughter
+  font_size_pt: 18
+  exact_embedded_font_verified: true
+  extracted_manuscript_match: true
+  spread_size_inches: [17, 8.5]
+  original_assets_preserved: true
+  candidate_drive_id: 1MvieVKfC6S3HUw6RVMO281pNdF05h5mY
+  audit_drive_id: 1Shl26yRF2ucR1NTiA4FRRGmZ9Wx__eK-
+  bleed_included: false
+  physical_proof: NOT_PERFORMED
