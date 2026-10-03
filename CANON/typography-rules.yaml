@@ -4,3 +4,14 @@ version_b:
   critical_text_in_hard_gutter: false
   environmental_text_allowed: true
 left_text_zone_default: {x_min: 650, x_max: 2250}
+
+manuscript_typography:
+  font_family: Architects Daughter
+  font_size_pt: 18
+  authorized_by: Adam
+  authorized_date: '2026-10-03'
+  scope: Book 1 manuscript text; environmental branding preserved
+  exact_font_embedding_required: true
+  verification_at_trim_size_inches: [17, 8.5]
+  rollout_status: PARTIAL_03_08_REVIEW_PROOFS_SAVED_09_32_PENDING
+  approval_scope: typography specification only; no new artwork or print approval
