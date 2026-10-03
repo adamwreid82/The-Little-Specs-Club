@@ -101,3 +101,16 @@ people_recheck_2026_10_02:
   findings: "Locked artwork inspected: five children and Harper in pre-entry school clothes, no premature helmets or project stickers. Ben glasses, Leo short tight curls/navy/charcoal, Vinny green/blue cargo, Steph straight red/lavender/olive, Maya curls/pink/blue cargo, Harper purple/floral/lanyard visible. Rear/side views obscure faces; exact stature and facial identity remain unverified. No visible people defect requiring alteration identified. Retain author-locked perspective; production review remains pending."
   artwork_changed: false
   perspective: retained_author_locked_view
+
+typography_revision_2026_10_03:
+  status: REVIEW_REQUIRED_NOT_APPROVED
+  font_family: Architects Daughter
+  font_size_pt: 18
+  exact_embedded_font_verified: true
+  extracted_manuscript_match: true
+  spread_size_inches: [17, 8.5]
+  original_assets_preserved: true
+  candidate_drive_id: 1JucMha36Gfn2JcHTD9_mL2zeYLNnKWq3
+  audit_drive_id: 1Shl26yRF2ucR1NTiA4FRRGmZ9Wx__eK-
+  bleed_included: false
+  physical_proof: NOT_PERFORMED
