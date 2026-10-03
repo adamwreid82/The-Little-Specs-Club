@@ -1,3 +1,31 @@
+# Pages 17-18 current canon and perspective audit
+Date: 2026-10-03. REVIEW REQUIRED. NOT APPROVED; NOT ALL-PASS; NOT PRINT-READY.
+Candidate: https://drive.google.com/file/d/1tdKGTvsiF7Ir0k4XXsRJaHPBoOft7shH/view?usp=drivesdk
+SHA256: 23c7bc62c36f0ce158c353d1f8adfcf2e593bb742d8b2e17c506ef26db85166a
+Native dimensions: 1774 × 887.
+
+## Current source and draft check
+Drive folder and latest audit inspected before generation; prior candidates and archived drafts preserved. Current approved character PNGs and CANON rules remain authority. No approved source assets modified. Maya cargo pockets follow her approved PNG; earlier plain-jeans claims were incorrect.
+
+## Current visible inspection and repair outcome
+Five children, Harper and Rivera remain. Low foreground leaning-stake view and exact text retained; nobody moves stake. Steph's shortened pointing gesture now clear of center gutter. Bottom ground space increased. Maya hair and Rivera remain near outer edges.
+Ben: white LS/black rectangular glasses/blue shirt/plain khakis/dark low shoes; small left sticker at shell edge, precise placement and side shields unresolved.
+Leo: blue LS/short curls/navy/charcoal cargos/lime vest orange trim; lost glasses restored, brown boots restored after footwear edit changed them black. Right-side sticker remains visible.
+Vinny: green LS/hoodie/compact curls/blue cargos/dark low shoes/clear glasses. Rear-left sticker hidden, no front duplicate.
+Steph: gray LS/straight red hair/blue eyes/lavender/olive cargos/purple-gray shoes/clear glasses, invented gold earrings removed. Front-right sticker visible viewer-left beside LS.
+Maya: yellow LS/long curls/hoops/pink/blue cargos/purple shoes/clear glasses, front-left sticker visible.
+Harper: white LS/wavy brown hair/hoops/purple floral/ID/simple lime vest/dark slacks/brown work boots/clear glasses. Rivera: white Civic Ridge/dark low ponytail/hoops/blue blouse/lime vest/dark slacks/brown boots/clear glasses/tablet.
+Clothing/eyewear repairs inspected after each edit; exact facial nuance and stature not automatically passed.
+
+## Checks that remain unresolved
+Outer left hair and right footwear margins remain tight despite request. Sticker pictures are visibly simplified, exact employer/LS marks and hidden inventory unresolved. Rivera sticker seems relatively forward on visible shell; precise left-rear lock must be checked. Foreground stake clear of middle but full layout/engineering proof remains.
+Generated tiny logos/stickers/emblems are not exact-pixel certified. Hidden inventory is UNVERIFIED, not passed or authorized for removal. Pose-adjusted canonical height, minute facial likeness/freckles, fine anatomy and exact Ben side-shield construction remain unverified unless explicitly checked above. Numerical placement tolerances were not invented.
+Resolution FAIL: native 1774 × 887 is below 5100 × 2550. Final print typography/bleed/margins remain unverified. Illustrative construction geometry is not an approved engineering detail or new site lock.
+
+## Review decisions
+Adam to review likeness, remaining defects, exact branding and final composition. Version A awaits B approval. Original manuscript retained unless explicitly flagged below; no canon change or approval assigned.
+
+## Previous audit — historical, describes previous candidate only
 # Pages 17-18 — people and perspective recheck
 
 Recheck date: 2026-10-02. Status: REVIEW REQUIRED — NOT APPROVED, NOT PRINT READY, NOT ALL-PASS.
@@ -60,4 +88,5 @@ Authority: fresh GitHub CANON source-registry and character-rules, Book 1/global
 1. Review all character likenesses and current logo/sticker application, including hidden Ben/Leo inventory.
 2. Confirm safe observation composition and leaning-stake clue.
 3. Decide whether to lock an exact site layout/measurement standard; none is invented here.
+
 
