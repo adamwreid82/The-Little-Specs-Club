@@ -113,3 +113,16 @@ approval:
   physical_proof_performed: false
   whole_book_assembly_verified: false
   review_log_row: 37
+
+typography_revision_2026_10_03:
+  status: REVIEW_REQUIRED_NOT_APPROVED
+  font_family: Architects Daughter
+  font_size_pt: 18
+  exact_embedded_font_verified: true
+  extracted_manuscript_match: true
+  spread_size_inches: [17, 8.5]
+  original_assets_preserved: true
+  candidate_drive_id: 156cVPQavl0reap-aVXdKHeSJrXEdSN_p
+  audit_drive_id: 1Shl26yRF2ucR1NTiA4FRRGmZ9Wx__eK-
+  bleed_included: false
+  physical_proof: NOT_PERFORMED
