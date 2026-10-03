@@ -1,3 +1,29 @@
+# Pages 21-22 current canon and perspective audit
+Date: 2026-10-03. REVIEW REQUIRED. NOT APPROVED; NOT ALL-PASS; NOT PRINT-READY.
+Candidate: https://drive.google.com/file/d/1FqINZbwuvS1xtafK-fho1A5CC8vv4Xj3/view?usp=drivesdk
+SHA256: be3230d4b0f1ef1090ce8671c1efebb1c511ad0d46651409feb4cc7fc34f41b2
+Native dimensions: 1774 × 887.
+
+## Current source and draft check
+Drive folder and latest audit inspected before generation; prior candidates and archived drafts preserved. Current approved character PNGs and CANON rules remain authority. No approved source assets modified. Maya cargo pockets follow her approved PNG; earlier plain-jeans claims were incorrect.
+
+## Current visible inspection and repair outcome
+Five children, Harper and Patel retained. Patel now points DOWN beside her body toward ground, not horizontally at excavator; hand clearly outside center band. Child-eye side conversation viewpoint and exact manuscript retained. Maya moved slightly inward.
+Ben white LS/black glasses/blue shirt/plain khakis/dark brown low shoes; side-shield construction unresolved. Leo blue LS/navy/charcoal cargo/brown boots/orange vest trim/clear glasses/short curls. Vinny green LS/green hoodie/blue cargo/dark low shoes/compact curls/clear glasses.
+Steph gray LS/straight red hair/light blue eyes/lavender/olive cargo/purple-gray shoes/clear glasses; front-right sticker viewer-left beside LS. Earring removal attempted twice, small gold loop still appears at ear: FAIL/UNVERIFIED, do not pass accessory check.
+Maya yellow LS/long curls/hoops/pink/blue cargo/purple footwear/clear glasses. Far front-left sticker hidden. Harper white LS/wavy brown hair/hoops/purple floral/ID/simple lime vest/dark slacks/brown boots; clear glasses restored after first-edit regression.
+Patel yellow Mason Vale/black glasses/teal blouse/low dark ponytail/lime silver vest/charcoal slacks/brown boots/notebook; employer badge retained. Rear-left project sticker hidden.
+Visitor boundary and children observing maintained; no physical work by children.
+
+## Checks that remain unresolved
+Steph tiny gold ear accessory remains unresolved despite removal prompts. Outer margins, especially Harper right edge and bottom shoes, remain tight. Exact project picture/LS/employer art and hidden sticker inventory not certified. Ben footwear and side shields require final source-scale proof; exact posture-adjusted stature and site layout unverified.
+Generated tiny logos/stickers/emblems are not exact-pixel certified. Hidden inventory is UNVERIFIED, not passed or authorized for removal. Pose-adjusted canonical height, minute facial likeness/freckles, fine anatomy and exact Ben side-shield construction remain unverified unless explicitly checked above. Numerical placement tolerances were not invented.
+Resolution FAIL: native 1774 × 887 is below 5100 × 2550. Final print typography/bleed/margins remain unverified. Illustrative construction geometry is not an approved engineering detail or new site lock.
+
+## Review decisions
+Adam to review likeness, remaining defects, exact branding and final composition. Version A awaits B approval. Original manuscript retained unless explicitly flagged below; no canon change or approval assigned.
+
+## Previous audit — historical, describes previous candidate only
 # Pages 21-22 — people and perspective recheck
 
 Recheck date: 2026-10-02. Status: REVIEW REQUIRED — NOT APPROVED, NOT PRINT READY, NOT ALL-PASS.
@@ -61,4 +87,5 @@ Authority: fresh GitHub CANON source-registry and character-rules, Book 1/global
 2. Verify Maya front-left sticker occlusion in this pose; repair visibility if the correct panel should show, without changing permanent location.
 3. Verify exact small badge/sticker art and side shields in print proof.
 4. Preserve existing canon heights, colors and sticker positions; this candidate creates no new standard.
+
 
