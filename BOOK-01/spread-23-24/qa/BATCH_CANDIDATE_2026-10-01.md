@@ -1,3 +1,31 @@
+# Pages 23-24 current canon and perspective audit
+Date: 2026-10-03. REVIEW REQUIRED. NOT APPROVED; NOT ALL-PASS; NOT PRINT-READY.
+Candidate: https://drive.google.com/file/d/1DjwIG4L7FJcdk_mUlegZIzHnhdEzSCm4/view?usp=drivesdk
+SHA256: 3e61587f136e91359af6ab9ace77f4d8f23e8748a28ad41e224ef4bdab679c76
+Native dimensions: 1774 × 887.
+
+## Current source and draft check
+Drive folder and latest audit inspected before generation; prior candidates and archived drafts preserved. Current approved character PNGs and CANON rules remain authority. No approved source assets modified. Maya cargo pockets follow her approved PNG; earlier plain-jeans claims were incorrect.
+
+## Current visible inspection and repair outcome
+Five children, Harper, Jackson and distant excavator operator retained. Rear three-quarter viewpoint and all text visibly retained. Digging starts after layout check, visitors behind fence.
+Ben: white LS/blue shirt/plain khakis/dark low shoes/black glasses profile, left-side station circle; exact slightly-rear position and side shields unresolved.
+Leo: blue LS/navy/charcoal cargos/brown boots/lime-orange vest/clear glasses profile. Right sticker hidden.
+Vinny: green LS/hoodie/blue cargos/dark low shoes/compact curls and clear glasses profile; visible rear-left circle remains, exact placement unverified.
+Steph: gray helmet/straight red hair/lavender/olive cargos/purple-gray shoes/clear glasses profile; front-right sticker hidden. Maya: yellow LS/long curls/hoops/pink/blue cargos/purple footwear/clear glasses profile, front-left circle visible.
+Harper: white LS/purple cardigan/floral blouse at hem/simple lime vest/dark slacks/brown work shoes/wavy hair/hoops/clear glasses profile; no child emblem.
+Jackson: older white man with gray hair/beard, navy shirt/charcoal cargo/brown boots/blue Civic Ridge helmet/lime orange vest/radio/clear glasses; employer badge retained, not LS.
+Boys' upper-back emblems redrawn closer to supplied circular asset, between vertical strips and above horizontal strip. Girls' upper-back areas naturally hair-occluded; no forced low emblems. Exact circle typography/pixel identity not certified.
+
+## Checks that remain unresolved
+FAIL: Ben left elbow/silhouette still reaches edge of protected gutter despite reframing; right Harper near margin. Emblems improved but still generative approximations, not exact locked assets. Rear-view faces, front-panel alignment, hidden stickers and fine heights are unverified. Excavator support/soil/footprint and operator PPE detail require final proof.
+Generated tiny logos/stickers/emblems are not exact-pixel certified. Hidden inventory is UNVERIFIED, not passed or authorized for removal. Pose-adjusted canonical height, minute facial likeness/freckles, fine anatomy and exact Ben side-shield construction remain unverified unless explicitly checked above. Numerical placement tolerances were not invented.
+Resolution FAIL: native 1774 × 887 is below 5100 × 2550. Final print typography/bleed/margins remain unverified. Illustrative construction geometry is not an approved engineering detail or new site lock.
+
+## Review decisions
+Adam to review likeness, remaining defects, exact branding and final composition. Version A awaits B approval. Original manuscript retained unless explicitly flagged below; no canon change or approval assigned.
+
+## Previous audit — historical, describes previous candidate only
 # Pages 23-24 — people and perspective recheck
 
 Recheck date: 2026-10-02. Status: REVIEW REQUIRED — NOT APPROVED, NOT PRINT READY, NOT ALL-PASS.
@@ -60,4 +88,5 @@ Authority: fresh GitHub CANON source-registry and character-rules, Book 1/global
 2. Verify all fixed sticker visibility/occlusion and precise approved badge artwork at final scale.
 3. Retain current excavation-before-underground sequence; no new equipment/site dimensions inferred.
 4. Final print proof must resolve outer/bottom safety margins and output resolution.
+
 
