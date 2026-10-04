@@ -1,0 +1,286 @@
+spread: 05-06
+title: Where Is the Fire Station?
+status: ARTWORK LOCKED - PRODUCTION EXPORTS READY FOR REVIEW
+artwork_locked: true
+final_locked: false
+approved_by: Adam
+approved_date: '2026-09-27'
+approval_evidence: Lock it
+approval_scope: exact latest Version B artwork including current Leo face and hair;
+  not uncreated production derivatives
+version_b:
+  status: PRINT REVIEW PENDING
+  path: version-b/
+  storage: google_drive
+  drive_id: 1DfYKIPsJhSD84v_NGF-3i2ezCwkF2bw9
+  filename: Pages_5-6_Version_B_5100x2550_PRINT_REVIEW.png
+  sha256: 8c0dc41b1c5fbf083f30613711a7086c4f51636fe368d710cb7c486a875701dd
+  dimensions_px:
+  - 5100
+  - 2550
+  bleed_pdf:
+    drive_id: 1xQxmKmloFE3qbuehKmfYYhvvaLjUjT97
+    filename: Pages_5-6_Version_B_BLEED_PRINT_REVIEW.pdf
+    sha256: 0a0c02770f29f4fe18dd288bca8bd817d233409c8372b4414e2234b95c37f48b
+    page_size_inches:
+    - 8.625
+    - 8.75
+    page_order:
+    - LEFT
+    - RIGHT
+version_a:
+  status: PRINT REVIEW PENDING
+  path: version-a/
+  storage: google_drive
+  drive_id: 13gAX7DbbwqSM4KqP7jikxwGMvgt5XDgU
+  filename: Pages_5-6_Version_A_5100x2550_PRINT_REVIEW.png
+  sha256: 31187dc468ecf15df74f2b599ebb35fdd6ea9e00905068e8d3a666bed6622d4d
+  dimensions_px:
+  - 5100
+  - 2550
+  bleed_pdf:
+    drive_id: 1xtSO_GepvVOX3AlcNgsPP9ihH5x5g0x9
+    filename: Pages_5-6_Version_A_BLEED_PRINT_REVIEW.pdf
+    sha256: a2fe9a05f977cd0a244acc5d5b2aea8e0b896149e13fa1905fb8ecd2272495f9
+    page_size_inches:
+    - 8.625
+    - 8.75
+    page_order:
+    - LEFT
+    - RIGHT
+qa:
+  status: EXPORT CHECKS COMPLETE - AUTHOR REVIEW AND PHYSICAL PROOF PENDING
+  report: qa/PRODUCTION_REVIEW_2026-09-27.md
+  drive_report_id: 16B7FVC2KyGztBlXclnJFJtXZf3wCRZbO
+  source_pairs_used:
+  - Ben
+  - Leo
+  - Vinny
+  - Steph
+  - Maya
+  - Mrs-Harper
+  visible_proportions: VISUAL_PASS_NOT_MEASUREMENT_CERTIFIED
+  obscured_facial_features: NOT_VERIFIABLE_FROM_THIS_VIEW
+  numeric_height_order: NOT_VERIFIED_IN_STAGGERED_PERSPECTIVE
+  exact_sign_and_held_picture_asset_match: NOT_PIXEL_CERTIFIED
+  production_dimensions: PASS
+  required_dimensions_px:
+  - 5100
+  - 2550
+  version_pair_integrity: PASS_OUTSIDE_DECLARED_UPPER_REGION
+  bleed_exports: PREPARED_AND_RENDER_REVIEWED
+  physical_proof: NOT_PERFORMED
+  drive_pixel_qa_id: 1yITRhSEO5Go5MchpC0ElT7HUMIXpsbN-
+  pair_changes_outside_declared_upper_region: 0
+  native_detail_print_certified: false
+excavator_placement:
+  status: AUTHOR_ACCEPTED
+  evidence: The excavator is fine where it is
+  date: '2026-09-27'
+  scope: this spread only; no change to people or text gutter rules
+  preserve: true
+previous_artwork:
+  drive_id: 19FcZpxeDpSbKAVLBxVd-QlwR-lVuY7cc
+  status: SUPERSEDED
+  preserved: true
+next_step: Review production derivatives; complete assembled-book preflight, pagination
+  and physical proof before publication.
+approved_native_artwork:
+  status: ARTWORK LOCKED
+  path: version-b/
+  storage: google_drive
+  drive_id: 130bZ3O_AazUXSqGhviSyiORf6FTQoVd6
+  filename: Pages_5-6_Version_B_ARTWORK_LOCKED_2026-09-27.png
+  sha256: aec4a85987b509a3ac070b3d5bcdd3ff7c957000e045d166a4ba0109c5f0f139
+  dimensions_px:
+  - 1774
+  - 887
+
+people_recheck_2026_10_02:
+  status: VISIBLE_DETAILS_REVIEWED_NO_NEW_ARTWORK_APPROVAL
+  findings: "Locked artwork inspected: five children and Harper in pre-entry school clothes, no premature helmets or project stickers. Ben glasses, Leo short tight curls/navy/charcoal, Vinny green/blue cargo, Steph straight red/lavender/olive, Maya curls/pink/blue cargo, Harper purple/floral/lanyard visible. Rear/side views obscure faces; exact stature and facial identity remain unverified. No visible people defect requiring alteration identified. Retain author-locked perspective; production review remains pending."
+  artwork_changed: false
+  perspective: retained_author_locked_view
+
+typography_revision_2026_10_03:
+  status: REVIEW_REQUIRED_NOT_APPROVED
+  font_family: Architects Daughter
+  font_size_pt: 18
+  exact_embedded_font_verified: true
+  extracted_manuscript_match: true
+  spread_size_inches: [17, 8.5]
+  original_assets_preserved: true
+  candidate_drive_id: 1JucMha36Gfn2JcHTD9_mL2zeYLNnKWq3
+  audit_drive_id: 1Shl26yRF2ucR1NTiA4FRRGmZ9Wx__eK-
+  bleed_included: false
+  physical_proof: NOT_PERFORMED
+
+lettering_only_revision_2026_10_03:
+  status: REVIEW_REQUIRED_NOT_APPROVED
+  font_family: Architects Daughter
+  font_size_pt: 18
+  spread_trim_inches: [17, 8.5]
+  export_dimensions_px: [5100, 2550]
+  export_dpi: 300
+  exact_embedded_type_verified: true
+  original_pixels_outside_lettering_preserved: true
+  pdf_drive_id: 1VNgBb-1_6BYT1RTqMj1j5Rwxq5dmkqyH
+  png_drive_id: 1L1pOWoLujZehMR6mXUzn2OO-Nj1EDBrj
+  audit_drive_id: 1GldaKwGQk_FxjdWMxL3m6-bJ37xDpfpg
+  edit_package_drive_id: 1QnWcreQdh1c700hcbOV5r74fdPJTJY4x
+  original_assets_preserved: true
+  artwork_approval_transferred: false
+  native_artwork_print_detail_verified: false
+  print_ready: false
+
+lettering_only_revision_2026_10_04_lossless_rev2:
+  status: REVIEW_REQUIRED_NOT_APPROVED
+  font_family: Architects Daughter
+  font_size_pt: 18
+  spread_trim_inches: [17, 8.5]
+  export_dimensions_px: [5100, 2550]
+  export_dpi: 300
+  exact_embedded_type_verified: true
+  original_pixels_outside_lettering_preserved: true
+  pdf_drive_id: 1bEY50alWTlbm5TrkjQhw0JTgprZ8cY6l
+  png_drive_id: 1I98W46oyCnqE9HIb0LVw1QPwYpZmXanR
+  audit_drive_id: 1TVCyo9OHEhrEHLld2skW_J1iojNdI8JB
+  edit_package_drive_id: 1xccLg1mVXWNxmqNgA6ne3E7oEP2yWhD1
+  original_assets_preserved: true
+  artwork_approval_transferred: false
+  native_artwork_print_detail_verified: false
+  print_ready: false
+
+leo_rev6_review_history:
+  status: PENDING_AUTHOR_REVIEW
+  version: LEO_GHOSTING_REPAIR_REV6
+  recorded_date: '2026-10-04'
+  approved: false
+  artwork_changed: true
+  candidate_drive_id: 12YslcZiv8R-OAKXxAI8hCiUiNcw6p7DR
+  candidate_filename: Pages_5-6_Version_B_LEO_GHOSTING_REPAIR_REV6_PENDING_REVIEW.png
+  candidate_sha256: d38c684722b25078e298aaa800f0bbc7d8642023b0cf2eb736f837789321d736
+  dimensions_px: [5100, 2550]
+  dpi: 300
+  audit_path: qa/LEO_GHOSTING_REV6_2026-10-04.md
+  audit_drive_id: 1Nq6NRfBGDJ9mNUxCvEtXaZEYJ7UrKrvr
+  pixel_check_path: qa/REV6_PIXEL_CHECK_2026-10-04.json
+  pixel_check_drive_id: 1Rf7x5I5WEr3pO_KKQxS3XYrhyg7eNo0k
+  base_drive_id: 1BLCecCIMC9Ckj11aZpgirYYQv0y1csE3
+  prior_failed_revision:
+    version: REV5
+    status: FAILED_GHOSTING_PRESERVED
+    evidence: This image has ghosting
+    candidate_drive_id: 1wE7eZBM8erEPaa_lbXpO8S7g80qU5qi7
+    audit_drive_id: 1aJOYMUY_l0aj8k_40jI1PrfMsK0Dsc7i
+    audit_path: qa/LEO_ARM_REV5_2026-10-04.md
+  corrections: [coherent_Leo_upper_body_no_double_contours, shorter_pointing_reach, smooth_hoodie_back]
+  visual_ghosting_check: PASS_CLOSEUP_AND_SPREAD_AUTHOR_REVIEW_PENDING
+  changed_pixels_outside_Leo_upper_body_replacement_mask: 0
+  changed_placeholder_text_pixels: 0
+  unverified: [exact_likeness_approval, obscured_facial_microdetail, height_order, tiny_sign_emblem, held_station_picture_asset_fidelity, native_print_detail]
+  excavator_placement_preserved: true
+  text_is_placeholder: true
+  font_edits_performed: false
+  print_ready: false
+  historical_lock_applies_to_candidate: false
+  next_step: Await Adam's explicit REV6 feedback before edits, approval, archiving or advancing.
+
+vinny_rev8_review_history:
+  status: PENDING_AUTHOR_REVIEW
+  version: VINNY_FACE_REV8
+  recorded_date: '2026-10-04'
+  approved: false
+  artwork_changed: true
+  candidate_drive_id: 1Uqh-kTtbjC7sflis4TNHQf_2AkKs9NdE
+  candidate_filename: Pages_5-6_Version_B_VINNY_FACE_REV8_PENDING_REVIEW.png
+  candidate_sha256: 7879edeb479668ab939c07cd218c58d54d008fcf9885af25bd6e981d50685c2b
+  dimensions_px: [5100, 2550]
+  dpi: 300
+  audit_path: qa/VINNY_REV8_2026-10-04.md
+  audit_drive_id: 1NT5ejTjdL0zrnzLVraP6-jf3repzjOIr
+  pixel_check_path: qa/REV8_PIXEL_CHECK_2026-10-04.json
+  pixel_check_drive_id: 197Z8pLISH0c9qOvvRHJoZQKWr7l7av3f
+  prior_failed_revision:
+    version: VINNY_REV7
+    status: FAILED_FACE_LIKENESS_PRESERVED
+    evidence: This is isn't correct in his face
+    candidate_drive_id: 1OdSzaRUSxtE7AD0eU3P3TAaMwZwOXBp-
+    sha256: ba5cc84e65cc29655405b798887d907283622fb90cac0738fec3d54778370f72
+  base_drive_id: 12YslcZiv8R-OAKXxAI8hCiUiNcw6p7DR
+  source_pair: Vinny
+  source_image_drive_id: 1m-mxpb7Fpu04jWj5sYVJTHxvXXPySuSa
+  source_profile_drive_id: 1vG_CJ45X87ZsYlNr-Rq2VJiuRHaTtw4S
+  corrections: [fuller_Vinny_cheek, short_soft_chin, button_nose, smooth_source_guided_curls, darker_denim, plain_dark_shoes]
+  likeness_status: PENDING_AUTHOR_ASSESSMENT_NOT_CERTIFIED
+  far_eye_visibility: NOT_FULLY_ACHIEVED
+  changed_pixels_outside_Vinny_repair_footprint: 0
+  changed_placeholder_text_pixels: 0
+  Leo_REV6_pixels_preserved: true
+  text_is_placeholder: true
+  font_edits_performed: false
+  unverified: [exact_likeness_approval, hidden_facial_detail, measured_height_order, tiny_sign_asset, held_picture_asset, native_print_detail]
+  print_ready: false
+  historical_lock_applies_to_candidate: false
+  next_step: Await Adam's explicit REV8 feedback before further changes, approval, archiving or advancing.
+
+people_canon_check_rev8_2026_10_04:
+  status: FAIL
+  scope: all_six_visible_people_on_REV8
+  report_path: qa/REV8_FULL_PEOPLE_CANON_CHECK_2026-10-04.md
+  report_drive_id: 1UbCirXWjfnPSOeJKv2kLtLOGtVCI6Mer
+  artwork_changed: false
+  approval_recorded: false
+  failures: [Harper_face_cheek_jaw_chin, Steph_footwear_design, Maya_footwear_design, Maya_denim_saturation]
+  exact_likeness_unverified: [Ben, Leo, Vinny, Steph, Maya]
+  measured_heights: UNVERIFIED
+  chronology_and_visitor_side: PASS
+  text_and_fonts_changed: false
+  supersedes_broad_outfit_passes_for_current_detail_review: true
+  next_step: Await Adam's feedback before repairs or approval.
+
+active_review:
+  status: PENDING_AUTHOR_REVIEW
+  version: PEOPLE_CORRECTION_REV9
+  recorded_date: '2026-10-04'
+  approved: false
+  artwork_changed: true
+  candidate_drive_id: 17Kq0ZX2dcTB9PJSZc5fN56in77-MWS8W
+  candidate_filename: Pages_5-6_Version_B_PEOPLE_CORRECTION_REV9_PENDING_REVIEW.png
+  candidate_sha256: d801e12fec2e77f53aa85053c969a1593b1e63c153c7104559dd009ccb630310
+  dimensions_px: [5100, 2550]
+  dpi: 300
+  audit_path: qa/PEOPLE_CORRECTION_REV9_2026-10-04.md
+  audit_drive_id: 1DAr1jXX_h-WitRHmchRfPYnJ5nJf5h_l
+  pixel_check_path: qa/REV9_PIXEL_CHECK_2026-10-04.json
+  pixel_check_drive_id: 1RmLUtQNnsBpDeOoP46ZKHBvR4GU-bumJ
+  base_drive_id: 1Uqh-kTtbjC7sflis4TNHQf_2AkKs9NdE
+  source_pairs_used: [Mrs-Harper, Steph, Maya]
+  corrections: [Harper_fuller_cheek_shorter_soft_chin, Steph_source_guided_shoes_no_cyan_marks, Maya_source_guided_shoes_no_cyan_marks, Maya_muted_denim]
+  previous_failure_checklist: qa/REV8_FULL_PEOPLE_CANON_CHECK_2026-10-04.md
+  Harper_likeness: REPAIRED_PENDING_AUTHOR_ASSESSMENT
+  footwear_and_denim: VISIBLE_REPAIR_PASS_FINE_GEOMETRY_UNVERIFIED
+  visual_ghosting_check: PASS_CLOSEUP_AND_SPREAD
+  changed_pixels_outside_declared_repair_masks: 0
+  changed_placeholder_text_pixels: 0
+  Ben_Leo_Vinny_pixels_preserved: true
+  font_edits_performed: false
+  text_is_placeholder: true
+  unverified: [exact_character_likeness, hidden_details, complete_finger_inventory, measured_heights, fine_asset_fidelity, native_print_detail]
+  all_canon_certified: false
+  print_ready: false
+  historical_lock_applies_to_candidate: false
+  next_step: Await Adam's explicit REV9 feedback before changes, approval, archiving or advancing.
+
+canon_recheck_rev9_2026_10_04:
+  visible_repairs: PASS
+  complete_canon_clearance: UNVERIFIED
+  confirmed_remaining_visible_people_failures: []
+  report_path: qa/REV9_FULL_CANON_RECHECK_2026-10-04.md
+  report_drive_id: 1htQmvKNbfrzWnhf48XEWe4WBWgDIftxx
+  exact_likenesses_hidden_details_measured_heights: UNVERIFIED
+  fine_sign_and_picture_asset_fidelity: UNVERIFIED
+  revision_specific_bleed_exports: FAIL_NOT_CREATED
+  artwork_changed: false
+  fonts_changed: false
+  approved: false
