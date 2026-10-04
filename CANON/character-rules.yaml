@@ -699,3 +699,22 @@ hard_hat_badge_application_lock:
     hidden_or_unmeasurable_application: UNVERIFIED_not_PASS
     existing_spreads_automatically_certified: false
     source_images_or_profiles_modified: false
+
+source_detail_regression_checks:
+  recorded_date: '2026-10-04'
+  authority: existing_approved_Drive_profile_and_PNG_pairs
+  new_character_design_approval: false
+  Mrs-Harper:
+    source_registry_character: Mrs-Harper
+    check: Match the small pink and peach floral blouse pattern on cream fabric in the approved source, including exposed cloth beside hands, lanyard, neckline and hem.
+    reject: Large peach abstract swirls, mixed old and new patterns, residual old motifs or visible repair seams.
+  Steph:
+    source_registry_character: Steph
+    check: Preserve the approved subtle freckles, blue eyes, straight red hair and face; inspect at close-up and spread scale.
+    reject: Lost freckles, exaggerated new markings or changed facial features during a freckle repair.
+  localized_repairs:
+    inspect: [hands_and_fingers, lanyard_and_ID_edges, cloth_edges, station_renderings, unchanged_lettering, unrelated_character_identity]
+    require_original_pixels_outside_authorized_repair_footprints: true
+    full_scene_regeneration_is_not_an_automatic_replacement: true
+    visual_checks_automatically_passed_by_CI: false
+    hidden_or_unmeasurable_details: UNVERIFIED_not_PASS
