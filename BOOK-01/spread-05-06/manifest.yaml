@@ -271,3 +271,16 @@ active_review:
   print_ready: false
   historical_lock_applies_to_candidate: false
   next_step: Await Adam's explicit REV9 feedback before changes, approval, archiving or advancing.
+
+canon_recheck_rev9_2026_10_04:
+  visible_repairs: PASS
+  complete_canon_clearance: UNVERIFIED
+  confirmed_remaining_visible_people_failures: []
+  report_path: qa/REV9_FULL_CANON_RECHECK_2026-10-04.md
+  report_drive_id: 1htQmvKNbfrzWnhf48XEWe4WBWgDIftxx
+  exact_likenesses_hidden_details_measured_heights: UNVERIFIED
+  fine_sign_and_picture_asset_fidelity: UNVERIFIED
+  revision_specific_bleed_exports: FAIL_NOT_CREATED
+  artwork_changed: false
+  fonts_changed: false
+  approved: false
