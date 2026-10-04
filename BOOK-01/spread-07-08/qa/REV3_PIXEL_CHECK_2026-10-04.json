@@ -1,0 +1,49 @@
+{
+  "filename": "Pages_7-8_Version_B_CANON_CORRECTION_REV3_PENDING_REVIEW.png",
+  "sha256": "f4389861cc6bde7d92727d20bfab1fa75779b5d28c18e379e2dc56412b239f25",
+  "base_sha256": "d4effaa54629064ceea81eb225dab8bb349d4f8288f9b000e301e56f8f33e67d",
+  "dimensions_px": [
+    5100,
+    2550
+  ],
+  "dpi": 300,
+  "changed_pixels": 441471,
+  "changed_pixels_outside_declared_masks": 0,
+  "changed_pixels_in_top_placeholder_text_band": 0,
+  "masks": [
+    {
+      "n": "Vinny",
+      "left": 3500,
+      "top": 1090,
+      "w": 630,
+      "h": 700,
+      "path": "M90 65 L600 65 L605 455 L455 530 L195 530 L80 415 L65 300 Z"
+    },
+    {
+      "n": "Harper",
+      "left": 1530,
+      "top": 565,
+      "w": 610,
+      "h": 610,
+      "path": "M265 140 L390 130 L470 220 L465 330 L405 405 L320 425 L245 380 L200 295 L210 220 Z"
+    },
+    {
+      "n": "Steph",
+      "left": 1250,
+      "top": 1040,
+      "w": 560,
+      "h": 600,
+      "path": "M150 240 L210 245 L228 237 L244 237 L266 260 L313 295 L315 330 L262 337 L215 305 L170 295 L145 275 Z"
+    },
+    {
+      "n": "Maya",
+      "left": 4490,
+      "top": 1840,
+      "w": 600,
+      "h": 640,
+      "path": "M53 48 L283 35 L305 108 L335 130 L347 208 L359 308 L393 475 L345 511 L263 486 L215 296 L188 259 L187 389 L182 483 L100 487 L63 445 L77 395 L55 275 L46 125 Z"
+    }
+  ],
+  "approved": false,
+  "print_ready": false
+}
