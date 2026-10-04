@@ -1,3 +1,13 @@
+# Current approval checkpoint — 2026-10-04
+
+**Pages 3–4 REV4: ARTWORK APPROVED by Adam.** Explicit wording: “Pages 3–4 REV4 is approved”. [Approved REV4](https://drive.google.com/file/d/1DRYEa_fQ9A0t0m3oUDlxkAO_KneIfDd8/view). [Approved spread folder](https://drive.google.com/drive/folders/1s7aokLUs6PX96tFOTNRJXnJ71GU6TDFb). [Superseded versions](https://drive.google.com/drive/folders/1MsJA_TfvPqAG0rjiVpYAkJb8s0DgSQib).
+
+GitHub manifest and approval audit record this exact PNG hash, scope and archive inventory. Earlier versions retain their IDs/bytes/history and are grouped by version. Original lettering is preserved as placeholder space; final wording is manual. No confirmed visible character mismatch in the latest checklist, but hidden/tiny details and production checks remain unverified. Artwork approval is not print-ready certification. REV4 Version A and bleed exports, final manual text fit, native sharpness, color/pagination/full-book proof remain pending. Wait for Adam before advancing.
+
+Records below are historical snapshots; their pending statements describe their dates, not this current approval.
+
+---
+
 # Pages 3–4 one-spread review checkpoint — 2026-10-04
 
 Latest Pages 3–4 correction candidate: [REV4 PNG](https://drive.google.com/file/d/1DRYEa_fQ9A0t0m3oUDlxkAO_KneIfDd8/view?usp=drivesdk). [Canon correction audit](https://drive.google.com/file/d/1hAVkKzsrrU_tzS2gK0kyXqglnnQjccaC/view?usp=drivesdk). Status: **PENDING AUTHOR REVIEW**, not approved or print-ready. Mrs. Harper’s blouse print and Steph’s freckles corrected using current approved sources. Original lettering retained; no font edits. Pixel comparison confirms no changes outside local blouse/cheek repair regions. Earlier versions, typography REV2, rejected full-scene intermediate and REV3 repair draft are preserved. Hidden clothing/footwear, numeric seated height and actual-size print sharpness remain unverified. Await Adam’s feedback before further changes or advancing to Pages 5–6.
@@ -128,3 +138,11 @@ Audit: https://drive.google.com/file/d/1Shl26yRF2ucR1NTiA4FRRGmZ9Wx__eK-/view?us
 Adam directed that everything run through GitHub as well. The current Pages 3–4 REV4 candidate, Drive IDs, SHA-256, pixel checks, unresolved findings and pending approval state are recorded in GitHub BOOK-01/spread-03-04/manifest.yaml and qa/CANON_CORRECTION_REV4_2026-10-04.md. The historical REV2 approval remains scoped to its original bytes.
 
 Repository AGENTS.md now requires both Drive and GitHub reads before review and synchronized candidate/audit/approval records. CANON/character-rules.yaml adds source-grounded blouse-print and freckle review checks; no new character design approved. Existing canon-reference and manifest checks PASS locally; they do not perform visual inspection or certify raw Drive hashes. Review remains one spread at a time, placeholder lettering preserved, with no new approval.
+
+
+
+## Pages 3–4 detailed check — 2026-10-04
+
+[Full item-by-item REV4 checklist](https://drive.google.com/file/d/1RggaAWyiG2UcswxWtt4u0GWgPKzGvuWn/view?usp=drivesdk), also committed at GitHub BOOK-01/spread-03-04/qa/REV4_ITEM_BY_ITEM_CHECK_2026-10-04.md. No new approval or artwork changes. No confirmed visible character mismatch; hidden details, Ben iris color and tiny lettering/assets remain unverified. Existing right-wall placeholder layout is recorded as a default-left-zone exception without final layout approval. New REV4 bleed-ready page export is absent, a separate production failure. This checklist narrows earlier broad pass descriptions.
+
+
