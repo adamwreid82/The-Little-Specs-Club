@@ -144,3 +144,21 @@ lettering_only_revision_2026_10_03:
   artwork_approval_transferred: false
   native_artwork_print_detail_verified: false
   print_ready: false
+
+lettering_only_revision_2026_10_04_lossless_rev2:
+  status: REVIEW_REQUIRED_NOT_APPROVED
+  font_family: Architects Daughter
+  font_size_pt: 18
+  spread_trim_inches: [17, 8.5]
+  export_dimensions_px: [5100, 2550]
+  export_dpi: 300
+  exact_embedded_type_verified: true
+  original_pixels_outside_lettering_preserved: true
+  pdf_drive_id: 1xLq35uf-rnL7Us8gvZ_aWXq70K6Zya-h
+  png_drive_id: 1GVWeCrLibllXZXqXO3aK1n0k27JNFxXS
+  audit_drive_id: 1Tkwll-NuPMVm6I-oXs-_Ju1mFjtXmPdL
+  edit_package_drive_id: 1fWVC7Q5bedDvoGR26uHWyfT5FucFeAme
+  original_assets_preserved: true
+  artwork_approval_transferred: false
+  native_artwork_print_detail_verified: false
+  print_ready: false
