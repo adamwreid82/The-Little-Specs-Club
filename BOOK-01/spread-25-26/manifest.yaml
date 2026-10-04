@@ -29,3 +29,21 @@ people_perspective_recheck:
   findings: "Steph wearer-front-right sticker side corrected; Harper lime vest and Andre vest/patch repaired. Full current audit on Drive and repository QA."
   unresolved: "Steph side repaired, precise picture/scale unverified; Ben side shields; foreground crop and Rivera fingertip/gutter clearance; exact trade branding."
   consolidated_review_url: https://drive.google.com/file/d/19ZsfZHFPEAJx6aje5z8IZSku0XpmvpK5/view
+
+lettering_only_revision_2026_10_03:
+  status: REVIEW_REQUIRED_NOT_APPROVED
+  font_family: Architects Daughter
+  font_size_pt: 18
+  spread_trim_inches: [17, 8.5]
+  export_dimensions_px: [5100, 2550]
+  export_dpi: 300
+  exact_embedded_type_verified: true
+  original_pixels_outside_lettering_preserved: true
+  pdf_drive_id: 19tJzlE-wCYaezA76n15MXOHuaef38tlP
+  png_drive_id: 1BViSeOXbRyBvZb1CfTiK58lUTGLxu6si
+  audit_drive_id: 1NfU0VfQfkmwxSYwDqG1PDZZCYA4PnZ0u
+  edit_package_drive_id: 1fXeIwSTAyAUj-n37lONz-0k3atTKO2Xd
+  original_assets_preserved: true
+  artwork_approval_transferred: false
+  native_artwork_print_detail_verified: false
+  print_ready: false
