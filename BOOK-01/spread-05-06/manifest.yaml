@@ -186,7 +186,7 @@ leo_rev6_review_history:
   historical_lock_applies_to_candidate: false
   next_step: Await Adam's explicit REV6 feedback before edits, approval, archiving or advancing.
 
-active_review:
+vinny_rev8_review_history:
   status: PENDING_AUTHOR_REVIEW
   version: VINNY_FACE_REV8
   recorded_date: '2026-10-04'
@@ -238,3 +238,36 @@ people_canon_check_rev8_2026_10_04:
   text_and_fonts_changed: false
   supersedes_broad_outfit_passes_for_current_detail_review: true
   next_step: Await Adam's feedback before repairs or approval.
+
+active_review:
+  status: PENDING_AUTHOR_REVIEW
+  version: PEOPLE_CORRECTION_REV9
+  recorded_date: '2026-10-04'
+  approved: false
+  artwork_changed: true
+  candidate_drive_id: 17Kq0ZX2dcTB9PJSZc5fN56in77-MWS8W
+  candidate_filename: Pages_5-6_Version_B_PEOPLE_CORRECTION_REV9_PENDING_REVIEW.png
+  candidate_sha256: d801e12fec2e77f53aa85053c969a1593b1e63c153c7104559dd009ccb630310
+  dimensions_px: [5100, 2550]
+  dpi: 300
+  audit_path: qa/PEOPLE_CORRECTION_REV9_2026-10-04.md
+  audit_drive_id: 1DAr1jXX_h-WitRHmchRfPYnJ5nJf5h_l
+  pixel_check_path: qa/REV9_PIXEL_CHECK_2026-10-04.json
+  pixel_check_drive_id: 1RmLUtQNnsBpDeOoP46ZKHBvR4GU-bumJ
+  base_drive_id: 1Uqh-kTtbjC7sflis4TNHQf_2AkKs9NdE
+  source_pairs_used: [Mrs-Harper, Steph, Maya]
+  corrections: [Harper_fuller_cheek_shorter_soft_chin, Steph_source_guided_shoes_no_cyan_marks, Maya_source_guided_shoes_no_cyan_marks, Maya_muted_denim]
+  previous_failure_checklist: qa/REV8_FULL_PEOPLE_CANON_CHECK_2026-10-04.md
+  Harper_likeness: REPAIRED_PENDING_AUTHOR_ASSESSMENT
+  footwear_and_denim: VISIBLE_REPAIR_PASS_FINE_GEOMETRY_UNVERIFIED
+  visual_ghosting_check: PASS_CLOSEUP_AND_SPREAD
+  changed_pixels_outside_declared_repair_masks: 0
+  changed_placeholder_text_pixels: 0
+  Ben_Leo_Vinny_pixels_preserved: true
+  font_edits_performed: false
+  text_is_placeholder: true
+  unverified: [exact_character_likeness, hidden_details, complete_finger_inventory, measured_heights, fine_asset_fidelity, native_print_detail]
+  all_canon_certified: false
+  print_ready: false
+  historical_lock_applies_to_candidate: false
+  next_step: Await Adam's explicit REV9 feedback before changes, approval, archiving or advancing.
