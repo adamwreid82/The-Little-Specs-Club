@@ -194,3 +194,17 @@ active_review:
   print_ready: false
   review_index_drive_id: 1txG_ODz4IcnD2RP5Dy0A6-WjEwF8Sb8L
   next_step: Await Adam's explicit feedback on REV4; do not inherit the historical REV2 approval.
+
+item_by_item_review_2026_10_04:
+  candidate_version: REV4
+  status: INCOMPLETE_VERIFICATION_NOT_APPROVED
+  audit_path: qa/REV4_ITEM_BY_ITEM_CHECK_2026-10-04.md
+  audit_drive_id: 1RggaAWyiG2UcswxWtt4u0GWgPKzGvuWn
+  confirmed_visible_character_failures: []
+  newly_explicit_unverified: [Ben_iris_color, tiny_ID_detail, tiny_station_sign_and_emblem_detail, final_manual_text_fit]
+  layout_exception: existing_right_wall_placeholder_text_instead_of_default_left_zone
+  layout_exception_newly_approved: false
+  production_failure: no_REV4_bleed_ready_page_export
+  hidden_details_do_not_require_redesign_for_visibility: true
+  approved: false
+  print_ready: false
