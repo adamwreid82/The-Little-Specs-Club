@@ -162,3 +162,35 @@ lettering_only_revision_2026_10_04_lossless_rev2:
   artwork_approval_transferred: false
   native_artwork_print_detail_verified: false
   print_ready: false
+
+active_review:
+  status: PENDING_AUTHOR_REVIEW
+  version: REV4
+  recorded_date: '2026-10-04'
+  approved: false
+  approval_evidence: null
+  historical_lock_applies_to_this_candidate: false
+  candidate:
+    storage: google_drive
+    drive_id: 1DRYEa_fQ9A0t0m3oUDlxkAO_KneIfDd8
+    filename: Pages_3-4_Version_B_CANON_CORRECTION_REV4_PENDING_REVIEW.png
+    sha256: 8fe4e3fc475994340097912535c24eb5a33dd9bd24efe18f30e4bbd8827ed915
+    dimensions_px: [5100, 2550]
+    dpi: 300
+  audit:
+    path: qa/CANON_CORRECTION_REV4_2026-10-04.md
+    drive_id: 1hAVkKzsrrU_tzS2gK0kyXqglnnQjccaC
+  selected_base_drive_id: 1GVWeCrLibllXZXqXO3aK1n0k27JNFxXS
+  prior_failed_repair:
+    drive_id: 1nKpIYbuBUa-hYxuNObPYJXUUuVadwk2Y
+    audit_drive_id: 1jWu5ANq_2CrmKQyY5GX2ZocabBknkmiu
+    status: DRAFT_REPAIR_REQUIRED_PRESERVED
+  local_corrections: [Mrs_Harper_blouse_floral_pattern, Steph_subtle_freckles]
+  pixel_checks:
+    outside_local_repair_regions_changed: 0
+    placeholder_text_region_changed: 0
+  author_review_remaining: [floral_scale_and_local_edges, subtle_freckles]
+  unverified: [occluded_lower_clothing_and_footwear, standing_height, actual_size_print_sharpness, bleed, final_pagination]
+  print_ready: false
+  review_index_drive_id: 1txG_ODz4IcnD2RP5Dy0A6-WjEwF8Sb8L
+  next_step: Await Adam's explicit feedback on REV4; do not inherit the historical REV2 approval.
