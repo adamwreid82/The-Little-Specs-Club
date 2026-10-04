@@ -144,6 +144,73 @@ lettering_only_revision_2026_10_04_lossless_rev2:
   print_ready: false
 active_review:
   status: PENDING_AUTHOR_REVIEW
+  version: BEN_GAZE_REV4
+  recorded_date: '2026-10-04'
+  approved: false
+  artwork_changed: true
+  font_edits_performed: false
+  text_is_placeholder: true
+  candidate_drive_id: 1C_S8LXWp2974pH3y1SuhRJ7yRWtVlPx4
+  candidate_filename: Pages_7-8_Version_B_BEN_GAZE_REV4_PENDING_REVIEW.png
+  candidate_sha256: bc1d22e891c74ef84994db8c742b7d92a8d8da4ccadaf0d1acebde4883605e55
+  dimensions_px:
+  - 5100
+  - 2550
+  dpi: 300
+  audit_path: qa/BEN_GAZE_REV4_2026-10-04.md
+  audit_drive_id: 1f24xVdXnhWQ0JKAhDpFGSSI8uPz4cxRS
+  pixel_check_path: qa/REV4_PIXEL_CHECK_2026-10-04.json
+  pixel_check_drive_id: 1k7MJ2ymV5xbsH1PiA-NKW1SHOuZvxOdE
+  base_drive_id: 1Wfsh6YgBEks_0UGVd7XjzCVfrx4UGy1_
+  source_pairs_used:
+  - Ben
+  corrections:
+  - Ben_gaze_upward_toward_Rivera
+  likeness_status: REPAIRED_PENDING_AUTHOR_ASSESSMENT
+  visual_ghosting_check: PASS_CLOSEUP_AND_SPREAD
+  changed_pixels_outside_declared_masks: 0
+  changed_placeholder_text_pixels: 0
+  unverified:
+  - exact_likeness
+  - hidden_details
+  - measured_heights
+  - finger_inventory
+  - tiny_assets
+  - fine_footwear_geometry
+  - native_print_detail
+  all_canon_certified: false
+  print_ready: false
+  historical_lock_applies_to_candidate: false
+  regression_checks: qa/BEN_GAZE_REV4_2026-10-04.md
+  next_step: Await Adam feedback before changes, approval, archiving or advancing.
+  previous_REV3_corrections_preserved: true
+pre_correction_review_2026_10_04:
+  status: REVIEW_REQUIRED_VISIBLE_CANON_FAILURES
+  version: LETTERING_LOSSLESS_REV2
+  recorded_date: '2026-10-04'
+  approved: false
+  artwork_changed: false
+  fonts_changed: false
+  candidate_drive_id: 1dts6x99z9xXTZ0EyddnGa9hmqwNK01kd
+  candidate_filename: Pages_7-8_Version_B_Architects_Daughter_18pt_5100x2550_MASKED_REVIEW_LOSSLESS_REV2.png
+  candidate_sha256: d4effaa54629064ceea81eb225dab8bb349d4f8288f9b000e301e56f8f33e67d
+  dimensions_px:
+  - 5100
+  - 2550
+  dpi: 300
+  audit_path: qa/CURRENT_CANON_REVIEW_2026-10-04.md
+  audit_drive_id: 1mfcpW05-IiWucNjYkbpePYC_dI7b0Qyj
+  failures:
+  - Vinny_face_and_curl_silhouette
+  - Steph_freckles_missing
+  - Harper_cheek_chin_shape
+  - Maya_denim_saturation
+  all_canon_certified: false
+  print_ready: false
+  historical_lock_applies_to_candidate: false
+  next_step: Await Adam feedback before changes, approval, archiving or advancing.
+canon_rev3_history:
+  status: PENDING_AUTHOR_REVIEW
   version: CANON_CORRECTION_REV3
   recorded_date: '2026-10-04'
   approved: false
@@ -190,30 +257,5 @@ active_review:
   print_ready: false
   historical_lock_applies_to_candidate: false
   regression_checks: qa/CANON_CORRECTION_REV3_2026-10-04.md#future-manual-regression-checks
-  next_step: Await Adam feedback before changes, approval, archiving or advancing.
-pre_correction_review_2026_10_04:
-  status: REVIEW_REQUIRED_VISIBLE_CANON_FAILURES
-  version: LETTERING_LOSSLESS_REV2
-  recorded_date: '2026-10-04'
-  approved: false
-  artwork_changed: false
-  fonts_changed: false
-  candidate_drive_id: 1dts6x99z9xXTZ0EyddnGa9hmqwNK01kd
-  candidate_filename: Pages_7-8_Version_B_Architects_Daughter_18pt_5100x2550_MASKED_REVIEW_LOSSLESS_REV2.png
-  candidate_sha256: d4effaa54629064ceea81eb225dab8bb349d4f8288f9b000e301e56f8f33e67d
-  dimensions_px:
-  - 5100
-  - 2550
-  dpi: 300
-  audit_path: qa/CURRENT_CANON_REVIEW_2026-10-04.md
-  audit_drive_id: 1mfcpW05-IiWucNjYkbpePYC_dI7b0Qyj
-  failures:
-  - Vinny_face_and_curl_silhouette
-  - Steph_freckles_missing
-  - Harper_cheek_chin_shape
-  - Maya_denim_saturation
-  all_canon_certified: false
-  print_ready: false
-  historical_lock_applies_to_candidate: false
   next_step: Await Adam feedback before changes, approval, archiving or advancing.
 
