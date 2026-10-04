@@ -30,3 +30,21 @@ people_perspective_recheck:
   audit_url: https://drive.google.com/file/d/1wwRZ2su72p58fyQC61UVJ8ImlDs2oHRs/view
   findings: "Low child-eye diagonal fence foreground creates deeper perspective. Five children and Harper observe, Steph holds drawing, Ben responds, one principal Sam works at chute with three support workers. Text visibly retained.\nBen plain khakis repaired; dark low shoes, blue shirt, white LS, black glasses. Left project sticker no longer resolved: UNVERIFIED, potentially missing; no inventory pass.\nLeo navy/blue LS/short curls/clear glasses/orange vest trim visible; lower clothing behind fence not fully checkable. Wrong near left-side sticker removed, right location hidden.\nVinny green hoodie/helmet, compact curls/round cheeks/clear glasses; lower clothes and footwear occluded by fence. Wrong front-side sticker removed; rear-left unverified.\nSteph gray LS, straight red hair repaired, blue eyes, lavender/olive/purple-gray shoes and clear glasses; invented earrings removed. Sticker moved to viewer-left beside LS, wearer front-right in current pose, exact picture remains simplified.\nMaya yellow LS, long curls/hoops/pink/blue cargo/purple footwear/clear glasses visible; front-left sticker on visible left panel. Exact artwork unverified.\nHarper white LS/lime silver vest/purple floral/ID/wavy hair/hoops/dark slacks/brown work boots/clear glasses. Wrong front stickers removed, rear-right inventory hidden.\nSam gray helmet restored from erroneous LS to StonePeak; tan shirt, lime/orange vest, charcoal trousers, brown boots, gloves and clear glasses, broad older Black man with gray beard. Employer marks recognizable, not exact. Three support workers still similar tan uniforms; identities not individually canonical.\nAdults alone pour and finish, no roof/walls, visitors behind barrier."
   unresolved: "FAIL: truck still cropped at left edge; bottom shoes tight; support worker overlaps center gutter and Leo elbow approaches it. Desired full safety margins not achieved. Hidden lower bodies of Leo/Vinny cannot receive clothing passes. Fine wet-concrete PPE, exact sketch/site/footprint and support-worker face distinctness remain unverified. Small generated decals/LS remain visibly simplified."
+
+lettering_only_revision_2026_10_03:
+  status: REVIEW_REQUIRED_NOT_APPROVED
+  font_family: Architects Daughter
+  font_size_pt: 18
+  spread_trim_inches: [17, 8.5]
+  export_dimensions_px: [5100, 2550]
+  export_dpi: 300
+  exact_embedded_type_verified: true
+  original_pixels_outside_lettering_preserved: true
+  pdf_drive_id: 1pnfddFe-ujJ-gaH0GuJ1BSZqotXSJIhk
+  png_drive_id: 1mdWDngWxDqHuD_iiWfrm8iJGc_Qm-9lU
+  audit_drive_id: 13-ORjWBV2wMX2gqNOyNFhSAQxPEnUuNY
+  edit_package_drive_id: 1sAr1p975ZxNFpEqY0XleWFvCEQxCYlxk
+  original_assets_preserved: true
+  artwork_approval_transferred: false
+  native_artwork_print_detail_verified: false
+  print_ready: false
