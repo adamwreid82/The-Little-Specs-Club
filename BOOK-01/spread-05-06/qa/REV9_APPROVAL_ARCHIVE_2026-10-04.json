@@ -1,0 +1,474 @@
+{
+  "folders": [
+    {
+      "version": "REV8",
+      "id": "1bhOjoPMREY5EvLPQHNc41wu_3vzbUGWw"
+    },
+    {
+      "version": "REV7",
+      "id": "1PiEjl_TN6HWXDKwFQjhqE99LMkJAMZD4"
+    },
+    {
+      "version": "REV6",
+      "id": "1xTV4fXzAM1Hx2x4xCUERyZgD__SMajln"
+    },
+    {
+      "version": "REV5",
+      "id": "1P2saYJ1NFumvTI689pyQLX1as5AMQ7h3"
+    },
+    {
+      "version": "REV4",
+      "id": "1-PcPHjrCcv2bvwzkBKFaCWIt4JSI5f3M"
+    },
+    {
+      "version": "REV3",
+      "id": "1Vbx8FbYVu9wmIjkr_EtN9GiyhcwAK6zM"
+    },
+    {
+      "version": "INITIAL_PROOF",
+      "id": "1lhgF7Ritt3QJgLO0V5kryGPIq1xoGkX1"
+    },
+    {
+      "version": "REV2",
+      "id": "1ZNuSR2WF95UpQ3FRPutohfvIrtXhfB8p"
+    },
+    {
+      "version": "LETTERING_REV1",
+      "id": "1H8ccD86D8mbIEto7qoiiYiDLzczKBpyN"
+    },
+    {
+      "version": "HISTORICAL_REVIEW_PACKAGE",
+      "id": "1D6RJsQA6l7Qn5xxN8LxY8QD-5uWmwuEU"
+    },
+    {
+      "version": "HISTORICAL_APPROVED_B",
+      "id": "1IBT2E32UR1AYm9lLw5DjmTucYaXMvwHL"
+    },
+    {
+      "version": "HISTORICAL_APPROVED_A",
+      "id": "18uO_sxDNvakX1NTFV9PO72af0AklIKeS"
+    }
+  ],
+  "items": [
+    {
+      "id": "1htQmvKNbfrzWnhf48XEWe4WBWgDIftxx",
+      "name_before": "Pages_5-6_REV9_FULL_CANON_RECHECK.md",
+      "name_after": "Pages_5-6_REV9_FULL_CANON_RECHECK.md",
+      "size_before": "14200",
+      "old_parents": [
+        "1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd"
+      ],
+      "new_parent": "1bWaSrlPEAT6dZQa-POzWblCgeiqXwYj-",
+      "version_group": "CURRENT",
+      "verified": true
+    },
+    {
+      "id": "1RmLUtQNnsBpDeOoP46ZKHBvR4GU-bumJ",
+      "name_before": "Pages_5-6_REV9_PIXEL_CHECK.json",
+      "name_after": "Pages_5-6_REV9_PIXEL_CHECK.json",
+      "size_before": "426",
+      "old_parents": [
+        "1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd"
+      ],
+      "new_parent": "1bWaSrlPEAT6dZQa-POzWblCgeiqXwYj-",
+      "version_group": "CURRENT",
+      "verified": true
+    },
+    {
+      "id": "17Kq0ZX2dcTB9PJSZc5fN56in77-MWS8W",
+      "name_before": "Pages_5-6_Version_B_PEOPLE_CORRECTION_REV9_PENDING_REVIEW.png",
+      "name_after": "Pages_5-6_Version_B_PEOPLE_CORRECTION_REV9_APPROVED.png",
+      "size_before": "30876166",
+      "old_parents": [
+        "1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd"
+      ],
+      "new_parent": "1bWaSrlPEAT6dZQa-POzWblCgeiqXwYj-",
+      "version_group": "CURRENT",
+      "verified": true
+    },
+    {
+      "id": "1DAr1jXX_h-WitRHmchRfPYnJ5nJf5h_l",
+      "name_before": "Pages_5-6_REV9_PEOPLE_CORRECTION_AUDIT.md",
+      "name_after": "Pages_5-6_REV9_PEOPLE_CORRECTION_AUDIT.md",
+      "size_before": "2753",
+      "old_parents": [
+        "1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd"
+      ],
+      "new_parent": "1bWaSrlPEAT6dZQa-POzWblCgeiqXwYj-",
+      "version_group": "CURRENT",
+      "verified": true
+    },
+    {
+      "id": "1UbCirXWjfnPSOeJKv2kLtLOGtVCI6Mer",
+      "name_before": "Pages_5-6_REV8_FULL_PEOPLE_CANON_CHECK.md",
+      "name_after": "Pages_5-6_REV8_FULL_PEOPLE_CANON_CHECK.md",
+      "size_before": "12673",
+      "old_parents": [
+        "1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd"
+      ],
+      "new_parent": "1bhOjoPMREY5EvLPQHNc41wu_3vzbUGWw",
+      "version_group": "REV8",
+      "verified": true
+    },
+    {
+      "id": "1NT5ejTjdL0zrnzLVraP6-jf3repzjOIr",
+      "name_before": "Pages_5-6_VINNY_REV8_AUDIT.md",
+      "name_after": "Pages_5-6_VINNY_REV8_AUDIT.md",
+      "size_before": "1809",
+      "old_parents": [
+        "1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd"
+      ],
+      "new_parent": "1bhOjoPMREY5EvLPQHNc41wu_3vzbUGWw",
+      "version_group": "REV8",
+      "verified": true
+    },
+    {
+      "id": "1Uqh-kTtbjC7sflis4TNHQf_2AkKs9NdE",
+      "name_before": "Pages_5-6_Version_B_VINNY_FACE_REV8_PENDING_REVIEW.png",
+      "name_after": "Pages_5-6_Version_B_VINNY_FACE_REV8_PENDING_REVIEW.png",
+      "size_before": "30856925",
+      "old_parents": [
+        "1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd"
+      ],
+      "new_parent": "1bhOjoPMREY5EvLPQHNc41wu_3vzbUGWw",
+      "version_group": "REV8",
+      "verified": true
+    },
+    {
+      "id": "197Z8pLISH0c9qOvvRHJoZQKWr7l7av3f",
+      "name_before": "Pages_5-6_REV8_PIXEL_CHECK.json",
+      "name_after": "Pages_5-6_REV8_PIXEL_CHECK.json",
+      "size_before": "415",
+      "old_parents": [
+        "1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd"
+      ],
+      "new_parent": "1bhOjoPMREY5EvLPQHNc41wu_3vzbUGWw",
+      "version_group": "REV8",
+      "verified": true
+    },
+    {
+      "id": "1OdSzaRUSxtE7AD0eU3P3TAaMwZwOXBp-",
+      "name_before": "Pages_5-6_Version_B_VINNY_REV7_DRAFT_FACE_REPAIR_REQUIRED.png",
+      "name_after": "Pages_5-6_Version_B_VINNY_REV7_DRAFT_FACE_REPAIR_REQUIRED.png",
+      "size_before": "30866767",
+      "old_parents": [
+        "1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd"
+      ],
+      "new_parent": "1PiEjl_TN6HWXDKwFQjhqE99LMkJAMZD4",
+      "version_group": "REV7",
+      "verified": true
+    },
+    {
+      "id": "1ydiGy_VJNXfNGfB06hjrlt3rUfXE2G3W",
+      "name_before": "Pages_5-6_Vinny_REV6_REVIEW.md",
+      "name_after": "Pages_5-6_Vinny_REV6_REVIEW.md",
+      "size_before": "2222",
+      "old_parents": [
+        "1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd"
+      ],
+      "new_parent": "1xTV4fXzAM1Hx2x4xCUERyZgD__SMajln",
+      "version_group": "REV6",
+      "verified": true
+    },
+    {
+      "id": "1Rf7x5I5WEr3pO_KKQxS3XYrhyg7eNo0k",
+      "name_before": "Pages_5-6_REV6_PIXEL_CHECK.json",
+      "name_after": "Pages_5-6_REV6_PIXEL_CHECK.json",
+      "size_before": "395",
+      "old_parents": [
+        "1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd"
+      ],
+      "new_parent": "1xTV4fXzAM1Hx2x4xCUERyZgD__SMajln",
+      "version_group": "REV6",
+      "verified": true
+    },
+    {
+      "id": "1Nq6NRfBGDJ9mNUxCvEtXaZEYJ7UrKrvr",
+      "name_before": "Pages_5-6_LEO_GHOSTING_REV6_AUDIT.md",
+      "name_after": "Pages_5-6_LEO_GHOSTING_REV6_AUDIT.md",
+      "size_before": "1802",
+      "old_parents": [
+        "1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd"
+      ],
+      "new_parent": "1xTV4fXzAM1Hx2x4xCUERyZgD__SMajln",
+      "version_group": "REV6",
+      "verified": true
+    },
+    {
+      "id": "12YslcZiv8R-OAKXxAI8hCiUiNcw6p7DR",
+      "name_before": "Pages_5-6_Version_B_LEO_GHOSTING_REPAIR_REV6_PENDING_REVIEW.png",
+      "name_after": "Pages_5-6_Version_B_LEO_GHOSTING_REPAIR_REV6_PENDING_REVIEW.png",
+      "size_before": "30787857",
+      "old_parents": [
+        "1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd"
+      ],
+      "new_parent": "1xTV4fXzAM1Hx2x4xCUERyZgD__SMajln",
+      "version_group": "REV6",
+      "verified": true
+    },
+    {
+      "id": "1hXgZCkzfm0QSArfjPmGDCzBVd6Eyn2lC",
+      "name_before": "Pages_5-6_REV5_PIXEL_CHECK.json",
+      "name_after": "Pages_5-6_REV5_PIXEL_CHECK.json",
+      "size_before": "382",
+      "old_parents": [
+        "1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd"
+      ],
+      "new_parent": "1P2saYJ1NFumvTI689pyQLX1as5AMQ7h3",
+      "version_group": "REV5",
+      "verified": true
+    },
+    {
+      "id": "1aJOYMUY_l0aj8k_40jI1PrfMsK0Dsc7i",
+      "name_before": "Pages_5-6_LEO_ARM_REV5_AUDIT.md",
+      "name_after": "Pages_5-6_LEO_ARM_REV5_AUDIT.md",
+      "size_before": "2423",
+      "old_parents": [
+        "1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd"
+      ],
+      "new_parent": "1P2saYJ1NFumvTI689pyQLX1as5AMQ7h3",
+      "version_group": "REV5",
+      "verified": true
+    },
+    {
+      "id": "1wE7eZBM8erEPaa_lbXpO8S7g80qU5qi7",
+      "name_before": "Pages_5-6_Version_B_LEO_ARM_CORRECTION_REV5_PENDING_REVIEW.png",
+      "name_after": "Pages_5-6_Version_B_LEO_ARM_CORRECTION_REV5_PENDING_REVIEW.png",
+      "size_before": "30745702",
+      "old_parents": [
+        "1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd"
+      ],
+      "new_parent": "1P2saYJ1NFumvTI689pyQLX1as5AMQ7h3",
+      "version_group": "REV5",
+      "verified": true
+    },
+    {
+      "id": "1Gi7nE2aLfROZKY_gYAP370aTKpgjp_a1",
+      "name_before": "Pages_5-6_REV4_PIXEL_CHECK.json",
+      "name_after": "Pages_5-6_REV4_PIXEL_CHECK.json",
+      "size_before": "374",
+      "old_parents": [
+        "1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd"
+      ],
+      "new_parent": "1-PcPHjrCcv2bvwzkBKFaCWIt4JSI5f3M",
+      "version_group": "REV4",
+      "verified": true
+    },
+    {
+      "id": "1pSFNI7NDaZbypSsUpEqh7LX3VKbESkPP",
+      "name_before": "Pages_5-6_LEO_CORRECTION_REV4_AUDIT.md",
+      "name_after": "Pages_5-6_LEO_CORRECTION_REV4_AUDIT.md",
+      "size_before": "2827",
+      "old_parents": [
+        "1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd"
+      ],
+      "new_parent": "1-PcPHjrCcv2bvwzkBKFaCWIt4JSI5f3M",
+      "version_group": "REV4",
+      "verified": true
+    },
+    {
+      "id": "1BLCecCIMC9Ckj11aZpgirYYQv0y1csE3",
+      "name_before": "Pages_5-6_Version_B_LEO_CORRECTION_REV4_PENDING_REVIEW.png",
+      "name_after": "Pages_5-6_Version_B_LEO_CORRECTION_REV4_PENDING_REVIEW.png",
+      "size_before": "30733261",
+      "old_parents": [
+        "1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd"
+      ],
+      "new_parent": "1-PcPHjrCcv2bvwzkBKFaCWIt4JSI5f3M",
+      "version_group": "REV4",
+      "verified": true
+    },
+    {
+      "id": "17H6Ono4ED18IBD3UJ8Zw8gpwpc1XXNAr",
+      "name_before": "Pages_5-6_REV3_PIXEL_CHECK.json",
+      "name_after": "Pages_5-6_REV3_PIXEL_CHECK.json",
+      "size_before": "373",
+      "old_parents": [
+        "1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd"
+      ],
+      "new_parent": "1Vbx8FbYVu9wmIjkr_EtN9GiyhcwAK6zM",
+      "version_group": "REV3",
+      "verified": true
+    },
+    {
+      "id": "1ucCun4jqx6DtdFQj7XoLKhWf9MVnEZuD",
+      "name_before": "Pages_5-6_CANON_CORRECTION_REV3_AUDIT.md",
+      "name_after": "Pages_5-6_CANON_CORRECTION_REV3_AUDIT.md",
+      "size_before": "2790",
+      "old_parents": [
+        "1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd"
+      ],
+      "new_parent": "1Vbx8FbYVu9wmIjkr_EtN9GiyhcwAK6zM",
+      "version_group": "REV3",
+      "verified": true
+    },
+    {
+      "id": "1wGpdrV1qOdpRcrAg0JhOMz9k5M08Cp-V",
+      "name_before": "Pages_5-6_Version_B_CANON_CORRECTION_REV3_PENDING_REVIEW.png",
+      "name_after": "Pages_5-6_Version_B_CANON_CORRECTION_REV3_PENDING_REVIEW.png",
+      "size_before": "30722529",
+      "old_parents": [
+        "1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd"
+      ],
+      "new_parent": "1Vbx8FbYVu9wmIjkr_EtN9GiyhcwAK6zM",
+      "version_group": "REV3",
+      "verified": true
+    },
+    {
+      "id": "1E6QFNuqEmB8iQEPne8ZdBE1nqaRJIW8s",
+      "name_before": "Pages_5-6_CURRENT_REVIEW_2026-10-04.md",
+      "name_after": "Pages_5-6_CURRENT_REVIEW_2026-10-04.md",
+      "size_before": "3827",
+      "old_parents": [
+        "1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd"
+      ],
+      "new_parent": "1lhgF7Ritt3QJgLO0V5kryGPIq1xoGkX1",
+      "version_group": "INITIAL_PROOF",
+      "verified": true
+    },
+    {
+      "id": "1xccLg1mVXWNxmqNgA6ne3E7oEP2yWhD1",
+      "name_before": "Pages_5-6_LETTERING_ONLY_EDIT_PACKAGE_LOSSLESS_REV2.zip",
+      "name_after": "Pages_5-6_LETTERING_ONLY_EDIT_PACKAGE_LOSSLESS_REV2.zip",
+      "size_before": "14038298",
+      "old_parents": [
+        "1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd"
+      ],
+      "new_parent": "1ZNuSR2WF95UpQ3FRPutohfvIrtXhfB8p",
+      "version_group": "REV2",
+      "verified": true
+    },
+    {
+      "id": "1TVCyo9OHEhrEHLld2skW_J1iojNdI8JB",
+      "name_before": "Pages_5-6_TYPOGRAPHY_18pt_AUDIT_REVIEW_REQUIRED_LOSSLESS_REV2.md",
+      "name_after": "Pages_5-6_TYPOGRAPHY_18pt_AUDIT_REVIEW_REQUIRED_LOSSLESS_REV2.md",
+      "size_before": "4994",
+      "old_parents": [
+        "1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd"
+      ],
+      "new_parent": "1ZNuSR2WF95UpQ3FRPutohfvIrtXhfB8p",
+      "version_group": "REV2",
+      "verified": true
+    },
+    {
+      "id": "1I98W46oyCnqE9HIb0LVw1QPwYpZmXanR",
+      "name_before": "Pages_5-6_Version_B_Architects_Daughter_18pt_5100x2550_MASKED_REVIEW_LOSSLESS_REV2.png",
+      "name_after": "Pages_5-6_Version_B_Architects_Daughter_18pt_5100x2550_MASKED_REVIEW_LOSSLESS_REV2.png",
+      "size_before": "14292638",
+      "old_parents": [
+        "1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd"
+      ],
+      "new_parent": "1ZNuSR2WF95UpQ3FRPutohfvIrtXhfB8p",
+      "version_group": "REV2",
+      "verified": true
+    },
+    {
+      "id": "1bEY50alWTlbm5TrkjQhw0JTgprZ8cY6l",
+      "name_before": "Pages_5-6_Version_B_Architects_Daughter_18pt_MASKED_REVIEW_LOSSLESS_REV2.pdf",
+      "name_after": "Pages_5-6_Version_B_Architects_Daughter_18pt_MASKED_REVIEW_LOSSLESS_REV2.pdf",
+      "size_before": "27500966",
+      "old_parents": [
+        "1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd"
+      ],
+      "new_parent": "1ZNuSR2WF95UpQ3FRPutohfvIrtXhfB8p",
+      "version_group": "REV2",
+      "verified": true
+    },
+    {
+      "id": "1QnWcreQdh1c700hcbOV5r74fdPJTJY4x",
+      "name_before": "Pages_5-6_LETTERING_ONLY_EDIT_PACKAGE.zip",
+      "name_after": "Pages_5-6_LETTERING_ONLY_EDIT_PACKAGE.zip",
+      "size_before": "14038234",
+      "old_parents": [
+        "1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd"
+      ],
+      "new_parent": "1H8ccD86D8mbIEto7qoiiYiDLzczKBpyN",
+      "version_group": "LETTERING_REV1",
+      "verified": true
+    },
+    {
+      "id": "1GldaKwGQk_FxjdWMxL3m6-bJ37xDpfpg",
+      "name_before": "Pages_5-6_TYPOGRAPHY_18pt_AUDIT_REVIEW_REQUIRED.md",
+      "name_after": "Pages_5-6_TYPOGRAPHY_18pt_AUDIT_REVIEW_REQUIRED.md",
+      "size_before": "4556",
+      "old_parents": [
+        "1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd"
+      ],
+      "new_parent": "1H8ccD86D8mbIEto7qoiiYiDLzczKBpyN",
+      "version_group": "LETTERING_REV1",
+      "verified": true
+    },
+    {
+      "id": "1L1pOWoLujZehMR6mXUzn2OO-Nj1EDBrj",
+      "name_before": "Pages_5-6_Version_B_Architects_Daughter_18pt_5100x2550_MASKED_REVIEW.png",
+      "name_after": "Pages_5-6_Version_B_Architects_Daughter_18pt_5100x2550_MASKED_REVIEW.png",
+      "size_before": "14292638",
+      "old_parents": [
+        "1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd"
+      ],
+      "new_parent": "1H8ccD86D8mbIEto7qoiiYiDLzczKBpyN",
+      "version_group": "LETTERING_REV1",
+      "verified": true
+    },
+    {
+      "id": "1VNgBb-1_6BYT1RTqMj1j5Rwxq5dmkqyH",
+      "name_before": "Pages_5-6_Version_B_Architects_Daughter_18pt_MASKED_REVIEW.pdf",
+      "name_after": "Pages_5-6_Version_B_Architects_Daughter_18pt_MASKED_REVIEW.pdf",
+      "size_before": "34385012",
+      "old_parents": [
+        "1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd"
+      ],
+      "new_parent": "1H8ccD86D8mbIEto7qoiiYiDLzczKBpyN",
+      "version_group": "LETTERING_REV1",
+      "verified": true
+    },
+    {
+      "id": "1JucMha36Gfn2JcHTD9_mL2zeYLNnKWq3",
+      "name_before": "Pages_5-6_Version_B_Architects_Daughter_18pt_REVIEW.pdf",
+      "name_after": "Pages_5-6_Version_B_Architects_Daughter_18pt_REVIEW.pdf",
+      "size_before": "34384508",
+      "old_parents": [
+        "1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd"
+      ],
+      "new_parent": "1lhgF7Ritt3QJgLO0V5kryGPIq1xoGkX1",
+      "version_group": "INITIAL_PROOF",
+      "verified": true
+    },
+    {
+      "id": "1Z-Uzk7DAK62gCWerhGLgRIdzowHispSw",
+      "name_before": "Pages 5-6 - Where Is the Fire Station",
+      "name_after": "Pages 5-6 - Where Is the Fire Station",
+      "size_before": null,
+      "old_parents": [
+        "1Z_MgP8Q9CmM0nPcLXIRUrRkGJbcD4ni2"
+      ],
+      "new_parent": "1D6RJsQA6l7Qn5xxN8LxY8QD-5uWmwuEU",
+      "version_group": "HISTORICAL_REVIEW_PACKAGE",
+      "verified": true
+    },
+    {
+      "id": "16IV748XOeVABgHRVllhNYXpoRfcbuTNm",
+      "name_before": "Version B - FINAL LOCKED",
+      "name_after": "Version B - FINAL LOCKED",
+      "size_before": null,
+      "old_parents": [
+        "1bWaSrlPEAT6dZQa-POzWblCgeiqXwYj-"
+      ],
+      "new_parent": "1IBT2E32UR1AYm9lLw5DjmTucYaXMvwHL",
+      "version_group": "HISTORICAL_APPROVED_B",
+      "verified": true
+    },
+    {
+      "id": "1nXxl9YyE0dt0d-osek9FHydNtSTyaO2V",
+      "name_before": "Version A - APPROVED",
+      "name_after": "Version A - APPROVED",
+      "size_before": null,
+      "old_parents": [
+        "1bWaSrlPEAT6dZQa-POzWblCgeiqXwYj-"
+      ],
+      "new_parent": "18uO_sxDNvakX1NTFV9PO72af0AklIKeS",
+      "version_group": "HISTORICAL_APPROVED_A",
+      "verified": true
+    }
+  ]
+}
