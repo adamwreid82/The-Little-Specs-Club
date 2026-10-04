@@ -40,3 +40,21 @@ people_perspective_recheck:
   audit_url: https://drive.google.com/file/d/1KyJlaNhNUefP6UGAOCwvY86V3znpjiKr/view
   findings: "Five children, Harper, Jackson and distant excavator operator retained. Rear three-quarter viewpoint and all text visibly retained. Digging starts after layout check, visitors behind fence.\nBen: white LS/blue shirt/plain khakis/dark low shoes/black glasses profile, left-side station circle; exact slightly-rear position and side shields unresolved.\nLeo: blue LS/navy/charcoal cargos/brown boots/lime-orange vest/clear glasses profile. Right sticker hidden.\nVinny: green LS/hoodie/blue cargos/dark low shoes/compact curls and clear glasses profile; visible rear-left circle remains, exact placement unverified.\nSteph: gray helmet/straight red hair/lavender/olive cargos/purple-gray shoes/clear glasses profile; front-right sticker hidden. Maya: yellow LS/long curls/hoops/pink/blue cargos/purple footwear/clear glasses profile, front-left circle visible.\nHarper: white LS/purple cardigan/floral blouse at hem/simple lime vest/dark slacks/brown work shoes/wavy hair/hoops/clear glasses profile; no child emblem.\nJackson: older white man with gray hair/beard, navy shirt/charcoal cargo/brown boots/blue Civic Ridge helmet/lime orange vest/radio/clear glasses; employer badge retained, not LS.\nBoys' upper-back emblems redrawn closer to supplied circular asset, between vertical strips and above horizontal strip. Girls' upper-back areas naturally hair-occluded; no forced low emblems. Exact circle typography/pixel identity not certified."
   unresolved: "FAIL: Ben left elbow/silhouette still reaches edge of protected gutter despite reframing; right Harper near margin. Emblems improved but still generative approximations, not exact locked assets. Rear-view faces, front-panel alignment, hidden stickers and fine heights are unverified. Excavator support/soil/footprint and operator PPE detail require final proof."
+
+lettering_only_revision_2026_10_03:
+  status: REVIEW_REQUIRED_NOT_APPROVED
+  font_family: Architects Daughter
+  font_size_pt: 18
+  spread_trim_inches: [17, 8.5]
+  export_dimensions_px: [5100, 2550]
+  export_dpi: 300
+  exact_embedded_type_verified: true
+  original_pixels_outside_lettering_preserved: true
+  pdf_drive_id: 1dXg-f4z6_SCagOgUTvSPlMA-pdeFYxpG
+  png_drive_id: 1d3GZ-P_l0d0H0sRkaJzglKW_FHaEd56V
+  audit_drive_id: 1PHr01DohfZ5yxAwkvXOxIeuO0ay9uRg0
+  edit_package_drive_id: 1AwHVhzfNeQPHivKSQ2W5VCRrbd4cxjII
+  original_assets_preserved: true
+  artwork_approval_transferred: false
+  native_artwork_print_detail_verified: false
+  print_ready: false
