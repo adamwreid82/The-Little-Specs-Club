@@ -1,3 +1,14 @@
+# Pages 5–6 REV3 current candidate — 2026-10-04
+
+[REV3 corrected spread](https://drive.google.com/file/d/1wGpdrV1qOdpRcrAg0JhOMz9k5M08Cp-V/view?usp=drivesdk). [Correction audit](https://drive.google.com/file/d/1ucCun4jqx6DtdFQj7XoLKhWf9MVnEZuD/view?usp=drivesdk). **PENDING AUTHOR REVIEW**, not approved or print-ready. Corrected Harper's blouse to smaller scattered flowers and restored subtle Steph cheek freckles from approved sources. Zero changed pixels outside local repair masks; zero lettering changes. All earlier files/approvals preserved. Fine sign/held-picture fidelity, obscured identity/height and production checks remain open. Drive candidate/audit/pixel evidence and GitHub manifest/QA records synchronized. Await Adam's feedback before further edits, archiving or advancing.
+
+---
+Records below preserve earlier checkpoints.
+
+# Pages 5–6 active review — 2026-10-04
+
+Latest candidate: [Lettering REV2 PNG](https://drive.google.com/file/d/1I98W46oyCnqE9HIb0LVw1QPwYpZmXanR/view). [Current source-check audit](https://drive.google.com/file/d/1E6QFNuqEmB8iQEPne8ZdBE1nqaRJIW8s/view?usp=drivesdk). Pending Adam's feedback; no artwork changed or approval granted. Harper blouse-pattern mismatch identified. Steph freckles, tiny sign/held-picture fidelity, facial microdetail/height and print checks remain unverified. Preserve accepted Leo appearance and excavator position. Placeholder lettering retained. GitHub manifest and current review audit synchronized.
+
 # Current approval checkpoint — 2026-10-04
 
 **Pages 3–4 REV4: ARTWORK APPROVED by Adam.** Explicit wording: “Pages 3–4 REV4 is approved”. [Approved REV4](https://drive.google.com/file/d/1DRYEa_fQ9A0t0m3oUDlxkAO_KneIfDd8/view). [Approved spread folder](https://drive.google.com/drive/folders/1s7aokLUs6PX96tFOTNRJXnJ71GU6TDFb). [Superseded versions](https://drive.google.com/drive/folders/1MsJA_TfvPqAG0rjiVpYAkJb8s0DgSQib).
