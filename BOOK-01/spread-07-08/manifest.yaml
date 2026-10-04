@@ -111,3 +111,21 @@ typography_revision_2026_10_03:
   audit_drive_id: 1Shl26yRF2ucR1NTiA4FRRGmZ9Wx__eK-
   bleed_included: false
   physical_proof: NOT_PERFORMED
+
+lettering_only_revision_2026_10_03:
+  status: REVIEW_REQUIRED_NOT_APPROVED
+  font_family: Architects Daughter
+  font_size_pt: 18
+  spread_trim_inches: [17, 8.5]
+  export_dimensions_px: [5100, 2550]
+  export_dpi: 300
+  exact_embedded_type_verified: true
+  original_pixels_outside_lettering_preserved: true
+  pdf_drive_id: 14lViCxZXS6iLwcpQsfjtyJzgFMC5An2l
+  png_drive_id: 1YTq54HuE_KrbCivP0FHZREA7mY6ANaBr
+  audit_drive_id: 1lv99IuZoBzwj5twRRJownsKTccUSTnkh
+  edit_package_drive_id: 1EC3e-PBokuhE-td8ay0pXzUwnzhbT5kD
+  original_assets_preserved: true
+  artwork_approval_transferred: false
+  native_artwork_print_detail_verified: false
+  print_ready: false
