@@ -153,33 +153,30 @@ lettering_only_revision_2026_10_04_lossless_rev2:
 
 active_review:
   status: PENDING_AUTHOR_REVIEW
-  version: LEO_CORRECTION_REV4
+  version: LEO_ARM_CORRECTION_REV5
   recorded_date: '2026-10-04'
   approved: false
   artwork_changed: true
-  candidate_drive_id: 1BLCecCIMC9Ckj11aZpgirYYQv0y1csE3
-  candidate_filename: Pages_5-6_Version_B_LEO_CORRECTION_REV4_PENDING_REVIEW.png
-  candidate_sha256: 76b2f829cb8c197296e39d80f107c4d5e8c548f8b311af197839566adb1f667f
+  candidate_drive_id: 1wE7eZBM8erEPaa_lbXpO8S7g80qU5qi7
+  candidate_filename: Pages_5-6_Version_B_LEO_ARM_CORRECTION_REV5_PENDING_REVIEW.png
+  candidate_sha256: 77f811c3f87d8b4337081cb1933d69d6d0a53befc97f92656298e7e629ef4156
   dimensions_px: [5100, 2550]
   dpi: 300
-  audit_path: qa/LEO_CORRECTION_REV4_2026-10-04.md
-  audit_drive_id: 1pSFNI7NDaZbypSsUpEqh7LX3VKbESkPP
-  pixel_check_path: qa/REV4_PIXEL_CHECK_2026-10-04.json
-  pixel_check_drive_id: 1Gi7nE2aLfROZKY_gYAP370aTKpgjp_a1
-  base_drive_id: 1wGpdrV1qOdpRcrAg0JhOMz9k5M08Cp-V
-  prior_revision_audit_path: qa/CANON_CORRECTION_REV3_2026-10-04.md
-  prior_revision_audit_drive_id: 1ucCun4jqx6DtdFQj7XoLKhWf9MVnEZuD
-  corrections: [Leo_compact_curls, Leo_rounder_cheek_and_soft_jaw, Leo_proportional_profile_eye, Leo_raised_shoulder_neck_transition]
-  preserved_previous_repairs: [Mrs_Harper_blouse_pattern, Steph_subtle_freckles]
-  author_review_remaining: [Leo_likeness_and_profile, Leo_curls, Leo_pointing_pose, prior_REV3_local_repairs]
+  audit_path: qa/LEO_ARM_REV5_2026-10-04.md
+  audit_drive_id: 1aJOYMUY_l0aj8k_40jI1PrfMsK0Dsc7i
+  pixel_check_path: qa/REV5_PIXEL_CHECK_2026-10-04.json
+  pixel_check_drive_id: 1hXgZCkzfm0QSArfjPmGDCzBVd6Eyn2lC
+  base_drive_id: 1BLCecCIMC9Ckj11aZpgirYYQv0y1csE3
+  preserved_history_paths: [qa/CURRENT_REVIEW_2026-10-04.md, qa/CANON_CORRECTION_REV3_2026-10-04.md, qa/LEO_CORRECTION_REV4_2026-10-04.md]
+  corrections: [shorter_Leo_pointing_reach, bent_elbow_hand_closer_to_body, simplified_hoodie_back_no_extra_arm_shape]
+  preserved_previous_repairs: [Mrs_Harper_blouse_pattern, Steph_subtle_freckles, Leo_likeness]
+  author_review_remaining: [Leo_arm_proportions_and_pose, Leo_hoodie_back, previous_local_repairs]
   unverified: [obscured_facial_microdetail, height_order, tiny_sign_emblem, held_station_picture_asset_fidelity, native_print_detail]
-  changed_pixels_outside_Leo_repair_mask: 0
+  changed_pixels_outside_arm_and_hoodie_mask: 0
   changed_placeholder_text_pixels: 0
-  pointing_hand_and_lower_body_preserved: true
-  historical_Leo_appearance_reopened_by_explicit_author_correction_request: true
   excavator_placement_preserved: true
   text_is_placeholder: true
   font_edits_performed: false
   print_ready: false
   historical_lock_applies_to_candidate: false
-  next_step: Await Adam's explicit REV4 feedback before edits, approval, archiving or advancing.
+  next_step: Await Adam's explicit REV5 feedback before edits, approval, archiving or advancing.
