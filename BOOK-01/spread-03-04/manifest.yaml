@@ -457,3 +457,10 @@ superseded_archive:
     - 1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd
   original_ids_and_bytes_preserved: true
 
+
+approval_record:
+  drive_id: 1IwYpCn8-rv0Pzo2bQFYX2WOo6uPvzIb4
+  repository_path: qa/REV4_APPROVAL_2026-10-04.md
+  tracker_id: 1iZJl6rpulBaugvxubUzudPak1eIXoMrYiD-oEOvO8mQ
+  review_log_row: 44
+  dashboard_row: 14
