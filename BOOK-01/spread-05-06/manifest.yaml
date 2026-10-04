@@ -1,57 +1,39 @@
 spread: 05-06
 title: Where Is the Fire Station?
-status: ARTWORK LOCKED - PRODUCTION EXPORTS READY FOR REVIEW
+status: ARTWORK APPROVED - PRINT PREPARATION PENDING
 artwork_locked: true
 final_locked: false
 approved_by: Adam
-approved_date: '2026-09-27'
-approval_evidence: Lock it
-approval_scope: exact latest Version B artwork including current Leo face and hair;
-  not uncreated production derivatives
+approved_date: '2026-10-04'
+approval_evidence: Approve
+approval_scope: Exact REV9 Version B artwork and visible appearance, including existing
+  placeholder lettering; final wording, complete canon certification and print readiness
+  excluded.
 version_b:
-  status: PRINT REVIEW PENDING
+  status: APPROVED LOCKED
   path: version-b/
   storage: google_drive
-  drive_id: 1DfYKIPsJhSD84v_NGF-3i2ezCwkF2bw9
-  filename: Pages_5-6_Version_B_5100x2550_PRINT_REVIEW.png
-  sha256: 8c0dc41b1c5fbf083f30613711a7086c4f51636fe368d710cb7c486a875701dd
+  drive_id: 17Kq0ZX2dcTB9PJSZc5fN56in77-MWS8W
+  filename: Pages_5-6_Version_B_PEOPLE_CORRECTION_REV9_APPROVED.png
+  sha256: d801e12fec2e77f53aa85053c969a1593b1e63c153c7104559dd009ccb630310
   dimensions_px:
   - 5100
   - 2550
+  dpi: 300
+  print_ready: false
   bleed_pdf:
-    drive_id: 1xQxmKmloFE3qbuehKmfYYhvvaLjUjT97
-    filename: Pages_5-6_Version_B_BLEED_PRINT_REVIEW.pdf
-    sha256: 0a0c02770f29f4fe18dd288bca8bd817d233409c8372b4414e2234b95c37f48b
-    page_size_inches:
-    - 8.625
-    - 8.75
-    page_order:
-    - LEFT
-    - RIGHT
+    status: PENDING_REV9_EXPORT
+    drive_id: null
 version_a:
-  status: PRINT REVIEW PENDING
+  status: PENDING_REV9_DERIVATION
   path: version-a/
-  storage: google_drive
-  drive_id: 13gAX7DbbwqSM4KqP7jikxwGMvgt5XDgU
-  filename: Pages_5-6_Version_A_5100x2550_PRINT_REVIEW.png
-  sha256: 31187dc468ecf15df74f2b599ebb35fdd6ea9e00905068e8d3a666bed6622d4d
-  dimensions_px:
-  - 5100
-  - 2550
-  bleed_pdf:
-    drive_id: 1xtSO_GepvVOX3AlcNgsPP9ihH5x5g0x9
-    filename: Pages_5-6_Version_A_BLEED_PRINT_REVIEW.pdf
-    sha256: a2fe9a05f977cd0a244acc5d5b2aea8e0b896149e13fa1905fb8ecd2272495f9
-    page_size_inches:
-    - 8.625
-    - 8.75
-    page_order:
-    - LEFT
-    - RIGHT
+  drive_id: null
+  print_ready: false
+  historical_records: archive/PRE_REV9/manifest.yaml
 qa:
-  status: EXPORT CHECKS COMPLETE - AUTHOR REVIEW AND PHYSICAL PROOF PENDING
-  report: qa/PRODUCTION_REVIEW_2026-09-27.md
-  drive_report_id: 16B7FVC2KyGztBlXclnJFJtXZf3wCRZbO
+  status: VISIBLE REPAIR PASS - UNVERIFIED DETAILS AND PRINT CHECKS OPEN
+  report: qa/REV9_FULL_CANON_RECHECK_2026-10-04.md
+  drive_report_id: 1htQmvKNbfrzWnhf48XEWe4WBWgDIftxx
   source_pairs_used:
   - Ben
   - Leo
@@ -67,10 +49,10 @@ qa:
   required_dimensions_px:
   - 5100
   - 2550
-  version_pair_integrity: PASS_OUTSIDE_DECLARED_UPPER_REGION
-  bleed_exports: PREPARED_AND_RENDER_REVIEWED
+  version_pair_integrity: PENDING_REV9_A_DERIVATION
+  bleed_exports: PENDING_REV9_EXPORT
   physical_proof: NOT_PERFORMED
-  drive_pixel_qa_id: 1yITRhSEO5Go5MchpC0ElT7HUMIXpsbN-
+  drive_pixel_qa_id: 1RmLUtQNnsBpDeOoP46ZKHBvR4GU-bumJ
   pair_changes_outside_declared_upper_region: 0
   native_detail_print_certified: false
 excavator_placement:
@@ -83,44 +65,59 @@ previous_artwork:
   drive_id: 19FcZpxeDpSbKAVLBxVd-QlwR-lVuY7cc
   status: SUPERSEDED
   preserved: true
-next_step: Review production derivatives; complete assembled-book preflight, pagination
-  and physical proof before publication.
+next_step: Wait for Adam before advancing or editing; final wording and print preparation
+  pending.
 approved_native_artwork:
-  status: ARTWORK LOCKED
+  status: APPROVED LOCKED
   path: version-b/
   storage: google_drive
-  drive_id: 130bZ3O_AazUXSqGhviSyiORf6FTQoVd6
-  filename: Pages_5-6_Version_B_ARTWORK_LOCKED_2026-09-27.png
-  sha256: aec4a85987b509a3ac070b3d5bcdd3ff7c957000e045d166a4ba0109c5f0f139
+  drive_id: 17Kq0ZX2dcTB9PJSZc5fN56in77-MWS8W
+  filename: Pages_5-6_Version_B_PEOPLE_CORRECTION_REV9_APPROVED.png
+  sha256: d801e12fec2e77f53aa85053c969a1593b1e63c153c7104559dd009ccb630310
   dimensions_px:
-  - 1774
-  - 887
-
+  - 5100
+  - 2550
+  dpi: 300
+  print_ready: false
+  bleed_pdf:
+    status: PENDING_REV9_EXPORT
+    drive_id: null
 people_recheck_2026_10_02:
   status: VISIBLE_DETAILS_REVIEWED_NO_NEW_ARTWORK_APPROVAL
-  findings: "Locked artwork inspected: five children and Harper in pre-entry school clothes, no premature helmets or project stickers. Ben glasses, Leo short tight curls/navy/charcoal, Vinny green/blue cargo, Steph straight red/lavender/olive, Maya curls/pink/blue cargo, Harper purple/floral/lanyard visible. Rear/side views obscure faces; exact stature and facial identity remain unverified. No visible people defect requiring alteration identified. Retain author-locked perspective; production review remains pending."
+  findings: 'Locked artwork inspected: five children and Harper in pre-entry school
+    clothes, no premature helmets or project stickers. Ben glasses, Leo short tight
+    curls/navy/charcoal, Vinny green/blue cargo, Steph straight red/lavender/olive,
+    Maya curls/pink/blue cargo, Harper purple/floral/lanyard visible. Rear/side views
+    obscure faces; exact stature and facial identity remain unverified. No visible
+    people defect requiring alteration identified. Retain author-locked perspective;
+    production review remains pending.'
   artwork_changed: false
   perspective: retained_author_locked_view
-
 typography_revision_2026_10_03:
-  status: REVIEW_REQUIRED_NOT_APPROVED
+  status: SUPERSEDED_PRESERVED_NOT_NEWLY_APPROVED
   font_family: Architects Daughter
   font_size_pt: 18
   exact_embedded_font_verified: true
   extracted_manuscript_match: true
-  spread_size_inches: [17, 8.5]
+  spread_size_inches:
+  - 17
+  - 8.5
   original_assets_preserved: true
   candidate_drive_id: 1JucMha36Gfn2JcHTD9_mL2zeYLNnKWq3
   audit_drive_id: 1Shl26yRF2ucR1NTiA4FRRGmZ9Wx__eK-
   bleed_included: false
   physical_proof: NOT_PERFORMED
-
+  historical_status: REVIEW_REQUIRED_NOT_APPROVED
 lettering_only_revision_2026_10_03:
-  status: REVIEW_REQUIRED_NOT_APPROVED
+  status: SUPERSEDED_PRESERVED_NOT_NEWLY_APPROVED
   font_family: Architects Daughter
   font_size_pt: 18
-  spread_trim_inches: [17, 8.5]
-  export_dimensions_px: [5100, 2550]
+  spread_trim_inches:
+  - 17
+  - 8.5
+  export_dimensions_px:
+  - 5100
+  - 2550
   export_dpi: 300
   exact_embedded_type_verified: true
   original_pixels_outside_lettering_preserved: true
@@ -132,13 +129,17 @@ lettering_only_revision_2026_10_03:
   artwork_approval_transferred: false
   native_artwork_print_detail_verified: false
   print_ready: false
-
+  historical_status: REVIEW_REQUIRED_NOT_APPROVED
 lettering_only_revision_2026_10_04_lossless_rev2:
-  status: REVIEW_REQUIRED_NOT_APPROVED
+  status: SUPERSEDED_PRESERVED_NOT_NEWLY_APPROVED
   font_family: Architects Daughter
   font_size_pt: 18
-  spread_trim_inches: [17, 8.5]
-  export_dimensions_px: [5100, 2550]
+  spread_trim_inches:
+  - 17
+  - 8.5
+  export_dimensions_px:
+  - 5100
+  - 2550
   export_dpi: 300
   exact_embedded_type_verified: true
   original_pixels_outside_lettering_preserved: true
@@ -150,9 +151,9 @@ lettering_only_revision_2026_10_04_lossless_rev2:
   artwork_approval_transferred: false
   native_artwork_print_detail_verified: false
   print_ready: false
-
+  historical_status: REVIEW_REQUIRED_NOT_APPROVED
 leo_rev6_review_history:
-  status: PENDING_AUTHOR_REVIEW
+  status: SUPERSEDED_PRESERVED_NOT_NEWLY_APPROVED
   version: LEO_GHOSTING_REPAIR_REV6
   recorded_date: '2026-10-04'
   approved: false
@@ -160,7 +161,9 @@ leo_rev6_review_history:
   candidate_drive_id: 12YslcZiv8R-OAKXxAI8hCiUiNcw6p7DR
   candidate_filename: Pages_5-6_Version_B_LEO_GHOSTING_REPAIR_REV6_PENDING_REVIEW.png
   candidate_sha256: d38c684722b25078e298aaa800f0bbc7d8642023b0cf2eb736f837789321d736
-  dimensions_px: [5100, 2550]
+  dimensions_px:
+  - 5100
+  - 2550
   dpi: 300
   audit_path: qa/LEO_GHOSTING_REV6_2026-10-04.md
   audit_drive_id: 1Nq6NRfBGDJ9mNUxCvEtXaZEYJ7UrKrvr
@@ -174,20 +177,30 @@ leo_rev6_review_history:
     candidate_drive_id: 1wE7eZBM8erEPaa_lbXpO8S7g80qU5qi7
     audit_drive_id: 1aJOYMUY_l0aj8k_40jI1PrfMsK0Dsc7i
     audit_path: qa/LEO_ARM_REV5_2026-10-04.md
-  corrections: [coherent_Leo_upper_body_no_double_contours, shorter_pointing_reach, smooth_hoodie_back]
+  corrections:
+  - coherent_Leo_upper_body_no_double_contours
+  - shorter_pointing_reach
+  - smooth_hoodie_back
   visual_ghosting_check: PASS_CLOSEUP_AND_SPREAD_AUTHOR_REVIEW_PENDING
   changed_pixels_outside_Leo_upper_body_replacement_mask: 0
   changed_placeholder_text_pixels: 0
-  unverified: [exact_likeness_approval, obscured_facial_microdetail, height_order, tiny_sign_emblem, held_station_picture_asset_fidelity, native_print_detail]
+  unverified:
+  - exact_likeness_approval
+  - obscured_facial_microdetail
+  - height_order
+  - tiny_sign_emblem
+  - held_station_picture_asset_fidelity
+  - native_print_detail
   excavator_placement_preserved: true
   text_is_placeholder: true
   font_edits_performed: false
   print_ready: false
   historical_lock_applies_to_candidate: false
-  next_step: Await Adam's explicit REV6 feedback before edits, approval, archiving or advancing.
-
+  next_step: Await Adam's explicit REV6 feedback before edits, approval, archiving
+    or advancing.
+  historical_status: PENDING_AUTHOR_REVIEW
 vinny_rev8_review_history:
-  status: PENDING_AUTHOR_REVIEW
+  status: SUPERSEDED_PRESERVED_NOT_NEWLY_APPROVED
   version: VINNY_FACE_REV8
   recorded_date: '2026-10-04'
   approved: false
@@ -195,7 +208,9 @@ vinny_rev8_review_history:
   candidate_drive_id: 1Uqh-kTtbjC7sflis4TNHQf_2AkKs9NdE
   candidate_filename: Pages_5-6_Version_B_VINNY_FACE_REV8_PENDING_REVIEW.png
   candidate_sha256: 7879edeb479668ab939c07cd218c58d54d008fcf9885af25bd6e981d50685c2b
-  dimensions_px: [5100, 2550]
+  dimensions_px:
+  - 5100
+  - 2550
   dpi: 300
   audit_path: qa/VINNY_REV8_2026-10-04.md
   audit_drive_id: 1NT5ejTjdL0zrnzLVraP6-jf3repzjOIr
@@ -211,7 +226,13 @@ vinny_rev8_review_history:
   source_pair: Vinny
   source_image_drive_id: 1m-mxpb7Fpu04jWj5sYVJTHxvXXPySuSa
   source_profile_drive_id: 1vG_CJ45X87ZsYlNr-Rq2VJiuRHaTtw4S
-  corrections: [fuller_Vinny_cheek, short_soft_chin, button_nose, smooth_source_guided_curls, darker_denim, plain_dark_shoes]
+  corrections:
+  - fuller_Vinny_cheek
+  - short_soft_chin
+  - button_nose
+  - smooth_source_guided_curls
+  - darker_denim
+  - plain_dark_shoes
   likeness_status: PENDING_AUTHOR_ASSESSMENT_NOT_CERTIFIED
   far_eye_visibility: NOT_FULLY_ACHIEVED
   changed_pixels_outside_Vinny_repair_footprint: 0
@@ -219,11 +240,18 @@ vinny_rev8_review_history:
   Leo_REV6_pixels_preserved: true
   text_is_placeholder: true
   font_edits_performed: false
-  unverified: [exact_likeness_approval, hidden_facial_detail, measured_height_order, tiny_sign_asset, held_picture_asset, native_print_detail]
+  unverified:
+  - exact_likeness_approval
+  - hidden_facial_detail
+  - measured_height_order
+  - tiny_sign_asset
+  - held_picture_asset
+  - native_print_detail
   print_ready: false
   historical_lock_applies_to_candidate: false
-  next_step: Await Adam's explicit REV8 feedback before further changes, approval, archiving or advancing.
-
+  next_step: Await Adam's explicit REV8 feedback before further changes, approval,
+    archiving or advancing.
+  historical_status: PENDING_AUTHOR_REVIEW
 people_canon_check_rev8_2026_10_04:
   status: FAIL
   scope: all_six_visible_people_on_REV8
@@ -231,34 +259,51 @@ people_canon_check_rev8_2026_10_04:
   report_drive_id: 1UbCirXWjfnPSOeJKv2kLtLOGtVCI6Mer
   artwork_changed: false
   approval_recorded: false
-  failures: [Harper_face_cheek_jaw_chin, Steph_footwear_design, Maya_footwear_design, Maya_denim_saturation]
-  exact_likeness_unverified: [Ben, Leo, Vinny, Steph, Maya]
+  failures:
+  - Harper_face_cheek_jaw_chin
+  - Steph_footwear_design
+  - Maya_footwear_design
+  - Maya_denim_saturation
+  exact_likeness_unverified:
+  - Ben
+  - Leo
+  - Vinny
+  - Steph
+  - Maya
   measured_heights: UNVERIFIED
   chronology_and_visitor_side: PASS
   text_and_fonts_changed: false
   supersedes_broad_outfit_passes_for_current_detail_review: true
   next_step: Await Adam's feedback before repairs or approval.
-
 active_review:
-  status: PENDING_AUTHOR_REVIEW
+  status: APPROVED_ARTWORK_VERIFICATION_INCOMPLETE
   version: PEOPLE_CORRECTION_REV9
   recorded_date: '2026-10-04'
-  approved: false
+  approved: true
   artwork_changed: true
   candidate_drive_id: 17Kq0ZX2dcTB9PJSZc5fN56in77-MWS8W
-  candidate_filename: Pages_5-6_Version_B_PEOPLE_CORRECTION_REV9_PENDING_REVIEW.png
+  candidate_filename: Pages_5-6_Version_B_PEOPLE_CORRECTION_REV9_APPROVED.png
   candidate_sha256: d801e12fec2e77f53aa85053c969a1593b1e63c153c7104559dd009ccb630310
-  dimensions_px: [5100, 2550]
+  dimensions_px:
+  - 5100
+  - 2550
   dpi: 300
   audit_path: qa/PEOPLE_CORRECTION_REV9_2026-10-04.md
   audit_drive_id: 1DAr1jXX_h-WitRHmchRfPYnJ5nJf5h_l
   pixel_check_path: qa/REV9_PIXEL_CHECK_2026-10-04.json
   pixel_check_drive_id: 1RmLUtQNnsBpDeOoP46ZKHBvR4GU-bumJ
   base_drive_id: 1Uqh-kTtbjC7sflis4TNHQf_2AkKs9NdE
-  source_pairs_used: [Mrs-Harper, Steph, Maya]
-  corrections: [Harper_fuller_cheek_shorter_soft_chin, Steph_source_guided_shoes_no_cyan_marks, Maya_source_guided_shoes_no_cyan_marks, Maya_muted_denim]
+  source_pairs_used:
+  - Mrs-Harper
+  - Steph
+  - Maya
+  corrections:
+  - Harper_fuller_cheek_shorter_soft_chin
+  - Steph_source_guided_shoes_no_cyan_marks
+  - Maya_source_guided_shoes_no_cyan_marks
+  - Maya_muted_denim
   previous_failure_checklist: qa/REV8_FULL_PEOPLE_CANON_CHECK_2026-10-04.md
-  Harper_likeness: REPAIRED_PENDING_AUTHOR_ASSESSMENT
+  Harper_likeness: AUTHOR_ACCEPTED_REV9_APPEARANCE_EXACT_CANON_UNVERIFIED
   footwear_and_denim: VISIBLE_REPAIR_PASS_FINE_GEOMETRY_UNVERIFIED
   visual_ghosting_check: PASS_CLOSEUP_AND_SPREAD
   changed_pixels_outside_declared_repair_masks: 0
@@ -266,12 +311,21 @@ active_review:
   Ben_Leo_Vinny_pixels_preserved: true
   font_edits_performed: false
   text_is_placeholder: true
-  unverified: [exact_character_likeness, hidden_details, complete_finger_inventory, measured_heights, fine_asset_fidelity, native_print_detail]
+  unverified:
+  - exact_character_likeness
+  - hidden_details
+  - complete_finger_inventory
+  - measured_heights
+  - fine_asset_fidelity
+  - native_print_detail
   all_canon_certified: false
   print_ready: false
   historical_lock_applies_to_candidate: false
-  next_step: Await Adam's explicit REV9 feedback before changes, approval, archiving or advancing.
-
+  next_step: Wait for Adam before advancing or editing; final wording and print preparation
+    pending.
+  approved_by: Adam
+  approval_evidence: Approve
+  approved_date: '2026-10-04'
 canon_recheck_rev9_2026_10_04:
   visible_repairs: PASS
   complete_canon_clearance: UNVERIFIED
@@ -283,4 +337,326 @@ canon_recheck_rev9_2026_10_04:
   revision_specific_bleed_exports: FAIL_NOT_CREATED
   artwork_changed: false
   fonts_changed: false
-  approved: false
+  approved: true
+  approval_scope: Artwork accepted by Adam; verification results unchanged
+  approval_evidence: Approve
+historical_pre_rev9_approval:
+  manifest_snapshot: archive/PRE_REV9/manifest.yaml
+  superseded: true
+  approval_evidence: Lock it
+  approved_date: '2026-09-27'
+superseded_archive:
+  drive_folder_id: 1W_mDEpx8Wr3Zgp7ZjA9K-E-Rgrgh1nUV
+  version_folders:
+  - version: REV8
+    id: 1bhOjoPMREY5EvLPQHNc41wu_3vzbUGWw
+  - version: REV7
+    id: 1PiEjl_TN6HWXDKwFQjhqE99LMkJAMZD4
+  - version: REV6
+    id: 1xTV4fXzAM1Hx2x4xCUERyZgD__SMajln
+  - version: REV5
+    id: 1P2saYJ1NFumvTI689pyQLX1as5AMQ7h3
+  - version: REV4
+    id: 1-PcPHjrCcv2bvwzkBKFaCWIt4JSI5f3M
+  - version: REV3
+    id: 1Vbx8FbYVu9wmIjkr_EtN9GiyhcwAK6zM
+  - version: INITIAL_PROOF
+    id: 1lhgF7Ritt3QJgLO0V5kryGPIq1xoGkX1
+  - version: REV2
+    id: 1ZNuSR2WF95UpQ3FRPutohfvIrtXhfB8p
+  - version: LETTERING_REV1
+    id: 1H8ccD86D8mbIEto7qoiiYiDLzczKBpyN
+  - version: HISTORICAL_REVIEW_PACKAGE
+    id: 1D6RJsQA6l7Qn5xxN8LxY8QD-5uWmwuEU
+  - version: HISTORICAL_APPROVED_B
+    id: 1IBT2E32UR1AYm9lLw5DjmTucYaXMvwHL
+  - version: HISTORICAL_APPROVED_A
+    id: 18uO_sxDNvakX1NTFV9PO72af0AklIKeS
+  items:
+  - id: 1UbCirXWjfnPSOeJKv2kLtLOGtVCI6Mer
+    name_before: Pages_5-6_REV8_FULL_PEOPLE_CANON_CHECK.md
+    name_after: Pages_5-6_REV8_FULL_PEOPLE_CANON_CHECK.md
+    size_before: '12673'
+    old_parents:
+    - 1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd
+    new_parent: 1bhOjoPMREY5EvLPQHNc41wu_3vzbUGWw
+    version_group: REV8
+    verified: true
+  - id: 1NT5ejTjdL0zrnzLVraP6-jf3repzjOIr
+    name_before: Pages_5-6_VINNY_REV8_AUDIT.md
+    name_after: Pages_5-6_VINNY_REV8_AUDIT.md
+    size_before: '1809'
+    old_parents:
+    - 1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd
+    new_parent: 1bhOjoPMREY5EvLPQHNc41wu_3vzbUGWw
+    version_group: REV8
+    verified: true
+  - id: 1Uqh-kTtbjC7sflis4TNHQf_2AkKs9NdE
+    name_before: Pages_5-6_Version_B_VINNY_FACE_REV8_PENDING_REVIEW.png
+    name_after: Pages_5-6_Version_B_VINNY_FACE_REV8_PENDING_REVIEW.png
+    size_before: '30856925'
+    old_parents:
+    - 1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd
+    new_parent: 1bhOjoPMREY5EvLPQHNc41wu_3vzbUGWw
+    version_group: REV8
+    verified: true
+  - id: 197Z8pLISH0c9qOvvRHJoZQKWr7l7av3f
+    name_before: Pages_5-6_REV8_PIXEL_CHECK.json
+    name_after: Pages_5-6_REV8_PIXEL_CHECK.json
+    size_before: '415'
+    old_parents:
+    - 1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd
+    new_parent: 1bhOjoPMREY5EvLPQHNc41wu_3vzbUGWw
+    version_group: REV8
+    verified: true
+  - id: 1OdSzaRUSxtE7AD0eU3P3TAaMwZwOXBp-
+    name_before: Pages_5-6_Version_B_VINNY_REV7_DRAFT_FACE_REPAIR_REQUIRED.png
+    name_after: Pages_5-6_Version_B_VINNY_REV7_DRAFT_FACE_REPAIR_REQUIRED.png
+    size_before: '30866767'
+    old_parents:
+    - 1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd
+    new_parent: 1PiEjl_TN6HWXDKwFQjhqE99LMkJAMZD4
+    version_group: REV7
+    verified: true
+  - id: 1ydiGy_VJNXfNGfB06hjrlt3rUfXE2G3W
+    name_before: Pages_5-6_Vinny_REV6_REVIEW.md
+    name_after: Pages_5-6_Vinny_REV6_REVIEW.md
+    size_before: '2222'
+    old_parents:
+    - 1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd
+    new_parent: 1xTV4fXzAM1Hx2x4xCUERyZgD__SMajln
+    version_group: REV6
+    verified: true
+  - id: 1Rf7x5I5WEr3pO_KKQxS3XYrhyg7eNo0k
+    name_before: Pages_5-6_REV6_PIXEL_CHECK.json
+    name_after: Pages_5-6_REV6_PIXEL_CHECK.json
+    size_before: '395'
+    old_parents:
+    - 1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd
+    new_parent: 1xTV4fXzAM1Hx2x4xCUERyZgD__SMajln
+    version_group: REV6
+    verified: true
+  - id: 1Nq6NRfBGDJ9mNUxCvEtXaZEYJ7UrKrvr
+    name_before: Pages_5-6_LEO_GHOSTING_REV6_AUDIT.md
+    name_after: Pages_5-6_LEO_GHOSTING_REV6_AUDIT.md
+    size_before: '1802'
+    old_parents:
+    - 1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd
+    new_parent: 1xTV4fXzAM1Hx2x4xCUERyZgD__SMajln
+    version_group: REV6
+    verified: true
+  - id: 12YslcZiv8R-OAKXxAI8hCiUiNcw6p7DR
+    name_before: Pages_5-6_Version_B_LEO_GHOSTING_REPAIR_REV6_PENDING_REVIEW.png
+    name_after: Pages_5-6_Version_B_LEO_GHOSTING_REPAIR_REV6_PENDING_REVIEW.png
+    size_before: '30787857'
+    old_parents:
+    - 1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd
+    new_parent: 1xTV4fXzAM1Hx2x4xCUERyZgD__SMajln
+    version_group: REV6
+    verified: true
+  - id: 1hXgZCkzfm0QSArfjPmGDCzBVd6Eyn2lC
+    name_before: Pages_5-6_REV5_PIXEL_CHECK.json
+    name_after: Pages_5-6_REV5_PIXEL_CHECK.json
+    size_before: '382'
+    old_parents:
+    - 1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd
+    new_parent: 1P2saYJ1NFumvTI689pyQLX1as5AMQ7h3
+    version_group: REV5
+    verified: true
+  - id: 1aJOYMUY_l0aj8k_40jI1PrfMsK0Dsc7i
+    name_before: Pages_5-6_LEO_ARM_REV5_AUDIT.md
+    name_after: Pages_5-6_LEO_ARM_REV5_AUDIT.md
+    size_before: '2423'
+    old_parents:
+    - 1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd
+    new_parent: 1P2saYJ1NFumvTI689pyQLX1as5AMQ7h3
+    version_group: REV5
+    verified: true
+  - id: 1wE7eZBM8erEPaa_lbXpO8S7g80qU5qi7
+    name_before: Pages_5-6_Version_B_LEO_ARM_CORRECTION_REV5_PENDING_REVIEW.png
+    name_after: Pages_5-6_Version_B_LEO_ARM_CORRECTION_REV5_PENDING_REVIEW.png
+    size_before: '30745702'
+    old_parents:
+    - 1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd
+    new_parent: 1P2saYJ1NFumvTI689pyQLX1as5AMQ7h3
+    version_group: REV5
+    verified: true
+  - id: 1Gi7nE2aLfROZKY_gYAP370aTKpgjp_a1
+    name_before: Pages_5-6_REV4_PIXEL_CHECK.json
+    name_after: Pages_5-6_REV4_PIXEL_CHECK.json
+    size_before: '374'
+    old_parents:
+    - 1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd
+    new_parent: 1-PcPHjrCcv2bvwzkBKFaCWIt4JSI5f3M
+    version_group: REV4
+    verified: true
+  - id: 1pSFNI7NDaZbypSsUpEqh7LX3VKbESkPP
+    name_before: Pages_5-6_LEO_CORRECTION_REV4_AUDIT.md
+    name_after: Pages_5-6_LEO_CORRECTION_REV4_AUDIT.md
+    size_before: '2827'
+    old_parents:
+    - 1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd
+    new_parent: 1-PcPHjrCcv2bvwzkBKFaCWIt4JSI5f3M
+    version_group: REV4
+    verified: true
+  - id: 1BLCecCIMC9Ckj11aZpgirYYQv0y1csE3
+    name_before: Pages_5-6_Version_B_LEO_CORRECTION_REV4_PENDING_REVIEW.png
+    name_after: Pages_5-6_Version_B_LEO_CORRECTION_REV4_PENDING_REVIEW.png
+    size_before: '30733261'
+    old_parents:
+    - 1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd
+    new_parent: 1-PcPHjrCcv2bvwzkBKFaCWIt4JSI5f3M
+    version_group: REV4
+    verified: true
+  - id: 17H6Ono4ED18IBD3UJ8Zw8gpwpc1XXNAr
+    name_before: Pages_5-6_REV3_PIXEL_CHECK.json
+    name_after: Pages_5-6_REV3_PIXEL_CHECK.json
+    size_before: '373'
+    old_parents:
+    - 1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd
+    new_parent: 1Vbx8FbYVu9wmIjkr_EtN9GiyhcwAK6zM
+    version_group: REV3
+    verified: true
+  - id: 1ucCun4jqx6DtdFQj7XoLKhWf9MVnEZuD
+    name_before: Pages_5-6_CANON_CORRECTION_REV3_AUDIT.md
+    name_after: Pages_5-6_CANON_CORRECTION_REV3_AUDIT.md
+    size_before: '2790'
+    old_parents:
+    - 1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd
+    new_parent: 1Vbx8FbYVu9wmIjkr_EtN9GiyhcwAK6zM
+    version_group: REV3
+    verified: true
+  - id: 1wGpdrV1qOdpRcrAg0JhOMz9k5M08Cp-V
+    name_before: Pages_5-6_Version_B_CANON_CORRECTION_REV3_PENDING_REVIEW.png
+    name_after: Pages_5-6_Version_B_CANON_CORRECTION_REV3_PENDING_REVIEW.png
+    size_before: '30722529'
+    old_parents:
+    - 1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd
+    new_parent: 1Vbx8FbYVu9wmIjkr_EtN9GiyhcwAK6zM
+    version_group: REV3
+    verified: true
+  - id: 1E6QFNuqEmB8iQEPne8ZdBE1nqaRJIW8s
+    name_before: Pages_5-6_CURRENT_REVIEW_2026-10-04.md
+    name_after: Pages_5-6_CURRENT_REVIEW_2026-10-04.md
+    size_before: '3827'
+    old_parents:
+    - 1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd
+    new_parent: 1lhgF7Ritt3QJgLO0V5kryGPIq1xoGkX1
+    version_group: INITIAL_PROOF
+    verified: true
+  - id: 1xccLg1mVXWNxmqNgA6ne3E7oEP2yWhD1
+    name_before: Pages_5-6_LETTERING_ONLY_EDIT_PACKAGE_LOSSLESS_REV2.zip
+    name_after: Pages_5-6_LETTERING_ONLY_EDIT_PACKAGE_LOSSLESS_REV2.zip
+    size_before: '14038298'
+    old_parents:
+    - 1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd
+    new_parent: 1ZNuSR2WF95UpQ3FRPutohfvIrtXhfB8p
+    version_group: REV2
+    verified: true
+  - id: 1TVCyo9OHEhrEHLld2skW_J1iojNdI8JB
+    name_before: Pages_5-6_TYPOGRAPHY_18pt_AUDIT_REVIEW_REQUIRED_LOSSLESS_REV2.md
+    name_after: Pages_5-6_TYPOGRAPHY_18pt_AUDIT_REVIEW_REQUIRED_LOSSLESS_REV2.md
+    size_before: '4994'
+    old_parents:
+    - 1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd
+    new_parent: 1ZNuSR2WF95UpQ3FRPutohfvIrtXhfB8p
+    version_group: REV2
+    verified: true
+  - id: 1I98W46oyCnqE9HIb0LVw1QPwYpZmXanR
+    name_before: Pages_5-6_Version_B_Architects_Daughter_18pt_5100x2550_MASKED_REVIEW_LOSSLESS_REV2.png
+    name_after: Pages_5-6_Version_B_Architects_Daughter_18pt_5100x2550_MASKED_REVIEW_LOSSLESS_REV2.png
+    size_before: '14292638'
+    old_parents:
+    - 1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd
+    new_parent: 1ZNuSR2WF95UpQ3FRPutohfvIrtXhfB8p
+    version_group: REV2
+    verified: true
+  - id: 1bEY50alWTlbm5TrkjQhw0JTgprZ8cY6l
+    name_before: Pages_5-6_Version_B_Architects_Daughter_18pt_MASKED_REVIEW_LOSSLESS_REV2.pdf
+    name_after: Pages_5-6_Version_B_Architects_Daughter_18pt_MASKED_REVIEW_LOSSLESS_REV2.pdf
+    size_before: '27500966'
+    old_parents:
+    - 1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd
+    new_parent: 1ZNuSR2WF95UpQ3FRPutohfvIrtXhfB8p
+    version_group: REV2
+    verified: true
+  - id: 1QnWcreQdh1c700hcbOV5r74fdPJTJY4x
+    name_before: Pages_5-6_LETTERING_ONLY_EDIT_PACKAGE.zip
+    name_after: Pages_5-6_LETTERING_ONLY_EDIT_PACKAGE.zip
+    size_before: '14038234'
+    old_parents:
+    - 1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd
+    new_parent: 1H8ccD86D8mbIEto7qoiiYiDLzczKBpyN
+    version_group: LETTERING_REV1
+    verified: true
+  - id: 1GldaKwGQk_FxjdWMxL3m6-bJ37xDpfpg
+    name_before: Pages_5-6_TYPOGRAPHY_18pt_AUDIT_REVIEW_REQUIRED.md
+    name_after: Pages_5-6_TYPOGRAPHY_18pt_AUDIT_REVIEW_REQUIRED.md
+    size_before: '4556'
+    old_parents:
+    - 1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd
+    new_parent: 1H8ccD86D8mbIEto7qoiiYiDLzczKBpyN
+    version_group: LETTERING_REV1
+    verified: true
+  - id: 1L1pOWoLujZehMR6mXUzn2OO-Nj1EDBrj
+    name_before: Pages_5-6_Version_B_Architects_Daughter_18pt_5100x2550_MASKED_REVIEW.png
+    name_after: Pages_5-6_Version_B_Architects_Daughter_18pt_5100x2550_MASKED_REVIEW.png
+    size_before: '14292638'
+    old_parents:
+    - 1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd
+    new_parent: 1H8ccD86D8mbIEto7qoiiYiDLzczKBpyN
+    version_group: LETTERING_REV1
+    verified: true
+  - id: 1VNgBb-1_6BYT1RTqMj1j5Rwxq5dmkqyH
+    name_before: Pages_5-6_Version_B_Architects_Daughter_18pt_MASKED_REVIEW.pdf
+    name_after: Pages_5-6_Version_B_Architects_Daughter_18pt_MASKED_REVIEW.pdf
+    size_before: '34385012'
+    old_parents:
+    - 1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd
+    new_parent: 1H8ccD86D8mbIEto7qoiiYiDLzczKBpyN
+    version_group: LETTERING_REV1
+    verified: true
+  - id: 1JucMha36Gfn2JcHTD9_mL2zeYLNnKWq3
+    name_before: Pages_5-6_Version_B_Architects_Daughter_18pt_REVIEW.pdf
+    name_after: Pages_5-6_Version_B_Architects_Daughter_18pt_REVIEW.pdf
+    size_before: '34384508'
+    old_parents:
+    - 1Pep_Pv27GKp0jOxmxfGQ2tuJcEiqZDUd
+    new_parent: 1lhgF7Ritt3QJgLO0V5kryGPIq1xoGkX1
+    version_group: INITIAL_PROOF
+    verified: true
+  - id: 1Z-Uzk7DAK62gCWerhGLgRIdzowHispSw
+    name_before: Pages 5-6 - Where Is the Fire Station
+    name_after: Pages 5-6 - Where Is the Fire Station
+    size_before: null
+    old_parents:
+    - 1Z_MgP8Q9CmM0nPcLXIRUrRkGJbcD4ni2
+    new_parent: 1D6RJsQA6l7Qn5xxN8LxY8QD-5uWmwuEU
+    version_group: HISTORICAL_REVIEW_PACKAGE
+    verified: true
+  - id: 16IV748XOeVABgHRVllhNYXpoRfcbuTNm
+    name_before: Version B - FINAL LOCKED
+    name_after: Version B - FINAL LOCKED
+    size_before: null
+    old_parents:
+    - 1bWaSrlPEAT6dZQa-POzWblCgeiqXwYj-
+    new_parent: 1IBT2E32UR1AYm9lLw5DjmTucYaXMvwHL
+    version_group: HISTORICAL_APPROVED_B
+    verified: true
+  - id: 1nXxl9YyE0dt0d-osek9FHydNtSTyaO2V
+    name_before: Version A - APPROVED
+    name_after: Version A - APPROVED
+    size_before: null
+    old_parents:
+    - 1bWaSrlPEAT6dZQa-POzWblCgeiqXwYj-
+    new_parent: 18uO_sxDNvakX1NTFV9PO72af0AklIKeS
+    version_group: HISTORICAL_APPROVED_A
+    verified: true
+  inventory_path: qa/REV9_APPROVAL_ARCHIVE_2026-10-04.json
+  original_ids_and_bytes_preserved: true
+  metadata_readback_verified: true
+
+approval_record:
+  drive_id: 1PeZ5uFN1n_NLRPj571y_mG45yHeHNGIJ
+  audit_path: qa/REV9_APPROVAL_2026-10-04.md
+  archive_inventory_drive_id: 12MR3Bxpn0bj1VDqEcI8wa18VKCsG-CyU
