@@ -1,0 +1,22 @@
+{
+  "filename": "Pages_7-8_Version_B_BEN_GAZE_REV4_PENDING_REVIEW.png",
+  "sha256": "bc1d22e891c74ef84994db8c742b7d92a8d8da4ccadaf0d1acebde4883605e55",
+  "base_sha256": "f4389861cc6bde7d92727d20bfab1fa75779b5d28c18e379e2dc56412b239f25",
+  "dimensions_px": [
+    5100,
+    2550
+  ],
+  "dpi": 300,
+  "changed_pixels": 6826,
+  "changed_pixels_outside_eye_masks": 0,
+  "changed_placeholder_text_pixels": 0,
+  "mask_crop": {
+    "left": 840,
+    "top": 1030,
+    "width": 530,
+    "height": 530,
+    "svg": "<svg width=\"530\" height=\"530\" xmlns=\"http://www.w3.org/2000/svg\"><path fill=\"white\" d=\"M142 240 Q170 238 191 259 L185 300 Q156 299 140 279 Z M224 278 Q257 280 299 301 L287 340 Q250 343 221 319 Z\"/></svg>"
+  },
+  "approved": false,
+  "print_ready": false
+}
