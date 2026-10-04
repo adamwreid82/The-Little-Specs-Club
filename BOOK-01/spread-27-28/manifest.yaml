@@ -30,3 +30,21 @@ people_perspective_recheck:
   audit_url: https://drive.google.com/file/d/1c0tEIsY4UncaayXZt4Ffx7wpqWNzBhzt/view
   findings: "Eight named characters remain and text is visibly unchanged. Fence now recedes diagonally; camera variation is modest, group remains somewhat row-like.\nBen: plain khakis and black low shoes repaired; white helmet/blue shirt/black rectangular glasses retained. His left sticker appears high/frontward: not certified slightly-rear placement.\nLeo: navy/charcoal cargo/brown boots/blue helmet/lime vest orange edging and clear glasses; wrong visible left-side sticker removed, right-side inventory now hidden.\nVinny: green hoodie/helmet, soft compact curls, blue cargo, black low shoes repaired, clear glasses restored. Wrong visible front-side sticker removed; rear-left inventory hidden.\nSteph: straight red hair/blue eyes/lavender/olive/gray helmet/purple-gray shoes; clear glasses restored; small sticker moved viewer-left beside LS, corresponding to wearer-front-right. Invented gold earrings removed.\nMaya: long brown curls/hoops/pink/yellow/blue cargo/purple shoes and clear glasses visible; front-left sticker visible. Artwork simplified.\nHarper: simple lime/silver vest restored over purple cardigan/floral blouse/ID; wavy hair/hoops/white LS helmet/dark slacks/brown boots. Wrong visible front-side sticker removed, rear-right hidden.\nPatel: yellow Mason Vale, black glasses, dark ponytail, teal blouse, lime/silver vest, charcoal plain slacks/brown boots. Brooks: green Civic Ridge, glasses/green quarterzip/charcoal cargos/brown boots, radio/tablet. Tiny employer details unverified.\nThree distant generic workers inspect rebar/forms beyond visitor fence. No children working and no completed structure."
   unresolved: "FAIL: one background worker overlaps protected center band; main cast clear but no full gutter pass. Outer/bottom margins remain tight for Patel/Harper. Exact stickers are simplified, not source-identical; Ben left sticker placement not fully resolved. Stronger candid camera was only partly achieved. No back emblems visible for certification."
+
+lettering_only_revision_2026_10_03:
+  status: REVIEW_REQUIRED_NOT_APPROVED
+  font_family: Architects Daughter
+  font_size_pt: 18
+  spread_trim_inches: [17, 8.5]
+  export_dimensions_px: [5100, 2550]
+  export_dpi: 300
+  exact_embedded_type_verified: true
+  original_pixels_outside_lettering_preserved: true
+  pdf_drive_id: 1lFIuQ3ic0ylT_Dr-52vEB5LjbtHGp6sR
+  png_drive_id: 14-73UvP3DwnU9lQr8BYUmWjB5i_zdVCt
+  audit_drive_id: 1F8X_QOLQIqUv9DV6f3Z0EKVGLTnDCDeq
+  edit_package_drive_id: 1i-yYFaiTXSr3e8nWwgObWDf67xhHoUPa
+  original_assets_preserved: true
+  artwork_approval_transferred: false
+  native_artwork_print_detail_verified: false
+  print_ready: false
