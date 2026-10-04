@@ -36,3 +36,21 @@ people_perspective_recheck:
   findings: "Additional focused repair after earlier-page pass. Harper moved behind Leo, out of protected gutter. Ben cargo pocket removed, plain khakis restored. Maya's full purple shoes now above title, banner overlap repaired. Steph's rectangle changed to small ROUND station-picture attempt; exact asset not certified.\nAll facts, safety text, teaser and Book 2 title visually retained. Five children plus Harper; covered load remains unspecified; no walls/roof.\nBen white helmet/blue shirt/plain khakis/dark low shoes/black glasses profile with schedule. He became smaller during move request but did NOT move far enough right: gutter remains FAIL. A new near-side round helmet mark appeared, contrary to intended hidden wearer-left location: FAIL/UNVERIFIED.\nLeo blue helmet/navy/charcoal cargos/brown boots/orange vest edging, visible right-side project sticker and profile eyewear. Vinny green helmet/hoodie/compact curls/blue cargo/dark low shoes/profile eyewear; rear-left hidden.\nSteph gray helmet/straight red hair/lavender/olive cargo/purple-gray shoes/profile eyewear, small round sticker near front-right, not exact. Looking-up action still weak.\nMaya yellow helmet/long curls/pink/blue cargo/purple footwear/profile eyewear, drawing held; far front-left decal hidden. Harper white helmet/wavy brown hair/hoops/purple cardigan/simple lime vest/dark slacks/brown work boots/profile eyewear. Blouse/ID/front badge occluded, not passed.\nBoys' upper-back emblems remain above horizontal stripes, girls hair-occluded, no teacher emblem. Last edit softened tiny emblem art; exact artwork remains unresolved.\nRear three-quarter scene has more surrounding ground and clearer title separation. It is not a fully realized high-angle camera."
   unresolved: "FAIL: Ben remains partly in center band and has a new near-side circular mark requiring source-relative repair; do not approve it. Left facts remain outside default x650 text zone; no layout exception approved. Exact badges/emblems/stickers, hidden inventory, Ben depth-adjusted stature and all fine facial/eyewear details remain unverified. Targeted generation repeatedly failed precise repositioning and introduced small asset changes; this saved draft is a review checkpoint, not a finished canon pass."
   consolidated_review_url: https://drive.google.com/file/d/19ZsfZHFPEAJx6aje5z8IZSku0XpmvpK5/view
+
+lettering_only_revision_2026_10_03:
+  status: REVIEW_REQUIRED_BACKGROUND_REPAIR_NOT_APPROVED
+  font_family: Architects Daughter
+  font_size_pt: 18
+  spread_trim_inches: [17, 8.5]
+  export_dimensions_px: [5100, 2550]
+  export_dpi: 300
+  exact_embedded_type_verified: true
+  original_pixels_outside_lettering_preserved: true
+  pdf_drive_id: 1bsmVHfg78g_zvIaxYYUI6-sW0MNja4Hu
+  png_drive_id: 1UlAudMARTrEvGgRyjyLU6FjdttNnrrqB
+  audit_drive_id: 1f1ZIZbPep7UBELw5j08NpZIyjKHJ9C5F
+  edit_package_drive_id: 1IZV3bjDX3j5F2tRGn5ppq-0lasrZ6R7d
+  original_assets_preserved: true
+  artwork_approval_transferred: false
+  native_artwork_print_detail_verified: false
+  print_ready: false
