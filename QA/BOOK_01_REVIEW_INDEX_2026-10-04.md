@@ -1,3 +1,10 @@
+# Pages 5–6 REV4 current candidate — 2026-10-04
+
+[Leo-corrected REV4](https://drive.google.com/file/d/1BLCecCIMC9Ckj11aZpgirYYQv0y1csE3/view?usp=drivesdk). [REV4 audit](https://drive.google.com/file/d/1pSFNI7NDaZbypSsUpEqh7LX3VKbESkPP/view?usp=drivesdk). **PENDING AUTHOR REVIEW**, not approved or print-ready. Adam reopened Leo's appearance and requested correction. Source-guided compact curls, rounder cheek/softer jaw, proportional profile eye and raised-shoulder/neck transition repaired locally. Pointing hand and lower body retained; REV3 Harper floral and Steph freckles retained. Zero pixel changes outside local Leo repair mask and zero lettering changes. Fine sign/held-picture, hidden detail/height and print checks remain open. GitHub source-grounded Leo regression checks added without changing character authority. All earlier candidates and approvals preserved. Await Adam before further edits or advancing.
+
+---
+Earlier review checkpoints below remain historical.
+
 # Pages 5–6 REV3 current candidate — 2026-10-04
 
 [REV3 corrected spread](https://drive.google.com/file/d/1wGpdrV1qOdpRcrAg0JhOMz9k5M08Cp-V/view?usp=drivesdk). [Correction audit](https://drive.google.com/file/d/1ucCun4jqx6DtdFQj7XoLKhWf9MVnEZuD/view?usp=drivesdk). **PENDING AUTHOR REVIEW**, not approved or print-ready. Corrected Harper's blouse to smaller scattered flowers and restored subtle Steph cheek freckles from approved sources. Zero changed pixels outside local repair masks; zero lettering changes. All earlier files/approvals preserved. Fine sign/held-picture fidelity, obscured identity/height and production checks remain open. Drive candidate/audit/pixel evidence and GitHub manifest/QA records synchronized. Await Adam's feedback before further edits, archiving or advancing.
@@ -155,5 +162,6 @@ Repository AGENTS.md now requires both Drive and GitHub reads before review and 
 ## Pages 3–4 detailed check — 2026-10-04
 
 [Full item-by-item REV4 checklist](https://drive.google.com/file/d/1RggaAWyiG2UcswxWtt4u0GWgPKzGvuWn/view?usp=drivesdk), also committed at GitHub BOOK-01/spread-03-04/qa/REV4_ITEM_BY_ITEM_CHECK_2026-10-04.md. No new approval or artwork changes. No confirmed visible character mismatch; hidden details, Ben iris color and tiny lettering/assets remain unverified. Existing right-wall placeholder layout is recorded as a default-left-zone exception without final layout approval. New REV4 bleed-ready page export is absent, a separate production failure. This checklist narrows earlier broad pass descriptions.
+
 
 
