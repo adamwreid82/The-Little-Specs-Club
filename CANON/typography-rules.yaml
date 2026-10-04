@@ -13,5 +13,28 @@ manuscript_typography:
   scope: Book 1 manuscript text; environmental branding preserved
   exact_font_embedding_required: true
   verification_at_trim_size_inches: [17, 8.5]
-  rollout_status: PARTIAL_03_08_REVIEW_PROOFS_SAVED_09_32_PENDING
+  rollout_status: REVIEW_03_30_SAVED_31_32_BACKGROUND_REPAIR_PENDING_01_02_SOURCE_UNLOCATED
   approval_scope: typography specification only; no new artwork or print approval
+
+lettering_only_export_verification_2026_10_04:
+  user_masked_edit_authorization: true
+  final_size_font_pt: 18
+  font_family: Architects Daughter
+  page_trim_inches: [8.5, 8.5]
+  spread_trim_inches: [17, 8.5]
+  export_dimensions_px: [5100, 2550]
+  export_dpi: 300
+  saved_pdf_png_files_readback_verified: 30
+  spreads_with_exact_embedded_type_verified: 15
+  character_pixel_preservation_verified: true
+  original_candidates_and_sources_preserved: true
+  review_index_drive_id: 1txG_ODz4IcnD2RP5Dy0A6-WjEwF8Sb8L
+  consolidated_typography_audit_drive_id: 1Shl26yRF2ucR1NTiA4FRRGmZ9Wx__eK-
+  saved_byte_verification_drive_id: 1iQyCOycoAofdODIiGoFmni58Yym6OYhV
+  unfinished_background_cleanup_spread: 31-32
+  title_spread_source_unlocated: 01-02
+  existing_canon_failures_remain_open: true
+  artwork_print_detail_verified: false
+  bleed_and_physical_proof_verified: false
+  approved: false
+  print_ready: false
