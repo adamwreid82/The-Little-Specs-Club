@@ -712,6 +712,12 @@ source_detail_regression_checks:
     source_registry_character: Steph
     check: Preserve the approved subtle freckles, blue eyes, straight red hair and face; inspect at close-up and spread scale.
     reject: Lost freckles, exaggerated new markings or changed facial features during a freckle repair.
+  Leo:
+    source_registry_character: Leo
+    check: Match the approved source's compact short tight curls, rounded youthful cheek, short soft jaw and proportional brown eye; adapt naturally to side profiles and pointing poses.
+    reject: Oversized sculpted curls, elongated narrow face, oversized profile eye, crowded neck or unnatural raised shoulder.
+    clothing_and_pointing_action: preserve_existing_outfit_and_scene_action_during_local_repairs
+    authority: existing_approved_profile_and_source_image_not_a_new_character_design
   localized_repairs:
     inspect: [hands_and_fingers, lanyard_and_ID_edges, cloth_edges, station_renderings, unchanged_lettering, unrelated_character_identity]
     require_original_pixels_outside_authorized_repair_footprints: true
