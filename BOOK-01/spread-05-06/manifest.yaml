@@ -150,3 +150,21 @@ lettering_only_revision_2026_10_04_lossless_rev2:
   artwork_approval_transferred: false
   native_artwork_print_detail_verified: false
   print_ready: false
+
+active_review:
+  status: PENDING_AUTHOR_FEEDBACK_REPAIR_IDENTIFIED
+  version: LETTERING_LOSSLESS_REV2
+  recorded_date: '2026-10-04'
+  approved: false
+  artwork_changed: false
+  candidate_drive_id: 1I98W46oyCnqE9HIb0LVw1QPwYpZmXanR
+  candidate_sha256: 90386e21474e329f76c2a2901ab1204765105652a16412eec6ae802fbc20163e
+  audit_path: qa/CURRENT_REVIEW_2026-10-04.md
+  audit_drive_id: 1E6QFNuqEmB8iQEPne8ZdBE1nqaRJIW8s
+  visible_failures: [Mrs_Harper_blouse_pattern_scale_and_motifs]
+  unverified: [Steph_freckles, exact_facial_microdetail, height_order, tiny_sign_emblem, held_station_picture_asset_fidelity, native_print_detail]
+  preserve_author_accepted: [Leo_appearance, excavator_placement]
+  text_is_placeholder: true
+  font_edits_authorized: false
+  print_ready: false
+  next_step: Await Adam's feedback before changes or advancing.
