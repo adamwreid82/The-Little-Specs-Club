@@ -152,19 +152,32 @@ lettering_only_revision_2026_10_04_lossless_rev2:
   print_ready: false
 
 active_review:
-  status: PENDING_AUTHOR_FEEDBACK_REPAIR_IDENTIFIED
-  version: LETTERING_LOSSLESS_REV2
+  status: PENDING_AUTHOR_REVIEW
+  version: CANON_CORRECTION_REV3
   recorded_date: '2026-10-04'
   approved: false
-  artwork_changed: false
-  candidate_drive_id: 1I98W46oyCnqE9HIb0LVw1QPwYpZmXanR
-  candidate_sha256: 90386e21474e329f76c2a2901ab1204765105652a16412eec6ae802fbc20163e
-  audit_path: qa/CURRENT_REVIEW_2026-10-04.md
-  audit_drive_id: 1E6QFNuqEmB8iQEPne8ZdBE1nqaRJIW8s
-  visible_failures: [Mrs_Harper_blouse_pattern_scale_and_motifs]
-  unverified: [Steph_freckles, exact_facial_microdetail, height_order, tiny_sign_emblem, held_station_picture_asset_fidelity, native_print_detail]
+  artwork_changed: true
+  candidate_drive_id: 1wGpdrV1qOdpRcrAg0JhOMz9k5M08Cp-V
+  candidate_filename: Pages_5-6_Version_B_CANON_CORRECTION_REV3_PENDING_REVIEW.png
+  candidate_sha256: d4273ac9406c9e86010c8169a1a9723cd3afee5f593d874fc695c724d4a86c8f
+  dimensions_px: [5100, 2550]
+  dpi: 300
+  audit_path: qa/CANON_CORRECTION_REV3_2026-10-04.md
+  audit_drive_id: 1ucCun4jqx6DtdFQj7XoLKhWf9MVnEZuD
+  pixel_check_path: qa/REV3_PIXEL_CHECK_2026-10-04.json
+  pixel_check_drive_id: 17H6Ono4ED18IBD3UJ8Zw8gpwpc1XXNAr
+  base_drive_id: 1I98W46oyCnqE9HIb0LVw1QPwYpZmXanR
+  prior_review_path: qa/CURRENT_REVIEW_2026-10-04.md
+  prior_review_drive_id: 1E6QFNuqEmB8iQEPne8ZdBE1nqaRJIW8s
+  local_corrections: [Mrs_Harper_blouse_pattern, Steph_subtle_freckles]
+  confirmed_visible_failures_after_repair: []
+  author_review_remaining: [floral_motif_scale_and_edges, subtle_freckles]
+  unverified: [obscured_facial_microdetail, height_order, tiny_sign_emblem, held_station_picture_asset_fidelity, native_print_detail]
+  changed_pixels_outside_repair_masks: 0
+  changed_placeholder_text_pixels: 0
   preserve_author_accepted: [Leo_appearance, excavator_placement]
   text_is_placeholder: true
-  font_edits_authorized: false
+  font_edits_performed: false
   print_ready: false
-  next_step: Await Adam's feedback before changes or advancing.
+  historical_lock_applies_to_candidate: false
+  next_step: Await Adam's explicit REV3 feedback; do not transfer earlier artwork approval.
