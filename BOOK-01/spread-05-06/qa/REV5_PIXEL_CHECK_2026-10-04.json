@@ -1,0 +1,14 @@
+{
+  "filename": "Pages_5-6_Version_B_LEO_ARM_CORRECTION_REV5_PENDING_REVIEW.png",
+  "dimensions": [
+    5100,
+    2550
+  ],
+  "dpi": 300,
+  "sha256": "77f811c3f87d8b4337081cb1933d69d6d0a53befc97f92656298e7e629ef4156",
+  "changed_pixels": 135898,
+  "changed_pixels_outside_arm_and_hoodie_mask": 0,
+  "changed_placeholder_text_pixels": 0,
+  "approved": false,
+  "print_ready": false
+}
