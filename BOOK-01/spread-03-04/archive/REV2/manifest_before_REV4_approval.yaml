@@ -1,0 +1,210 @@
+spread: 03-04
+title: The Big Announcement
+status: FINAL LOCKED
+version_b:
+  status: APPROVED LOCKED
+  path: version-b/
+  storage: google_drive
+  drive_id: 1d-JlCft5sXCpA7hWo6kb2_anvMjHok-4
+  filename: Pages_3-4_Version_B_REV2_5100x2550_FINAL_LOCKED.png
+  sha256: fb6fad4d8f90c0c7ccfa2a94436b28618a21c89b6fca7540530c1ded77182f12
+  dimensions_px:
+  - 5100
+  - 2550
+  bleed_pdf:
+    drive_id: 1qySbcCf7uuZcKXCSa7m3ZpT-hRH2M9K-
+    sha256: c94afae9233e5e3a2329872762ad349409e87815c2788319a02da2c5ed8a89b7
+    page_size_inches:
+    - 8.625
+    - 8.75
+    page_order:
+    - LEFT
+    - RIGHT
+    filename: Pages_3-4_Version_B_REV2_BLEED_FINAL_LOCKED.pdf
+    status: APPROVED LOCKED
+version_a:
+  status: APPROVED LOCKED
+  path: version-a/
+  storage: google_drive
+  drive_id: 1rH2LgiH62T7IsBK0LykZShZ0Vsxn00ET
+  filename: Pages_3-4_Version_A_REV2_5100x2550_FINAL_LOCKED.png
+  sha256: 47df228bc3dcdd58578e0aee728494e2dbae68db51803e056bb7bfe93ff6e79a
+  dimensions_px:
+  - 5100
+  - 2550
+  bleed_pdf:
+    drive_id: 13bYDhvq2tWP1Ein7k1txTxnN3hRblynv
+    sha256: 95d11be3ace8690015173d0af54947f35e05d45fbf5d08ba0d0ed63a1548757b
+    page_size_inches:
+    - 8.625
+    - 8.75
+    page_order:
+    - LEFT
+    - RIGHT
+    filename: Pages_3-4_Version_A_REV2_BLEED_FINAL_LOCKED.pdf
+    status: APPROVED LOCKED
+qa:
+  status: EXPORT CHECKS COMPLETE - PRINT PROOF PENDING
+  reviewed_date: '2026-09-27'
+  report: qa/PRODUCTION_REVIEW_2026-09-27.md
+  drive_report_id: 14lrswxI3Knxcjm3WwL8zWtZdEy5eX47K
+  visible_character_continuity: NO_CONFIRMED_MATERIAL_MISMATCH
+  ppe_and_sticker_chronology: PASS
+  manuscript_prose_manual_review: PASS
+  aspect_ratio: PASS
+  production_dimensions: PASS
+  required_dimensions_px:
+  - 5100
+  - 2550
+  version_pair_integrity: PASS_OUTSIDE_TEXT_WALL_REGION
+  print_readiness: AUTHOR_APPROVED_PHYSICAL_PROOF_NOT_PERFORMED
+  monument_sign_scope: PASS
+  monument_sign_resolution: Adam approved future-station classroom depiction on 2026-09-27;
+    physical installation remains prohibited at live Book 1 site.
+  drive_pixel_qa_id: 16-O-lLSNgpy0qtWmDUhboU7YUuuQpPKI
+  pair_changed_pixels_outside_text_wall_region: 0
+  native_source_dimensions_px:
+  - 1774
+  - 887
+  enlargement: Lanczos; no native-detail increase claimed
+  native_detail_print_certified: false
+  pagination: Assemble LEFT on an even physical page and RIGHT on the following odd
+    page; 03-04 remains production identifier.
+final_locked: true
+approved_by: Adam
+next_step: Whole-book assembly, pagination, Print Previewer and physical proof before
+  publication.
+previous_artwork:
+  status: SUPERSEDED - PRESERVED HISTORICAL ARTWORK
+  path: version-b/
+  storage: google_drive
+  drive_id: 1vNDS5zWx7xMl9MKxBh9iVZsl1tJxI3K1
+  filename: Pages_3-4_The_Big_Announcement_Version_B_ARTWORK_APPROVED_2026-09-26_SUPERSEDED_2026-09-27.png
+  sha256: 2fa72a00cf7745ab1260e98e897f485e976458bc48db073e7e6583cb2bfe07f0
+  dimensions_px:
+  - 1774
+  - 887
+  artwork_approved_by: Adam
+  artwork_approved_date: '2026-09-26'
+  approval_evidence:
+    tracker_id: 1iZJl6rpulBaugvxubUzudPak1eIXoMrYiD-oEOvO8mQ
+    review_log_entry: 33
+  preserved: true
+  superseded_by_drive_id: 1d-JlCft5sXCpA7hWo6kb2_anvMjHok-4
+hand_correction:
+  accepted_by: Adam
+  accepted_date: '2026-09-27'
+  acceptance_scope: second left-hand dorsal-view correction only; final print approval
+    excluded
+  native_drive_id: 1T8CX1HuwV_XP-nxdMzHEIsgLg5S0Usba
+  native_sha256: 61ed1b1de13be61e9eade0ec55859dd662cb34f94a83de9f6e56f61fee07aae9
+  native_bbox:
+  - 93
+  - 311
+  - 189
+  - 417
+  changed_pixels_outside_mask: 0
+approved_date: '2026-09-27'
+approval:
+  approved_by: Adam
+  approved_date: '2026-09-27'
+  evidence: Approved, update all drive files and @GitHub
+  scope: REV2 Version A and B PNG masters and bleed PDFs
+  physical_proof_performed: false
+  whole_book_assembly_verified: false
+  review_log_row: 37
+
+typography_revision_2026_10_03:
+  status: REVIEW_REQUIRED_NOT_APPROVED
+  font_family: Architects Daughter
+  font_size_pt: 18
+  exact_embedded_font_verified: true
+  extracted_manuscript_match: true
+  spread_size_inches: [17, 8.5]
+  original_assets_preserved: true
+  candidate_drive_id: 156cVPQavl0reap-aVXdKHeSJrXEdSN_p
+  audit_drive_id: 1Shl26yRF2ucR1NTiA4FRRGmZ9Wx__eK-
+  bleed_included: false
+  physical_proof: NOT_PERFORMED
+
+lettering_only_revision_2026_10_03:
+  status: REVIEW_REQUIRED_NOT_APPROVED
+  font_family: Architects Daughter
+  font_size_pt: 18
+  spread_trim_inches: [17, 8.5]
+  export_dimensions_px: [5100, 2550]
+  export_dpi: 300
+  exact_embedded_type_verified: true
+  original_pixels_outside_lettering_preserved: true
+  pdf_drive_id: 1IU7hsU1rCnTQ1jOVpKNYM8V82URbc5FU
+  png_drive_id: 1kPCi50Gmcb1Bt2xjrTsN9voLDAshW50H
+  audit_drive_id: 1PuqQyj6ZUbRktzDfzsNFq1rr9-kVO4zs
+  edit_package_drive_id: 1PSrhcDCVeC7Mz7pF6QNSEovwQ0Ue4Wya
+  original_assets_preserved: true
+  artwork_approval_transferred: false
+  native_artwork_print_detail_verified: false
+  print_ready: false
+
+lettering_only_revision_2026_10_04_lossless_rev2:
+  status: REVIEW_REQUIRED_NOT_APPROVED
+  font_family: Architects Daughter
+  font_size_pt: 18
+  spread_trim_inches: [17, 8.5]
+  export_dimensions_px: [5100, 2550]
+  export_dpi: 300
+  exact_embedded_type_verified: true
+  original_pixels_outside_lettering_preserved: true
+  pdf_drive_id: 1xLq35uf-rnL7Us8gvZ_aWXq70K6Zya-h
+  png_drive_id: 1GVWeCrLibllXZXqXO3aK1n0k27JNFxXS
+  audit_drive_id: 1Tkwll-NuPMVm6I-oXs-_Ju1mFjtXmPdL
+  edit_package_drive_id: 1fWVC7Q5bedDvoGR26uHWyfT5FucFeAme
+  original_assets_preserved: true
+  artwork_approval_transferred: false
+  native_artwork_print_detail_verified: false
+  print_ready: false
+
+active_review:
+  status: PENDING_AUTHOR_REVIEW
+  version: REV4
+  recorded_date: '2026-10-04'
+  approved: false
+  approval_evidence: null
+  historical_lock_applies_to_this_candidate: false
+  candidate:
+    storage: google_drive
+    drive_id: 1DRYEa_fQ9A0t0m3oUDlxkAO_KneIfDd8
+    filename: Pages_3-4_Version_B_CANON_CORRECTION_REV4_PENDING_REVIEW.png
+    sha256: 8fe4e3fc475994340097912535c24eb5a33dd9bd24efe18f30e4bbd8827ed915
+    dimensions_px: [5100, 2550]
+    dpi: 300
+  audit:
+    path: qa/CANON_CORRECTION_REV4_2026-10-04.md
+    drive_id: 1hAVkKzsrrU_tzS2gK0kyXqglnnQjccaC
+  selected_base_drive_id: 1GVWeCrLibllXZXqXO3aK1n0k27JNFxXS
+  prior_failed_repair:
+    drive_id: 1nKpIYbuBUa-hYxuNObPYJXUUuVadwk2Y
+    audit_drive_id: 1jWu5ANq_2CrmKQyY5GX2ZocabBknkmiu
+    status: DRAFT_REPAIR_REQUIRED_PRESERVED
+  local_corrections: [Mrs_Harper_blouse_floral_pattern, Steph_subtle_freckles]
+  pixel_checks:
+    outside_local_repair_regions_changed: 0
+    placeholder_text_region_changed: 0
+  author_review_remaining: [floral_scale_and_local_edges, subtle_freckles]
+  unverified: [occluded_lower_clothing_and_footwear, standing_height, actual_size_print_sharpness, bleed, final_pagination]
+  print_ready: false
+  review_index_drive_id: 1txG_ODz4IcnD2RP5Dy0A6-WjEwF8Sb8L
+  next_step: Await Adam's explicit feedback on REV4; do not inherit the historical REV2 approval.
+
+item_by_item_review_2026_10_04:
+  candidate_version: REV4
+  status: INCOMPLETE_VERIFICATION_NOT_APPROVED
+  audit_path: qa/REV4_ITEM_BY_ITEM_CHECK_2026-10-04.md
+  audit_drive_id: 1RggaAWyiG2UcswxWtt4u0GWgPKzGvuWn
+  confirmed_visible_character_failures: []
+  newly_explicit_unverified: [Ben_iris_color, tiny_ID_detail, tiny_station_sign_and_emblem_detail, final_manual_text_fit]
+  layout_exception: existing_right_wall_placeholder_text_instead_of_default_left_zone
+  layout_exception_newly_approved: false
+  production_failure: no_REV4_bleed_ready_page_export
+  hidden_details_do_not_require_redesign_for_visibility: true
+  approved: false
+  print_ready: false
