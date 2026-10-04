@@ -151,7 +151,7 @@ lettering_only_revision_2026_10_04_lossless_rev2:
   native_artwork_print_detail_verified: false
   print_ready: false
 
-active_review:
+leo_rev6_review_history:
   status: PENDING_AUTHOR_REVIEW
   version: LEO_GHOSTING_REPAIR_REV6
   recorded_date: '2026-10-04'
@@ -185,3 +185,41 @@ active_review:
   print_ready: false
   historical_lock_applies_to_candidate: false
   next_step: Await Adam's explicit REV6 feedback before edits, approval, archiving or advancing.
+
+active_review:
+  status: PENDING_AUTHOR_REVIEW
+  version: VINNY_FACE_REV8
+  recorded_date: '2026-10-04'
+  approved: false
+  artwork_changed: true
+  candidate_drive_id: 1Uqh-kTtbjC7sflis4TNHQf_2AkKs9NdE
+  candidate_filename: Pages_5-6_Version_B_VINNY_FACE_REV8_PENDING_REVIEW.png
+  candidate_sha256: 7879edeb479668ab939c07cd218c58d54d008fcf9885af25bd6e981d50685c2b
+  dimensions_px: [5100, 2550]
+  dpi: 300
+  audit_path: qa/VINNY_REV8_2026-10-04.md
+  audit_drive_id: 1NT5ejTjdL0zrnzLVraP6-jf3repzjOIr
+  pixel_check_path: qa/REV8_PIXEL_CHECK_2026-10-04.json
+  pixel_check_drive_id: 197Z8pLISH0c9qOvvRHJoZQKWr7l7av3f
+  prior_failed_revision:
+    version: VINNY_REV7
+    status: FAILED_FACE_LIKENESS_PRESERVED
+    evidence: This is isn't correct in his face
+    candidate_drive_id: 1OdSzaRUSxtE7AD0eU3P3TAaMwZwOXBp-
+    sha256: ba5cc84e65cc29655405b798887d907283622fb90cac0738fec3d54778370f72
+  base_drive_id: 12YslcZiv8R-OAKXxAI8hCiUiNcw6p7DR
+  source_pair: Vinny
+  source_image_drive_id: 1m-mxpb7Fpu04jWj5sYVJTHxvXXPySuSa
+  source_profile_drive_id: 1vG_CJ45X87ZsYlNr-Rq2VJiuRHaTtw4S
+  corrections: [fuller_Vinny_cheek, short_soft_chin, button_nose, smooth_source_guided_curls, darker_denim, plain_dark_shoes]
+  likeness_status: PENDING_AUTHOR_ASSESSMENT_NOT_CERTIFIED
+  far_eye_visibility: NOT_FULLY_ACHIEVED
+  changed_pixels_outside_Vinny_repair_footprint: 0
+  changed_placeholder_text_pixels: 0
+  Leo_REV6_pixels_preserved: true
+  text_is_placeholder: true
+  font_edits_performed: false
+  unverified: [exact_likeness_approval, hidden_facial_detail, measured_height_order, tiny_sign_asset, held_picture_asset, native_print_detail]
+  print_ready: false
+  historical_lock_applies_to_candidate: false
+  next_step: Await Adam's explicit REV8 feedback before further changes, approval, archiving or advancing.
