@@ -143,6 +143,55 @@ lettering_only_revision_2026_10_04_lossless_rev2:
   native_artwork_print_detail_verified: false
   print_ready: false
 active_review:
+  status: PENDING_AUTHOR_REVIEW
+  version: CANON_CORRECTION_REV3
+  recorded_date: '2026-10-04'
+  approved: false
+  artwork_changed: true
+  font_edits_performed: false
+  text_is_placeholder: true
+  candidate_drive_id: 1Wfsh6YgBEks_0UGVd7XjzCVfrx4UGy1_
+  candidate_filename: Pages_7-8_Version_B_CANON_CORRECTION_REV3_PENDING_REVIEW.png
+  candidate_sha256: f4389861cc6bde7d92727d20bfab1fa75779b5d28c18e379e2dc56412b239f25
+  dimensions_px:
+  - 5100
+  - 2550
+  dpi: 300
+  audit_path: qa/CANON_CORRECTION_REV3_2026-10-04.md
+  audit_drive_id: 1oN6qg3p4hNxIH6kel5H6zYvRLd_51vkj
+  pixel_check_path: qa/REV3_PIXEL_CHECK_2026-10-04.json
+  pixel_check_drive_id: 1zfGo-hCKNLxu4kzZIqrrBV6lOXQKp_BM
+  base_drive_id: 1dts6x99z9xXTZ0EyddnGa9hmqwNK01kd
+  source_pairs_used:
+  - Vinny
+  - Mrs-Harper
+  - Steph
+  - Maya
+  corrections:
+  - Vinny_fuller_cheeks_short_chin_compact_curls
+  - Harper_soft_cheek_chin
+  - Steph_freckles
+  - Maya_muted_denim
+  likeness_status: REPAIRED_PENDING_AUTHOR_ASSESSMENT
+  visual_ghosting_check: PASS_CLOSEUP_AND_SPREAD
+  changed_pixels_outside_declared_masks: 0
+  changed_placeholder_text_pixels: 0
+  adjacent_background_restoration: Vinny hair contour footprint includes immediate
+    Jackson vest background
+  unverified:
+  - exact_likeness
+  - hidden_details
+  - measured_heights
+  - finger_inventory
+  - tiny_assets
+  - fine_footwear_geometry
+  - native_print_detail
+  all_canon_certified: false
+  print_ready: false
+  historical_lock_applies_to_candidate: false
+  regression_checks: qa/CANON_CORRECTION_REV3_2026-10-04.md#future-manual-regression-checks
+  next_step: Await Adam feedback before changes, approval, archiving or advancing.
+pre_correction_review_2026_10_04:
   status: REVIEW_REQUIRED_VISIBLE_CANON_FAILURES
   version: LETTERING_LOSSLESS_REV2
   recorded_date: '2026-10-04'
