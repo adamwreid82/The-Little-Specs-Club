@@ -223,3 +223,18 @@ active_review:
   print_ready: false
   historical_lock_applies_to_candidate: false
   next_step: Await Adam's explicit REV8 feedback before further changes, approval, archiving or advancing.
+
+people_canon_check_rev8_2026_10_04:
+  status: FAIL
+  scope: all_six_visible_people_on_REV8
+  report_path: qa/REV8_FULL_PEOPLE_CANON_CHECK_2026-10-04.md
+  report_drive_id: 1UbCirXWjfnPSOeJKv2kLtLOGtVCI6Mer
+  artwork_changed: false
+  approval_recorded: false
+  failures: [Harper_face_cheek_jaw_chin, Steph_footwear_design, Maya_footwear_design, Maya_denim_saturation]
+  exact_likeness_unverified: [Ben, Leo, Vinny, Steph, Maya]
+  measured_heights: UNVERIFIED
+  chronology_and_visitor_side: PASS
+  text_and_fonts_changed: false
+  supersedes_broad_outfit_passes_for_current_detail_review: true
+  next_step: Await Adam's feedback before repairs or approval.
