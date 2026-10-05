@@ -1,0 +1,19 @@
+{
+  "filename": "Pages_7-8_Version_B_CANON_CORRECTION_REV5_PENDING_REVIEW.png",
+  "sha256": "021355bcdf6bf77b76b18718edd65a10d0f1eee6eac17a103a0fdc01c5334bea",
+  "base_sha256": "bc1d22e891c74ef84994db8c742b7d92a8d8da4ccadaf0d1acebde4883605e55",
+  "dimensions_px": [
+    5100,
+    2550
+  ],
+  "dpi": 300,
+  "changed_pixels": 37038,
+  "changed_pixels_outside_declared_masks": 0,
+  "changed_placeholder_text_pixels": 0,
+  "logo_source_sha256": [
+    "0faa73b171719d357c9a1bc11781b71fdd485937d78f2155a2dc6588f481fbd3",
+    "0112c267691d7e3417c996cb8ad9c21f3d2bfcdc7a81712bee98cac235ca67f9"
+  ],
+  "method": "ImageGen helmet cleanup, source-derived perspective logo matte compositing; ImageGen footwear color reference with masked luminance-preserving transfer into original panels and sole trim.",
+  "approved": false
+}
