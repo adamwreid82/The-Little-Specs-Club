@@ -120,3 +120,13 @@ helmet_badge_application_reference:
   scope: current_helmet_logo_sizes_and_positions_only
   later_explicit_author_adjustments_allowed: true
   whole_spread_approved_by_this_lock: false
+
+helmet_LS_application_baseline:
+  status: AUTHOR_APPROVED_SIZES_POSITIONS_ONLY
+  approved_by: Adam
+  approved_date: '2026-10-05'
+  reference_drive_id: 1WV1NJ9hH9PE4nNgnKk9DbY1HR9-KEtY2
+  reference_sha256: 2b9f89198ee798afe02f116a2e09eb6695cf2db5cdbe0b40cb682ca04fcb576b
+  approval_record_drive_id: 16lA94hDfUYZPhmJRNnajTJroBMZXPA_c
+  rule: CANON/character-rules.yaml#hard_hat_badge_application_lock
+  whole_reference_spread_approved: false
