@@ -144,28 +144,32 @@ lettering_only_revision_2026_10_04_lossless_rev2:
   print_ready: false
 active_review:
   status: PENDING_AUTHOR_REVIEW
-  version: BEN_GAZE_REV4
+  version: CANON_CORRECTION_REV5
   recorded_date: '2026-10-04'
   approved: false
   artwork_changed: true
   font_edits_performed: false
   text_is_placeholder: true
-  candidate_drive_id: 1C_S8LXWp2974pH3y1SuhRJ7yRWtVlPx4
-  candidate_filename: Pages_7-8_Version_B_BEN_GAZE_REV4_PENDING_REVIEW.png
-  candidate_sha256: bc1d22e891c74ef84994db8c742b7d92a8d8da4ccadaf0d1acebde4883605e55
+  candidate_drive_id: 1kHBF55Zp1rgV-USGkX-L5lZ-QGY5YUdb
+  candidate_filename: Pages_7-8_Version_B_CANON_CORRECTION_REV5_PENDING_REVIEW.png
+  candidate_sha256: 021355bcdf6bf77b76b18718edd65a10d0f1eee6eac17a103a0fdc01c5334bea
   dimensions_px:
   - 5100
   - 2550
   dpi: 300
-  audit_path: qa/BEN_GAZE_REV4_2026-10-04.md
-  audit_drive_id: 1f24xVdXnhWQ0JKAhDpFGSSI8uPz4cxRS
-  pixel_check_path: qa/REV4_PIXEL_CHECK_2026-10-04.json
-  pixel_check_drive_id: 1k7MJ2ymV5xbsH1PiA-NKW1SHOuZvxOdE
-  base_drive_id: 1Wfsh6YgBEks_0UGVd7XjzCVfrx4UGy1_
+  audit_path: qa/CANON_CORRECTION_REV5_2026-10-04.md
+  audit_drive_id: 111Mr5sRBrTi5mTU-Br5wp_YYuPJYNhB5
+  pixel_check_path: qa/REV5_PIXEL_CHECK_2026-10-04.json
+  pixel_check_drive_id: 1Got7ROZjmiDFL5adU2DPnZ0bccodieim
+  base_drive_id: 1C_S8LXWp2974pH3y1SuhRJ7yRWtVlPx4
   source_pairs_used:
-  - Ben
+  - Vinny
+  - Elena-Rivera
+  - Marcus-Jackson
   corrections:
-  - Ben_gaze_upward_toward_Rivera
+  - Vinny_olive_footwear_accents
+  - Rivera_source_derived_Civic_Ridge_front_logo
+  - Jackson_source_derived_Civic_Ridge_front_logo
   likeness_status: REPAIRED_PENDING_AUTHOR_ASSESSMENT
   visual_ghosting_check: PASS_CLOSEUP_AND_SPREAD
   changed_pixels_outside_declared_masks: 0
@@ -175,15 +179,29 @@ active_review:
   - hidden_details
   - measured_heights
   - finger_inventory
-  - tiny_assets
   - fine_footwear_geometry
+  - logo_scale_perspective_edge_treatment
   - native_print_detail
   all_canon_certified: false
   print_ready: false
   historical_lock_applies_to_candidate: false
-  regression_checks: qa/BEN_GAZE_REV4_2026-10-04.md
+  regression_checks: qa/CANON_CORRECTION_REV5_2026-10-04.md#future-regression-checks
   next_step: Await Adam feedback before changes, approval, archiving or advancing.
   previous_REV3_corrections_preserved: true
+  previous_REV4_corrections_preserved: true
+  overall_visible_canon_result: PASS
+  visible_person_results:
+    Ben: PASS
+    Leo: PASS
+    Vinny: PASS
+    Steph: PASS
+    Maya: PASS
+    Mrs-Harper: PASS
+    Elena-Rivera: PASS
+    Marcus-Jackson: PASS
+  logo_sources_sha256_verified: true
+  logo_application_method: source-derived matte, resampling and perspective transform;
+    author assessment pending
 pre_correction_review_2026_10_04:
   status: REVIEW_REQUIRED_VISIBLE_CANON_FAILURES
   version: LETTERING_LOSSLESS_REV2
@@ -258,4 +276,79 @@ canon_rev3_history:
   historical_lock_applies_to_candidate: false
   regression_checks: qa/CANON_CORRECTION_REV3_2026-10-04.md#future-manual-regression-checks
   next_step: Await Adam feedback before changes, approval, archiving or advancing.
-people_canon_check_rev4_2026_10_04: {"status":"REVIEW_REQUIRED_VISIBLE_CANON_FAILURES","version":"BEN_GAZE_REV4","candidate_drive_id":"1C_S8LXWp2974pH3y1SuhRJ7yRWtVlPx4","candidate_sha256":"bc1d22e891c74ef84994db8c742b7d92a8d8da4ccadaf0d1acebde4883605e55","audit_path":"qa/ALL_PEOPLE_CANON_REV4_2026-10-04.md","audit_drive_id":"194S5_SQU-ulInMWjdBg-RVA5BKho0Fzt","approved":false,"artwork_changed":false,"fonts_changed":false,"overall_visible_result":"FAIL","all_canon_certified":false,"visible_person_results":{"Ben":"PASS","Leo":"PASS","Vinny":"FAIL","Steph":"PASS","Maya":"PASS","Mrs. Harper":"PASS","Ms. Rivera":"FAIL","Mr. Jackson":"FAIL"},"failures":["Vinny_footwear_olive_green_accents_missing","Rivera_front_Civic_Ridge_logo_mismatch","Jackson_front_Civic_Ridge_logo_mismatch"],"unverified":["exact_likeness","measured_heights","complete_finger_counts","hidden_adult_stickers","fine_footwear_geometry","native_print_detail"],"regression_checks":"qa/ALL_PEOPLE_CANON_REV4_2026-10-04.md#preservation-and-future-regression","next_step":"Await Adam feedback before changes, approval, archiving or advancing."}
+people_canon_check_rev4_2026_10_04:
+  status: REVIEW_REQUIRED_VISIBLE_CANON_FAILURES
+  version: BEN_GAZE_REV4
+  candidate_drive_id: 1C_S8LXWp2974pH3y1SuhRJ7yRWtVlPx4
+  candidate_sha256: bc1d22e891c74ef84994db8c742b7d92a8d8da4ccadaf0d1acebde4883605e55
+  audit_path: qa/ALL_PEOPLE_CANON_REV4_2026-10-04.md
+  audit_drive_id: 194S5_SQU-ulInMWjdBg-RVA5BKho0Fzt
+  approved: false
+  artwork_changed: false
+  fonts_changed: false
+  overall_visible_result: FAIL
+  all_canon_certified: false
+  visible_person_results:
+    Ben: PASS
+    Leo: PASS
+    Vinny: FAIL
+    Steph: PASS
+    Maya: PASS
+    Mrs. Harper: PASS
+    Ms. Rivera: FAIL
+    Mr. Jackson: FAIL
+  failures:
+  - Vinny_footwear_olive_green_accents_missing
+  - Rivera_front_Civic_Ridge_logo_mismatch
+  - Jackson_front_Civic_Ridge_logo_mismatch
+  unverified:
+  - exact_likeness
+  - measured_heights
+  - complete_finger_counts
+  - hidden_adult_stickers
+  - fine_footwear_geometry
+  - native_print_detail
+  regression_checks: qa/ALL_PEOPLE_CANON_REV4_2026-10-04.md#preservation-and-future-regression
+  next_step: Await Adam feedback before changes, approval, archiving or advancing.
+ben_gaze_rev4_history:
+  status: PENDING_AUTHOR_REVIEW
+  version: BEN_GAZE_REV4
+  recorded_date: '2026-10-04'
+  approved: false
+  artwork_changed: true
+  font_edits_performed: false
+  text_is_placeholder: true
+  candidate_drive_id: 1C_S8LXWp2974pH3y1SuhRJ7yRWtVlPx4
+  candidate_filename: Pages_7-8_Version_B_BEN_GAZE_REV4_PENDING_REVIEW.png
+  candidate_sha256: bc1d22e891c74ef84994db8c742b7d92a8d8da4ccadaf0d1acebde4883605e55
+  dimensions_px:
+  - 5100
+  - 2550
+  dpi: 300
+  audit_path: qa/BEN_GAZE_REV4_2026-10-04.md
+  audit_drive_id: 1f24xVdXnhWQ0JKAhDpFGSSI8uPz4cxRS
+  pixel_check_path: qa/REV4_PIXEL_CHECK_2026-10-04.json
+  pixel_check_drive_id: 1k7MJ2ymV5xbsH1PiA-NKW1SHOuZvxOdE
+  base_drive_id: 1Wfsh6YgBEks_0UGVd7XjzCVfrx4UGy1_
+  source_pairs_used:
+  - Ben
+  corrections:
+  - Ben_gaze_upward_toward_Rivera
+  likeness_status: REPAIRED_PENDING_AUTHOR_ASSESSMENT
+  visual_ghosting_check: PASS_CLOSEUP_AND_SPREAD
+  changed_pixels_outside_declared_masks: 0
+  changed_placeholder_text_pixels: 0
+  unverified:
+  - exact_likeness
+  - hidden_details
+  - measured_heights
+  - finger_inventory
+  - tiny_assets
+  - fine_footwear_geometry
+  - native_print_detail
+  all_canon_certified: false
+  print_ready: false
+  historical_lock_applies_to_candidate: false
+  regression_checks: qa/BEN_GAZE_REV4_2026-10-04.md
+  next_step: Await Adam feedback before changes, approval, archiving or advancing.
+  previous_REV3_corrections_preserved: true
