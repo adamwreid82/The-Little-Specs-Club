@@ -1,0 +1,147 @@
+{
+  "filename": "Pages_9-10_Version_B_CANON_BADGE_CORRECTION_REV2_PENDING_REVIEW.png",
+  "sha256": "2b9f89198ee798afe02f116a2e09eb6695cf2db5cdbe0b40cb682ca04fcb576b",
+  "base_sha256": "bb3e49792a3c446abcf66d341348f5461bb046e907cf409d43999b41b6cbb84c",
+  "dimensions_px": [
+    5100,
+    2550
+  ],
+  "dpi": 300,
+  "changed_pixels": 151036,
+  "changed_pixels_outside_declared_masks": 0,
+  "changed_placeholder_text_pixels": 0,
+  "freckle_pixels": 106,
+  "approved_LS_asset_sha256": "96a47ac122989b3527e3fc5f8aa58544fd438799c2c4d7041cca4ef40de34a42",
+  "badge_applications": [
+    {
+      "person": "Leo",
+      "uniform_scale": 0.82,
+      "old_bbox": [
+        365,
+        1274,
+        160,
+        125
+      ],
+      "new_bbox": [
+        380,
+        1285,
+        131,
+        103
+      ],
+      "center_shift_px": [
+        0.5,
+        0
+      ],
+      "nose_direction_and_rotation_preserved": true
+    },
+    {
+      "person": "Vinny",
+      "uniform_scale": 0.82,
+      "old_bbox": [
+        991,
+        1401,
+        134,
+        146
+      ],
+      "new_bbox": [
+        1003,
+        1414,
+        110,
+        120
+      ],
+      "center_shift_px": [
+        0,
+        0
+      ],
+      "nose_direction_and_rotation_preserved": true
+    },
+    {
+      "person": "Ben",
+      "uniform_scale": 0.78,
+      "old_bbox": [
+        3344,
+        1401,
+        136,
+        151
+      ],
+      "new_bbox": [
+        3359,
+        1418,
+        106,
+        118
+      ],
+      "center_shift_px": [
+        0,
+        0.5
+      ],
+      "nose_direction_and_rotation_preserved": true
+    },
+    {
+      "person": "Maya",
+      "uniform_scale": 0.84,
+      "old_bbox": [
+        3847,
+        1544,
+        133,
+        150
+      ],
+      "new_bbox": [
+        3858,
+        1556,
+        112,
+        126
+      ],
+      "center_shift_px": [
+        0.5,
+        0
+      ],
+      "nose_direction_and_rotation_preserved": true
+    },
+    {
+      "person": "Steph",
+      "uniform_scale": 0.75,
+      "old_bbox": [
+        4391,
+        1495,
+        138,
+        148
+      ],
+      "new_bbox": [
+        4408,
+        1514,
+        104,
+        111
+      ],
+      "center_shift_px": [
+        0,
+        0.5
+      ],
+      "nose_direction_and_rotation_preserved": true
+    },
+    {
+      "person": "Harper",
+      "uniform_scale": 0.82,
+      "old_bbox": [
+        4714,
+        857,
+        138,
+        154
+      ],
+      "new_bbox": [
+        4727,
+        871,
+        113,
+        126
+      ],
+      "center_shift_px": [
+        0.5,
+        0
+      ],
+      "nose_direction_and_rotation_preserved": true
+    }
+  ],
+  "method": "ImageGen local helmet cleanup; uniform resampling of original rendered LS badges about original centers; ImageGen freckle pigment transferred to original skin pixels, excluding facial contours and eyewear.",
+  "approved": false,
+  "all_canon_certified": false,
+  "print_ready": false
+}
