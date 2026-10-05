@@ -42,7 +42,7 @@ previous_artwork:
   drive_id: 1ilYeddTYjDd6tpw54szZ7t8peHYeHG-7
   status: SUPERSEDED
   preserved: true
-next_step: Await Adam review of REV2 before further changes, approval, archiving or advancing.
+next_step: Await Adam review of REV3 before further changes, full-spread approval, archiving or advancing.
 lettering_only_revision_2026_10_03:
   status: REVIEW_REQUIRED_NOT_APPROVED
   font_family: Architects Daughter
@@ -108,7 +108,7 @@ pre_correction_review_2026_10_04:
   next_step: Await Adam feedback before image corrections, approval, archiving or
     advancing.
 
-active_review:
+prior_review_REV2:
   status: PENDING_AUTHOR_REVIEW
   version: CANON_BADGE_CORRECTION_REV2
   recorded_date: '2026-10-04'
@@ -147,3 +147,57 @@ active_review:
   author_edit_instruction: 'make corrections, also adjust the LS logo to proportionately fit on each helmet, the centerline facing the direction of the nose is correct just some of them are to large for the size helmet'
   regression_checks: qa/CANON_BADGE_CORRECTION_REV2_2026-10-04.md#future-checks-and-approval-boundaries
   next_step: Await Adam feedback before further changes, approval, archiving or advancing.
+
+rev2_full_canon_check_2026_10_05:
+  report_path: qa/REV2_FULL_CANON_CHECK_2026-10-05.md
+  report_drive_id: 1HudbnghYYJKIDsuuj1o8e6Bya08wfB8a
+  overall_result: FAIL
+  visible_failure: Harper_large_abstract_blouse_pattern
+  superseded_by: REV3_blouse_correction
+LS_badge_application_approval:
+  approved: true
+  approved_by: Adam
+  approved_date: '2026-10-05'
+  approval_evidence: 'lets go ahead a lock the helmet LS Logos size and position , correct Mrs. Harpers blouse'
+  scope: six_LS_badge_sizes_positions_only
+  reference_drive_id: 1WV1NJ9hH9PE4nNgnKk9DbY1HR9-KEtY2
+  reference_sha256: 2b9f89198ee798afe02f116a2e09eb6695cf2db5cdbe0b40cb682ca04fcb576b
+  approval_record_drive_id: 16lA94hDfUYZPhmJRNnajTJroBMZXPA_c
+  canon_rule: CANON/character-rules.yaml#hard_hat_badge_application_lock
+  whole_spread_approved: false
+active_review:
+  status: PENDING_AUTHOR_REVIEW
+  version: HARPER_BLOUSE_REV3
+  recorded_date: '2026-10-05'
+  approved: false
+  candidate_drive_id: 1uA8TfkmobQFW7O53AkNJ-pIilLm_Oy1B
+  candidate_filename: Pages_9-10_Version_B_HARPER_BLOUSE_REV3_PENDING_REVIEW.png
+  candidate_sha256: 8c1568133520efac45e1c488928eb925f4fb7890f0ea35172012e5943dd51fb4
+  dimensions_px: [5100, 2550]
+  dpi: 300
+  audit_path: qa/HARPER_BLOUSE_REV3_2026-10-05.md
+  audit_drive_id: 1lNI2EOJLcV5ZDTzjRnP-INLIh5apJts0
+  detailed_checklist_path: qa/REV2_FULL_CANON_CHECK_2026-10-05.md
+  detailed_checklist_blouse_failure_resolved_visibly: true
+  pixel_evidence_path: qa/REV3_PIXEL_CHECK_2026-10-05.json
+  pixel_evidence_drive_id: 1WEHvYbrOyPHaJnAA696W7ZTS0LiqRV3U
+  base_candidate_drive_id: 1WV1NJ9hH9PE4nNgnKk9DbY1HR9-KEtY2
+  corrections: [Harper_small_scattered_floral_blouse]
+  LS_logo_sizes_positions_approved: true
+  approved_LS_logo_pixels_preserved: true
+  source_character_images_changed: false
+  font_edits_performed: false
+  text_is_placeholder: true
+  overall_visible_canon_result: PASS_WITH_UNVERIFIED_DETAILS
+  visible_person_results: {Ben: PASS, Leo: PASS, Vinny: PASS, Steph: PASS, Maya: PASS, Mrs-Harper: PASS, Daniel-Brooks: PASS}
+  unverified: [exact_likeness, freckle_density, fine_floral_motif_geometry, cropped_footwear_lower_clothing, numeric_heights, complete_fingers, hidden_back_emblems, hidden_Brooks_sticker, fine_eyewear_logo_projection, entry_boundary_chronology, native_print_detail]
+  production_failures: [matching_REV3_Version_A_missing, REV3_bleed_page_exports_missing]
+  changed_pixels_outside_declared_mask: 0
+  helmet_logo_pixels_changed: 0
+  placeholder_text_pixels_changed: 0
+  all_canon_certified: false
+  print_ready: false
+  historical_lock_applies_to_candidate: false
+  earlier_versions_preserved: true
+  archived: false
+  next_step: Await Adam feedback before further edits, full-spread approval, archiving or advancing.
