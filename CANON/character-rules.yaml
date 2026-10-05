@@ -660,8 +660,9 @@ historical_hard_hat_badge_application_lock_2026_09_28:
         badge_bbox: [623, 167, 655, 197]
 
 
-hard_hat_badge_application_lock:
-  status: AUTHOR_APPROVED_WORKING_BASELINE
+historical_hard_hat_badge_application_lock_2026_10_01:
+  status: SUPERSEDED_REFERENCE_ONLY
+  superseded_by: hard_hat_badge_application_lock
   author: Adam
   recorded_date: "2026-10-01"
   approval_scope: current_helmet_logo_sizes_and_positions_only
@@ -724,3 +725,48 @@ source_detail_regression_checks:
     full_scene_regeneration_is_not_an_automatic_replacement: true
     visual_checks_automatically_passed_by_CI: false
     hidden_or_unmeasurable_details: UNVERIFIED_not_PASS
+
+hard_hat_badge_application_lock:
+  status: AUTHOR_APPROVED_WORKING_BASELINE
+  author: Adam
+  recorded_date: '2026-10-05'
+  approval_scope: six_LS_badge_sizes_and_positions_only
+  approval_evidence: 'lets go ahead a lock the helmet LS Logos size and position , correct Mrs. Harpers blouse'
+  approval_record_path: CANON/approvals/LS_HELMET_APPLICATION_APPROVAL_2026-10-05.md
+  approval_record_drive_id: 16lA94hDfUYZPhmJRNnajTJroBMZXPA_c
+  later_explicit_author_adjustments_allowed: true
+  whole_spread_approved_by_this_lock: false
+  characters: [Ben, Leo, Vinny, Steph, Maya, Mrs-Harper]
+  artwork_rule: hard_hat_badge
+  reference:
+    filename: Pages_9-10_Version_B_CANON_BADGE_CORRECTION_REV2_PENDING_REVIEW.png
+    drive_id: 1WV1NJ9hH9PE4nNgnKk9DbY1HR9-KEtY2
+    sha256: 2b9f89198ee798afe02f116a2e09eb6695cf2db5cdbe0b40cb682ca04fcb576b
+    dimensions_pixels: [5100, 2550]
+    origin: Pages_9_10_REV2_proportional_helmet_fit
+    other_artwork_in_reference_approved: false
+  rule:
+    - Use the six displayed REV2 applications as the controlling size and position reference.
+    - Fit each LS badge proportionately to its helmet, retaining the approved character-specific reference relationship.
+    - Center on the facial centerline and face in the direction of the nose.
+    - Preserve raised front-panel placement and brim clearance.
+    - Use exact locked LS artwork with dark contour and narrow white outline, preserving intrinsic proportions.
+    - Adapt to camera distance, pose, surface curvature and natural occlusion without equal-screen-pixel sizing.
+    - Never relocate toward the camera or apply a front badge to a rear view.
+    - Do not apply the REV2 correction percentages as universal scale factors on future images.
+    - This supersedes older conflicting LS size and position instructions only.
+    - Approved character PNG/profile pairs govern all other appearance and clothing.
+  employer_logo:
+    character: Daniel-Brooks
+    current_approval_changed: false
+    reference_drive_id: 1avjiIqZbZXG9Vo7HDBb34wAJ0K1jKPZd
+    reference_sha256: 91e77046e46bfe37b5bb09cbb33d74eaece755855aa8e8540a18d1217595a898
+    rule: Preserve the separately approved Oct 1 Brooks employer-logo baseline.
+  validation:
+    artwork_identity_and_application_are_separate_checks: true
+    must_check: [asset_identity, approved_reference_proportions, facial_centerline, nose_direction, raised_placement, perspective, no_ghosting]
+    physical_inches: not_established
+    automatic_numeric_pass_tolerance: not_author_approved
+    hidden_or_unmeasurable_application: UNVERIFIED_not_PASS
+    existing_spreads_automatically_certified: false
+    source_images_or_profiles_modified: false
