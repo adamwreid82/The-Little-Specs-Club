@@ -42,7 +42,7 @@ previous_artwork:
   drive_id: 1ilYeddTYjDd6tpw54szZ7t8peHYeHG-7
   status: SUPERSEDED
   preserved: true
-next_step: Await Adam feedback before image corrections, approval, archiving or advancing.
+next_step: Await Adam review of REV2 before further changes, approval, archiving or advancing.
 lettering_only_revision_2026_10_03:
   status: REVIEW_REQUIRED_NOT_APPROVED
   font_family: Architects Daughter
@@ -63,7 +63,7 @@ lettering_only_revision_2026_10_03:
   prior_assets_preserved: true
   artwork_approval_transferred: false
   print_ready: false
-active_review:
+pre_correction_review_2026_10_04:
   status: REVIEW_REQUIRED_VISIBLE_CANON_FAILURES
   version: LETTERING_MASKED_REV1
   recorded_date: '2026-10-04'
@@ -107,3 +107,43 @@ active_review:
   regression_checks: qa/CURRENT_CANON_REVIEW_2026-10-04.md#approval-boundaries-and-future-checks
   next_step: Await Adam feedback before image corrections, approval, archiving or
     advancing.
+
+active_review:
+  status: PENDING_AUTHOR_REVIEW
+  version: CANON_BADGE_CORRECTION_REV2
+  recorded_date: '2026-10-04'
+  approved: false
+  artwork_changed: true
+  font_edits_performed: false
+  text_is_placeholder: true
+  candidate_drive_id: 1WV1NJ9hH9PE4nNgnKk9DbY1HR9-KEtY2
+  candidate_filename: Pages_9-10_Version_B_CANON_BADGE_CORRECTION_REV2_PENDING_REVIEW.png
+  candidate_sha256: 2b9f89198ee798afe02f116a2e09eb6695cf2db5cdbe0b40cb682ca04fcb576b
+  dimensions_px: [5100, 2550]
+  dpi: 300
+  audit_path: qa/CANON_BADGE_CORRECTION_REV2_2026-10-04.md
+  audit_drive_id: 1A5gVT8NDJeHBOWSdS9olEPKX12FWM4Ni
+  pixel_evidence_path: qa/REV2_PIXEL_CHECK_2026-10-04.json
+  pixel_evidence_drive_id: 1iw6RO34JrjC2AeupABzPkK98Uoq9wbdF
+  base_candidate_drive_id: 1HPf8CUjZ3dI5-GgspZFfqlLwhynvTMGw
+  base_candidate_sha256: bb3e49792a3c446abcf66d341348f5461bb046e907cf409d43999b41b6cbb84c
+  corrections: [Steph_nose_and_cheek_freckles, six_proportional_LS_badges]
+  badge_scales: {Leo: 0.82, Vinny: 0.82, Ben: 0.78, Maya: 0.84, Steph: 0.75, Mrs-Harper: 0.82}
+  badge_nose_alignment_retained: true
+  proposed_badge_proportions_approved: false
+  new_global_badge_standard_approved: false
+  source_canon_changed: false
+  overall_visible_canon_result: PASS_WITH_UNVERIFIED_DETAILS
+  visible_person_results: {Ben: PASS, Leo: PASS, Vinny: PASS, Steph: PASS, Maya: PASS, Mrs-Harper: PASS, Daniel-Brooks: PASS}
+  remaining_author_assessment: [badge_proportions, freckle_density, exact_likeness]
+  unverified: [cropped_footwear_and_lower_body, measured_heights, complete_finger_inventory, hidden_back_emblems, hidden_Brooks_sticker, fine_badge_asset_projection, native_print_detail]
+  changed_pixels_outside_declared_masks: 0
+  changed_placeholder_text_pixels: 0
+  all_canon_certified: false
+  print_ready: false
+  historical_lock_applies_to_candidate: false
+  earlier_versions_preserved: true
+  archived: false
+  author_edit_instruction: 'make corrections, also adjust the LS logo to proportionately fit on each helmet, the centerline facing the direction of the nose is correct just some of them are to large for the size helmet'
+  regression_checks: qa/CANON_BADGE_CORRECTION_REV2_2026-10-04.md#future-checks-and-approval-boundaries
+  next_step: Await Adam feedback before further changes, approval, archiving or advancing.
