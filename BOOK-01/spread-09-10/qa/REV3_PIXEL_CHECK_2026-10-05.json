@@ -1,0 +1,18 @@
+{
+  "filename": "Pages_9-10_Version_B_HARPER_BLOUSE_REV3_PENDING_REVIEW.png",
+  "sha256": "8c1568133520efac45e1c488928eb925f4fb7890f0ea35172012e5943dd51fb4",
+  "base_sha256": "2b9f89198ee798afe02f116a2e09eb6695cf2db5cdbe0b40cb682ca04fcb576b",
+  "dimensions_px": [
+    5100,
+    2550
+  ],
+  "dpi": 300,
+  "changed_pixels": 38154,
+  "changed_pixels_outside_declared_mask": 0,
+  "helmet_logo_pixels_changed": 0,
+  "placeholder_text_pixels_changed": 0,
+  "method": "ImageGen source-guided blouse print; local cream garment mask excludes blue lanyard, ID, skin, hair, vest and foreground helmet; all other original pixels retained",
+  "approved": false,
+  "LS_badge_sizes_positions_approved": true,
+  "whole_spread_approved": false
+}
