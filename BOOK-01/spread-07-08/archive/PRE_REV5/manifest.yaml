@@ -1,0 +1,354 @@
+spread: 07-08
+title: Meet the Project Team
+status: FINAL LOCKED
+artwork_locked: true
+final_locked: true
+approved_by: Adam
+approved_date: '2026-09-27'
+approval_evidence: Approve
+approval_scope: Repaired revision 2 Version A and Version B production masters and
+  associated bleed PDFs
+approved_native_artwork:
+  filename: Pages_7-8_Version_B_ARTWORK_LOCKED_2026-09-27.png
+  sha256: 210292658823ded0a8a3fd0eaa68ebb5dff1488fc11bbfa22ea8d6105c9072cb
+  size_bytes: 2583364
+  drive_id: 1q-7fESvLMvNWwnTnyVTA-S9uBTITy6G6
+  dimensions_px:
+  - 1774
+  - 887
+  status: ARTWORK LOCKED
+version_a:
+  filename: Pages_7-8_Version_A_5100x2550_PRINT_REVIEW.png
+  sha256: 321486421d49f6b5fe051d3bf923955ce1038a2b17ba505b7a42d425b5cf68b1
+  size_bytes: 12654842
+  drive_id: 1CbSBYHhmhXA5McMXE97A6P9duLPYDsNP
+  path: version-a/
+  storage: google_drive
+  status: FINAL LOCKED
+  dimensions_px:
+  - 5100
+  - 2550
+  bleed_pdf:
+    filename: Pages_7-8_Version_A_BLEED_PRINT_REVIEW.pdf
+    sha256: 850ef64cb09958ac1356766aad42320126d5d57e62060abedd3d738aaf416d92
+    size_bytes: 27853530
+    drive_id: 1Xg4Gy-wuqDxpT2zUg_CbDgblGWeovmAC
+    status: FINAL LOCKED
+version_b:
+  filename: Pages_7-8_Version_B_5100x2550_PRINT_REVIEW.png
+  sha256: 93fbd58ea8725935d49ac310a4ce4b441cf9dad26d6c0b2495ddadca75c23acc
+  size_bytes: 12892902
+  drive_id: 1yfa1yKunfjTN_Fwhm4qNCFXahPhzl7-f
+  path: version-b/
+  storage: google_drive
+  status: FINAL LOCKED
+  dimensions_px:
+  - 5100
+  - 2550
+  bleed_pdf:
+    filename: Pages_7-8_Version_B_BLEED_PRINT_REVIEW.pdf
+    sha256: 0a048eb856c23b7529ea4bb5e951ab398797018f9e76526bfb635ab8dc4e16fe
+    size_bytes: 28045138
+    drive_id: 129CahEyi6OwW0TIGCoEdkLCBY-HfoCVt
+    status: FINAL LOCKED
+qa:
+  status: FINAL LOCKED BY AUTHOR - ASSEMBLED BOOK PREFLIGHT AND PHYSICAL PROOF PENDING
+  report: qa/PRODUCTION_REVIEW_2026-09-27.md
+  drive_report_id: 1Z0mSRQNbv7ZWtKlvYe9mQTr4SS7aKMRi
+  drive_pixel_qa_id: 1iRPHMBIeDkz6kq8-huBwYHydznV76_IY
+  all_five_remote_asset_sha256_reverified: true
+  native_A_B_changes_below_y350: 0
+  text_removal_scope: Upper background restoration from approved native image; current
+    A/B production pair differs only by manuscript layer.
+  physical_proof: NOT_PERFORMED
+  print_detail_certified: false
+  full_canon_pixel_match_certified: false
+  open_layout_checks: []
+  approval_is_global_rule_exception: false
+  production_revision: 2
+  left_text_bbox:
+  - 650
+  - 160
+  - 2019
+  - 512
+  right_text_bbox:
+  - 3000
+  - 160
+  - 4343
+  - 779
+  top_text_clearance_inches: 0.5333333333333333
+  halo_repair: VISUAL PASS
+  pair_changes_outside_text_alpha: 0
+  text_pixels_in_hard_gutter: 0
+  all_four_repaired_export_sha256_reverified: true
+previous_artwork:
+  drive_id: 1iWU1kW4ib2rfNNvQJs7nomMFz5V1ivky
+  status: SUPERSEDED
+  preserved: true
+next_step: Await Adam feedback before changes, approval, archiving or advancing.
+typography_revision_2026_10_03:
+  status: REVIEW_REQUIRED_NOT_APPROVED
+  font_family: Architects Daughter
+  font_size_pt: 18
+  exact_embedded_font_verified: true
+  extracted_manuscript_match: true
+  spread_size_inches:
+  - 17
+  - 8.5
+  original_assets_preserved: true
+  candidate_drive_id: 1MvieVKfC6S3HUw6RVMO281pNdF05h5mY
+  audit_drive_id: 1Shl26yRF2ucR1NTiA4FRRGmZ9Wx__eK-
+  bleed_included: false
+  physical_proof: NOT_PERFORMED
+lettering_only_revision_2026_10_03:
+  status: REVIEW_REQUIRED_NOT_APPROVED
+  font_family: Architects Daughter
+  font_size_pt: 18
+  spread_trim_inches:
+  - 17
+  - 8.5
+  export_dimensions_px:
+  - 5100
+  - 2550
+  export_dpi: 300
+  exact_embedded_type_verified: true
+  original_pixels_outside_lettering_preserved: true
+  pdf_drive_id: 14lViCxZXS6iLwcpQsfjtyJzgFMC5An2l
+  png_drive_id: 1YTq54HuE_KrbCivP0FHZREA7mY6ANaBr
+  audit_drive_id: 1lv99IuZoBzwj5twRRJownsKTccUSTnkh
+  edit_package_drive_id: 1EC3e-PBokuhE-td8ay0pXzUwnzhbT5kD
+  original_assets_preserved: true
+  artwork_approval_transferred: false
+  native_artwork_print_detail_verified: false
+  print_ready: false
+lettering_only_revision_2026_10_04_lossless_rev2:
+  status: REVIEW_REQUIRED_NOT_APPROVED
+  font_family: Architects Daughter
+  font_size_pt: 18
+  spread_trim_inches:
+  - 17
+  - 8.5
+  export_dimensions_px:
+  - 5100
+  - 2550
+  export_dpi: 300
+  exact_embedded_type_verified: true
+  original_pixels_outside_lettering_preserved: true
+  pdf_drive_id: 19Fkrbcqleefva8DecJAEUN8PQZhEe9pt
+  png_drive_id: 1dts6x99z9xXTZ0EyddnGa9hmqwNK01kd
+  audit_drive_id: 1r-pIBFwzqTPTOSHMtXc9Gxf56w8mRylI
+  edit_package_drive_id: 1bNQtsVtOis3VjDZA_9O_3XHX6M_ffKUr
+  original_assets_preserved: true
+  artwork_approval_transferred: false
+  native_artwork_print_detail_verified: false
+  print_ready: false
+active_review:
+  status: PENDING_AUTHOR_REVIEW
+  version: CANON_CORRECTION_REV5
+  recorded_date: '2026-10-04'
+  approved: false
+  artwork_changed: true
+  font_edits_performed: false
+  text_is_placeholder: true
+  candidate_drive_id: 1kHBF55Zp1rgV-USGkX-L5lZ-QGY5YUdb
+  candidate_filename: Pages_7-8_Version_B_CANON_CORRECTION_REV5_PENDING_REVIEW.png
+  candidate_sha256: 021355bcdf6bf77b76b18718edd65a10d0f1eee6eac17a103a0fdc01c5334bea
+  dimensions_px:
+  - 5100
+  - 2550
+  dpi: 300
+  audit_path: qa/CANON_CORRECTION_REV5_2026-10-04.md
+  audit_drive_id: 111Mr5sRBrTi5mTU-Br5wp_YYuPJYNhB5
+  pixel_check_path: qa/REV5_PIXEL_CHECK_2026-10-04.json
+  pixel_check_drive_id: 1Got7ROZjmiDFL5adU2DPnZ0bccodieim
+  base_drive_id: 1C_S8LXWp2974pH3y1SuhRJ7yRWtVlPx4
+  source_pairs_used:
+  - Vinny
+  - Elena-Rivera
+  - Marcus-Jackson
+  corrections:
+  - Vinny_olive_footwear_accents
+  - Rivera_source_derived_Civic_Ridge_front_logo
+  - Jackson_source_derived_Civic_Ridge_front_logo
+  likeness_status: REPAIRED_PENDING_AUTHOR_ASSESSMENT
+  visual_ghosting_check: PASS_CLOSEUP_AND_SPREAD
+  changed_pixels_outside_declared_masks: 0
+  changed_placeholder_text_pixels: 0
+  unverified:
+  - exact_likeness
+  - hidden_details
+  - measured_heights
+  - finger_inventory
+  - fine_footwear_geometry
+  - logo_scale_perspective_edge_treatment
+  - native_print_detail
+  all_canon_certified: false
+  print_ready: false
+  historical_lock_applies_to_candidate: false
+  regression_checks: qa/CANON_CORRECTION_REV5_2026-10-04.md#future-regression-checks
+  next_step: Await Adam feedback before changes, approval, archiving or advancing.
+  previous_REV3_corrections_preserved: true
+  previous_REV4_corrections_preserved: true
+  overall_visible_canon_result: PASS
+  visible_person_results:
+    Ben: PASS
+    Leo: PASS
+    Vinny: PASS
+    Steph: PASS
+    Maya: PASS
+    Mrs-Harper: PASS
+    Elena-Rivera: PASS
+    Marcus-Jackson: PASS
+  logo_sources_sha256_verified: true
+  logo_application_method: source-derived matte, resampling and perspective transform;
+    author assessment pending
+pre_correction_review_2026_10_04:
+  status: REVIEW_REQUIRED_VISIBLE_CANON_FAILURES
+  version: LETTERING_LOSSLESS_REV2
+  recorded_date: '2026-10-04'
+  approved: false
+  artwork_changed: false
+  fonts_changed: false
+  candidate_drive_id: 1dts6x99z9xXTZ0EyddnGa9hmqwNK01kd
+  candidate_filename: Pages_7-8_Version_B_Architects_Daughter_18pt_5100x2550_MASKED_REVIEW_LOSSLESS_REV2.png
+  candidate_sha256: d4effaa54629064ceea81eb225dab8bb349d4f8288f9b000e301e56f8f33e67d
+  dimensions_px:
+  - 5100
+  - 2550
+  dpi: 300
+  audit_path: qa/CURRENT_CANON_REVIEW_2026-10-04.md
+  audit_drive_id: 1mfcpW05-IiWucNjYkbpePYC_dI7b0Qyj
+  failures:
+  - Vinny_face_and_curl_silhouette
+  - Steph_freckles_missing
+  - Harper_cheek_chin_shape
+  - Maya_denim_saturation
+  all_canon_certified: false
+  print_ready: false
+  historical_lock_applies_to_candidate: false
+  next_step: Await Adam feedback before changes, approval, archiving or advancing.
+canon_rev3_history:
+  status: PENDING_AUTHOR_REVIEW
+  version: CANON_CORRECTION_REV3
+  recorded_date: '2026-10-04'
+  approved: false
+  artwork_changed: true
+  font_edits_performed: false
+  text_is_placeholder: true
+  candidate_drive_id: 1Wfsh6YgBEks_0UGVd7XjzCVfrx4UGy1_
+  candidate_filename: Pages_7-8_Version_B_CANON_CORRECTION_REV3_PENDING_REVIEW.png
+  candidate_sha256: f4389861cc6bde7d92727d20bfab1fa75779b5d28c18e379e2dc56412b239f25
+  dimensions_px:
+  - 5100
+  - 2550
+  dpi: 300
+  audit_path: qa/CANON_CORRECTION_REV3_2026-10-04.md
+  audit_drive_id: 1oN6qg3p4hNxIH6kel5H6zYvRLd_51vkj
+  pixel_check_path: qa/REV3_PIXEL_CHECK_2026-10-04.json
+  pixel_check_drive_id: 1zfGo-hCKNLxu4kzZIqrrBV6lOXQKp_BM
+  base_drive_id: 1dts6x99z9xXTZ0EyddnGa9hmqwNK01kd
+  source_pairs_used:
+  - Vinny
+  - Mrs-Harper
+  - Steph
+  - Maya
+  corrections:
+  - Vinny_fuller_cheeks_short_chin_compact_curls
+  - Harper_soft_cheek_chin
+  - Steph_freckles
+  - Maya_muted_denim
+  likeness_status: REPAIRED_PENDING_AUTHOR_ASSESSMENT
+  visual_ghosting_check: PASS_CLOSEUP_AND_SPREAD
+  changed_pixels_outside_declared_masks: 0
+  changed_placeholder_text_pixels: 0
+  adjacent_background_restoration: Vinny hair contour footprint includes immediate
+    Jackson vest background
+  unverified:
+  - exact_likeness
+  - hidden_details
+  - measured_heights
+  - finger_inventory
+  - tiny_assets
+  - fine_footwear_geometry
+  - native_print_detail
+  all_canon_certified: false
+  print_ready: false
+  historical_lock_applies_to_candidate: false
+  regression_checks: qa/CANON_CORRECTION_REV3_2026-10-04.md#future-manual-regression-checks
+  next_step: Await Adam feedback before changes, approval, archiving or advancing.
+people_canon_check_rev4_2026_10_04:
+  status: REVIEW_REQUIRED_VISIBLE_CANON_FAILURES
+  version: BEN_GAZE_REV4
+  candidate_drive_id: 1C_S8LXWp2974pH3y1SuhRJ7yRWtVlPx4
+  candidate_sha256: bc1d22e891c74ef84994db8c742b7d92a8d8da4ccadaf0d1acebde4883605e55
+  audit_path: qa/ALL_PEOPLE_CANON_REV4_2026-10-04.md
+  audit_drive_id: 194S5_SQU-ulInMWjdBg-RVA5BKho0Fzt
+  approved: false
+  artwork_changed: false
+  fonts_changed: false
+  overall_visible_result: FAIL
+  all_canon_certified: false
+  visible_person_results:
+    Ben: PASS
+    Leo: PASS
+    Vinny: FAIL
+    Steph: PASS
+    Maya: PASS
+    Mrs. Harper: PASS
+    Ms. Rivera: FAIL
+    Mr. Jackson: FAIL
+  failures:
+  - Vinny_footwear_olive_green_accents_missing
+  - Rivera_front_Civic_Ridge_logo_mismatch
+  - Jackson_front_Civic_Ridge_logo_mismatch
+  unverified:
+  - exact_likeness
+  - measured_heights
+  - complete_finger_counts
+  - hidden_adult_stickers
+  - fine_footwear_geometry
+  - native_print_detail
+  regression_checks: qa/ALL_PEOPLE_CANON_REV4_2026-10-04.md#preservation-and-future-regression
+  next_step: Await Adam feedback before changes, approval, archiving or advancing.
+ben_gaze_rev4_history:
+  status: PENDING_AUTHOR_REVIEW
+  version: BEN_GAZE_REV4
+  recorded_date: '2026-10-04'
+  approved: false
+  artwork_changed: true
+  font_edits_performed: false
+  text_is_placeholder: true
+  candidate_drive_id: 1C_S8LXWp2974pH3y1SuhRJ7yRWtVlPx4
+  candidate_filename: Pages_7-8_Version_B_BEN_GAZE_REV4_PENDING_REVIEW.png
+  candidate_sha256: bc1d22e891c74ef84994db8c742b7d92a8d8da4ccadaf0d1acebde4883605e55
+  dimensions_px:
+  - 5100
+  - 2550
+  dpi: 300
+  audit_path: qa/BEN_GAZE_REV4_2026-10-04.md
+  audit_drive_id: 1f24xVdXnhWQ0JKAhDpFGSSI8uPz4cxRS
+  pixel_check_path: qa/REV4_PIXEL_CHECK_2026-10-04.json
+  pixel_check_drive_id: 1k7MJ2ymV5xbsH1PiA-NKW1SHOuZvxOdE
+  base_drive_id: 1Wfsh6YgBEks_0UGVd7XjzCVfrx4UGy1_
+  source_pairs_used:
+  - Ben
+  corrections:
+  - Ben_gaze_upward_toward_Rivera
+  likeness_status: REPAIRED_PENDING_AUTHOR_ASSESSMENT
+  visual_ghosting_check: PASS_CLOSEUP_AND_SPREAD
+  changed_pixels_outside_declared_masks: 0
+  changed_placeholder_text_pixels: 0
+  unverified:
+  - exact_likeness
+  - hidden_details
+  - measured_heights
+  - finger_inventory
+  - tiny_assets
+  - fine_footwear_geometry
+  - native_print_detail
+  all_canon_certified: false
+  print_ready: false
+  historical_lock_applies_to_candidate: false
+  regression_checks: qa/BEN_GAZE_REV4_2026-10-04.md
+  next_step: Await Adam feedback before changes, approval, archiving or advancing.
+  previous_REV3_corrections_preserved: true
