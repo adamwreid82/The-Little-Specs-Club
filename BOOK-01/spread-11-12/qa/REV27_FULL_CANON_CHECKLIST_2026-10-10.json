@@ -1,0 +1,660 @@
+{
+  "revision": "REV27",
+  "date": "2026-10-10",
+  "overall": "PASS_VISIBLE_WITH_UNVERIFIED_ITEMS",
+  "all_pass": false,
+  "approved": false,
+  "artwork_changed": true,
+  "archived": false,
+  "counts": {
+    "PASS": 50,
+    "UNVERIFIED": 18
+  },
+  "checks": [
+    {
+      "id": "C001",
+      "group": "Ben",
+      "item": "Face, hair and eyewear",
+      "status": "PASS",
+      "evidence": "Youthful slim/oval face, visible dark hair, brown eye, rectangular prescription frames and visible side protection match source.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C002",
+      "group": "Ben",
+      "item": "Clothing and footwear",
+      "status": "PASS",
+      "evidence": "Blue button-up, khaki pants and dark low shoes match source.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C003",
+      "group": "Ben",
+      "item": "Helmet and vest",
+      "status": "PASS",
+      "evidence": "White helmet; front LS aligned toward nose under the existing lock; simple hi-vis vest.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C004",
+      "group": "Ben",
+      "item": "Pose and visible anatomy",
+      "status": "PASS",
+      "evidence": "Natural hands/legs/feet; looks toward Rivera; table occlusion is plausible.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C005",
+      "group": "Leo",
+      "item": "Face, hair and eyewear",
+      "status": "PASS",
+      "evidence": "Warm brown complexion, short tight neat curls, youthful cheek/jaw and clear glasses match visible source attributes.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C006",
+      "group": "Leo",
+      "item": "Clothing and footwear",
+      "status": "PASS",
+      "evidence": "Navy hoodie, dark/gray cargos and sturdy tan/dark boots match source.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C007",
+      "group": "Leo",
+      "item": "Helmet and vest",
+      "status": "PASS",
+      "evidence": "Blue helmet; front LS naturally hidden by rear/side view. Orange vest edging and exact upper-back club emblem present, partly hood-covered.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C008",
+      "group": "Leo",
+      "item": "Pose and visible anatomy",
+      "status": "PASS",
+      "evidence": "Natural arm and shirt silhouette; no visible elongated pointing arm or ghosting.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C009",
+      "group": "Vinny",
+      "item": "Face, hair and eyewear",
+      "status": "PASS",
+      "evidence": "Fair-to-olive complexion, brown eyes, fuller round cheeks/soft chin, loose dark curls, gentle closed smile and clear glasses match visible source attributes.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C010",
+      "group": "Vinny",
+      "item": "Clothing and footwear",
+      "status": "PASS",
+      "evidence": "Green hoodie, navy/blue cargo pants and dark low practical shoes match source.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C011",
+      "group": "Vinny",
+      "item": "Helmet and vest",
+      "status": "PASS",
+      "evidence": "Green helmet, LS front badge follows Oct 5 reference; simple hi-vis vest.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C012",
+      "group": "Vinny",
+      "item": "Build and visible anatomy",
+      "status": "PASS",
+      "evidence": "Sturdy child build; visible hands, legs and feet coherent. This is a manual attribute check, not author likeness approval.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C013",
+      "group": "Steph",
+      "item": "Face, hair and eyewear",
+      "status": "PASS",
+      "evidence": "Light complexion, blue eyes, straight red hair, subtle freckles confirmed at enlarged face view; clear glasses.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C014",
+      "group": "Steph",
+      "item": "Clothing and footwear",
+      "status": "PASS",
+      "evidence": "Lavender hoodie, olive cargo pants, purple/gray shoes match source.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C015",
+      "group": "Steph",
+      "item": "Helmet and vest",
+      "status": "PASS",
+      "evidence": "Gray helmet; LS front placement/size follows existing lock; simple hi-vis vest.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C016",
+      "group": "Steph",
+      "item": "Pose and visible anatomy",
+      "status": "PASS",
+      "evidence": "Natural hands, legs and feet; no visible ghosting.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C017",
+      "group": "Maya",
+      "item": "Face, hair and eyewear",
+      "status": "PASS",
+      "evidence": "Warm medium complexion, brown eyes, very long dark curls, small gold earrings and clear glasses match source.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C018",
+      "group": "Maya",
+      "item": "Clothing and footwear",
+      "status": "PASS",
+      "evidence": "Pink hoodie, blue cargo-style jeans with thigh flap pockets and purple/gray shoes match full approved PNG. Preliminary pocket failure withdrawn.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C019",
+      "group": "Maya",
+      "item": "Helmet and vest",
+      "status": "PASS",
+      "evidence": "Yellow helmet; LS front badge follows existing lock; simple hi-vis vest; no backpack.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C020",
+      "group": "Maya",
+      "item": "Pose and visible anatomy",
+      "status": "PASS",
+      "evidence": "Natural hands, legs and feet; no visible ghosting.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C021",
+      "group": "Mrs. Harper",
+      "item": "Face, hair and eyewear",
+      "status": "PASS",
+      "evidence": "Adult warm face, light complexion, soft shoulder-length brown curls and clear eye protection match visible source.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C022",
+      "group": "Mrs. Harper",
+      "item": "Clothing and footwear",
+      "status": "PASS",
+      "evidence": "Purple cardigan, small pink/peach floral cream blouse, dark slacks, teacher lanyard and closed work shoes match source.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C023",
+      "group": "Mrs. Harper",
+      "item": "Helmet and vest",
+      "status": "PASS",
+      "evidence": "White helmet and locked LS front badge; simple hi-vis without child club emblem.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C024",
+      "group": "Mrs. Harper",
+      "item": "Stature and visible anatomy",
+      "status": "PASS",
+      "evidence": "Clearly adult body/legs; feet intact; no child-legged adult distortion. Exact 65-inch height not certified.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C025",
+      "group": "Ms. Rivera",
+      "item": "Face, hair and eyewear",
+      "status": "PASS",
+      "evidence": "Adult Hispanic character, practical tied-back dark brown curls and clear eye protection match visible source attributes.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C026",
+      "group": "Ms. Rivera",
+      "item": "Clothing and footwear",
+      "status": "PASS",
+      "evidence": "Blue button-up, dark slacks and brown work boots match source.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C027",
+      "group": "Ms. Rivera",
+      "item": "Helmet and vest",
+      "status": "PASS",
+      "evidence": "White employer helmet with Civic Ridge logo, visible rear-left project-history sticker above band, simple hi-vis.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C028",
+      "group": "Ms. Rivera",
+      "item": "Role and anatomy",
+      "status": "PASS",
+      "evidence": "Adult demonstrates a sticker, supervises children; adult body/legs and natural hands/feet.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C029",
+      "group": "Mr. Brooks",
+      "item": "Face, hair and eyewear",
+      "status": "PASS",
+      "evidence": "Adult short brown hair, rectangular glasses and friendly face match visible source.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C030",
+      "group": "Mr. Brooks",
+      "item": "Clothing and footwear",
+      "status": "PASS",
+      "evidence": "Green field top, charcoal cargo pants and brown boots match full approved PNG; cargos are canon.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C031",
+      "group": "Mr. Brooks",
+      "item": "Helmet, vest and prop",
+      "status": "PASS",
+      "evidence": "Green employer helmet, separate approved employer baseline; simple hi-vis and black safety tablet.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C032",
+      "group": "Mr. Brooks",
+      "item": "Stature and visible anatomy",
+      "status": "PASS",
+      "evidence": "Adult taller build and natural limbs/feet; exact 70-inch height not certified.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C033",
+      "group": "Ben",
+      "item": "Occluded/fine source details",
+      "status": "UNVERIFIED",
+      "evidence": "Hidden angles, rear inventory and occluded finger/eye/garment details cannot be certified from this single camera view. They are not visible failures."
+    },
+    {
+      "id": "C034",
+      "group": "Leo",
+      "item": "Occluded/fine source details",
+      "status": "UNVERIFIED",
+      "evidence": "Hidden angles, rear inventory and occluded finger/eye/garment details cannot be certified from this single camera view. They are not visible failures."
+    },
+    {
+      "id": "C035",
+      "group": "Vinny",
+      "item": "Occluded/fine source details",
+      "status": "UNVERIFIED",
+      "evidence": "Hidden angles, rear inventory and occluded finger/eye/garment details cannot be certified from this single camera view. They are not visible failures."
+    },
+    {
+      "id": "C036",
+      "group": "Steph",
+      "item": "Occluded/fine source details",
+      "status": "UNVERIFIED",
+      "evidence": "Hidden angles, rear inventory and occluded finger/eye/garment details cannot be certified from this single camera view. They are not visible failures."
+    },
+    {
+      "id": "C037",
+      "group": "Maya",
+      "item": "Occluded/fine source details",
+      "status": "UNVERIFIED",
+      "evidence": "Hidden angles, rear inventory and occluded finger/eye/garment details cannot be certified from this single camera view. They are not visible failures."
+    },
+    {
+      "id": "C038",
+      "group": "Mrs. Harper",
+      "item": "Occluded/fine source details",
+      "status": "UNVERIFIED",
+      "evidence": "Hidden angles, rear inventory and occluded finger/eye/garment details cannot be certified from this single camera view. They are not visible failures."
+    },
+    {
+      "id": "C039",
+      "group": "Ms. Rivera",
+      "item": "Occluded/fine source details",
+      "status": "UNVERIFIED",
+      "evidence": "Hidden angles, rear inventory and occluded finger/eye/garment details cannot be certified from this single camera view. They are not visible failures."
+    },
+    {
+      "id": "C040",
+      "group": "Mr. Brooks",
+      "item": "Occluded/fine source details",
+      "status": "UNVERIFIED",
+      "evidence": "Hidden angles, rear inventory and occluded finger/eye/garment details cannot be certified from this single camera view. They are not visible failures."
+    },
+    {
+      "id": "C041",
+      "group": "Branding",
+      "item": "Exact LS artwork",
+      "status": "PASS",
+      "evidence": "Approved asset SHA-256 96a47ac122989b3527e3fc5f8aa58544fd438799c2c4d7041cca4ef40de34a42; production provenance and visible comparison.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C042",
+      "group": "Branding",
+      "item": "LS size, placement and nose-facing centerline",
+      "status": "PASS",
+      "evidence": "Five visible front applications checked against locked Pages 9\u201310 REV2. Leo front badge naturally hidden. Existing Oct 5 lock applies prospectively per Oct 10 confirmation; no reapproval requested.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C043",
+      "group": "Branding",
+      "item": "Employer artwork / independent baseline",
+      "status": "PASS",
+      "evidence": "Rivera and Brooks employer graphics remain distinct from LS and match their source/baseline; REV26 preserved their pixels.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C044",
+      "group": "Branding",
+      "item": "Leo club emblem",
+      "status": "PASS",
+      "evidence": "Exact approved emblem asset; visible upper-back application, partial hood occlusion is natural.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C045",
+      "group": "Stickers",
+      "item": "Exact Fire Station graphic identity",
+      "status": "PASS",
+      "evidence": "Exact approved sticker asset was composited; retained production provenance. This does not prove physical scale or readable microlettering."
+    },
+    {
+      "id": "C046",
+      "group": "Stickers",
+      "item": "Vinny held sticker comparative size",
+      "status": "PASS",
+      "evidence": "Exact approved graphic reduced from approximately 70 to 40 pixels, matching the approximately 35\u201340 pixel printed graphics of Steph/Maya at similar depth. Blank paper backing remains naturally held; residual old print at grip cleared from existing native Vinny layer. Physical inches remain UNVERIFIED separately."
+    },
+    {
+      "id": "C047",
+      "group": "Stickers",
+      "item": "Recipient count / before-application pose",
+      "status": "PASS",
+      "evidence": "Five children and Harper each hold one project sticker; Rivera demonstrates one. No duplicate newly applied child sticker. Proposed before-application pose is preserved."
+    },
+    {
+      "id": "C048",
+      "group": "Stickers",
+      "item": "Exact physical inches and surface rectification",
+      "status": "UNVERIFIED",
+      "evidence": "No calibrated camera or physical ruler; comparative visible failure above is independently identifiable without inventing an inch specification."
+    },
+    {
+      "id": "C049",
+      "group": "Stickers",
+      "item": "Permanent individual placement after application",
+      "status": "UNVERIFIED",
+      "evidence": "Held before application; no post-application change shown. Established recipient helmet locations remain unchanged in production records."
+    },
+    {
+      "id": "C050",
+      "group": "Stickers",
+      "item": "Tiny sticker lettering and miniature station details",
+      "status": "UNVERIFIED",
+      "evidence": "Exact graphic identity is known, but these printed details are too small for a reliable independent visual reading in the spread."
+    },
+    {
+      "id": "C051",
+      "group": "People",
+      "item": "Exact numerical height relationships",
+      "status": "UNVERIFIED",
+      "evidence": "Barefoot canon: Ben 53, Leo 52.5, Vinny 52, Steph 51.5, Maya 51, Harper/Rivera 65, Brooks 70 inches. Depth, helmets, hair and shoes prevent rigorous numeric certification; adult/child visual proportions pass separately."
+    },
+    {
+      "id": "C052",
+      "group": "People",
+      "item": "Author likeness acceptance",
+      "status": "UNVERIFIED",
+      "evidence": "Visible attributes were manually checked. \u201cThis is better\u201d is not explicit approval of REV26 or Vinny likeness; author review remains pending."
+    },
+    {
+      "id": "C053",
+      "group": "Scene",
+      "item": "Full cast and supervised role",
+      "status": "PASS",
+      "evidence": "All five children plus Harper, Rivera and Brooks present; children observe and receive stickers, adults supervise.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C054",
+      "group": "Scene",
+      "item": "PPE and safe side of barrier",
+      "status": "PASS",
+      "evidence": "Visible helmets, hi-vis, eyewear and closed shoes present; group on visitor side, equipment beyond orange barrier. Visual canon check, not legal PPE certification.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C055",
+      "group": "Scene",
+      "item": "Early construction phase",
+      "status": "PASS",
+      "evidence": "Gravel, rough ground, fencing and excavator; no completed live station or installed permanent monument.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C056",
+      "group": "Scene",
+      "item": "Complete locked site geometry",
+      "status": "UNVERIFIED",
+      "evidence": "Public-entry/apparatus-bay orientation and full off-camera site cannot be checked from this framing."
+    },
+    {
+      "id": "C057",
+      "group": "Scene",
+      "item": "Temporary construction sign and trailer location",
+      "status": "UNVERIFIED",
+      "evidence": "Expected placements are outside/not established in this view. Off-camera absence is not a visible failure."
+    },
+    {
+      "id": "C058",
+      "group": "Composition",
+      "item": "Adults, child legs and table proportions",
+      "status": "PASS",
+      "evidence": "Full natural legs/feet, plausible adult bodies and table legs/top; earlier cropped-leg and short-adult distortions are not visible.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C059",
+      "group": "Composition",
+      "item": "Visible anatomy / ghosting",
+      "status": "PASS",
+      "evidence": "No visible duplicate limbs, leftover figure outlines or ghosting in full view and inspected crops. Occluded finger inventory remains unverified above.",
+      "verification_basis": "Source comparison in full REV26 audit plus REV27 whole-spread visual recheck and zero changed pixels outside the sticker circle."
+    },
+    {
+      "id": "C060",
+      "group": "Layout",
+      "item": "Sky text space and critical face seam avoidance",
+      "status": "PASS",
+      "evidence": "Existing reserved lettering sits in sky, center seam free of text/critical faces; current wording is author-managed placeholder."
+    },
+    {
+      "id": "C061",
+      "group": "Layout",
+      "item": "Preserve lettering and fonts",
+      "status": "PASS",
+      "evidence": "Zero text-region changed pixels versus REV26; same original text layer; exact A-plus-text equals B; no font redesign."
+    },
+    {
+      "id": "C062",
+      "group": "Layout",
+      "item": "Final manual wording",
+      "status": "UNVERIFIED",
+      "evidence": "Adam will add final wording; before-application art versus later narration remains editorial review, not permission to alter fonts or declare a new artwork failure."
+    },
+    {
+      "id": "C063",
+      "group": "Layout",
+      "item": "Final print gutter/trim/bleed template",
+      "status": "UNVERIFIED",
+      "evidence": "Current Bible requires protected gutter and text-safe zones; exact final template and matching REV26 bleed exports have not been validated. Do not infer an approved numerical tolerance from historical drafts."
+    },
+    {
+      "id": "C064",
+      "group": "Files",
+      "item": "Candidate identity, dimensions and decode",
+      "status": "PASS",
+      "evidence": "REV27 A/B exact hashes recorded in verification; 5100\u00d72550, 300 dpi; full PNG decode PASS."
+    },
+    {
+      "id": "C065",
+      "group": "Files",
+      "item": "Drive readback candidate identity",
+      "status": "PASS",
+      "evidence": "REV27 uploaded A/B raw downloads match local SHA-256 and fully decode."
+    },
+    {
+      "id": "C066",
+      "group": "Files",
+      "item": "Native print detail / physical proof",
+      "status": "UNVERIFIED",
+      "evidence": "5100\u00d72550 output includes historically upscaled layers; resolution metadata is not native sharpness certification. No current physical proof or complete print preflight."
+    },
+    {
+      "id": "C067",
+      "group": "Governance",
+      "item": "Sources and earlier versions preserved",
+      "status": "PASS",
+      "evidence": "Approved source files unchanged; REV26 and older candidates retained. REV27 separate sibling revision; no archival move."
+    },
+    {
+      "id": "C068",
+      "group": "Governance",
+      "item": "Approval discipline",
+      "status": "PASS",
+      "evidence": "REV27 remains unapproved; no approval inferred from correction, checks or commits."
+    }
+  ],
+  "candidate_checks": {
+    "revision": "REV27",
+    "base_revision": "REV26",
+    "approved": false,
+    "all_pass": false,
+    "visible_canon_result": "PASS_VISIBLE_CHECKS_WITH_UNVERIFIED_LIMITS",
+    "version_a_sha256": "b82236ad3131ebc7867c4a93dc6c094db90c16b91b81b2a06c2aff6de92c4625",
+    "version_b_sha256": "e9fa92547926a4e4fb56850a7eb2661bbf2782dfb99efc031fd3a94ca8dce77e",
+    "dimensions": [
+      5100,
+      2550
+    ],
+    "dpi": 300,
+    "full_png_decode": "PASS",
+    "changed_pixels": 3656,
+    "outside_sticker_circle_changed_pixels": 0,
+    "protected_original_hand_changed_pixels": 0,
+    "existing_text_region_changed_pixels": 0,
+    "version_a_plus_original_text_vs_b_changed_channels": 0,
+    "helmet_face_body_and_background_pixels_preserved": true,
+    "printed_sticker_diameter_pixels": 40,
+    "prior_printed_diameter_pixels_approx": 70,
+    "peer_diameter_pixels_approx": [
+      35,
+      40
+    ],
+    "physical_inches_not_certified": true,
+    "exact_sticker_asset_sha256": "adcfdcdbe9c533268012e45d5c2662cf10c8b5ef684eb389528cf7107a4975ba",
+    "generated_input": "generated_images/exec-e6b8d82a-4adb-4d7d-94d5-6a7b99b7e820.png",
+    "edit_region": {
+      "left": 2957.3,
+      "top": 1593.3,
+      "radius": 35.7
+    },
+    "source_files_modified": false,
+    "font_redesigned": false,
+    "prior_versions_preserved": true,
+    "archived": false,
+    "print_ready": false,
+    "drive_readback_sha256_verified": true,
+    "drive_readback_full_png_decode": "PASS"
+  },
+  "sources": [
+    {
+      "name": "Ben",
+      "image": "1lkboZGWom6Vw7et5J5__5dBivj7i2TRx",
+      "profile": "1rhPTyBiDT9OevTiI9ncFGYR8JPbLVt6m",
+      "hash": "7d80c07dd66d305d1811da5dc5b20e3351b196c623ef1c3c0fc9a75795fbb08b",
+      "path": "/workspace/scratch/075447ae28b0/attachments/e3c54349-9a3e-4185-b0b1-0be8e00427b9/Ben.png",
+      "sha256": "7d80c07dd66d305d1811da5dc5b20e3351b196c623ef1c3c0fc9a75795fbb08b",
+      "source_png_hash_check": "PASS",
+      "profile_review": "Fresh Drive text fetched and reviewed; DOCX binary hash not newly verified"
+    },
+    {
+      "name": "Leo",
+      "image": "1PmH5IMF_HI_s9y1slZM9DXbWzTYVnbGc",
+      "profile": "1JD1OTpwF7EJizHYwaE-31j-z-kMPRqbx",
+      "hash": "830158fe4a00fd6a2ec4791593ae43c5add811ec4cce3f0ba2080de7eaa319a3",
+      "path": "/workspace/scratch/075447ae28b0/attachments/55963a47-2445-49f4-9de2-46f8e64fd962/Leo.png",
+      "sha256": "830158fe4a00fd6a2ec4791593ae43c5add811ec4cce3f0ba2080de7eaa319a3",
+      "source_png_hash_check": "PASS",
+      "profile_review": "Fresh Drive text fetched and reviewed; DOCX binary hash not newly verified"
+    },
+    {
+      "name": "Vinny",
+      "image": "1m-mxpb7Fpu04jWj5sYVJTHxvXXPySuSa",
+      "profile": "1vG_CJ45X87ZsYlNr-Rq2VJiuRHaTtw4S",
+      "hash": "db9e5d966fd39dcc0f242d1df93d64d3a9b2ad52672a341bf293b87c689f7219",
+      "path": "/workspace/scratch/075447ae28b0/attachments/27578506-ef04-4ec4-be74-fe2315727150/Vinny.png",
+      "sha256": "db9e5d966fd39dcc0f242d1df93d64d3a9b2ad52672a341bf293b87c689f7219",
+      "source_png_hash_check": "PASS",
+      "profile_review": "Fresh Drive text fetched and reviewed; DOCX binary hash not newly verified"
+    },
+    {
+      "name": "Steph",
+      "image": "1gF-pOjdltQVujd5NyCcX-Brh-EI0vQ9j",
+      "profile": "1hzABye97w5caJMYh90wvyGXrd17gXCBS",
+      "hash": "0338ba00d3cc122c7e1baecca56b577f51b54ea4a8f24ed2b7bbbc29685b934a",
+      "path": "/workspace/scratch/075447ae28b0/attachments/a2a22648-5cfc-4b63-95e1-01b8a956114a/Steph.png",
+      "sha256": "0338ba00d3cc122c7e1baecca56b577f51b54ea4a8f24ed2b7bbbc29685b934a",
+      "source_png_hash_check": "PASS",
+      "profile_review": "Fresh Drive text fetched and reviewed; DOCX binary hash not newly verified"
+    },
+    {
+      "name": "Maya",
+      "image": "1RZtZjt-3eX0iFFcKw1ZxtnlXj3pkoerU",
+      "profile": "1nERipp0Qz3AUFuYFkJ25rOuM0UfIGnV3",
+      "hash": "405c184a953d966e68f5517078feef8bf056ceb405deb17842d9c9b9ab8e180c",
+      "path": "/workspace/scratch/075447ae28b0/attachments/b7372de5-ec25-45d1-a3a1-df2fa0c712e2/Maya.png",
+      "sha256": "405c184a953d966e68f5517078feef8bf056ceb405deb17842d9c9b9ab8e180c",
+      "source_png_hash_check": "PASS",
+      "profile_review": "Fresh Drive text fetched and reviewed; DOCX binary hash not newly verified"
+    },
+    {
+      "name": "Mrs-Harper",
+      "image": "1a8RlfOktPoAQ__pLTtLIyaA3qidnPOaD",
+      "profile": "1WFn924opY9kuG2ZWYukYBI97Xm6vytu0",
+      "hash": "ac95bce80c63cafa60bc088555a4cf66dfe86147ce51342185d773cee825f288",
+      "path": "/workspace/scratch/075447ae28b0/attachments/0dc37bc0-790c-462a-b2ff-9052d84cd514/Mrs. Harper.png",
+      "sha256": "ac95bce80c63cafa60bc088555a4cf66dfe86147ce51342185d773cee825f288",
+      "source_png_hash_check": "PASS",
+      "profile_review": "Fresh Drive text fetched and reviewed; DOCX binary hash not newly verified"
+    },
+    {
+      "name": "Daniel-Brooks",
+      "image": "1TVWd4mtznkx3tFEKNKF_TClF5VBPILey",
+      "profile": "1yk_XlyuOxhaKMIms-e7mwbCrviNKZrKZ",
+      "hash": "5fc186933893463902db56efb8d6b3e8d97697b7751d798e580a488da7450087",
+      "path": "/workspace/scratch/075447ae28b0/attachments/97df4523-97df-4bc6-9268-80775cc5b46c/Mr. Daniel Brooks.png",
+      "sha256": "5fc186933893463902db56efb8d6b3e8d97697b7751d798e580a488da7450087",
+      "source_png_hash_check": "PASS",
+      "profile_review": "Fresh Drive text fetched and reviewed; DOCX binary hash not newly verified"
+    },
+    {
+      "name": "Elena-Rivera",
+      "profile": "1nplm3aa__GwX4zVAlZ85usrKFuijLQdX",
+      "image": "1LMyoOO57gA-NQxgtF5poW7UPvfVjgqjP",
+      "path": "/workspace/scratch/075447ae28b0/work/11-12_Rivera_SOURCE.png",
+      "sha256": "7607cf26c2d548a98f73a50560138f6dedd68689c0ff0cdb4fdbccc893f4aada",
+      "source_png_hash_check": "PASS",
+      "profile_review": "Fresh Drive text fetched and reviewed; DOCX binary hash not newly verified"
+    }
+  ],
+  "bible_drive_id": "1ikg0XTKqolYm6sj-0kn_3nIg9eU15xzb",
+  "locked_LS_reference_drive_id": "1WV1NJ9hH9PE4nNgnKk9DbY1HR9-KEtY2",
+  "scope": "Full manual visible-canon audit with explicit hidden/physical/print limits",
+  "correction_to_preliminary": "Maya pockets match full approved source; no clothing failure.",
+  "base_revision": "REV26"
+}
