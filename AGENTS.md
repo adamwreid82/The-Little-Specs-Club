@@ -26,4 +26,4 @@ Run the repository mechanical checks appropriate to changed manifests and canon 
 
 ## Current checkpoint
 
-Pages 3–4 REV4 remains approved. Pages 5–6 REV9 artwork is explicitly APPROVED by Adam on 2026-10-04: “Approve”. Read BOOK-01/spread-05-06/manifest.yaml and qa/REV9_APPROVAL_2026-10-04.md. Earlier versions are preserved in Superseded/version folders with verified inventory. Hidden/fine canon details, final manual wording and REV9 Version A/bleed exports and print checks remain open. Wait for Adam before advancing or editing artwork.
+Pages 11–12 REV27 artwork is explicitly APPROVED by Adam Reid on 2026-10-10: “Approve”. Read BOOK-01/spread-11-12/manifest.yaml and qa/REV27_APPROVAL_2026-10-10.md. Matching Version A uses the same approved art. Eighty-five earlier spread files are preserved in 29 Superseded revision/date folders with verified inventory. Final manual wording and seventeen technical verification entries remain open; approval does not certify print readiness. Earlier spread approval evidence remains in each spread manifest. Wait for Adam before advancing to Pages 13–14 or editing approved artwork.
