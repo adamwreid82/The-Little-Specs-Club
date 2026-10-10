@@ -770,3 +770,14 @@ hard_hat_badge_application_lock:
     hidden_or_unmeasurable_application: UNVERIFIED_not_PASS
     existing_spreads_automatically_certified: false
     source_images_or_profiles_modified: false
+
+source_eye_color_regression_checks:
+  recorded_date: '2026-10-10'
+  authority: approved_Drive_profile_and_PNG_pairs
+  new_character_design_approval: false
+  Vinny:
+    profile_drive_id: 1vG_CJ45X87ZsYlNr-Rq2VJiuRHaTtw4S
+    image_drive_id: 1m-mxpb7Fpu04jWj5sYVJTHxvXXPySuSa
+    check: Preserve brown-looking irises; inspect at close-up after every facial or body-scale edit.
+    reject: Green or olive-green iris drift introduced during generation.
+  scope: visible_source_comparison_not_automatic_identity_or_author_approval
