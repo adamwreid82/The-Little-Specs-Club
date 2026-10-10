@@ -1,0 +1,22 @@
+revision: REV26
+scope: all_subsequent_spreads_and_future_books_for_six_LS_wearers
+authority: CANON/character-rules.yaml#hard_hat_badge_application_lock
+reference_drive_id: 1WV1NJ9hH9PE4nNgnKk9DbY1HR9-KEtY2
+reference_sha256: 2b9f89198ee798afe02f116a2e09eb6695cf2db5cdbe0b40cb682ca04fcb576b
+existing_standard_requires_reapproval: false
+new_design_standard: false
+current_spread_approved: false
+checks:
+  - Compare each visible badge to its own approved reference application, not just generic fit inside the shell.
+  - Retain proportional size, raised front-panel region, facial centerline, nose direction and brim clearance.
+  - Use exact source artwork with locked contour and narrow white outer contrast outline; do not mirror or regenerate the mark.
+  - Project naturally for pose, distance and curvature; do not force equal screen pixels or universal revision factors.
+  - Keep the front mark hidden on rear-facing panels; never relocate for camera visibility.
+  - Inspect for ghosting, floaters, duplicate marks and patch seams at crop and spread scale.
+  - Pixel-check preservation of faces, bodies, employer marks and lettering outside authorized helmet footprints.
+  - Preserve separate employer-logo approvals; LS application changes do not redefine employer branding.
+  - Keep hidden details and unestablished physical size separate from visible reference comparison.
+measurements: qa/REV26_REFERENCE_TRANSFER_2026-10-10.json
+verification: qa/REV26_VERIFICATION_2026-10-10.json
+CI_does_not_grant_visual_or_author_approval: true
+
