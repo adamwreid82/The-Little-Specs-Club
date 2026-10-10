@@ -2,7 +2,7 @@ book: 1
 spread: "11-12"
 pages: [11, 12]
 title: The Fire Station Sticker
-status: PENDING_AUTHOR_REVIEW_NOT_ALL_PASS
+status: PENDING_AUTHOR_REVIEW_VISIBLE_CANON_FAIL
 approved: false
 final_locked: false
 version_b:
@@ -30,8 +30,9 @@ candidate:
 active_review:
   request: Correct the stuff that is unverified and not passed
   all_pass: false
-  audit_drive_id: 1gW5Wo5nNyGu9EUjsM_XyDJpkt4IrQvfH
-  audit_path: qa/REV17_FULL_CANON_PASS_FAIL_2026-10-10.md
+  audit_drive_id: 1hrSeS1CYxLbPEo73f456WGv0lItBtwZ4
+  audit_path: qa/REV17_KIDS_SOURCE_RECHECK_2026-10-10.md
+  base_audit_path: qa/REV17_FULL_CANON_PASS_FAIL_2026-10-10.md
   regression_checks: qa/REV17_VISUAL_REGRESSION_CHECKS_2026-10-10.yaml
 audit:
   drive_id: 1gW5Wo5nNyGu9EUjsM_XyDJpkt4IrQvfH
@@ -55,12 +56,21 @@ intermediate_cycle:
   REV14: {drive_id: 1weF1KaKsttlGg9glxMI6DAifPRqe92Ai, working_a_and_audit_drive_id: 1uhZCn4Td0Zgdff7iIE026f9oIyJl_CfN, result: FAIL_BADGE_STICKER_AND_VEST_STRIP}
   REV15: {drive_id: 18VJ_5BycdrPL_z2PKsQtRcHh5lV3jojI, working_a_and_audit_drive_id: 1dpH499xei1vDzCwfAaHnqbZMpicU_N5k, result: FAIL_DUPLICATE_TRAY_AND_BEN_CARGO_POCKET}
   REV16: {drive_id: 1we-yEW6kk_Lf-Mb_3TUaDWaDI-psQ5E_, working_a_and_audit_drive_id: 18ZSYigo6jIG-OYZJyw18ygNNCrAFdBXL, result: FAIL_BACKGROUND_SEAM_AND_VERSION_A_DECODE}
-  REV17: {drive_id: 13Xpg7cQLoRlRowGytzvDJXG7NgyPH0mj, result: VISIBLE_REPAIRS_PASS_OVERALL_UNVERIFIED_REMAIN}
+  REV17: {drive_id: 13Xpg7cQLoRlRowGytzvDJXG7NgyPH0mj, result: FAIL_VINNY_LIKENESS_AND_VINNY_BEN_FOOTWEAR}
 open_items: [exact_numeric_heights, full_source_likeness, pose_rectified_badge_and_sticker_projection, hidden_safety_frame_construction, hidden_inventory_and_fingers, complete_site_geometry, native_print_detail_and_physical_proof, final_bleed_art_and_full_book_preflight]
 permanent_recipient_sticker_locations_changed: false
 proposed_pose: before_application_each_recipient_holds_one
 final_lock_requires: Adam
 next_step: Show REV17 and await feedback; approval remains false. Current camera cannot certify hidden details or exact physical inches.
+children_recheck_2026_10_10:
+  audit_drive_id: 1hrSeS1CYxLbPEo73f456WGv0lItBtwZ4
+  report: qa/REV17_KIDS_SOURCE_RECHECK_2026-10-10.md
+  artwork_changed: false
+  earlier_visible_pass_corrected: true
+  confirmed_failures: [Vinny_face_cheeks_and_chin, Vinny_sturdy_build, Vinny_soft_curl_silhouette, Vinny_dark_low_source_footwear, Ben_dark_low_source_footwear]
+  final_likeness_review: [Ben, Leo, Steph, Maya]
+  approval_granted: false
+  next_step: Await_author_feedback_before_local_corrections
 historical_previous_manifest:
   book: 1
   spread: "11-12"
