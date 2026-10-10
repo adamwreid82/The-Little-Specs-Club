@@ -1,0 +1,380 @@
+{
+  "filename": "Pages_11-12_CANON_CORRECTIONS_REV7_PENDING_REVIEW.png",
+  "sha256": "692cb8b71cb5bb3464b68da9a30813eaab7eb305b97944bba88b67c9cba0438a",
+  "dimensions": [
+    5100,
+    2550
+  ],
+  "density": 300,
+  "native_generated_dimensions": [
+    1774,
+    887
+  ],
+  "native_print_detail_certified": false,
+  "approved": false,
+  "print_ready": false,
+  "prior_versions_preserved": true,
+  "source_asset_sha256": {
+    "11-12_LS_ASSET_fresh.png": "96a47ac122989b3527e3fc5f8aa58544fd438799c2c4d7041cca4ef40de34a42",
+    "11-12_Sticker_SOURCE.png": "adcfdcdbe9c533268012e45d5c2662cf10c8b5ef684eb389528cf7107a4975ba",
+    "11-12_RiveraLogo_ASSET_fresh.png": "0faa73b171719d357c9a1bc11781b71fdd485937d78f2155a2dc6588f481fbd3",
+    "11-12_BrooksLogo_ASSET_fresh.png": "90dc152734f2539d87c590ac36c54f9994c4b992edf05ee7225ff21e5ddc727b"
+  },
+  "placements": [
+    [
+      "LS",
+      "Ben",
+      478,
+      466,
+      23,
+      25,
+      10
+    ],
+    [
+      "LS",
+      "Leo",
+      622,
+      475,
+      24,
+      25,
+      8
+    ],
+    [
+      "LS",
+      "Vinny",
+      1025,
+      479,
+      23,
+      25,
+      8
+    ],
+    [
+      "LS",
+      "Steph",
+      1151,
+      479,
+      23,
+      25,
+      12
+    ],
+    [
+      "LS",
+      "Maya",
+      1287,
+      488,
+      23,
+      25,
+      12
+    ],
+    [
+      "LS",
+      "Harper",
+      1487,
+      345,
+      24,
+      26,
+      8
+    ],
+    [
+      "Rivera",
+      "Rivera",
+      260,
+      348,
+      65,
+      29,
+      -15
+    ],
+    [
+      "Brooks",
+      "Brooks",
+      1627,
+      326,
+      69,
+      30,
+      12
+    ],
+    [
+      "Sticker",
+      "Rivera-held",
+      352,
+      451,
+      27,
+      27,
+      0
+    ],
+    [
+      "Sticker",
+      "Ben-held",
+      462,
+      598,
+      26,
+      28,
+      0
+    ],
+    [
+      "Sticker",
+      "Leo-held",
+      610,
+      603,
+      27,
+      28,
+      0
+    ],
+    [
+      "Sticker",
+      "Vinny-held",
+      1017,
+      598,
+      27,
+      28,
+      0
+    ],
+    [
+      "Sticker",
+      "Steph-held",
+      1146,
+      618,
+      27,
+      28,
+      0
+    ],
+    [
+      "Sticker",
+      "Maya-held",
+      1279,
+      618,
+      27,
+      28,
+      0
+    ],
+    [
+      "Sticker",
+      "Harper-held",
+      1445,
+      484,
+      27,
+      28,
+      0
+    ],
+    [
+      "Sticker",
+      "box-0",
+      157,
+      621,
+      24,
+      8,
+      0
+    ],
+    [
+      "Sticker",
+      "box-1",
+      184,
+      619,
+      24,
+      8,
+      0
+    ],
+    [
+      "Sticker",
+      "box-2",
+      211,
+      617,
+      24,
+      8,
+      0
+    ],
+    [
+      "Sticker",
+      "box-3",
+      238,
+      615,
+      24,
+      8,
+      0
+    ],
+    [
+      "Sticker",
+      "box-4",
+      130,
+      625,
+      24,
+      8,
+      0
+    ],
+    [
+      "Sticker",
+      "box-5",
+      145,
+      630,
+      24,
+      8,
+      0
+    ],
+    [
+      "Sticker",
+      "box-6",
+      169,
+      627,
+      24,
+      8,
+      0
+    ],
+    [
+      "Sticker",
+      "box-7",
+      196,
+      625,
+      24,
+      8,
+      0
+    ],
+    [
+      "Sticker",
+      "box-8",
+      221,
+      623,
+      24,
+      8,
+      0
+    ],
+    [
+      "Sticker",
+      "box-9",
+      248,
+      622,
+      24,
+      8,
+      0
+    ],
+    [
+      "Sticker",
+      "box-10",
+      169,
+      632,
+      24,
+      8,
+      0
+    ],
+    [
+      "Sticker",
+      "box-11",
+      189,
+      633,
+      24,
+      8,
+      0
+    ],
+    [
+      "Sticker",
+      "box-12",
+      215,
+      630,
+      24,
+      8,
+      0
+    ],
+    [
+      "Sticker",
+      "box-13",
+      237,
+      628,
+      24,
+      8,
+      0
+    ],
+    [
+      "Sticker",
+      "box-14",
+      259,
+      628,
+      24,
+      8,
+      0
+    ],
+    [
+      "Sticker",
+      "box-15",
+      158,
+      636,
+      24,
+      8,
+      0
+    ],
+    [
+      "Sticker",
+      "box-16",
+      183,
+      640,
+      24,
+      8,
+      0
+    ],
+    [
+      "Sticker",
+      "box-17",
+      210,
+      637,
+      24,
+      8,
+      0
+    ],
+    [
+      "Sticker",
+      "box-18",
+      237,
+      635,
+      24,
+      8,
+      0
+    ]
+  ],
+  "textRegions": [
+    {
+      "left": 0,
+      "top": 0,
+      "width": 5100,
+      "height": 2550
+    }
+  ],
+  "fonts_redesigned": false,
+  "font_family": "Architects Daughter",
+  "font_size_pt": 18,
+  "existing_transparent_text_layer_reused": true,
+  "text_layer_sha256": "a2c6b0ce5006704e4751a692321d7c364699af96ec5a5f001076e19198ce4db5",
+  "full_art_regenerated": true,
+  "composition_canvas": [
+    1950,
+    975
+  ],
+  "asset_coordinates_apply_before_reframe": true,
+  "reframe": {
+    "left_group_source_x": [
+      0,
+      800
+    ],
+    "right_group_source_x": [
+      800,
+      1774
+    ],
+    "right_group_translation_x": 176,
+    "all_figures_translation_y": 60,
+    "uniform_final_scale": 2.6153846153846154
+  },
+  "background_repair_mask": {
+    "center_x": [
+      2020,
+      2690
+    ],
+    "top_y": [
+      0,
+      260
+    ],
+    "bottom_y": [
+      2450,
+      2550
+    ],
+    "feathered": true
+  },
+  "sticker_state": "all_five_children_and_Harper_hold_one_before_application",
+  "exact_numerical_heights_certified": false
+}
