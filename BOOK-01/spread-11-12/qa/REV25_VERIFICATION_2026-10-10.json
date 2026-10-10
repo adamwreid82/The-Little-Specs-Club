@@ -1,0 +1,229 @@
+{
+  "revision": "REV25",
+  "base": "REV24",
+  "approved": false,
+  "all_pass": false,
+  "version_a_sha256": "2317ea13973fc94d6f31cc59253e77c20f26231eea3b44df4f9e5a1d88666bdf",
+  "version_b_sha256": "3d501df2100bce5ea115faf835af01f62b9140e64c08dc12ad7374ef5fa5e4c5",
+  "dimensions": [
+    5100,
+    2550
+  ],
+  "dpi": 300,
+  "full_png_decode": "PASS",
+  "outside_helmet_logo_footprints_changed_pixels": 0,
+  "existing_text_region_changed_pixels": 0,
+  "changed_pixels": 17412,
+  "version_a_plus_original_text_vs_b_changed_channels": 0,
+  "exact_LS_asset_sha256": "96a47ac122989b3527e3fc5f8aa58544fd438799c2c4d7041cca4ef40de34a42",
+  "intrinsic_proportions_preserved_before_helmet_projection": true,
+  "placements": [
+    {
+      "name": "Ben",
+      "panel": 0,
+      "origin": [
+        770,
+        1160
+      ],
+      "erase": [
+        188,
+        83,
+        45,
+        46
+      ],
+      "center": [
+        978,
+        1258
+      ],
+      "width": 36,
+      "xProjection": 0.64,
+      "angle": -24,
+      "final_bbox": [
+        961,
+        1238,
+        34,
+        40
+      ]
+    },
+    {
+      "name": "Vinny",
+      "panel": 3,
+      "origin": [
+        2790,
+        1230
+      ],
+      "erase": [
+        82,
+        63,
+        60,
+        64
+      ],
+      "center": [
+        2921,
+        1305
+      ],
+      "width": 53,
+      "xProjection": 1,
+      "angle": 6,
+      "final_bbox": [
+        2892,
+        1279,
+        58,
+        53
+      ]
+    },
+    {
+      "name": "Steph",
+      "panel": 4,
+      "origin": [
+        3170,
+        1270
+      ],
+      "erase": [
+        128,
+        40,
+        61,
+        63
+      ],
+      "center": [
+        3330,
+        1348
+      ],
+      "width": 50,
+      "xProjection": 0.9,
+      "angle": 16,
+      "final_bbox": [
+        3302,
+        1320,
+        56,
+        56
+      ]
+    },
+    {
+      "name": "Maya",
+      "panel": 5,
+      "origin": [
+        3500,
+        1310
+      ],
+      "erase": [
+        68,
+        49,
+        62,
+        65
+      ],
+      "center": [
+        3615,
+        1403
+      ],
+      "width": 53,
+      "xProjection": 0.88,
+      "angle": 20,
+      "final_bbox": [
+        3585,
+        1373,
+        61,
+        61
+      ]
+    },
+    {
+      "name": "Mrs-Harper",
+      "panel": 6,
+      "origin": [
+        3880,
+        990
+      ],
+      "erase": [
+        83,
+        55,
+        53,
+        59
+      ],
+      "center": [
+        4008,
+        1085
+      ],
+      "width": 43,
+      "xProjection": 0.82,
+      "angle": 16,
+      "final_bbox": [
+        3986,
+        1062,
+        44,
+        47
+      ]
+    }
+  ],
+  "footprints": [
+    [
+      958,
+      1243,
+      45,
+      46
+    ],
+    [
+      2872,
+      1293,
+      60,
+      64
+    ],
+    [
+      3298,
+      1310,
+      61,
+      63
+    ],
+    [
+      3568,
+      1359,
+      62,
+      65
+    ],
+    [
+      3963,
+      1045,
+      53,
+      59
+    ],
+    [
+      961,
+      1238,
+      34,
+      40
+    ],
+    [
+      2892,
+      1279,
+      58,
+      53
+    ],
+    [
+      3302,
+      1320,
+      56,
+      56
+    ],
+    [
+      3585,
+      1373,
+      61,
+      61
+    ],
+    [
+      3986,
+      1062,
+      44,
+      47
+    ]
+  ],
+  "Leo_front_badge_hidden": true,
+  "employer_logo_pixels_preserved": true,
+  "character_faces_and_bodies_preserved": true,
+  "source_files_modified": false,
+  "font_redesigned": false,
+  "prior_versions_preserved": true,
+  "physical_size_and_hidden_details": "UNVERIFIED",
+  "print_ready": false,
+  "drive_readback_sha256_verified": true,
+  "drive_readback_full_png_decode": "PASS"
+}
