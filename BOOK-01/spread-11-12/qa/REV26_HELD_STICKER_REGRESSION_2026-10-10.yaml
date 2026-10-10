@@ -1,0 +1,18 @@
+revision: REV26
+date: '2026-10-10'
+authority: Approved Fire Station sticker asset and smaller canon scale in current
+  Edition 4 Bible; comparison at similar depth
+new_design_standard: false
+requires_new_standard_approval: false
+checks:
+- item: held sticker comparative scale
+  current_result: FAIL
+  subject: Vinny
+  method: Compare printed graphic diameter relative to helmet/head and peers at similar
+    depth; exclude blank backing disk
+  current_observation: "approximately 69\u201370 pixels versus approximately 35\u2013\
+    40 for Steph/Maya; camera not physically calibrated"
+  do_not_invent_inches_or_unapproved_numeric_tolerance: true
+  future_requirement: Comparable smaller project-sticker size under scene perspective
+    while retaining exact asset identity
+  author_approval_required_for_candidate: true
