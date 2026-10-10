@@ -1,61 +1,119 @@
 book: 1
+spread: 11-12
 pages: [11, 12]
+title: The Fire Station Sticker
 status: VERSION_B_REVIEW_REQUIRED
 approved: false
+final_locked: false
+version_b:
+  status: PENDING_AUTHOR_REVIEW
+  path: version-b/
+  drive_id: 1qTOP0BSvNUqFVyrPm_fWjGwGS9QIh7TT
+  filename: Pages_11-12_Version_B_CANON_REPAIR_REV3_PENDING_REVIEW.png
+  sha256: 4bfcc92652b2b74171ac1c4b192583a801c05ce8a5915b7a3142dc587d59dd1f
+  dimensions_pixels: [5100, 2550]
+  dpi: 300
+version_a:
+  status: PENDING_VERSION_B_APPROVAL
+  path: version-a/
 candidate:
-  drive_id: 1baSa2fVpbmr7-RjLIgrWnUqEoGaQk35g
-  sha256: fb5563627d3bdc6f8ff3774858c5af2eeaab647563cc13cdcd353319a4439026
-  dimensions_pixels: [1774, 887]
-  revision: canon_perspective_resume_2026_10_03
+  drive_id: 1qTOP0BSvNUqFVyrPm_fWjGwGS9QIh7TT
+  sha256: 4bfcc92652b2b74171ac1c4b192583a801c05ce8a5915b7a3142dc587d59dd1f
+  dimensions_pixels: [5100, 2550]
+  native_generated_dimensions: [1774, 887]
+  native_5100_detail_certified: false
+  revision: CANON_REPAIR_REV3_2026_10_10
   folder_id: 1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ
 audit:
-  drive_id: 1jxrnt3UwTmtIbz2NoxlUwykoaZNpDIwX
+  drive_id: 1Y2o8ewA4xiqKeBfjpwwuWVjGNRRuQ04c
+  report: qa/REV3_CANON_REVIEW_2026-10-10.md
   all_pass: false
-  report: qa/BATCH_CANDIDATE_2026-10-01.md
-open_items:
-  - proposed_sticker_manuscript_reconciliation_requires_Adam
-  - exact_logo_and_sticker_application_unverified
-  - outer_margin_and_background_material_review
-  - print_export_5100x2550_pending
-final_lock_requires: Adam
-
-historical_people_perspective_recheck_2026_10_02:
-  date: '2026-10-02'
-  status: REPAIRED_WITH_UNRESOLVED_FAILURES
-  all_pass: false
-  perspective: raised_diagonal_table_view
-  preserved_previous_candidate: https://drive.google.com/file/d/1ibLq9kZA-aaQgbdsg16tl2aGtIEohjs9/view
-  review_url: https://drive.google.com/file/d/1_q_d6JsGYzE6AJY23-MkxQU2exSFkW86/view?usp=drivesdk
-  unresolved: [sticker_scale_and_exact_art, Ben_sticker_placement, Ben_side_shields, outer_margin, gutter_clothing_overlap, cropped_feet, numeric_height]
-
-# Resumed canon/perspective repair 2026-10-03; not all-pass
-# Current SHA256: fb5563627d3bdc6f8ff3774858c5af2eeaab647563cc13cdcd353319a4439026
-# Previous preserved candidate: https://drive.google.com/file/d/1_q_d6JsGYzE6AJY23-MkxQU2exSFkW86/view
-# Current audit: https://drive.google.com/file/d/1jxrnt3UwTmtIbz2NoxlUwykoaZNpDIwX/view
-
-people_perspective_recheck:
-  date: "2026-10-03"
-  status: REVIEW_REQUIRED_NOT_ALL_PASS
-  all_pass: false
-  review_url: https://drive.google.com/file/d/1baSa2fVpbmr7-RjLIgrWnUqEoGaQk35g/view?usp=drivesdk
-  audit_url: https://drive.google.com/file/d/1jxrnt3UwTmtIbz2NoxlUwykoaZNpDIwX/view
-  findings: "Five children, Harper, Rivera and Brooks retained. Right group reduced and moved clear of center; Brooks now inside right edge. Raised diagonal table perspective retained. Maya duplicate loose sticker introduced by reframing was removed. One sticker per child/Harper, applied or held, is visible; Rivera demonstrates one.\nBen: neat hair/black rectangular glasses/white LS/blue shirt/plain khakis; left-side sticker still relatively high/frontward, exact slightly-rear placement not passed; feet out of view and side shields unresolved.\nLeo: short curls/navy/charcoal cargo/blue LS/lime orange vest/clear glasses; loose sticker and no attached duplicate; feet cropped.\nVinny: compact curls/round cheeks/green hoodie+helmet/blue cargo/dark low shoes repaired; clear glasses visible; one loose sticker.\nSteph: straight red hair/blue eyes/lavender/olive/gray LS/purple-gray footwear repaired; clear glasses; one loose sticker near front-right intended placement, no attached duplicate.\nMaya: long brown curls/hoops/pink/yellow/blue cargo/purple footwear repaired; clear glasses; one applied front-left sticker with hand, no duplicate.\nHarper: white LS/wavy hair/hoops/purple floral/ID/simple lime vest/dark slacks/brown work footwear restored; clear glasses and one loose sticker. Rivera source ponytail/blue blouse/white Civic Ridge/glasses/lime vest visible. Brooks green quarterzip/green Civic Ridge/glasses/charcoal cargos/brown boots visible; employer patch artwork approximate.\nCurrent proposed wording remains unchanged: STATION NO. 2, BUILDING BRIGHTER TOMORROWS, and ceremony explicitly includes Harper. These are NOT approved manuscript changes; source manuscript left untouched."
-  unresolved: "Ben sticker rearward refinement remains open. Exact small sticker/LS/employer artwork and physical scale still unverified; held decals remain enlarged in foreground. Right and left groups now have visibly different apparent scale/depth; perspective-adjusted stature not certified. Lower left figures cropped. Text partially overlays site background rather than only sky; final typography/layout unresolved. Adam must approve/reject existing manuscript proposal separately."
-
-lettering_only_revision_2026_10_03:
-  status: REVIEW_REQUIRED_NOT_APPROVED
+  visible_result: PASS_WITH_UNVERIFIED_DETAILS
+  verification_drive_id: 1bAeS2yY0RAVdeJCNq82ZzNFdybFxtFZ4
+  verification_report: qa/REV3_VERIFICATION_2026-10-10.json
+  wording_drive_id: 1AvyOUQyTmYSvyefkouPxD80hE-GkhIcP
   font_family: Architects Daughter
   font_size_pt: 18
-  spread_trim_inches: [17, 8.5]
-  export_dimensions_px: [5100, 2550]
-  export_dpi: 300
-  exact_embedded_type_verified: true
-  original_pixels_outside_lettering_preserved: true
-  pdf_drive_id: 1tDXbQ1nTwBxVx9CZIXCZbUruG5orrkIX
-  png_drive_id: 1CIbZv2psBPWEseEArFblHOUl9FW7Xizk
-  audit_drive_id: 1LNs3Bt2hK-WvjPcCCaBJkv7LBJFw6rBA
-  edit_package_drive_id: 1O0klxxO173vT1KD8OCaADX_BWQLvjVVL
-  original_assets_preserved: true
-  artwork_approval_transferred: false
-  native_artwork_print_detail_verified: false
+  font_redesigned: false
+  revised_wording_roundtrip_verified: true
+  master_manuscript_overwritten: false
+  source_character_art_changed: false
+  artwork_reframed_regenerated: true
+  original_pixels_preserved_in_new_candidate: false
+  earlier_versions_preserved: true
+  archived: false
   print_ready: false
+  drive_readback_sha256_verified: true
+  drive_readback_full_png_decode: PASS
+intermediate_rev2:
+  drive_id: 1KefZ3qM4c3nTkVin8dEhA3_yUQ_HL1BT
+  sha256: f273c92f2851a401bb953aff431bf7d68f116e378682ac0a795e5fa993ce5c36
+  approved: false
+  status: PRESERVED_INTERMEDIATE_REVIEW
+  replaced_by: REV3
+open_items: [author_likeness_and_composition_review, exact_surface_projection_and_physical_sticker_scale, numeric_heights, complete_hidden_fingers_and_back_inventory, full_site_geometry, native_print_detail_and_physical_proof, matching_Version_A_and_bleed_exports]
+final_lock_requires: Adam
+next_step: Show REV3 and await Adam feedback; no approval or archive without explicit instruction.
+historical_previous_manifest:
+  book: 1
+  pages: [11, 12]
+  status: VERSION_B_REVIEW_REQUIRED
+  approved: false
+  candidate:
+    drive_id: 1baSa2fVpbmr7-RjLIgrWnUqEoGaQk35g
+    sha256: fb5563627d3bdc6f8ff3774858c5af2eeaab647563cc13cdcd353319a4439026
+    dimensions_pixels: [1774, 887]
+    revision: canon_perspective_resume_2026_10_03
+    folder_id: 1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ
+  audit:
+    drive_id: 1jxrnt3UwTmtIbz2NoxlUwykoaZNpDIwX
+    all_pass: false
+    report: qa/BATCH_CANDIDATE_2026-10-01.md
+  open_items:
+    - proposed_sticker_manuscript_reconciliation_requires_Adam
+    - exact_logo_and_sticker_application_unverified
+    - outer_margin_and_background_material_review
+    - print_export_5100x2550_pending
+  final_lock_requires: Adam
+  
+  historical_people_perspective_recheck_2026_10_02:
+    date: '2026-10-02'
+    status: REPAIRED_WITH_UNRESOLVED_FAILURES
+    all_pass: false
+    perspective: raised_diagonal_table_view
+    preserved_previous_candidate: https://drive.google.com/file/d/1ibLq9kZA-aaQgbdsg16tl2aGtIEohjs9/view
+    review_url: https://drive.google.com/file/d/1_q_d6JsGYzE6AJY23-MkxQU2exSFkW86/view?usp=drivesdk
+    unresolved: [sticker_scale_and_exact_art, Ben_sticker_placement, Ben_side_shields, outer_margin, gutter_clothing_overlap, cropped_feet, numeric_height]
+  
+  # Resumed canon/perspective repair 2026-10-03; not all-pass
+  # Current SHA256: fb5563627d3bdc6f8ff3774858c5af2eeaab647563cc13cdcd353319a4439026
+  # Previous preserved candidate: https://drive.google.com/file/d/1_q_d6JsGYzE6AJY23-MkxQU2exSFkW86/view
+  # Current audit: https://drive.google.com/file/d/1jxrnt3UwTmtIbz2NoxlUwykoaZNpDIwX/view
+  
+  people_perspective_recheck:
+    date: "2026-10-03"
+    status: REVIEW_REQUIRED_NOT_ALL_PASS
+    all_pass: false
+    review_url: https://drive.google.com/file/d/1baSa2fVpbmr7-RjLIgrWnUqEoGaQk35g/view?usp=drivesdk
+    audit_url: https://drive.google.com/file/d/1jxrnt3UwTmtIbz2NoxlUwykoaZNpDIwX/view
+    findings: "Five children, Harper, Rivera and Brooks retained. Right group reduced and moved clear of center; Brooks now inside right edge. Raised diagonal table perspective retained. Maya duplicate loose sticker introduced by reframing was removed. One sticker per child/Harper, applied or held, is visible; Rivera demonstrates one.\nBen: neat hair/black rectangular glasses/white LS/blue shirt/plain khakis; left-side sticker still relatively high/frontward, exact slightly-rear placement not passed; feet out of view and side shields unresolved.\nLeo: short curls/navy/charcoal cargo/blue LS/lime orange vest/clear glasses; loose sticker and no attached duplicate; feet cropped.\nVinny: compact curls/round cheeks/green hoodie+helmet/blue cargo/dark low shoes repaired; clear glasses visible; one loose sticker.\nSteph: straight red hair/blue eyes/lavender/olive/gray LS/purple-gray footwear repaired; clear glasses; one loose sticker near front-right intended placement, no attached duplicate.\nMaya: long brown curls/hoops/pink/yellow/blue cargo/purple footwear repaired; clear glasses; one applied front-left sticker with hand, no duplicate.\nHarper: white LS/wavy hair/hoops/purple floral/ID/simple lime vest/dark slacks/brown work footwear restored; clear glasses and one loose sticker. Rivera source ponytail/blue blouse/white Civic Ridge/glasses/lime vest visible. Brooks green quarterzip/green Civic Ridge/glasses/charcoal cargos/brown boots visible; employer patch artwork approximate.\nCurrent proposed wording remains unchanged: STATION NO. 2, BUILDING BRIGHTER TOMORROWS, and ceremony explicitly includes Harper. These are NOT approved manuscript changes; source manuscript left untouched."
+    unresolved: "Ben sticker rearward refinement remains open. Exact small sticker/LS/employer artwork and physical scale still unverified; held decals remain enlarged in foreground. Right and left groups now have visibly different apparent scale/depth; perspective-adjusted stature not certified. Lower left figures cropped. Text partially overlays site background rather than only sky; final typography/layout unresolved. Adam must approve/reject existing manuscript proposal separately."
+  
+  lettering_only_revision_2026_10_03:
+    status: REVIEW_REQUIRED_NOT_APPROVED
+    font_family: Architects Daughter
+    font_size_pt: 18
+    spread_trim_inches: [17, 8.5]
+    export_dimensions_px: [5100, 2550]
+    export_dpi: 300
+    exact_embedded_type_verified: true
+    original_pixels_outside_lettering_preserved: true
+    pdf_drive_id: 1tDXbQ1nTwBxVx9CZIXCZbUruG5orrkIX
+    png_drive_id: 1CIbZv2psBPWEseEArFblHOUl9FW7Xizk
+    audit_drive_id: 1LNs3Bt2hK-WvjPcCCaBJkv7LBJFw6rBA
+    edit_package_drive_id: 1O0klxxO173vT1KD8OCaADX_BWQLvjVVL
+    original_assets_preserved: true
+    artwork_approval_transferred: false
+    native_artwork_print_detail_verified: false
+    print_ready: false
+  
