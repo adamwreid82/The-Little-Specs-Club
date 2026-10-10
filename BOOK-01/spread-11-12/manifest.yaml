@@ -213,3 +213,15 @@ historical_previous_manifest:
         print_ready: false
       
     
+alternate_perspective_option:
+  revision: REV8_2026_10_10
+  status: UNAPPROVED_COMPOSITION_OPTION_NOT_ALL_PASS
+  approved: false
+  drive_id: 199vE9J_w1pL8zTLOef5lHkpOfk_tuy_m
+  sha256: ac49db9700b93b6f6210e8c2cb84f63fb05c217d72f960a46298c3114ce238c2
+  audit_drive_id: 1sH77QqQt0zp3rX1pKtyThF5NUztuI_dV
+  audit: qa/REV8_PERSPECTIVE_REVIEW_2026-10-10.md
+  existing_font_layer_preserved_separately: true
+  draft_unlettered: true
+  previous_REV7_preserved: true
+  archived: false
