@@ -1,0 +1,109 @@
+{
+  "revision": "REV12",
+  "approved": false,
+  "all_pass": false,
+  "base_sha256": "f893921f16a940047749954665fe19b5e0b61887134000b83e00e36bc4af259e",
+  "sha256": "18eea5738743c54ef5a94e3a1225dd52d6c34d6ecfa36c19265a60fbbc2d5a69",
+  "export": [
+    5100,
+    2550
+  ],
+  "dpi": 300,
+  "repair_bbox": [
+    2774,
+    1121,
+    1121,
+    1366
+  ],
+  "changed_pixels": 1432680,
+  "outside_repair_changed_pixels": 0,
+  "existing_text_region_changed_pixels": 0,
+  "exact_asset_hashes": {
+    "LS": "96a47ac122989b3527e3fc5f8aa58544fd438799c2c4d7041cca4ef40de34a42",
+    "Sticker": "adcfdcdbe9c533268012e45d5c2662cf10c8b5ef684eb389528cf7107a4975ba"
+  },
+  "local_asset_placements_crop_pixels": [
+    [
+      "LS",
+      "Vinny",
+      105,
+      59,
+      16,
+      17,
+      14
+    ],
+    [
+      "LS",
+      "Steph",
+      192,
+      76,
+      16,
+      17,
+      15
+    ],
+    [
+      "LS",
+      "Maya",
+      287,
+      94,
+      16,
+      17,
+      15
+    ],
+    [
+      "Sticker",
+      "Vinny-held",
+      81,
+      173,
+      12,
+      13,
+      0
+    ],
+    [
+      "Sticker",
+      "Steph-held",
+      165,
+      190,
+      12,
+      13,
+      0
+    ],
+    [
+      "Sticker",
+      "Maya-held",
+      257,
+      205,
+      12,
+      13,
+      0
+    ]
+  ],
+  "generated_inputs": [
+    "generated_images/exec-babd1d09-7b3e-4eb4-acd0-eac5c1227587.png",
+    "generated_images/exec-43d0a1e6-06fd-492c-a92f-b0ad32dba39f.png"
+  ],
+  "new_full_scene_regeneration": false,
+  "preserved_previous_versions": true,
+  "physical_height_certification": false,
+  "print_proof": false,
+  "base_revision": "REV9",
+  "iris_repair_bbox": [
+    2964,
+    1359,
+    150,
+    100
+  ],
+  "iris_mask_pixels": 226,
+  "iris_changed_pixels": 226,
+  "changed_pixels_outside_iris_crop": 0,
+  "generated_iris_input": "generated_images/exec-3f3e8697-e4cc-4293-b2bd-fe27438bc6a5.png",
+  "remaining_unverified": [
+    "exact_numeric_heights",
+    "full_source_likeness",
+    "pose_rectified_graphic_baseline",
+    "hidden_details",
+    "full_site_geometry",
+    "native_print_proof_and_bleed_preflight"
+  ],
+  "seam_repair": "silhouette_aware_feather_preserving_original_adult_cloth"
+}
