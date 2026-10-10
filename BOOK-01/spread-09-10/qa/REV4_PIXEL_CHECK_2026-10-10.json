@@ -1,0 +1,17 @@
+{
+  "filename": "Pages_9-10_Version_B_DETAIL_CORRECTION_REV4_PENDING_REVIEW.png",
+  "sha256": "d65011a3c8c0a66304b3ce4aa07ef5e00da08b7ab9306c9448e30d6eadae6ebb",
+  "base_sha256": "8c1568133520efac45e1c488928eb925f4fb7890f0ea35172012e5943dd51fb4",
+  "dimensions_px": [
+    5100,
+    2550
+  ],
+  "dpi": 300,
+  "changed_pixels": 46629,
+  "changed_pixels_outside_declared_mask": 0,
+  "helmet_logo_pixels_changed": 0,
+  "placeholder_text_pixels_changed": 0,
+  "faces_eyewear_pixels_changed": 0,
+  "approved": false,
+  "print_ready": false
+}
