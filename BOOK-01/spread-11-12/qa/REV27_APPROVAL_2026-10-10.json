@@ -1,0 +1,52 @@
+{
+  "book": 1,
+  "spread": "11-12",
+  "revision": "REV27",
+  "approved": true,
+  "approved_by": "Adam Reid",
+  "approval_wording": "Approve",
+  "approval_received_at": "2026-10-10T17:30:31-05:00",
+  "scope": "REV27 Version B artwork as shown; matching Version A contains the same approved artwork without the reserved lettering",
+  "version_b": {
+    "drive_id": "1nUzw8w6HndlVJ9rdKRVW0PBASdDOiJEU",
+    "filename": "Pages_11-12_REV27_Version_B_APPROVED.png",
+    "sha256": "e9fa92547926a4e4fb56850a7eb2661bbf2782dfb99efc031fd3a94ca8dce77e"
+  },
+  "version_a": {
+    "drive_id": "15oqh9O8_v8wBJKXFeXH8ilLRIoQ2JuAZ",
+    "filename": "Pages_11-12_REV27_Version_A_MATCHING_APPROVED_ART.png",
+    "sha256": "b82236ad3131ebc7867c4a93dc6c094db90c16b91b81b2a06c2aff6de92c4625",
+    "approval_basis": "Matching approved artwork derivative, not a separate new illustration"
+  },
+  "dimensions_pixels": [
+    5100,
+    2550
+  ],
+  "dpi": 300,
+  "artwork_locked": true,
+  "final_wording_approved": false,
+  "font_changed": false,
+  "print_ready": false,
+  "all_canon_verified": false,
+  "preapproval_check_counts": {
+    "PASS": 50,
+    "FAIL": 0,
+    "UNVERIFIED": 18
+  },
+  "author_likeness_acceptance_now_recorded": true,
+  "remaining_technical_unverified_count": 17,
+  "archive_files": 85,
+  "archive_version_date_folders": 29,
+  "archive_verified": true,
+  "superseded_folder": {
+    "success": true,
+    "id": "1Kl2ItqFwlVUB_3XGajBt_I-l3YlBWsyu",
+    "url": "https://drive.google.com/drive/folders/1Kl2ItqFwlVUB_3XGajBt_I-l3YlBWsyu",
+    "title": "Superseded",
+    "parent_id": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ"
+  },
+  "no_source_canon_assets_modified": true,
+  "no_prior_files_deleted": true,
+  "historical_audits_kept_as_preapproval_evidence": true,
+  "next_step": "Wait for Adam before advancing to Pages 13\u201314."
+}
