@@ -13,3 +13,12 @@ Brooks's employer-logo reference remains the Oct 1 approved baseline; no new emp
 NOT APPROVED by this instruction: the complete Pages 9–10 spread, blouse correction, any source-character redesign, print exports, or previously unverified details. REV2's Harper blouse failure remains in its historical audit. The new corrected REV3 requires separate full-spread approval.
 
 Earlier baseline references and candidate bytes are preserved. No whole-spread candidates are archived on this partial approval. On full-spread approval, use Adam's Superseded/version-folder workflow.
+
+
+## Prospective scope reconfirmed by Adam, 2026-10-10
+
+Adam: “I meant for that to be locked moving forward”.
+
+The existing Oct 5 lock applies to all subsequent spreads and future books for Ben, Leo, Vinny, Steph, Maya and Mrs. Harper. Continue the same character-specific proportional fit, front-panel position, facial centerline, nose direction and brim clearance. Adapt only to pose, camera distance, curvature and natural occlusion. Do not establish a new size or location on each spread. Check against the locked PNG before presenting each candidate. Adam does not need to reapprove this existing standard. Whole-spread candidate approval remains separate and must be explicit.
+
+This confirms the scope of the existing lock; it does not change the reference, source artwork, any character design or employer-logo baseline, establish physical inches/numeric tolerances, or approve Pages 11–12 REV25/REV26. Earlier records and source images remain preserved.
