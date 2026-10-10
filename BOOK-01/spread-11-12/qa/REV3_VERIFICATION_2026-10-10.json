@@ -1,0 +1,342 @@
+{
+  "filename": "Pages_11-12_Version_B_CANON_REPAIR_REV3_PENDING_REVIEW.png",
+  "sha256": "4bfcc92652b2b74171ac1c4b192583a801c05ce8a5915b7a3142dc587d59dd1f",
+  "dimensions_px": [
+    5100,
+    2550
+  ],
+  "dpi": 300,
+  "native_generated_dimensions": [
+    1774,
+    887
+  ],
+  "illustration_resampled": true,
+  "native_5100_detail_certified": false,
+  "approved": false,
+  "print_ready": false,
+  "asset_source_sha256": {
+    "LS": "96a47ac122989b3527e3fc5f8aa58544fd438799c2c4d7041cca4ef40de34a42",
+    "Sticker": "adcfdcdbe9c533268012e45d5c2662cf10c8b5ef684eb389528cf7107a4975ba",
+    "Rivera": "0faa73b171719d357c9a1bc11781b71fdd485937d78f2155a2dc6588f481fbd3",
+    "Brooks": "90dc152734f2539d87c590ac36c54f9994c4b992edf05ee7225ff21e5ddc727b"
+  },
+  "asset_placements": [
+    {
+      "asset": "Rivera",
+      "name": "Rivera_helmet",
+      "cx": 310,
+      "cy": 415,
+      "w": 54,
+      "h": 36,
+      "angle": -12
+    },
+    {
+      "asset": "Brooks",
+      "name": "Brooks_helmet",
+      "cx": 1624,
+      "cy": 386,
+      "w": 48,
+      "h": 31,
+      "angle": 12
+    },
+    {
+      "asset": "LS",
+      "name": "Ben",
+      "cx": 475,
+      "cy": 477,
+      "w": 25,
+      "h": 25,
+      "angle": 12
+    },
+    {
+      "asset": "LS",
+      "name": "Leo",
+      "cx": 652,
+      "cy": 494,
+      "w": 28,
+      "h": 28,
+      "angle": 12
+    },
+    {
+      "asset": "LS",
+      "name": "Vinny",
+      "cx": 1127,
+      "cy": 500,
+      "w": 23,
+      "h": 23,
+      "angle": 12
+    },
+    {
+      "asset": "LS",
+      "name": "Steph",
+      "cx": 1249,
+      "cy": 520,
+      "w": 21,
+      "h": 21,
+      "angle": 12
+    },
+    {
+      "asset": "LS",
+      "name": "Maya",
+      "cx": 1370,
+      "cy": 535,
+      "w": 21,
+      "h": 21,
+      "angle": 12
+    },
+    {
+      "asset": "LS",
+      "name": "Harper",
+      "cx": 1494,
+      "cy": 445,
+      "w": 24,
+      "h": 24,
+      "angle": 10
+    },
+    {
+      "asset": "Sticker",
+      "name": "Rivera_demo",
+      "cx": 391,
+      "cy": 505,
+      "w": 28,
+      "h": 28,
+      "angle": 0
+    },
+    {
+      "asset": "Sticker",
+      "name": "Ben_left_rear",
+      "cx": 522,
+      "cy": 513,
+      "w": 23,
+      "h": 25,
+      "angle": 0
+    },
+    {
+      "asset": "Sticker",
+      "name": "Leo_held",
+      "cx": 640,
+      "cy": 623,
+      "w": 28,
+      "h": 28,
+      "angle": 0
+    },
+    {
+      "asset": "Sticker",
+      "name": "Vinny_held",
+      "cx": 1103,
+      "cy": 610,
+      "w": 28,
+      "h": 28,
+      "angle": 0
+    },
+    {
+      "asset": "Sticker",
+      "name": "Steph_held",
+      "cx": 1201,
+      "cy": 534,
+      "w": 22,
+      "h": 22,
+      "angle": 0
+    },
+    {
+      "asset": "Sticker",
+      "name": "Maya_front_left",
+      "cx": 1402,
+      "cy": 561,
+      "w": 22,
+      "h": 23,
+      "angle": 0
+    },
+    {
+      "asset": "Sticker",
+      "name": "Harper_held",
+      "cx": 1489,
+      "cy": 635,
+      "w": 26,
+      "h": 26,
+      "angle": 0
+    },
+    {
+      "asset": "Sticker",
+      "name": "box_stock_1",
+      "cx": 245,
+      "cy": 677,
+      "w": 39,
+      "h": 18,
+      "angle": 0
+    },
+    {
+      "asset": "Sticker",
+      "name": "box_stock_2",
+      "cx": 273,
+      "cy": 679,
+      "w": 37,
+      "h": 17,
+      "angle": 0
+    },
+    {
+      "asset": "Sticker",
+      "name": "box_stock_3",
+      "cx": 227,
+      "cy": 686,
+      "w": 37,
+      "h": 18,
+      "angle": 0
+    },
+    {
+      "asset": "Sticker",
+      "name": "box_stock_4",
+      "cx": 191,
+      "cy": 696,
+      "w": 38,
+      "h": 18,
+      "angle": 0
+    },
+    {
+      "asset": "Sticker",
+      "name": "box_stock_5",
+      "cx": 151,
+      "cy": 702,
+      "w": 34,
+      "h": 16,
+      "angle": 0
+    },
+    {
+      "asset": "Sticker",
+      "name": "box_stock_6",
+      "cx": 178,
+      "cy": 716,
+      "w": 36,
+      "h": 17,
+      "angle": 0
+    },
+    {
+      "asset": "Sticker",
+      "name": "box_stock_7",
+      "cx": 212,
+      "cy": 721,
+      "w": 35,
+      "h": 17,
+      "angle": 0
+    },
+    {
+      "asset": "Sticker",
+      "name": "box_stock_8",
+      "cx": 236,
+      "cy": 710,
+      "w": 38,
+      "h": 18,
+      "angle": 0
+    },
+    {
+      "asset": "Sticker",
+      "name": "box_stock_9",
+      "cx": 265,
+      "cy": 697,
+      "w": 40,
+      "h": 18,
+      "angle": 0
+    },
+    {
+      "asset": "Sticker",
+      "name": "box_stock_10",
+      "cx": 310,
+      "cy": 693,
+      "w": 38,
+      "h": 18,
+      "angle": 0
+    },
+    {
+      "asset": "Sticker",
+      "name": "box_stock_11",
+      "cx": 343,
+      "cy": 707,
+      "w": 39,
+      "h": 18,
+      "angle": 0
+    },
+    {
+      "asset": "Sticker",
+      "name": "box_stock_12",
+      "cx": 299,
+      "cy": 714,
+      "w": 39,
+      "h": 18,
+      "angle": 0
+    },
+    {
+      "asset": "Sticker",
+      "name": "box_stock_13",
+      "cx": 346,
+      "cy": 725,
+      "w": 37,
+      "h": 17,
+      "angle": 0
+    },
+    {
+      "asset": "Sticker",
+      "name": "box_stock_14",
+      "cx": 260,
+      "cy": 731,
+      "w": 39,
+      "h": 18,
+      "angle": 0
+    },
+    {
+      "asset": "Sticker",
+      "name": "box_stock_15",
+      "cx": 301,
+      "cy": 737,
+      "w": 39,
+      "h": 18,
+      "angle": 0
+    },
+    {
+      "asset": "Sticker",
+      "name": "box_stock_16",
+      "cx": 213,
+      "cy": 737,
+      "w": 37,
+      "h": 17,
+      "angle": 0
+    },
+    {
+      "asset": "Sticker",
+      "name": "box_stock_17",
+      "cx": 248,
+      "cy": 750,
+      "w": 37,
+      "h": 17,
+      "angle": 0
+    },
+    {
+      "asset": "Sticker",
+      "name": "box_stock_18",
+      "cx": 282,
+      "cy": 748,
+      "w": 39,
+      "h": 18,
+      "angle": 0
+    },
+    {
+      "asset": "Sticker",
+      "name": "box_stock_19",
+      "cx": 319,
+      "cy": 736,
+      "w": 38,
+      "h": 18,
+      "angle": 0
+    }
+  ],
+  "font_family": "Architects Daughter",
+  "font_size_pt": 18,
+  "font_redesigned": false,
+  "wording_roundtrip_verified": true,
+  "artwork_reframed_regenerated": true,
+  "original_pixels_preserved": false,
+  "prior_candidates_preserved": true,
+  "base_rev2_sha256": "f273c92f2851a401bb953aff431bf7d68f116e378682ac0a795e5fa993ce5c36",
+  "freckle_changed_pixels": 1971,
+  "freckle_changes_outside_declared_mask": 0,
+  "freckle_pass_helmet_sticker_font_pixels_changed": 0
+}
