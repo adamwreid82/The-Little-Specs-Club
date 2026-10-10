@@ -8,141 +8,156 @@ final_locked: false
 version_b:
   status: PENDING_AUTHOR_REVIEW
   path: version-b/
-  drive_id: 1FCmdRUD9US0_zBtybDmhmU5GqvixUkPc
-  filename: Pages_11-12_REV13_CANON_CORRECTIONS_PENDING_REVIEW.png
-  sha256: 4a50469814e4e454834397ee6ff1ad81ffdc666c6ac5594cc2e237c2a38165ed
+  drive_id: 13Xpg7cQLoRlRowGytzvDJXG7NgyPH0mj
+  filename: Pages_11-12_REV17_Version_B_PENDING_REVIEW.png
+  sha256: 2c95ea558e96ca7a98b37e498d773fe63ce1836c8778a60d9a130e222aa3b1a9
   dimensions_pixels: [5100, 2550]
   dpi: 300
+  bleed_draft_drive_id: 1KJ899mXUsHp5wjZi4b5qq_XCz70oM9kt
 version_a:
-  status: PENDING_VERSION_B_APPROVAL
+  status: DRAFT_UNAPPROVED_MATCHING_ART
   path: version-a/
+  drive_id: 1q3rL_uYJqb4n7Z7O679Gaf8D0j4JQruV
+  filename: Pages_11-12_REV17_Version_A_ART_ONLY_DRAFT.png
+  sha256: fcc010d127b26e6b20634ce377c67b3c96ec59a6883d6c0fe6952749275c1033
+  dimensions_pixels: [5100, 2550]
+  dpi: 300
+  bleed_draft_drive_id: 1g2GaVJYZj3YkTUcg5MENx_J88WtZxLdV
 candidate:
-  revision: REV13_2026_10_10
+  revision: REV17_2026_10_10
   folder_id: 1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ
   preferred_diagonal_perspective_retained: true
-  full_scene_regenerated_this_cycle: false
 active_review:
-  request: Correct items that are still not passed, continue to run a cannon check and make corrections until everything is passed
-  visible_repair_cycle: COMPLETED_WITH_UNVERIFIABLE_CHECKS_REMAINING
+  request: Correct the stuff that is unverified and not passed
   all_pass: false
-  audit_drive_id: 1V5I_rqheVc5qs6vqY7iI_QRkHb9AfR9x
-  audit_path: qa/REV13_FULL_CANON_PASS_FAIL_2026-10-10.md
+  audit_drive_id: 1gW5Wo5nNyGu9EUjsM_XyDJpkt4IrQvfH
+  audit_path: qa/REV17_FULL_CANON_PASS_FAIL_2026-10-10.md
+  regression_checks: qa/REV17_VISUAL_REGRESSION_CHECKS_2026-10-10.yaml
 audit:
-  drive_id: 1V5I_rqheVc5qs6vqY7iI_QRkHb9AfR9x
-  report: qa/REV13_FULL_CANON_PASS_FAIL_2026-10-10.md
-  verification_drive_id: 1ZAguNmzXiFPkDKxi2aAq0BR_CWDrHGDU
-  verification_report: qa/REV13_VERIFICATION_2026-10-10.json
+  drive_id: 1gW5Wo5nNyGu9EUjsM_XyDJpkt4IrQvfH
+  report: qa/REV17_FULL_CANON_PASS_FAIL_2026-10-10.md
+  verification_drive_id: 1WeCrfNWRkK4qrQON8xSGFeT2gPqbpjqV
   all_pass: false
   drive_readback_sha256_verified: true
-  outside_repair_changed_pixels: 0
+  drive_readback_full_png_decode: PASS
   existing_text_region_changed_pixels: 0
+  right_group_changed_pixels: 0
+  version_a_b_same_art: true
+  pdf_draft_pages_each: 2
+  pdf_draft_page_inches: [8.625, 8.75]
+  bleed_padding: DRAFT_EDGE_EXTRUSION_NOT_APPROVED_NATIVE_BLEED
   font_redesigned: false
   source_files_modified: false
   earlier_versions_preserved: true
   archived: false
   print_ready: false
 intermediate_cycle:
-  REV10: {drive_id: 14lHVJwR154_SUEmQQ98srvFZMTicckb3, audit_drive_id: 1Eo85H4yBahC4e9GNXl7_M7DkHIQJdD_u, audit_path: qa/REV10_INTERMEDIATE_AUDIT_2026-10-10.md, result: FAIL_VINNY_GREEN_IRISES}
-  REV11: {drive_id: 1K-d__lCZMRwWfAtv4sxqazde2mTm7fxH, audit_drive_id: 1vKiDWVP4B3OqwYaAa-6XefFFpiXoI3Rr, audit_path: qa/REV11_INTERMEDIATE_AUDIT_2026-10-10.md, result: FAIL_MAYA_HARPER_JOIN}
-  REV12: {drive_id: 1Jh6ptZ3sbrJQ8eGb-IiviVl86_U3kCl2, audit_drive_id: 1SRy8rlTzoPm6X9SbxaxoYMvD8qGBrEB3, audit_path: qa/REV12_INTERMEDIATE_AUDIT_2026-10-10.md, result: FAIL_STRIPED_MASK_ARTIFACT}
-  REV13: {drive_id: 1FCmdRUD9US0_zBtybDmhmU5GqvixUkPc, result: VISIBLE_REPAIRS_PASS_OVERALL_NOT_ALL_PASS}
-open_items: [exact_numeric_heights, full_source_likeness, pose_rectified_badge_baseline, precise_prescription_side_protection, hidden_details, complete_site_geometry, native_print_proof_bleed_and_Version_A]
+  REV14: {drive_id: 1weF1KaKsttlGg9glxMI6DAifPRqe92Ai, working_a_and_audit_drive_id: 1uhZCn4Td0Zgdff7iIE026f9oIyJl_CfN, result: FAIL_BADGE_STICKER_AND_VEST_STRIP}
+  REV15: {drive_id: 18VJ_5BycdrPL_z2PKsQtRcHh5lV3jojI, working_a_and_audit_drive_id: 1dpH499xei1vDzCwfAaHnqbZMpicU_N5k, result: FAIL_DUPLICATE_TRAY_AND_BEN_CARGO_POCKET}
+  REV16: {drive_id: 1we-yEW6kk_Lf-Mb_3TUaDWaDI-psQ5E_, working_a_and_audit_drive_id: 18ZSYigo6jIG-OYZJyw18ygNNCrAFdBXL, result: FAIL_BACKGROUND_SEAM_AND_VERSION_A_DECODE}
+  REV17: {drive_id: 13Xpg7cQLoRlRowGytzvDJXG7NgyPH0mj, result: VISIBLE_REPAIRS_PASS_OVERALL_UNVERIFIED_REMAIN}
+open_items: [exact_numeric_heights, full_source_likeness, pose_rectified_badge_and_sticker_projection, hidden_safety_frame_construction, hidden_inventory_and_fingers, complete_site_geometry, native_print_detail_and_physical_proof, final_bleed_art_and_full_book_preflight]
 permanent_recipient_sticker_locations_changed: false
 proposed_pose: before_application_each_recipient_holds_one
 final_lock_requires: Adam
-next_step: Review visible corrected REV13; do not certify hidden or unmeasurable checks or record author approval without evidence.
+next_step: Show REV17 and await feedback; approval remains false. Current camera cannot certify hidden details or exact physical inches.
 historical_previous_manifest:
   book: 1
-  spread: 11-12
+  spread: "11-12"
   pages: [11, 12]
   title: The Fire Station Sticker
   status: PENDING_AUTHOR_REVIEW_NOT_ALL_PASS
   approved: false
   final_locked: false
   version_b:
-    drive_id: 1xt2B1htQ1dz_kh-PTNiNgKeTGxBCFifh
-    filename: Pages_11-12_REV9_PERSPECTIVE_CORRECTIONS_PENDING_REVIEW.png
-    sha256: f893921f16a940047749954665fe19b5e0b61887134000b83e00e36bc4af259e
+    status: PENDING_AUTHOR_REVIEW
+    path: version-b/
+    drive_id: 1FCmdRUD9US0_zBtybDmhmU5GqvixUkPc
+    filename: Pages_11-12_REV13_CANON_CORRECTIONS_PENDING_REVIEW.png
+    sha256: 4a50469814e4e454834397ee6ff1ad81ffdc666c6ac5594cc2e237c2a38165ed
     dimensions_pixels: [5100, 2550]
     dpi: 300
+  version_a:
+    status: PENDING_VERSION_B_APPROVAL
+    path: version-a/
   candidate:
-    revision: REV9_2026_10_10
+    revision: REV13_2026_10_10
     folder_id: 1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ
-    native_generated_dimensions: [1774, 887]
-    camera: child_eye_level_diagonal_beside_table
-    retained_preferred_REV8_perspective: true
-    framing_pulled_back_for_full_feet_gutter_and_text: true
-  audit:
-    drive_id: 1M99lq1l3echc2QYfNIDHe4nGO4cSaX6a
-    report: qa/REV9_CANON_PASS_FAIL_2026-10-10.md
-    verification_drive_id: 1u3lV55jovUIdFI2sJ-BVQ8P4P2n9iaTB
-    verification_report: qa/REV9_VERIFICATION_2026-10-10.json
+    preferred_diagonal_perspective_retained: true
+    full_scene_regenerated_this_cycle: false
+  active_review:
+    request: Correct items that are still not passed, continue to run a cannon check and make corrections until everything is passed
+    visible_repair_cycle: COMPLETED_WITH_UNVERIFIABLE_CHECKS_REMAINING
     all_pass: false
-    visible_corrections: source_guided_repairs_and_exact_asset_composites_completed
-    exact_numeric_heights_certified: false
-    native_print_detail_certified: false
-    existing_18pt_text_layer_reused: true
+    audit_drive_id: 1V5I_rqheVc5qs6vqY7iI_QRkHb9AfR9x
+    audit_path: qa/REV13_FULL_CANON_PASS_FAIL_2026-10-10.md
+  audit:
+    drive_id: 1V5I_rqheVc5qs6vqY7iI_QRkHb9AfR9x
+    report: qa/REV13_FULL_CANON_PASS_FAIL_2026-10-10.md
+    verification_drive_id: 1ZAguNmzXiFPkDKxi2aAq0BR_CWDrHGDU
+    verification_report: qa/REV13_VERIFICATION_2026-10-10.json
+    all_pass: false
+    drive_readback_sha256_verified: true
+    outside_repair_changed_pixels: 0
+    existing_text_region_changed_pixels: 0
     font_redesigned: false
-    approved_source_files_modified: false
+    source_files_modified: false
     earlier_versions_preserved: true
     archived: false
     print_ready: false
-  version_a:
-    status: PENDING_VERSION_B_APPROVAL
+  intermediate_cycle:
+    REV10: {drive_id: 14lHVJwR154_SUEmQQ98srvFZMTicckb3, audit_drive_id: 1Eo85H4yBahC4e9GNXl7_M7DkHIQJdD_u, audit_path: qa/REV10_INTERMEDIATE_AUDIT_2026-10-10.md, result: FAIL_VINNY_GREEN_IRISES}
+    REV11: {drive_id: 1K-d__lCZMRwWfAtv4sxqazde2mTm7fxH, audit_drive_id: 1vKiDWVP4B3OqwYaAa-6XefFFpiXoI3Rr, audit_path: qa/REV11_INTERMEDIATE_AUDIT_2026-10-10.md, result: FAIL_MAYA_HARPER_JOIN}
+    REV12: {drive_id: 1Jh6ptZ3sbrJQ8eGb-IiviVl86_U3kCl2, audit_drive_id: 1SRy8rlTzoPm6X9SbxaxoYMvD8qGBrEB3, audit_path: qa/REV12_INTERMEDIATE_AUDIT_2026-10-10.md, result: FAIL_STRIPED_MASK_ARTIFACT}
+    REV13: {drive_id: 1FCmdRUD9US0_zBtybDmhmU5GqvixUkPc, result: VISIBLE_REPAIRS_PASS_OVERALL_NOT_ALL_PASS}
+  open_items: [exact_numeric_heights, full_source_likeness, pose_rectified_badge_baseline, precise_prescription_side_protection, hidden_details, complete_site_geometry, native_print_proof_bleed_and_Version_A]
   permanent_recipient_sticker_locations_changed: false
   proposed_pose: before_application_each_recipient_holds_one
-  open_items: [author_full_likeness_review, exact_numeric_heights, physical_badge_and_sticker_scale_and_projection, precise_prescription_side_protection, hidden_inventory_and_fingers, complete_site_geometry, native_print_detail_proof_bleed_and_Version_A]
   final_lock_requires: Adam
-  next_step: Show full REV9 and canon pass/fail; await feedback before further corrections or approval.
+  next_step: Review visible corrected REV13; do not certify hidden or unmeasurable checks or record author approval without evidence.
   historical_previous_manifest:
     book: 1
     spread: 11-12
     pages: [11, 12]
     title: The Fire Station Sticker
-    status: VERSION_B_REVIEW_REQUIRED
+    status: PENDING_AUTHOR_REVIEW_NOT_ALL_PASS
     approved: false
     final_locked: false
     version_b:
-      status: PENDING_AUTHOR_REVIEW
-      drive_id: 1414g5M8J2FIfxnabdz88xQPy4DsTXqLQ
-      filename: Pages_11-12_CANON_CORRECTIONS_REV7_PENDING_REVIEW.png
-      sha256: 692cb8b71cb5bb3464b68da9a30813eaab7eb305b97944bba88b67c9cba0438a
+      drive_id: 1xt2B1htQ1dz_kh-PTNiNgKeTGxBCFifh
+      filename: Pages_11-12_REV9_PERSPECTIVE_CORRECTIONS_PENDING_REVIEW.png
+      sha256: f893921f16a940047749954665fe19b5e0b61887134000b83e00e36bc4af259e
       dimensions_pixels: [5100, 2550]
       dpi: 300
-    version_a:
-      status: PENDING_VERSION_B_APPROVAL
     candidate:
-      revision: REV7_2026_10_10
-      drive_id: 1414g5M8J2FIfxnabdz88xQPy4DsTXqLQ
+      revision: REV9_2026_10_10
       folder_id: 1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ
       native_generated_dimensions: [1774, 887]
-      composition_canvas: [1950, 975]
-      native_5100_detail_certified: false
+      camera: child_eye_level_diagonal_beside_table
+      retained_preferred_REV8_perspective: true
+      framing_pulled_back_for_full_feet_gutter_and_text: true
     audit:
-      drive_id: 1I7v0oe3jdUh7Xi8moQYEqJnfeuOKYLaZ
-      report: qa/REV7_CANON_REVIEW_2026-10-10.md
-      verification_drive_id: 1RehcN-2SirVjX3t1iUeLt-GifkJmkR1F
-      verification_report: qa/REV7_VERIFICATION_2026-10-10.json
+      drive_id: 1M99lq1l3echc2QYfNIDHe4nGO4cSaX6a
+      report: qa/REV9_CANON_PASS_FAIL_2026-10-10.md
+      verification_drive_id: 1u3lV55jovUIdFI2sJ-BVQ8P4P2n9iaTB
+      verification_report: qa/REV9_VERIFICATION_2026-10-10.json
       all_pass: false
-      visible_height_result: CORRECTED_FOR_AUTHOR_REVIEW
-      exact_numerical_heights_certified: false
-      font_family: Architects Daughter
-      font_size_pt: 18
+      visible_corrections: source_guided_repairs_and_exact_asset_composites_completed
+      exact_numeric_heights_certified: false
+      native_print_detail_certified: false
+      existing_18pt_text_layer_reused: true
       font_redesigned: false
-      existing_transparent_text_layer_reused: true
-      full_art_regenerated: true
-      original_character_pixels_preserved: false
-      final_background_patch_protected_figure_changed_pixels: 0
-      exact_asset_source_hashes_verified: true
-      source_files_modified: false
+      approved_source_files_modified: false
       earlier_versions_preserved: true
       archived: false
       print_ready: false
-    proposed_pose_change: all_five_children_and_Harper_hold_one_before_application
-    permanent_sticker_locations_changed: false
-    open_items: [author_height_likeness_and_pose_review, exact_numerical_heights, Ben_side_deflectors_and_remaining_eyewear, physical_asset_scale_and_projection, hidden_inventory_and_complete_fingers, full_site_geometry, native_print_detail_proof_and_preflight, matching_Version_A_and_bleed]
+    version_a:
+      status: PENDING_VERSION_B_APPROVAL
+    permanent_recipient_sticker_locations_changed: false
+    proposed_pose: before_application_each_recipient_holds_one
+    open_items: [author_full_likeness_review, exact_numeric_heights, physical_badge_and_sticker_scale_and_projection, precise_prescription_side_protection, hidden_inventory_and_fingers, complete_site_geometry, native_print_detail_proof_bleed_and_Version_A]
     final_lock_requires: Adam
-    next_step: Show full REV7 and await feedback; no author approval or archival recorded.
+    next_step: Show full REV9 and canon pass/fail; await feedback before further corrections or approval.
     historical_previous_manifest:
       book: 1
       spread: 11-12
@@ -152,43 +167,46 @@ historical_previous_manifest:
       approved: false
       final_locked: false
       version_b:
-        status: PENDING_AUTHOR_REVIEW_NOT_ALL_PASS
-        drive_id: 1r0AMvWF0tsu7_jqadJBrboTkFpnIUgcb
-        filename: Pages_11-12_CANON_CORRECTIONS_REV6_PENDING_REVIEW.png
-        sha256: a0af736b6c166bdcc35983770f48342f4c1363fd99e49b6451d3a1604080e448
+        status: PENDING_AUTHOR_REVIEW
+        drive_id: 1414g5M8J2FIfxnabdz88xQPy4DsTXqLQ
+        filename: Pages_11-12_CANON_CORRECTIONS_REV7_PENDING_REVIEW.png
+        sha256: 692cb8b71cb5bb3464b68da9a30813eaab7eb305b97944bba88b67c9cba0438a
         dimensions_pixels: [5100, 2550]
         dpi: 300
       version_a:
         status: PENDING_VERSION_B_APPROVAL
       candidate:
-        revision: REV6_2026_10_10
-        drive_id: 1r0AMvWF0tsu7_jqadJBrboTkFpnIUgcb
+        revision: REV7_2026_10_10
+        drive_id: 1414g5M8J2FIfxnabdz88xQPy4DsTXqLQ
         folder_id: 1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ
         native_generated_dimensions: [1774, 887]
+        composition_canvas: [1950, 975]
         native_5100_detail_certified: false
       audit:
-        drive_id: 1Ix4fJqNyNM5dqyIRSTIMH6W4DAEYhjOf
-        report: qa/REV6_CANON_REVIEW_2026-10-10.md
-        verification_drive_id: 1AflwMzLl5d9s0RsIa89aRAJ4mrLo9nsW
-        verification_report: qa/REV6_VERIFICATION_2026-10-10.json
+        drive_id: 1I7v0oe3jdUh7Xi8moQYEqJnfeuOKYLaZ
+        report: qa/REV7_CANON_REVIEW_2026-10-10.md
+        verification_drive_id: 1RehcN-2SirVjX3t1iUeLt-GifkJmkR1F
+        verification_report: qa/REV7_VERIFICATION_2026-10-10.json
         all_pass: false
-        visible_result: CORRECTED_WITH_REMAINING_HEIGHT_FAILURES
+        visible_height_result: CORRECTED_FOR_AUTHOR_REVIEW
+        exact_numerical_heights_certified: false
+        font_family: Architects Daughter
+        font_size_pt: 18
         font_redesigned: false
-        original_text_region_pixels_verified_identical: true
+        existing_transparent_text_layer_reused: true
         full_art_regenerated: true
         original_character_pixels_preserved: false
+        final_background_patch_protected_figure_changed_pixels: 0
         exact_asset_source_hashes_verified: true
-        approved_source_files_modified: false
+        source_files_modified: false
         earlier_versions_preserved: true
         archived: false
         print_ready: false
-      open_items: [equal_Rivera_Harper_body_scale, subtle_child_height_relationships, Ben_side_deflectors_and_remaining_safety_eyewear, author_likeness_and_table_review, physical_asset_scale_and_surface_projection, hidden_back_inventory, full_site_geometry, native_print_detail_and_proof, matching_A_and_bleed_preflight]
-      interim_candidates_preserved:
-        rev4: 1H6wGNaJs7Ikc06hxDx2g53UDkpG_Dkm9
-        rev5: 1lf_5pVpMhbdhmCqaIJOm743SHxmlCsQW
-        lower_left_draft: 16dzo3bYytuE3cow4Aes9tGDSWITZiSv_
+      proposed_pose_change: all_five_children_and_Harper_hold_one_before_application
+      permanent_sticker_locations_changed: false
+      open_items: [author_height_likeness_and_pose_review, exact_numerical_heights, Ben_side_deflectors_and_remaining_eyewear, physical_asset_scale_and_projection, hidden_inventory_and_complete_fingers, full_site_geometry, native_print_detail_proof_and_preflight, matching_Version_A_and_bleed]
       final_lock_requires: Adam
-      next_step: Show full REV6 and await feedback; no approval or archival without explicit instruction.
+      next_step: Show full REV7 and await feedback; no author approval or archival recorded.
       historical_previous_manifest:
         book: 1
         spread: 11-12
@@ -198,134 +216,181 @@ historical_previous_manifest:
         approved: false
         final_locked: false
         version_b:
-          status: PENDING_AUTHOR_REVIEW
-          path: version-b/
-          drive_id: 1qTOP0BSvNUqFVyrPm_fWjGwGS9QIh7TT
-          filename: Pages_11-12_Version_B_CANON_REPAIR_REV3_PENDING_REVIEW.png
-          sha256: 4bfcc92652b2b74171ac1c4b192583a801c05ce8a5915b7a3142dc587d59dd1f
+          status: PENDING_AUTHOR_REVIEW_NOT_ALL_PASS
+          drive_id: 1r0AMvWF0tsu7_jqadJBrboTkFpnIUgcb
+          filename: Pages_11-12_CANON_CORRECTIONS_REV6_PENDING_REVIEW.png
+          sha256: a0af736b6c166bdcc35983770f48342f4c1363fd99e49b6451d3a1604080e448
           dimensions_pixels: [5100, 2550]
           dpi: 300
         version_a:
           status: PENDING_VERSION_B_APPROVAL
-          path: version-a/
         candidate:
-          drive_id: 1qTOP0BSvNUqFVyrPm_fWjGwGS9QIh7TT
-          sha256: 4bfcc92652b2b74171ac1c4b192583a801c05ce8a5915b7a3142dc587d59dd1f
-          dimensions_pixels: [5100, 2550]
+          revision: REV6_2026_10_10
+          drive_id: 1r0AMvWF0tsu7_jqadJBrboTkFpnIUgcb
+          folder_id: 1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ
           native_generated_dimensions: [1774, 887]
           native_5100_detail_certified: false
-          revision: CANON_REPAIR_REV3_2026_10_10
-          folder_id: 1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ
         audit:
-          drive_id: 1Y2o8ewA4xiqKeBfjpwwuWVjGNRRuQ04c
-          report: qa/REV3_CANON_REVIEW_2026-10-10.md
+          drive_id: 1Ix4fJqNyNM5dqyIRSTIMH6W4DAEYhjOf
+          report: qa/REV6_CANON_REVIEW_2026-10-10.md
+          verification_drive_id: 1AflwMzLl5d9s0RsIa89aRAJ4mrLo9nsW
+          verification_report: qa/REV6_VERIFICATION_2026-10-10.json
           all_pass: false
-          visible_result: PASS_WITH_UNVERIFIED_DETAILS
-          verification_drive_id: 1bAeS2yY0RAVdeJCNq82ZzNFdybFxtFZ4
-          verification_report: qa/REV3_VERIFICATION_2026-10-10.json
-          wording_drive_id: 1AvyOUQyTmYSvyefkouPxD80hE-GkhIcP
-          font_family: Architects Daughter
-          font_size_pt: 18
+          visible_result: CORRECTED_WITH_REMAINING_HEIGHT_FAILURES
           font_redesigned: false
-          revised_wording_roundtrip_verified: true
-          master_manuscript_overwritten: false
-          source_character_art_changed: false
-          artwork_reframed_regenerated: true
-          original_pixels_preserved_in_new_candidate: false
+          original_text_region_pixels_verified_identical: true
+          full_art_regenerated: true
+          original_character_pixels_preserved: false
+          exact_asset_source_hashes_verified: true
+          approved_source_files_modified: false
           earlier_versions_preserved: true
           archived: false
           print_ready: false
-          drive_readback_sha256_verified: true
-          drive_readback_full_png_decode: PASS
-        intermediate_rev2:
-          drive_id: 1KefZ3qM4c3nTkVin8dEhA3_yUQ_HL1BT
-          sha256: f273c92f2851a401bb953aff431bf7d68f116e378682ac0a795e5fa993ce5c36
-          approved: false
-          status: PRESERVED_INTERMEDIATE_REVIEW
-          replaced_by: REV3
-        open_items: [author_likeness_and_composition_review, exact_surface_projection_and_physical_sticker_scale, numeric_heights, complete_hidden_fingers_and_back_inventory, full_site_geometry, native_print_detail_and_physical_proof, matching_Version_A_and_bleed_exports]
+        open_items: [equal_Rivera_Harper_body_scale, subtle_child_height_relationships, Ben_side_deflectors_and_remaining_safety_eyewear, author_likeness_and_table_review, physical_asset_scale_and_surface_projection, hidden_back_inventory, full_site_geometry, native_print_detail_and_proof, matching_A_and_bleed_preflight]
+        interim_candidates_preserved:
+          rev4: 1H6wGNaJs7Ikc06hxDx2g53UDkpG_Dkm9
+          rev5: 1lf_5pVpMhbdhmCqaIJOm743SHxmlCsQW
+          lower_left_draft: 16dzo3bYytuE3cow4Aes9tGDSWITZiSv_
         final_lock_requires: Adam
-        next_step: Show REV3 and await Adam feedback; no approval or archive without explicit instruction.
+        next_step: Show full REV6 and await feedback; no approval or archival without explicit instruction.
         historical_previous_manifest:
           book: 1
+          spread: 11-12
           pages: [11, 12]
+          title: The Fire Station Sticker
           status: VERSION_B_REVIEW_REQUIRED
           approved: false
+          final_locked: false
+          version_b:
+            status: PENDING_AUTHOR_REVIEW
+            path: version-b/
+            drive_id: 1qTOP0BSvNUqFVyrPm_fWjGwGS9QIh7TT
+            filename: Pages_11-12_Version_B_CANON_REPAIR_REV3_PENDING_REVIEW.png
+            sha256: 4bfcc92652b2b74171ac1c4b192583a801c05ce8a5915b7a3142dc587d59dd1f
+            dimensions_pixels: [5100, 2550]
+            dpi: 300
+          version_a:
+            status: PENDING_VERSION_B_APPROVAL
+            path: version-a/
           candidate:
-            drive_id: 1baSa2fVpbmr7-RjLIgrWnUqEoGaQk35g
-            sha256: fb5563627d3bdc6f8ff3774858c5af2eeaab647563cc13cdcd353319a4439026
-            dimensions_pixels: [1774, 887]
-            revision: canon_perspective_resume_2026_10_03
+            drive_id: 1qTOP0BSvNUqFVyrPm_fWjGwGS9QIh7TT
+            sha256: 4bfcc92652b2b74171ac1c4b192583a801c05ce8a5915b7a3142dc587d59dd1f
+            dimensions_pixels: [5100, 2550]
+            native_generated_dimensions: [1774, 887]
+            native_5100_detail_certified: false
+            revision: CANON_REPAIR_REV3_2026_10_10
             folder_id: 1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ
           audit:
-            drive_id: 1jxrnt3UwTmtIbz2NoxlUwykoaZNpDIwX
+            drive_id: 1Y2o8ewA4xiqKeBfjpwwuWVjGNRRuQ04c
+            report: qa/REV3_CANON_REVIEW_2026-10-10.md
             all_pass: false
-            report: qa/BATCH_CANDIDATE_2026-10-01.md
-          open_items:
-            - proposed_sticker_manuscript_reconciliation_requires_Adam
-            - exact_logo_and_sticker_application_unverified
-            - outer_margin_and_background_material_review
-            - print_export_5100x2550_pending
-          final_lock_requires: Adam
-          
-          historical_people_perspective_recheck_2026_10_02:
-            date: '2026-10-02'
-            status: REPAIRED_WITH_UNRESOLVED_FAILURES
-            all_pass: false
-            perspective: raised_diagonal_table_view
-            preserved_previous_candidate: https://drive.google.com/file/d/1ibLq9kZA-aaQgbdsg16tl2aGtIEohjs9/view
-            review_url: https://drive.google.com/file/d/1_q_d6JsGYzE6AJY23-MkxQU2exSFkW86/view?usp=drivesdk
-            unresolved: [sticker_scale_and_exact_art, Ben_sticker_placement, Ben_side_shields, outer_margin, gutter_clothing_overlap, cropped_feet, numeric_height]
-          
-          # Resumed canon/perspective repair 2026-10-03; not all-pass
-          # Current SHA256: fb5563627d3bdc6f8ff3774858c5af2eeaab647563cc13cdcd353319a4439026
-          # Previous preserved candidate: https://drive.google.com/file/d/1_q_d6JsGYzE6AJY23-MkxQU2exSFkW86/view
-          # Current audit: https://drive.google.com/file/d/1jxrnt3UwTmtIbz2NoxlUwykoaZNpDIwX/view
-          
-          people_perspective_recheck:
-            date: "2026-10-03"
-            status: REVIEW_REQUIRED_NOT_ALL_PASS
-            all_pass: false
-            review_url: https://drive.google.com/file/d/1baSa2fVpbmr7-RjLIgrWnUqEoGaQk35g/view?usp=drivesdk
-            audit_url: https://drive.google.com/file/d/1jxrnt3UwTmtIbz2NoxlUwykoaZNpDIwX/view
-            findings: "Five children, Harper, Rivera and Brooks retained. Right group reduced and moved clear of center; Brooks now inside right edge. Raised diagonal table perspective retained. Maya duplicate loose sticker introduced by reframing was removed. One sticker per child/Harper, applied or held, is visible; Rivera demonstrates one.\nBen: neat hair/black rectangular glasses/white LS/blue shirt/plain khakis; left-side sticker still relatively high/frontward, exact slightly-rear placement not passed; feet out of view and side shields unresolved.\nLeo: short curls/navy/charcoal cargo/blue LS/lime orange vest/clear glasses; loose sticker and no attached duplicate; feet cropped.\nVinny: compact curls/round cheeks/green hoodie+helmet/blue cargo/dark low shoes repaired; clear glasses visible; one loose sticker.\nSteph: straight red hair/blue eyes/lavender/olive/gray LS/purple-gray footwear repaired; clear glasses; one loose sticker near front-right intended placement, no attached duplicate.\nMaya: long brown curls/hoops/pink/yellow/blue cargo/purple footwear repaired; clear glasses; one applied front-left sticker with hand, no duplicate.\nHarper: white LS/wavy hair/hoops/purple floral/ID/simple lime vest/dark slacks/brown work footwear restored; clear glasses and one loose sticker. Rivera source ponytail/blue blouse/white Civic Ridge/glasses/lime vest visible. Brooks green quarterzip/green Civic Ridge/glasses/charcoal cargos/brown boots visible; employer patch artwork approximate.\nCurrent proposed wording remains unchanged: STATION NO. 2, BUILDING BRIGHTER TOMORROWS, and ceremony explicitly includes Harper. These are NOT approved manuscript changes; source manuscript left untouched."
-            unresolved: "Ben sticker rearward refinement remains open. Exact small sticker/LS/employer artwork and physical scale still unverified; held decals remain enlarged in foreground. Right and left groups now have visibly different apparent scale/depth; perspective-adjusted stature not certified. Lower left figures cropped. Text partially overlays site background rather than only sky; final typography/layout unresolved. Adam must approve/reject existing manuscript proposal separately."
-          
-          lettering_only_revision_2026_10_03:
-            status: REVIEW_REQUIRED_NOT_APPROVED
+            visible_result: PASS_WITH_UNVERIFIED_DETAILS
+            verification_drive_id: 1bAeS2yY0RAVdeJCNq82ZzNFdybFxtFZ4
+            verification_report: qa/REV3_VERIFICATION_2026-10-10.json
+            wording_drive_id: 1AvyOUQyTmYSvyefkouPxD80hE-GkhIcP
             font_family: Architects Daughter
             font_size_pt: 18
-            spread_trim_inches: [17, 8.5]
-            export_dimensions_px: [5100, 2550]
-            export_dpi: 300
-            exact_embedded_type_verified: true
-            original_pixels_outside_lettering_preserved: true
-            pdf_drive_id: 1tDXbQ1nTwBxVx9CZIXCZbUruG5orrkIX
-            png_drive_id: 1CIbZv2psBPWEseEArFblHOUl9FW7Xizk
-            audit_drive_id: 1LNs3Bt2hK-WvjPcCCaBJkv7LBJFw6rBA
-            edit_package_drive_id: 1O0klxxO173vT1KD8OCaADX_BWQLvjVVL
-            original_assets_preserved: true
-            artwork_approval_transferred: false
-            native_artwork_print_detail_verified: false
+            font_redesigned: false
+            revised_wording_roundtrip_verified: true
+            master_manuscript_overwritten: false
+            source_character_art_changed: false
+            artwork_reframed_regenerated: true
+            original_pixels_preserved_in_new_candidate: false
+            earlier_versions_preserved: true
+            archived: false
             print_ready: false
+            drive_readback_sha256_verified: true
+            drive_readback_full_png_decode: PASS
+          intermediate_rev2:
+            drive_id: 1KefZ3qM4c3nTkVin8dEhA3_yUQ_HL1BT
+            sha256: f273c92f2851a401bb953aff431bf7d68f116e378682ac0a795e5fa993ce5c36
+            approved: false
+            status: PRESERVED_INTERMEDIATE_REVIEW
+            replaced_by: REV3
+          open_items: [author_likeness_and_composition_review, exact_surface_projection_and_physical_sticker_scale, numeric_heights, complete_hidden_fingers_and_back_inventory, full_site_geometry, native_print_detail_and_physical_proof, matching_Version_A_and_bleed_exports]
+          final_lock_requires: Adam
+          next_step: Show REV3 and await Adam feedback; no approval or archive without explicit instruction.
+          historical_previous_manifest:
+            book: 1
+            pages: [11, 12]
+            status: VERSION_B_REVIEW_REQUIRED
+            approved: false
+            candidate:
+              drive_id: 1baSa2fVpbmr7-RjLIgrWnUqEoGaQk35g
+              sha256: fb5563627d3bdc6f8ff3774858c5af2eeaab647563cc13cdcd353319a4439026
+              dimensions_pixels: [1774, 887]
+              revision: canon_perspective_resume_2026_10_03
+              folder_id: 1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ
+            audit:
+              drive_id: 1jxrnt3UwTmtIbz2NoxlUwykoaZNpDIwX
+              all_pass: false
+              report: qa/BATCH_CANDIDATE_2026-10-01.md
+            open_items:
+              - proposed_sticker_manuscript_reconciliation_requires_Adam
+              - exact_logo_and_sticker_application_unverified
+              - outer_margin_and_background_material_review
+              - print_export_5100x2550_pending
+            final_lock_requires: Adam
+            
+            historical_people_perspective_recheck_2026_10_02:
+              date: '2026-10-02'
+              status: REPAIRED_WITH_UNRESOLVED_FAILURES
+              all_pass: false
+              perspective: raised_diagonal_table_view
+              preserved_previous_candidate: https://drive.google.com/file/d/1ibLq9kZA-aaQgbdsg16tl2aGtIEohjs9/view
+              review_url: https://drive.google.com/file/d/1_q_d6JsGYzE6AJY23-MkxQU2exSFkW86/view?usp=drivesdk
+              unresolved: [sticker_scale_and_exact_art, Ben_sticker_placement, Ben_side_shields, outer_margin, gutter_clothing_overlap, cropped_feet, numeric_height]
+            
+            # Resumed canon/perspective repair 2026-10-03; not all-pass
+            # Current SHA256: fb5563627d3bdc6f8ff3774858c5af2eeaab647563cc13cdcd353319a4439026
+            # Previous preserved candidate: https://drive.google.com/file/d/1_q_d6JsGYzE6AJY23-MkxQU2exSFkW86/view
+            # Current audit: https://drive.google.com/file/d/1jxrnt3UwTmtIbz2NoxlUwykoaZNpDIwX/view
+            
+            people_perspective_recheck:
+              date: "2026-10-03"
+              status: REVIEW_REQUIRED_NOT_ALL_PASS
+              all_pass: false
+              review_url: https://drive.google.com/file/d/1baSa2fVpbmr7-RjLIgrWnUqEoGaQk35g/view?usp=drivesdk
+              audit_url: https://drive.google.com/file/d/1jxrnt3UwTmtIbz2NoxlUwykoaZNpDIwX/view
+              findings: "Five children, Harper, Rivera and Brooks retained. Right group reduced and moved clear of center; Brooks now inside right edge. Raised diagonal table perspective retained. Maya duplicate loose sticker introduced by reframing was removed. One sticker per child/Harper, applied or held, is visible; Rivera demonstrates one.\nBen: neat hair/black rectangular glasses/white LS/blue shirt/plain khakis; left-side sticker still relatively high/frontward, exact slightly-rear placement not passed; feet out of view and side shields unresolved.\nLeo: short curls/navy/charcoal cargo/blue LS/lime orange vest/clear glasses; loose sticker and no attached duplicate; feet cropped.\nVinny: compact curls/round cheeks/green hoodie+helmet/blue cargo/dark low shoes repaired; clear glasses visible; one loose sticker.\nSteph: straight red hair/blue eyes/lavender/olive/gray LS/purple-gray footwear repaired; clear glasses; one loose sticker near front-right intended placement, no attached duplicate.\nMaya: long brown curls/hoops/pink/yellow/blue cargo/purple footwear repaired; clear glasses; one applied front-left sticker with hand, no duplicate.\nHarper: white LS/wavy hair/hoops/purple floral/ID/simple lime vest/dark slacks/brown work footwear restored; clear glasses and one loose sticker. Rivera source ponytail/blue blouse/white Civic Ridge/glasses/lime vest visible. Brooks green quarterzip/green Civic Ridge/glasses/charcoal cargos/brown boots visible; employer patch artwork approximate.\nCurrent proposed wording remains unchanged: STATION NO. 2, BUILDING BRIGHTER TOMORROWS, and ceremony explicitly includes Harper. These are NOT approved manuscript changes; source manuscript left untouched."
+              unresolved: "Ben sticker rearward refinement remains open. Exact small sticker/LS/employer artwork and physical scale still unverified; held decals remain enlarged in foreground. Right and left groups now have visibly different apparent scale/depth; perspective-adjusted stature not certified. Lower left figures cropped. Text partially overlays site background rather than only sky; final typography/layout unresolved. Adam must approve/reject existing manuscript proposal separately."
+            
+            lettering_only_revision_2026_10_03:
+              status: REVIEW_REQUIRED_NOT_APPROVED
+              font_family: Architects Daughter
+              font_size_pt: 18
+              spread_trim_inches: [17, 8.5]
+              export_dimensions_px: [5100, 2550]
+              export_dpi: 300
+              exact_embedded_type_verified: true
+              original_pixels_outside_lettering_preserved: true
+              pdf_drive_id: 1tDXbQ1nTwBxVx9CZIXCZbUruG5orrkIX
+              png_drive_id: 1CIbZv2psBPWEseEArFblHOUl9FW7Xizk
+              audit_drive_id: 1LNs3Bt2hK-WvjPcCCaBJkv7LBJFw6rBA
+              edit_package_drive_id: 1O0klxxO173vT1KD8OCaADX_BWQLvjVVL
+              original_assets_preserved: true
+              artwork_approval_transferred: false
+              native_artwork_print_detail_verified: false
+              print_ready: false
+            
           
-        
-    alternate_perspective_option:
-      revision: REV8_2026_10_10
-      status: PREFERRED_PERSPECTIVE_FULL_CANON_FAIL
-      preferred_by_author: true
-      preference_is_approval: false
-      approved: false
-      drive_id: 199vE9J_w1pL8zTLOef5lHkpOfk_tuy_m
-      sha256: ac49db9700b93b6f6210e8c2cb84f63fb05c217d72f960a46298c3114ce238c2
-      audit_drive_id: 1LOen5g2QOn3t4o0V40bk1yJcrI34LeQ3
-      audit: qa/REV8_FULL_CANON_PASS_FAIL_2026-10-10.md
-      all_pass: false
-      preliminary_audit_superseded: qa/REV8_PERSPECTIVE_REVIEW_2026-10-10.md
-      correction_to_preliminary_audit: Steph_clear_safety_glasses_visible_PASS
-      artwork_changed_during_audit: false
-      previous_REV7_preserved: true
-      archived: false
-      next_step: Await_author_feedback_before_corrections
+      alternate_perspective_option:
+        revision: REV8_2026_10_10
+        status: PREFERRED_PERSPECTIVE_FULL_CANON_FAIL
+        preferred_by_author: true
+        preference_is_approval: false
+        approved: false
+        drive_id: 199vE9J_w1pL8zTLOef5lHkpOfk_tuy_m
+        sha256: ac49db9700b93b6f6210e8c2cb84f63fb05c217d72f960a46298c3114ce238c2
+        audit_drive_id: 1LOen5g2QOn3t4o0V40bk1yJcrI34LeQ3
+        audit: qa/REV8_FULL_CANON_PASS_FAIL_2026-10-10.md
+        all_pass: false
+        preliminary_audit_superseded: qa/REV8_PERSPECTIVE_REVIEW_2026-10-10.md
+        correction_to_preliminary_audit: Steph_clear_safety_glasses_visible_PASS
+        artwork_changed_during_audit: false
+        previous_REV7_preserved: true
+        archived: false
+        next_step: Await_author_feedback_before_corrections
+      
     
   
