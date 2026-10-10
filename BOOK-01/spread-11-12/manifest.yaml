@@ -4,7 +4,7 @@ pages: &id001
 - 11
 - 12
 title: The Fire Station Sticker
-status: PENDING_AUTHOR_REVIEW_NOT_ALL_PASS
+status: CANON_FAIL_PENDING_AUTHOR_REVIEW
 approved: false
 final_locked: false
 version_a:
@@ -37,7 +37,7 @@ candidate:
   full_spread_regenerated: false
   source_files_modified: false
 active_review:
-  request: Fix the current spread
+  request: Full cannon check pass fail
   scope_confirmation: I meant for that to be locked moving forward
   full_likeness: PENDING_AUTHOR_REVIEW
   helmet_applications: PASS_MANUAL_VISIBLE_REFERENCE_COMPARISON
@@ -46,6 +46,13 @@ active_review:
   audit_drive_id: 1lOJgMMZDuWXk_xJrKyfNvlCW5Du3bV06
   audit_path: qa/REV26_LOCKED_HELMET_AUDIT_2026-10-10.md
   regression_checks: qa/REV26_LOCKED_HELMET_CONTINUITY_2026-10-10.yaml
+  full_canon_result: FAIL
+  full_canon_counts:
+    PASS: 49
+    FAIL: 1
+    UNVERIFIED: 18
+  full_canon_audit_path: qa/REV26_FULL_CANON_AUDIT_2026-10-10.md
+  full_canon_audit_drive_id: 1EfpekVQm_0-bCMmvucJn86T9UmIyaS4l
 audit:
   drive_id: 1lOJgMMZDuWXk_xJrKyfNvlCW5Du3bV06
   report: qa/REV26_LOCKED_HELMET_AUDIT_2026-10-10.md
@@ -66,6 +73,15 @@ audit:
   prior_versions_preserved: true
   archived: false
   print_ready: false
+  full_canon:
+    result: FAIL
+    report: qa/REV26_FULL_CANON_AUDIT_2026-10-10.md
+    drive_id: 1EfpekVQm_0-bCMmvucJn86T9UmIyaS4l
+    checklist: qa/REV26_FULL_CANON_CHECKLIST_2026-10-10.json
+    checklist_drive_id: 1lF9i5ye5tng1btoVQdWHtOBB9k7m7BGM
+    artwork_changed: false
+    all_pass: false
+    approved: false
 approved_LS_application_reference:
   drive_id: 1WV1NJ9hH9PE4nNgnKk9DbY1HR9-KEtY2
   sha256: 2b9f89198ee798afe02f116a2e09eb6695cf2db5cdbe0b40cb682ca04fcb576b
@@ -87,16 +103,20 @@ open_items:
 - author_whole_spread_review
 - author_Vinny_full_likeness_review
 - exact_numeric_heights
-- held_sticker_comparative_physical_scale_and_pose_rectification
 - unestablished_badge_physical_dimensions_and_rigorous_3D_rectification
 - hidden_details_and_site_geometry
 - native_print_proof
 - matching_REV26_bleed_exports_and_final_print_preflight
+- Vinny_held_sticker_comparative_scale_correction
+- held_sticker_exact_physical_dimensions
+- fine_occluded_character_details
+- temporary_sign_off_camera_location
+- final_manual_wording_review
 permanent_recipient_sticker_locations_changed: false
 proposed_pose: before_application_each_recipient_holds_one
 final_lock_requires: Adam
-next_step: Show REV26 complete spread and helmet close-ups. Await author whole-spread
-  feedback; existing logo standard is already locked. No approval or archive.
+next_step: Show full REV26 audit; await Adam feedback before artwork correction or
+  approval. No archive or advancement.
 historical_previous_manifest:
   book: 1
   spread: 11-12
@@ -936,3 +956,5 @@ historical_previous_manifest:
                 previous_REV7_preserved: true
                 archived: false
                 next_step: Await_author_feedback_before_corrections
+confirmed_visible_failures:
+- Vinny_held_sticker_oversized_relative_to_peers_at_similar_depth
