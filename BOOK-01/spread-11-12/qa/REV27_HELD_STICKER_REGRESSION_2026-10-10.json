@@ -1,0 +1,12 @@
+{
+  "revision": "REV27",
+  "authority": "Existing approved sticker graphic and smaller canon scale; same source as REV26 regression",
+  "new_standard": false,
+  "result": "PASS_MANUAL_COMPARATIVE_SCALE",
+  "graphic_diameter": 40,
+  "units": "candidate pixels, not physical inches or permanent numeric tolerance",
+  "preserve_exact_asset": true,
+  "future_check": "Compare printed sticker diameter relative to head/helmet and peers at similar depth; exclude backing paper; inspect grip for residual print",
+  "unverified_physical_inches": true,
+  "approved": false
+}
