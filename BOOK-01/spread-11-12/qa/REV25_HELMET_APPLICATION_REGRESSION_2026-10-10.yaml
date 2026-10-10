@@ -1,0 +1,19 @@
+revision: REV25
+authority: CANON/character-rules.yaml#hard_hat_badge_application_lock
+approved_reference_drive_id: 1WV1NJ9hH9PE4nNgnKk9DbY1HR9-KEtY2
+new_design_standard: false
+scope: existing_approved_LS_application
+checks:
+- Use exact locked asset, preserving intrinsic proportions before helmet projection.
+- Inspect front panel, facial centerline, nose direction, proportional fit and brim
+  clearance at full crop and spread scale.
+- Reject floating marks, shell-edge crossing, rear-view front badges, duplicate/ghost
+  marks and cleaning seams.
+- Keep employer logos independent of LS and preserve separate Brooks approval.
+- Pixel-check that faces, clothing, hands, site and existing lettering are unchanged
+  outside authorized logo footprints.
+- Keep hidden, physical-size and rigorous pose-rectification details UNVERIFIED; never
+  infer author approval.
+mechanical_checks: qa/REV25_VERIFICATION_2026-10-10.json
+visual_check_requires_human_inspection: true
+author_approval: false
