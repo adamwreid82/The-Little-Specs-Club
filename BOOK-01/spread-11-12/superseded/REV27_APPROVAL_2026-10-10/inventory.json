@@ -1,0 +1,1552 @@
+{
+  "spread": "11-12",
+  "approval_revision": "REV27",
+  "superseded_folder": {
+    "success": true,
+    "id": "1Kl2ItqFwlVUB_3XGajBt_I-l3YlBWsyu",
+    "url": "https://drive.google.com/drive/folders/1Kl2ItqFwlVUB_3XGajBt_I-l3YlBWsyu",
+    "title": "Superseded",
+    "parent_id": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ"
+  },
+  "groups": [
+    {
+      "name": "REV26_2026-10-10",
+      "id": "1wQ-uWQT74wCOEqdJz9Tj4eUTUsL-zbvI",
+      "url": "https://drive.google.com/drive/folders/1wQ-uWQT74wCOEqdJz9Tj4eUTUsL-zbvI",
+      "file_count": 7
+    },
+    {
+      "name": "REV25_2026-10-10",
+      "id": "1y5eOOXGEinlP6w9II3MpQlakyDshxMZQ",
+      "url": "https://drive.google.com/drive/folders/1y5eOOXGEinlP6w9II3MpQlakyDshxMZQ",
+      "file_count": 5
+    },
+    {
+      "name": "REV23_2026-10-10",
+      "id": "1QHkY8q6cI7ib22NE2Nj46zpejTPkqjAz",
+      "url": "https://drive.google.com/drive/folders/1QHkY8q6cI7ib22NE2Nj46zpejTPkqjAz",
+      "file_count": 2
+    },
+    {
+      "name": "REV24_2026-10-10",
+      "id": "1gjkFOuKQ2t1e1JO95P1dndJuMokDQR_4",
+      "url": "https://drive.google.com/drive/folders/1gjkFOuKQ2t1e1JO95P1dndJuMokDQR_4",
+      "file_count": 5
+    },
+    {
+      "name": "REV22_2026-10-10",
+      "id": "1iy4P-9YN5yb13YX2vPQ98L_OvGW1f5qw",
+      "url": "https://drive.google.com/drive/folders/1iy4P-9YN5yb13YX2vPQ98L_OvGW1f5qw",
+      "file_count": 1
+    },
+    {
+      "name": "REV21_2026-10-10",
+      "id": "1c2sFPJPq5ckroziL8dTuZ6_9aSGakVPq",
+      "url": "https://drive.google.com/drive/folders/1c2sFPJPq5ckroziL8dTuZ6_9aSGakVPq",
+      "file_count": 1
+    },
+    {
+      "name": "REV20_2026-10-10",
+      "id": "1IVcTUskriBGrw7yWiEk1fGQNOT4qBh0B",
+      "url": "https://drive.google.com/drive/folders/1IVcTUskriBGrw7yWiEk1fGQNOT4qBh0B",
+      "file_count": 1
+    },
+    {
+      "name": "REV19_2026-10-10",
+      "id": "13QH-J07vEuvN7xaBA0vCAZWO3nj5q8D8",
+      "url": "https://drive.google.com/drive/folders/13QH-J07vEuvN7xaBA0vCAZWO3nj5q8D8",
+      "file_count": 1
+    },
+    {
+      "name": "REV18_2026-10-10",
+      "id": "1ikRZuhbNagjcbUr4VxXjxtnN8siS0mDe",
+      "url": "https://drive.google.com/drive/folders/1ikRZuhbNagjcbUr4VxXjxtnN8siS0mDe",
+      "file_count": 5
+    },
+    {
+      "name": "REV17_2026-10-10",
+      "id": "1-VbASR2o01MnVrkVKugjvKw-Yw93gLFw",
+      "url": "https://drive.google.com/drive/folders/1-VbASR2o01MnVrkVKugjvKw-Yw93gLFw",
+      "file_count": 8
+    },
+    {
+      "name": "REV16_2026-10-10",
+      "id": "1CRDBp6j1k5HEnpIF-4ww8EZxbMWId6vE",
+      "url": "https://drive.google.com/drive/folders/1CRDBp6j1k5HEnpIF-4ww8EZxbMWId6vE",
+      "file_count": 2
+    },
+    {
+      "name": "REV15_2026-10-10",
+      "id": "1RPB2GHpUzMCzFL2DASl8PV_ad9RRJxqJ",
+      "url": "https://drive.google.com/drive/folders/1RPB2GHpUzMCzFL2DASl8PV_ad9RRJxqJ",
+      "file_count": 2
+    },
+    {
+      "name": "REV14_2026-10-10",
+      "id": "1JrV0a6EjpUrP4JF5OEk6uaaEQinGsbCu",
+      "url": "https://drive.google.com/drive/folders/1JrV0a6EjpUrP4JF5OEk6uaaEQinGsbCu",
+      "file_count": 2
+    },
+    {
+      "name": "REV12_2026-10-10",
+      "id": "1TN2jx3Jp-bb4oDX9s2s4VRSrtMxvK31z",
+      "url": "https://drive.google.com/drive/folders/1TN2jx3Jp-bb4oDX9s2s4VRSrtMxvK31z",
+      "file_count": 2
+    },
+    {
+      "name": "REV11_2026-10-10",
+      "id": "1kUhZrYGIgWbu6Y1yFSLbiCoa49b596J6",
+      "url": "https://drive.google.com/drive/folders/1kUhZrYGIgWbu6Y1yFSLbiCoa49b596J6",
+      "file_count": 2
+    },
+    {
+      "name": "REV10_2026-10-10",
+      "id": "1SQ9KBe84WhbFTX9duPR2w4QYjYVv9Zgu",
+      "url": "https://drive.google.com/drive/folders/1SQ9KBe84WhbFTX9duPR2w4QYjYVv9Zgu",
+      "file_count": 2
+    },
+    {
+      "name": "REV13_2026-10-10",
+      "id": "1aSOMtCuwGJyPmdJwrSKP4FaQ7O2cHm24",
+      "url": "https://drive.google.com/drive/folders/1aSOMtCuwGJyPmdJwrSKP4FaQ7O2cHm24",
+      "file_count": 3
+    },
+    {
+      "name": "REV09_2026-10-10",
+      "id": "1uPhIHiBqblWknw2-4w8ctzp7WHyoBNck",
+      "url": "https://drive.google.com/drive/folders/1uPhIHiBqblWknw2-4w8ctzp7WHyoBNck",
+      "file_count": 3
+    },
+    {
+      "name": "REV08_2026-10-10",
+      "id": "1qie3SmF7k-iA2MCZ_W0aZhKlY9mLhqMW",
+      "url": "https://drive.google.com/drive/folders/1qie3SmF7k-iA2MCZ_W0aZhKlY9mLhqMW",
+      "file_count": 3
+    },
+    {
+      "name": "REV07_2026-10-10",
+      "id": "131XDsDOWkjP6ywIqhJdCxwIAcym6a-uR",
+      "url": "https://drive.google.com/drive/folders/131XDsDOWkjP6ywIqhJdCxwIAcym6a-uR",
+      "file_count": 3
+    },
+    {
+      "name": "REV06_2026-10-10",
+      "id": "1NE-6p9NzQi01pp_hQ1m9mMW0g8ZS807f",
+      "url": "https://drive.google.com/drive/folders/1NE-6p9NzQi01pp_hQ1m9mMW0g8ZS807f",
+      "file_count": 3
+    },
+    {
+      "name": "REV05_2026-10-10",
+      "id": "17tRzDU9tp7O3SDlHApjezpB82LLF7V20",
+      "url": "https://drive.google.com/drive/folders/17tRzDU9tp7O3SDlHApjezpB82LLF7V20",
+      "file_count": 1
+    },
+    {
+      "name": "REV04_2026-10-10",
+      "id": "1KqLK6_j6ZdyW3PoGBv4L6ibpD6e4zOUe",
+      "url": "https://drive.google.com/drive/folders/1KqLK6_j6ZdyW3PoGBv4L6ibpD6e4zOUe",
+      "file_count": 1
+    },
+    {
+      "name": "LEGACY_2026-10-10",
+      "id": "1AhUImn3rXnBcOe1Upgh6Jvkunrdu9Qd-",
+      "url": "https://drive.google.com/drive/folders/1AhUImn3rXnBcOe1Upgh6Jvkunrdu9Qd-",
+      "file_count": 1
+    },
+    {
+      "name": "REV02_2026-10-10",
+      "id": "1NkwNezFZW9wal4WHqmhzYpJHbYAXw6LG",
+      "url": "https://drive.google.com/drive/folders/1NkwNezFZW9wal4WHqmhzYpJHbYAXw6LG",
+      "file_count": 2
+    },
+    {
+      "name": "REV03_2026-10-10",
+      "id": "1Wp5U_6ter1jg4mmtn8vv8jW-xICDt6O_",
+      "url": "https://drive.google.com/drive/folders/1Wp5U_6ter1jg4mmtn8vv8jW-xICDt6O_",
+      "file_count": 3
+    },
+    {
+      "name": "LEGACY_2026-10-01",
+      "id": "1xhdk0MfIrfvfBeR4Lsu1vHN30z7gRPmk",
+      "url": "https://drive.google.com/drive/folders/1xhdk0MfIrfvfBeR4Lsu1vHN30z7gRPmk",
+      "file_count": 3
+    },
+    {
+      "name": "LEGACY_2026-10-03",
+      "id": "10quvTAt-JUy2KsvtaOVBbUZoB05ah6qX",
+      "url": "https://drive.google.com/drive/folders/10quvTAt-JUy2KsvtaOVBbUZoB05ah6qX",
+      "file_count": 7
+    },
+    {
+      "name": "LEGACY_2026-10-02",
+      "id": "1mLJIjFa08o-Wj57v_51f-GthbAJIojy3",
+      "url": "https://drive.google.com/drive/folders/1mLJIjFa08o-Wj57v_51f-GthbAJIojy3",
+      "file_count": 4
+    }
+  ],
+  "files": [
+    {
+      "id": "1lF9i5ye5tng1btoVQdWHtOBB9k7m7BGM",
+      "title": "REV26_FULL_CANON_CHECKLIST_2026-10-10.json",
+      "group": "REV26_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1wQ-uWQT74wCOEqdJz9Tj4eUTUsL-zbvI",
+      "size_before": "24685",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "24685",
+      "parents_after": [
+        "1wQ-uWQT74wCOEqdJz9Tj4eUTUsL-zbvI"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1EfpekVQm_0-bCMmvucJn86T9UmIyaS4l",
+      "title": "REV26_FULL_CANON_AUDIT_2026-10-10.md",
+      "group": "REV26_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1wQ-uWQT74wCOEqdJz9Tj4eUTUsL-zbvI",
+      "size_before": "17296",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "17296",
+      "parents_after": [
+        "1wQ-uWQT74wCOEqdJz9Tj4eUTUsL-zbvI"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1jW7hplULcYOvOhJOAzYAO18gk9Y4T-J2",
+      "title": "Pages_11-12_REV26_PRODUCTION_EVIDENCE_UNAPPROVED.zip",
+      "group": "REV26_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1wQ-uWQT74wCOEqdJz9Tj4eUTUsL-zbvI",
+      "size_before": "10778324",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "10778324",
+      "parents_after": [
+        "1wQ-uWQT74wCOEqdJz9Tj4eUTUsL-zbvI"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "14K7ENN5WdCCiGiOs8U-ig1n3aEDcglIR",
+      "title": "REV26_VERIFICATION.json",
+      "group": "REV26_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1wQ-uWQT74wCOEqdJz9Tj4eUTUsL-zbvI",
+      "size_before": "7865",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "7865",
+      "parents_after": [
+        "1wQ-uWQT74wCOEqdJz9Tj4eUTUsL-zbvI"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1lOJgMMZDuWXk_xJrKyfNvlCW5Du3bV06",
+      "title": "REV26_LOCKED_HELMET_AUDIT_2026-10-10.md",
+      "group": "REV26_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1wQ-uWQT74wCOEqdJz9Tj4eUTUsL-zbvI",
+      "size_before": "5867",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "5867",
+      "parents_after": [
+        "1wQ-uWQT74wCOEqdJz9Tj4eUTUsL-zbvI"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "10vr1CAtinJzehjEBR869wv87EZ-WyeeE",
+      "title": "Pages_11-12_REV26_Version_A_ART_ONLY_DRAFT.png",
+      "group": "REV26_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1wQ-uWQT74wCOEqdJz9Tj4eUTUsL-zbvI",
+      "size_before": "21415673",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "21415673",
+      "parents_after": [
+        "1wQ-uWQT74wCOEqdJz9Tj4eUTUsL-zbvI"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1NVi-26CR-w3qJPI3ZUaNooOBxJDbhJz4",
+      "title": "Pages_11-12_REV26_Version_B_LOCKED_HELMET_APPLICATION_PENDING_REVIEW.png",
+      "group": "REV26_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1wQ-uWQT74wCOEqdJz9Tj4eUTUsL-zbvI",
+      "size_before": "24104319",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "24104319",
+      "parents_after": [
+        "1wQ-uWQT74wCOEqdJz9Tj4eUTUsL-zbvI"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1CJnuWPf3RZFc5CY-1ZphddwFEm2kqt2f",
+      "title": "Pages_11-12_REV25_PRODUCTION_EVIDENCE_UNAPPROVED.zip",
+      "group": "REV25_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1y5eOOXGEinlP6w9II3MpQlakyDshxMZQ",
+      "size_before": "11864106",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "11864106",
+      "parents_after": [
+        "1y5eOOXGEinlP6w9II3MpQlakyDshxMZQ"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1rebd4pwwCwwBxS3mRFqZE27ev5WQZIot",
+      "title": "REV25_VERIFICATION.json",
+      "group": "REV25_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1y5eOOXGEinlP6w9II3MpQlakyDshxMZQ",
+      "size_before": "3585",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "3585",
+      "parents_after": [
+        "1y5eOOXGEinlP6w9II3MpQlakyDshxMZQ"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1PCE0c9Jjih2EHfMlqDF_QN37CBZtz09H",
+      "title": "REV25_HELMET_LOGO_AUDIT_2026-10-10.md",
+      "group": "REV25_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1y5eOOXGEinlP6w9II3MpQlakyDshxMZQ",
+      "size_before": "5192",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "5192",
+      "parents_after": [
+        "1y5eOOXGEinlP6w9II3MpQlakyDshxMZQ"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1x3Py1ki2CNW2jAzDhGowBW_O4NwLCkMU",
+      "title": "Pages_11-12_REV25_Version_A_ART_ONLY_DRAFT.png",
+      "group": "REV25_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1y5eOOXGEinlP6w9II3MpQlakyDshxMZQ",
+      "size_before": "21412933",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "21412933",
+      "parents_after": [
+        "1y5eOOXGEinlP6w9II3MpQlakyDshxMZQ"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1TjCblgPjDtqp0Ti_RtQQ9yF5JAiKc0mH",
+      "title": "Pages_11-12_REV25_Version_B_HELMET_LOGO_CORRECTION_PENDING_REVIEW.png",
+      "group": "REV25_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1y5eOOXGEinlP6w9II3MpQlakyDshxMZQ",
+      "size_before": "24101101",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "24101101",
+      "parents_after": [
+        "1y5eOOXGEinlP6w9II3MpQlakyDshxMZQ"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "14ojYnUfUKOfXzQSMMc68LXJNAqz6Xox7",
+      "title": "Pages_11-12_REV23_FAILED_MASK_INTERMEDIATE_Version_A.png",
+      "group": "REV23_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1QHkY8q6cI7ib22NE2Nj46zpejTPkqjAz",
+      "size_before": "21411073",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "21411073",
+      "parents_after": [
+        "1QHkY8q6cI7ib22NE2Nj46zpejTPkqjAz"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "132Xaq5Jrg79DYc4QlyXVhdVeJ4_SRJoH",
+      "title": "Pages_11-12_REV23_FAILED_MASK_INTERMEDIATE_Version_B.png",
+      "group": "REV23_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1QHkY8q6cI7ib22NE2Nj46zpejTPkqjAz",
+      "size_before": "24099266",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "24099266",
+      "parents_after": [
+        "1QHkY8q6cI7ib22NE2Nj46zpejTPkqjAz"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1Mq1BXrbLi55ZW6w6Ao2eknJQm-i2N_zs",
+      "title": "Pages_11-12_REV24_PRODUCTION_EVIDENCE_UNAPPROVED.zip",
+      "group": "REV24_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1gjkFOuKQ2t1e1JO95P1dndJuMokDQR_4",
+      "size_before": "49635417",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "49635417",
+      "parents_after": [
+        "1gjkFOuKQ2t1e1JO95P1dndJuMokDQR_4"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1ODEupVdi263pAsDGB5jN6qkmZKowNDRP",
+      "title": "REV24_VERIFICATION.json",
+      "group": "REV24_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1gjkFOuKQ2t1e1JO95P1dndJuMokDQR_4",
+      "size_before": "1269",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "1269",
+      "parents_after": [
+        "1gjkFOuKQ2t1e1JO95P1dndJuMokDQR_4"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1kIR5IB5J9rzQ0XZSFcGAENVtsirvZZeu",
+      "title": "REV24_VINNY_REGENERATION_AUDIT_2026-10-10.md",
+      "group": "REV24_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1gjkFOuKQ2t1e1JO95P1dndJuMokDQR_4",
+      "size_before": "7341",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "7341",
+      "parents_after": [
+        "1gjkFOuKQ2t1e1JO95P1dndJuMokDQR_4"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1nT2C2qgtmEHy0HzlYi53ht6THGcyqUck",
+      "title": "Pages_11-12_REV24_Version_A_ART_ONLY_DRAFT.png",
+      "group": "REV24_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1gjkFOuKQ2t1e1JO95P1dndJuMokDQR_4",
+      "size_before": "21411116",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "21411116",
+      "parents_after": [
+        "1gjkFOuKQ2t1e1JO95P1dndJuMokDQR_4"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1oeXUHiZN1wgBIc2TiPzMcLLukitoHuws",
+      "title": "Pages_11-12_REV24_Version_B_VINNY_REGENERATED_PENDING_REVIEW.png",
+      "group": "REV24_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1gjkFOuKQ2t1e1JO95P1dndJuMokDQR_4",
+      "size_before": "24099125",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "24099125",
+      "parents_after": [
+        "1gjkFOuKQ2t1e1JO95P1dndJuMokDQR_4"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1eCycn5mhRz8-bgq2wOx4Hzz0ZLfmw82X",
+      "title": "Pages_11-12_REV22_INTERMEDIATE_UNAPPROVED.zip",
+      "group": "REV22_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1iy4P-9YN5yb13YX2vPQ98L_OvGW1f5qw",
+      "size_before": "45458043",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "45458043",
+      "parents_after": [
+        "1iy4P-9YN5yb13YX2vPQ98L_OvGW1f5qw"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1OCyE34Ev1JTZ_Nu-pkU02hCt-qiX4UtJ",
+      "title": "Pages_11-12_REV21_INTERMEDIATE_UNAPPROVED.zip",
+      "group": "REV21_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1c2sFPJPq5ckroziL8dTuZ6_9aSGakVPq",
+      "size_before": "45457906",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "45457906",
+      "parents_after": [
+        "1c2sFPJPq5ckroziL8dTuZ6_9aSGakVPq"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1ySMMbOfdn9P45uv0dmzjb_KZTPCmvrif",
+      "title": "Pages_11-12_REV20_INTERMEDIATE_UNAPPROVED.zip",
+      "group": "REV20_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1IVcTUskriBGrw7yWiEk1fGQNOT4qBh0B",
+      "size_before": "45457504",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "45457504",
+      "parents_after": [
+        "1IVcTUskriBGrw7yWiEk1fGQNOT4qBh0B"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1_Z-bZTmRM6jR6o0vnjtdtbyJ5lEQshOF",
+      "title": "Pages_11-12_REV19_INTERMEDIATE_UNAPPROVED.zip",
+      "group": "REV19_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "13QH-J07vEuvN7xaBA0vCAZWO3nj5q8D8",
+      "size_before": "45445381",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "45445381",
+      "parents_after": [
+        "13QH-J07vEuvN7xaBA0vCAZWO3nj5q8D8"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1cZ24ojBCgVxp2dG_zv64E-aOYzkjDPnk",
+      "title": "Pages_11-12_REV18_PRODUCTION_EVIDENCE_UNAPPROVED.zip",
+      "group": "REV18_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1ikRZuhbNagjcbUr4VxXjxtnN8siS0mDe",
+      "size_before": "11262977",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "11262977",
+      "parents_after": [
+        "1ikRZuhbNagjcbUr4VxXjxtnN8siS0mDe"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1pC5KnF5AtITsnWC-gcFEpip8SsB1yXos",
+      "title": "REV18_VERIFICATION.json",
+      "group": "REV18_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1ikRZuhbNagjcbUr4VxXjxtnN8siS0mDe",
+      "size_before": "1372",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "1372",
+      "parents_after": [
+        "1ikRZuhbNagjcbUr4VxXjxtnN8siS0mDe"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1UlKEZL3-d2ii70ewM3w8HKM46QE4qzkI",
+      "title": "REV18_CANON_CORRECTION_AUDIT_2026-10-10.md",
+      "group": "REV18_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1ikRZuhbNagjcbUr4VxXjxtnN8siS0mDe",
+      "size_before": "6410",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "6410",
+      "parents_after": [
+        "1ikRZuhbNagjcbUr4VxXjxtnN8siS0mDe"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1yKwK8F4WlNIFeXfhqSZMuUU8Anzh6Mpy",
+      "title": "Pages_11-12_REV18_Version_A_ART_ONLY_DRAFT.png",
+      "group": "REV18_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1ikRZuhbNagjcbUr4VxXjxtnN8siS0mDe",
+      "size_before": "21418995",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "21418995",
+      "parents_after": [
+        "1ikRZuhbNagjcbUr4VxXjxtnN8siS0mDe"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1y2Bk7y3vq0JO6WKMAj4nLug9pcp5cslZ",
+      "title": "Pages_11-12_REV18_Version_B_PENDING_REVIEW.png",
+      "group": "REV18_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1ikRZuhbNagjcbUr4VxXjxtnN8siS0mDe",
+      "size_before": "24781137",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "24781137",
+      "parents_after": [
+        "1ikRZuhbNagjcbUr4VxXjxtnN8siS0mDe"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1hrSeS1CYxLbPEo73f456WGv0lItBtwZ4",
+      "title": "REV17_KIDS_SOURCE_RECHECK_2026-10-10.md",
+      "group": "REV17_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1-VbASR2o01MnVrkVKugjvKw-Yw93gLFw",
+      "size_before": "5238",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "5238",
+      "parents_after": [
+        "1-VbASR2o01MnVrkVKugjvKw-Yw93gLFw"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1xLF4E-evUKIrMMCd_yTaHhaHYrNSHHBW",
+      "title": "Pages_11-12_REV17_PRODUCTION_EVIDENCE_UNAPPROVED.zip",
+      "group": "REV17_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1-VbASR2o01MnVrkVKugjvKw-Yw93gLFw",
+      "size_before": "5008764",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "5008764",
+      "parents_after": [
+        "1-VbASR2o01MnVrkVKugjvKw-Yw93gLFw"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1WeCrfNWRkK4qrQON8xSGFeT2gPqbpjqV",
+      "title": "REV17_VERIFICATION.json",
+      "group": "REV17_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1-VbASR2o01MnVrkVKugjvKw-Yw93gLFw",
+      "size_before": "1132",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "1132",
+      "parents_after": [
+        "1-VbASR2o01MnVrkVKugjvKw-Yw93gLFw"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1gW5Wo5nNyGu9EUjsM_XyDJpkt4IrQvfH",
+      "title": "REV17_FULL_CANON_PASS_FAIL_2026-10-10.md",
+      "group": "REV17_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1-VbASR2o01MnVrkVKugjvKw-Yw93gLFw",
+      "size_before": "10836",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "10836",
+      "parents_after": [
+        "1-VbASR2o01MnVrkVKugjvKw-Yw93gLFw"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1KJ899mXUsHp5wjZi4b5qq_XCz70oM9kt",
+      "title": "Pages_11-12_REV17_Version_B_BLEED_DRAFT.pdf",
+      "group": "REV17_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1-VbASR2o01MnVrkVKugjvKw-Yw93gLFw",
+      "size_before": "27757028",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "27757028",
+      "parents_after": [
+        "1-VbASR2o01MnVrkVKugjvKw-Yw93gLFw"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1g2GaVJYZj3YkTUcg5MENx_J88WtZxLdV",
+      "title": "Pages_11-12_REV17_Version_A_BLEED_DRAFT.pdf",
+      "group": "REV17_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1-VbASR2o01MnVrkVKugjvKw-Yw93gLFw",
+      "size_before": "27171792",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "27171792",
+      "parents_after": [
+        "1-VbASR2o01MnVrkVKugjvKw-Yw93gLFw"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1q3rL_uYJqb4n7Z7O679Gaf8D0j4JQruV",
+      "title": "Pages_11-12_REV17_Version_A_ART_ONLY_DRAFT.png",
+      "group": "REV17_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1-VbASR2o01MnVrkVKugjvKw-Yw93gLFw",
+      "size_before": "24330750",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "24330750",
+      "parents_after": [
+        "1-VbASR2o01MnVrkVKugjvKw-Yw93gLFw"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "13Xpg7cQLoRlRowGytzvDJXG7NgyPH0mj",
+      "title": "Pages_11-12_REV17_Version_B_PENDING_REVIEW.png",
+      "group": "REV17_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1-VbASR2o01MnVrkVKugjvKw-Yw93gLFw",
+      "size_before": "24759158",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "24759158",
+      "parents_after": [
+        "1-VbASR2o01MnVrkVKugjvKw-Yw93gLFw"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "18ZSYigo6jIG-OYZJyw18ygNNCrAFdBXL",
+      "title": "Pages_11-12_REV16_WORKING_A_AND_AUDIT_UNAPPROVED.zip",
+      "group": "REV16_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1CRDBp6j1k5HEnpIF-4ww8EZxbMWId6vE",
+      "size_before": "764571",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "764571",
+      "parents_after": [
+        "1CRDBp6j1k5HEnpIF-4ww8EZxbMWId6vE"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1we-yEW6kk_Lf-Mb_3TUaDWaDI-psQ5E_",
+      "title": "Pages_11-12_REV16_Version_B_PENDING_REVIEW.png",
+      "group": "REV16_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1CRDBp6j1k5HEnpIF-4ww8EZxbMWId6vE",
+      "size_before": "24757118",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "24757118",
+      "parents_after": [
+        "1CRDBp6j1k5HEnpIF-4ww8EZxbMWId6vE"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1dpH499xei1vDzCwfAaHnqbZMpicU_N5k",
+      "title": "Pages_11-12_REV15_WORKING_A_AND_AUDIT_UNAPPROVED.zip",
+      "group": "REV15_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1RPB2GHpUzMCzFL2DASl8PV_ad9RRJxqJ",
+      "size_before": "23991749",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "23991749",
+      "parents_after": [
+        "1RPB2GHpUzMCzFL2DASl8PV_ad9RRJxqJ"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "18VJ_5BycdrPL_z2PKsQtRcHh5lV3jojI",
+      "title": "Pages_11-12_REV15_Version_B_PENDING_REVIEW.png",
+      "group": "REV15_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1RPB2GHpUzMCzFL2DASl8PV_ad9RRJxqJ",
+      "size_before": "24444793",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "24444793",
+      "parents_after": [
+        "1RPB2GHpUzMCzFL2DASl8PV_ad9RRJxqJ"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1uhZCn4Td0Zgdff7iIE026f9oIyJl_CfN",
+      "title": "Pages_11-12_REV14_WORKING_A_AND_AUDIT_UNAPPROVED.zip",
+      "group": "REV14_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1JrV0a6EjpUrP4JF5OEk6uaaEQinGsbCu",
+      "size_before": "23996379",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "23996379",
+      "parents_after": [
+        "1JrV0a6EjpUrP4JF5OEk6uaaEQinGsbCu"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1weF1KaKsttlGg9glxMI6DAifPRqe92Ai",
+      "title": "Pages_11-12_REV14_Version_B_PENDING_REVIEW.png",
+      "group": "REV14_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1JrV0a6EjpUrP4JF5OEk6uaaEQinGsbCu",
+      "size_before": "24449519",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "24449519",
+      "parents_after": [
+        "1JrV0a6EjpUrP4JF5OEk6uaaEQinGsbCu"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1SRy8rlTzoPm6X9SbxaxoYMvD8qGBrEB3",
+      "title": "REV12_INTERMEDIATE_AUDIT_2026-10-10.md",
+      "group": "REV12_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1TN2jx3Jp-bb4oDX9s2s4VRSrtMxvK31z",
+      "size_before": "588",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "588",
+      "parents_after": [
+        "1TN2jx3Jp-bb4oDX9s2s4VRSrtMxvK31z"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1Jh6ptZ3sbrJQ8eGb-IiviVl86_U3kCl2",
+      "title": "Pages_11-12_REV12_CANON_CORRECTIONS_PENDING_REVIEW.png",
+      "group": "REV12_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1TN2jx3Jp-bb4oDX9s2s4VRSrtMxvK31z",
+      "size_before": "24420413",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "24420413",
+      "parents_after": [
+        "1TN2jx3Jp-bb4oDX9s2s4VRSrtMxvK31z"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1vKiDWVP4B3OqwYaAa-6XefFFpiXoI3Rr",
+      "title": "REV11_INTERMEDIATE_AUDIT_2026-10-10.md",
+      "group": "REV11_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1kUhZrYGIgWbu6Y1yFSLbiCoa49b596J6",
+      "size_before": "592",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "592",
+      "parents_after": [
+        "1kUhZrYGIgWbu6Y1yFSLbiCoa49b596J6"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1K-d__lCZMRwWfAtv4sxqazde2mTm7fxH",
+      "title": "Pages_11-12_REV11_CANON_CORRECTIONS_PENDING_REVIEW.png",
+      "group": "REV11_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1kUhZrYGIgWbu6Y1yFSLbiCoa49b596J6",
+      "size_before": "24405709",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "24405709",
+      "parents_after": [
+        "1kUhZrYGIgWbu6Y1yFSLbiCoa49b596J6"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1Eo85H4yBahC4e9GNXl7_M7DkHIQJdD_u",
+      "title": "REV10_INTERMEDIATE_AUDIT_2026-10-10.md",
+      "group": "REV10_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1SQ9KBe84WhbFTX9duPR2w4QYjYVv9Zgu",
+      "size_before": "581",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "581",
+      "parents_after": [
+        "1SQ9KBe84WhbFTX9duPR2w4QYjYVv9Zgu"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "14lHVJwR154_SUEmQQ98srvFZMTicckb3",
+      "title": "Pages_11-12_REV10_LOCAL_CANON_CORRECTIONS_PENDING_REVIEW.png",
+      "group": "REV10_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1SQ9KBe84WhbFTX9duPR2w4QYjYVv9Zgu",
+      "size_before": "24405794",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "24405794",
+      "parents_after": [
+        "1SQ9KBe84WhbFTX9duPR2w4QYjYVv9Zgu"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1ZAguNmzXiFPkDKxi2aAq0BR_CWDrHGDU",
+      "title": "REV13_VERIFICATION.json",
+      "group": "REV13_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1aSOMtCuwGJyPmdJwrSKP4FaQ7O2cHm24",
+      "size_before": "2157",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "2157",
+      "parents_after": [
+        "1aSOMtCuwGJyPmdJwrSKP4FaQ7O2cHm24"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1V5I_rqheVc5qs6vqY7iI_QRkHb9AfR9x",
+      "title": "REV13_FULL_CANON_PASS_FAIL_2026-10-10.md",
+      "group": "REV13_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1aSOMtCuwGJyPmdJwrSKP4FaQ7O2cHm24",
+      "size_before": "10595",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "10595",
+      "parents_after": [
+        "1aSOMtCuwGJyPmdJwrSKP4FaQ7O2cHm24"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1FCmdRUD9US0_zBtybDmhmU5GqvixUkPc",
+      "title": "Pages_11-12_REV13_CANON_CORRECTIONS_PENDING_REVIEW.png",
+      "group": "REV13_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1aSOMtCuwGJyPmdJwrSKP4FaQ7O2cHm24",
+      "size_before": "24408079",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "24408079",
+      "parents_after": [
+        "1aSOMtCuwGJyPmdJwrSKP4FaQ7O2cHm24"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1M99lq1l3echc2QYfNIDHe4nGO4cSaX6a",
+      "title": "REV9_CANON_PASS_FAIL_2026-10-10.md",
+      "group": "REV09_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1uPhIHiBqblWknw2-4w8ctzp7WHyoBNck",
+      "size_before": "9465",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "9465",
+      "parents_after": [
+        "1uPhIHiBqblWknw2-4w8ctzp7WHyoBNck"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1u3lV55jovUIdFI2sJ-BVQ8P4P2n9iaTB",
+      "title": "REV9_VERIFICATION.json",
+      "group": "REV09_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1uPhIHiBqblWknw2-4w8ctzp7WHyoBNck",
+      "size_before": "4055",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "4055",
+      "parents_after": [
+        "1uPhIHiBqblWknw2-4w8ctzp7WHyoBNck"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1xt2B1htQ1dz_kh-PTNiNgKeTGxBCFifh",
+      "title": "Pages_11-12_REV9_PERSPECTIVE_CORRECTIONS_PENDING_REVIEW.png",
+      "group": "REV09_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1uPhIHiBqblWknw2-4w8ctzp7WHyoBNck",
+      "size_before": "24338475",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "24338475",
+      "parents_after": [
+        "1uPhIHiBqblWknw2-4w8ctzp7WHyoBNck"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1LOen5g2QOn3t4o0V40bk1yJcrI34LeQ3",
+      "title": "REV8_FULL_CANON_PASS_FAIL_2026-10-10.md",
+      "group": "REV08_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1qie3SmF7k-iA2MCZ_W0aZhKlY9mLhqMW",
+      "size_before": "9025",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "9025",
+      "parents_after": [
+        "1qie3SmF7k-iA2MCZ_W0aZhKlY9mLhqMW"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1sH77QqQt0zp3rX1pKtyThF5NUztuI_dV",
+      "title": "REV8_PERSPECTIVE_REVIEW_2026-10-10.md",
+      "group": "REV08_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1qie3SmF7k-iA2MCZ_W0aZhKlY9mLhqMW",
+      "size_before": "2306",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "2306",
+      "parents_after": [
+        "1qie3SmF7k-iA2MCZ_W0aZhKlY9mLhqMW"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "199vE9J_w1pL8zTLOef5lHkpOfk_tuy_m",
+      "title": "Pages_11-12_REV8_PERSPECTIVE_OPTION_UNAPPROVED.png",
+      "group": "REV08_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1qie3SmF7k-iA2MCZ_W0aZhKlY9mLhqMW",
+      "size_before": "24071810",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "24071810",
+      "parents_after": [
+        "1qie3SmF7k-iA2MCZ_W0aZhKlY9mLhqMW"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1RehcN-2SirVjX3t1iUeLt-GifkJmkR1F",
+      "title": "REV7_VERIFICATION.json",
+      "group": "REV07_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "131XDsDOWkjP6ywIqhJdCxwIAcym6a-uR",
+      "size_before": "5144",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "5144",
+      "parents_after": [
+        "131XDsDOWkjP6ywIqhJdCxwIAcym6a-uR"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1I7v0oe3jdUh7Xi8moQYEqJnfeuOKYLaZ",
+      "title": "REV7_CANON_REVIEW_2026-10-10.md",
+      "group": "REV07_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "131XDsDOWkjP6ywIqhJdCxwIAcym6a-uR",
+      "size_before": "3920",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "3920",
+      "parents_after": [
+        "131XDsDOWkjP6ywIqhJdCxwIAcym6a-uR"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1414g5M8J2FIfxnabdz88xQPy4DsTXqLQ",
+      "title": "Pages_11-12_CANON_CORRECTIONS_REV7_PENDING_REVIEW.png",
+      "group": "REV07_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "131XDsDOWkjP6ywIqhJdCxwIAcym6a-uR",
+      "size_before": "24169362",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "24169362",
+      "parents_after": [
+        "131XDsDOWkjP6ywIqhJdCxwIAcym6a-uR"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1AflwMzLl5d9s0RsIa89aRAJ4mrLo9nsW",
+      "title": "REV6_VERIFICATION.json",
+      "group": "REV06_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1NE-6p9NzQi01pp_hQ1m9mMW0g8ZS807f",
+      "size_before": "4407",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "4407",
+      "parents_after": [
+        "1NE-6p9NzQi01pp_hQ1m9mMW0g8ZS807f"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1Ix4fJqNyNM5dqyIRSTIMH6W4DAEYhjOf",
+      "title": "REV6_CANON_REVIEW_2026-10-10.md",
+      "group": "REV06_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1NE-6p9NzQi01pp_hQ1m9mMW0g8ZS807f",
+      "size_before": "4004",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "4004",
+      "parents_after": [
+        "1NE-6p9NzQi01pp_hQ1m9mMW0g8ZS807f"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1r0AMvWF0tsu7_jqadJBrboTkFpnIUgcb",
+      "title": "Pages_11-12_CANON_CORRECTIONS_REV6_PENDING_REVIEW.png",
+      "group": "REV06_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1NE-6p9NzQi01pp_hQ1m9mMW0g8ZS807f",
+      "size_before": "24333147",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "24333147",
+      "parents_after": [
+        "1NE-6p9NzQi01pp_hQ1m9mMW0g8ZS807f"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1lf_5pVpMhbdhmCqaIJOm743SHxmlCsQW",
+      "title": "Pages_11-12_HEIGHT_CORRECTION_REV5_PENDING_REVIEW.png",
+      "group": "REV05_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "17tRzDU9tp7O3SDlHApjezpB82LLF7V20",
+      "size_before": "2866295",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "2866295",
+      "parents_after": [
+        "17tRzDU9tp7O3SDlHApjezpB82LLF7V20"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1H6wGNaJs7Ikc06hxDx2g53UDkpG_Dkm9",
+      "title": "Pages_11-12_TABLE_ADULT_PROPORTIONS_REV4_PENDING_REVIEW.png",
+      "group": "REV04_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1KqLK6_j6ZdyW3PoGBv4L6ibpD6e4zOUe",
+      "size_before": "2874111",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "2874111",
+      "parents_after": [
+        "1KqLK6_j6ZdyW3PoGBv4L6ibpD6e4zOUe"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "16dzo3bYytuE3cow4Aes9tGDSWITZiSv_",
+      "title": "Pages_11-12_LOWER_LEFT_FULL_SPREAD_DRAFT.png",
+      "group": "LEGACY_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1AhUImn3rXnBcOe1Upgh6Jvkunrdu9Qd-",
+      "size_before": "24841830",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "24841830",
+      "parents_after": [
+        "1AhUImn3rXnBcOe1Upgh6Jvkunrdu9Qd-"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1AvyOUQyTmYSvyefkouPxD80hE-GkhIcP",
+      "title": "Pages_11-12_REV2_WORDING.json",
+      "group": "REV02_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1NkwNezFZW9wal4WHqmhzYpJHbYAXw6LG",
+      "size_before": "1535",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "1535",
+      "parents_after": [
+        "1NkwNezFZW9wal4WHqmhzYpJHbYAXw6LG"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1KefZ3qM4c3nTkVin8dEhA3_yUQ_HL1BT",
+      "title": "Pages_11-12_Version_B_CANON_REPAIR_REV2_PENDING_REVIEW.png",
+      "group": "REV02_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1NkwNezFZW9wal4WHqmhzYpJHbYAXw6LG",
+      "size_before": "24386040",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "24386040",
+      "parents_after": [
+        "1NkwNezFZW9wal4WHqmhzYpJHbYAXw6LG"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1Y2o8ewA4xiqKeBfjpwwuWVjGNRRuQ04c",
+      "title": "Pages_11-12_REV3_CANON_REVIEW_2026-10-10.md",
+      "group": "REV03_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1Wp5U_6ter1jg4mmtn8vv8jW-xICDt6O_",
+      "size_before": "6233",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "6233",
+      "parents_after": [
+        "1Wp5U_6ter1jg4mmtn8vv8jW-xICDt6O_"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1bAeS2yY0RAVdeJCNq82ZzNFdybFxtFZ4",
+      "title": "Pages_11-12_REV3_VERIFICATION.json",
+      "group": "REV03_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1Wp5U_6ter1jg4mmtn8vv8jW-xICDt6O_",
+      "size_before": "6277",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "6277",
+      "parents_after": [
+        "1Wp5U_6ter1jg4mmtn8vv8jW-xICDt6O_"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1qTOP0BSvNUqFVyrPm_fWjGwGS9QIh7TT",
+      "title": "Pages_11-12_Version_B_CANON_REPAIR_REV3_PENDING_REVIEW.png",
+      "group": "REV03_2026-10-10",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1Wp5U_6ter1jg4mmtn8vv8jW-xICDt6O_",
+      "size_before": "24386342",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "24386342",
+      "parents_after": [
+        "1Wp5U_6ter1jg4mmtn8vv8jW-xICDt6O_"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1jxrnt3UwTmtIbz2NoxlUwykoaZNpDIwX",
+      "title": "Pages_11-12_AUDIT_REVIEW_REQUIRED.md",
+      "group": "LEGACY_2026-10-01",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1xhdk0MfIrfvfBeR4Lsu1vHN30z7gRPmk",
+      "size_before": "11153",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "11153",
+      "parents_after": [
+        "1xhdk0MfIrfvfBeR4Lsu1vHN30z7gRPmk"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "19WXHWXh27zk95t910Ac2WFVjv8PaAm5Z",
+      "title": "Pages_11-12_GENERATION_RECORD.txt",
+      "group": "LEGACY_2026-10-01",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1xhdk0MfIrfvfBeR4Lsu1vHN30z7gRPmk",
+      "size_before": "3776",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "3776",
+      "parents_after": [
+        "1xhdk0MfIrfvfBeR4Lsu1vHN30z7gRPmk"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1ibLq9kZA-aaQgbdsg16tl2aGtIEohjs9",
+      "title": "Pages_11-12_Version_B_CANDIDATE_R3.png",
+      "group": "LEGACY_2026-10-01",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1xhdk0MfIrfvfBeR4Lsu1vHN30z7gRPmk",
+      "size_before": "2529610",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "2529610",
+      "parents_after": [
+        "1xhdk0MfIrfvfBeR4Lsu1vHN30z7gRPmk"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1O0klxxO173vT1KD8OCaADX_BWQLvjVVL",
+      "title": "Pages_11-12_LETTERING_ONLY_EDIT_PACKAGE.zip",
+      "group": "LEGACY_2026-10-03",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "10quvTAt-JUy2KsvtaOVBbUZoB05ah6qX",
+      "size_before": "2572236",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "2572236",
+      "parents_after": [
+        "10quvTAt-JUy2KsvtaOVBbUZoB05ah6qX"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1LNs3Bt2hK-WvjPcCCaBJkv7LBJFw6rBA",
+      "title": "Pages_11-12_TYPOGRAPHY_18pt_AUDIT_REVIEW_REQUIRED.md",
+      "group": "LEGACY_2026-10-03",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "10quvTAt-JUy2KsvtaOVBbUZoB05ah6qX",
+      "size_before": "5433",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "5433",
+      "parents_after": [
+        "10quvTAt-JUy2KsvtaOVBbUZoB05ah6qX"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1CIbZv2psBPWEseEArFblHOUl9FW7Xizk",
+      "title": "Pages_11-12_Version_B_Architects_Daughter_18pt_5100x2550_MASKED_REVIEW.png",
+      "group": "LEGACY_2026-10-03",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "10quvTAt-JUy2KsvtaOVBbUZoB05ah6qX",
+      "size_before": "13111633",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "13111633",
+      "parents_after": [
+        "10quvTAt-JUy2KsvtaOVBbUZoB05ah6qX"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1tDXbQ1nTwBxVx9CZIXCZbUruG5orrkIX",
+      "title": "Pages_11-12_Version_B_Architects_Daughter_18pt_MASKED_REVIEW.pdf",
+      "group": "LEGACY_2026-10-03",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "10quvTAt-JUy2KsvtaOVBbUZoB05ah6qX",
+      "size_before": "4988701",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "4988701",
+      "parents_after": [
+        "10quvTAt-JUy2KsvtaOVBbUZoB05ah6qX"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1baSa2fVpbmr7-RjLIgrWnUqEoGaQk35g",
+      "title": "Pages_11-12_Version_B_CANON_PERSPECTIVE_REPAIR_2026-10-03.png",
+      "group": "LEGACY_2026-10-03",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "10quvTAt-JUy2KsvtaOVBbUZoB05ah6qX",
+      "size_before": "2743284",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "2743284",
+      "parents_after": [
+        "10quvTAt-JUy2KsvtaOVBbUZoB05ah6qX"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1PzGLLArKTnrouZPe5IzUwwGNKo_n5oI1",
+      "title": "Pages_11-12_Preserved_Resume_Draft_2026-10-03_r2.png",
+      "group": "LEGACY_2026-10-03",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "10quvTAt-JUy2KsvtaOVBbUZoB05ah6qX",
+      "size_before": "2773282",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "2773282",
+      "parents_after": [
+        "10quvTAt-JUy2KsvtaOVBbUZoB05ah6qX"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "16c6uqG4u_MMOEZz9szBmTBCdx9stHhDl",
+      "title": "Pages_11-12_Preserved_Resume_Draft_2026-10-03_r1.png",
+      "group": "LEGACY_2026-10-03",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "10quvTAt-JUy2KsvtaOVBbUZoB05ah6qX",
+      "size_before": "2712080",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "2712080",
+      "parents_after": [
+        "10quvTAt-JUy2KsvtaOVBbUZoB05ah6qX"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1_q_d6JsGYzE6AJY23-MkxQU2exSFkW86",
+      "title": "Pages_11-12_Version_B_PEOPLE_PERSPECTIVE_RECHECK_2026-10-02.png",
+      "group": "LEGACY_2026-10-02",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1mLJIjFa08o-Wj57v_51f-GthbAJIojy3",
+      "size_before": "2622592",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "2622592",
+      "parents_after": [
+        "1mLJIjFa08o-Wj57v_51f-GthbAJIojy3"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1pWcjvyyWrYbFtP9uDV1a30f6LSG7gjoN",
+      "title": "Pages_11-12_Version_B_PERSPECTIVE_RECHECK_r3_REPAIR_DRAFT.png",
+      "group": "LEGACY_2026-10-02",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1mLJIjFa08o-Wj57v_51f-GthbAJIojy3",
+      "size_before": "2651636",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "2651636",
+      "parents_after": [
+        "1mLJIjFa08o-Wj57v_51f-GthbAJIojy3"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1z-Hp21gGysOJh_LTNrECDVSeWg50die6",
+      "title": "Pages_11-12_Version_B_PERSPECTIVE_RECHECK_r2_REPAIR_DRAFT.png",
+      "group": "LEGACY_2026-10-02",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1mLJIjFa08o-Wj57v_51f-GthbAJIojy3",
+      "size_before": "2669021",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "2669021",
+      "parents_after": [
+        "1mLJIjFa08o-Wj57v_51f-GthbAJIojy3"
+      ],
+      "bytes_reuploaded": false
+    },
+    {
+      "id": "1TfxrveJtQ-SaR_EC5pPnVsLdpmlP0laY",
+      "title": "Pages_11-12_Version_B_PERSPECTIVE_RECHECK_r1_REPAIR_DRAFT.png",
+      "group": "LEGACY_2026-10-02",
+      "source_parent": "1KRAk9y-e3MTFq2YY0Ai_IkUulZC-pdvZ",
+      "destination_parent": "1mLJIjFa08o-Wj57v_51f-GthbAJIojy3",
+      "size_before": "2569195",
+      "original_other_parents": [],
+      "move_success": true,
+      "verified": true,
+      "size_after": "2569195",
+      "parents_after": [
+        "1mLJIjFa08o-Wj57v_51f-GthbAJIojy3"
+      ],
+      "bytes_reuploaded": false
+    }
+  ],
+  "all_moves_verified": true,
+  "bytes_preservation_method": "Metadata-only move; stable original ID and size, no file_uri supplied; no fresh hash claim for every historical file",
+  "shared_bookwide_records_moved": false
+}
