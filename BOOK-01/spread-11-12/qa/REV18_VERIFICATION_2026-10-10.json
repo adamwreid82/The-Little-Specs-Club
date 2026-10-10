@@ -1,0 +1,41 @@
+{
+  "revision": "REV18",
+  "approved": false,
+  "all_pass": false,
+  "base_revision": "REV17",
+  "version_a_sha256": "18607cac9befeb17253cff2ba8c2168e23a055e64c3d1914b990f59a052f8d16",
+  "version_b_sha256": "18f3368a90467d29e18b872df7c8daa021aeab65b0e8659b29de81466e505f68",
+  "dimensions": [
+    5100,
+    2550
+  ],
+  "dpi": 300,
+  "full_png_decode": "PASS",
+  "font_redesigned": false,
+  "existing_text_region_changed_channels": 0,
+  "outside_authorized_repair_changed_channels": 0,
+  "far_right_group_changed_channels": 0,
+  "version_a_plus_original_text_vs_b_changed_channels": 0,
+  "version_a_and_b_same_art": true,
+  "source_files_modified": false,
+  "earlier_versions_preserved": true,
+  "generated_inputs": [
+    "generated_images/exec-ebd5abd5-2b79-4228-8a34-7db17b8beed9.png",
+    "generated_images/exec-c3eb207c-b3b8-48c4-97c0-e669eb3beb9b.png",
+    "generated_images/exec-ae43021b-8ee5-45ae-8190-f15fa999157a.png"
+  ],
+  "failed_initial_a_export_preserved": true,
+  "matching_bleed_pdfs_this_revision": false,
+  "exact_numeric_heights_verified": false,
+  "hidden_details_verified": false,
+  "print_ready": false,
+  "unaffected_right_group_x3220_changed_pixels": 0,
+  "vinny_helmet_adjacent_roi_changed_pixels": 6,
+  "vinny_exact_badge_roi": {
+    "left": 3038,
+    "top": 1255,
+    "width": 70,
+    "height": 65
+  },
+  "vinny_exact_badge_changed_channels": 0
+}
