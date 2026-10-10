@@ -215,13 +215,18 @@ historical_previous_manifest:
     
 alternate_perspective_option:
   revision: REV8_2026_10_10
-  status: UNAPPROVED_COMPOSITION_OPTION_NOT_ALL_PASS
+  status: PREFERRED_PERSPECTIVE_FULL_CANON_FAIL
+  preferred_by_author: true
+  preference_is_approval: false
   approved: false
   drive_id: 199vE9J_w1pL8zTLOef5lHkpOfk_tuy_m
   sha256: ac49db9700b93b6f6210e8c2cb84f63fb05c217d72f960a46298c3114ce238c2
-  audit_drive_id: 1sH77QqQt0zp3rX1pKtyThF5NUztuI_dV
-  audit: qa/REV8_PERSPECTIVE_REVIEW_2026-10-10.md
-  existing_font_layer_preserved_separately: true
-  draft_unlettered: true
+  audit_drive_id: 1LOen5g2QOn3t4o0V40bk1yJcrI34LeQ3
+  audit: qa/REV8_FULL_CANON_PASS_FAIL_2026-10-10.md
+  all_pass: false
+  preliminary_audit_superseded: qa/REV8_PERSPECTIVE_REVIEW_2026-10-10.md
+  correction_to_preliminary_audit: Steph_clear_safety_glasses_visible_PASS
+  artwork_changed_during_audit: false
   previous_REV7_preserved: true
   archived: false
+  next_step: Await_author_feedback_before_corrections
