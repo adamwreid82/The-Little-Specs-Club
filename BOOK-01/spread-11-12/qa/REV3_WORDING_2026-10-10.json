@@ -1,0 +1,35 @@
+{
+  "font": "Architects Daughter",
+  "font_source": "unchanged existing embedded font",
+  "size_pt": 18,
+  "blocks": [
+    {
+      "text": "Ms. Rivera reached into a small box. \u201cThere\u2019s one more thing we give people when they join a project.\u201d She held up a small round sticker. It showed the future fire station. Across the bottom it read: STATION NO. 2. Beneath it were the words BUILDING BRIGHTER TOMORROWS. Leo\u2019s eyes widened. \u201cFor our hard hats?\u201d \u201cFor your hard hats,\u201d Ms. Rivera said. \u201cThis sticker represents the project you\u2019re going to follow from the ground up.\u201d",
+      "x": 160,
+      "top": 34,
+      "width": 395,
+      "leading": 19,
+      "compact": true
+    },
+    {
+      "text": "One by one, the kids and Mrs. Harper placed their stickers in their own spots. Ben carefully lined his up. Maya checked hers twice before pressing it down. Steph picked the spot that looked best. Leo stuck his on quickly and grinned. Vinny made sure his did not cover anything important. Mr. Brooks nodded. \u201cNow remember where you put them. Project stickers stay with you.\u201d The kids looked at one another\u2019s hard hats. Their first project had officially begun.",
+      "x": 705,
+      "top": 34,
+      "width": 420,
+      "leading": 19,
+      "compact": true
+    }
+  ],
+  "layout": [
+    {
+      "lines": 10,
+      "last_baseline_pt": 205
+    },
+    {
+      "lines": 10,
+      "last_baseline_pt": 205
+    }
+  ],
+  "wording_verified": true,
+  "font_redesigned": false
+}
