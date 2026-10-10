@@ -6,9 +6,9 @@ GitHub is the production control record. Approved Drive canon/profile/source pai
 
 Read the spread manifest, its active_review record and linked audits, CANON/source-registry.yaml, character rules, applicable book/construction/layout rules and the current Drive review index. Read this file at the start of every production session. Reconcile current Drive and GitHub records before choosing a candidate. Use the newest explicitly identified candidate, preserving historical approved assets and rejected drafts.
 
-## Current review mode, authorized by Adam on 2026-10-04
+## Current review mode, authorized by Adam on 2026-10-10
 
-Review Book 1 one spread at a time, starting at Pages 3–4. Show the spread and remaining issues, then wait for feedback before changing it or advancing. The text in the pictures reserves content space; Adam will add final wording manually. Preserve existing lettering and do not redo fonts. Prior typography specifications remain historical production references, not authorization for new lettering changes in this review.
+Adam authorized an autonomous correction pass through the remaining Book 1 spreads, Pages 13–32: audit each spread, fix every identified issue, rerun the canon check and repeat corrections. Always compare every named person to BOTH the approved Drive source PNG and profile on each spread. Continue between candidates without waiting for feedback. Keep hidden or genuinely unmeasurable items explicitly UNVERIFIED; never count them as passes. Save each candidate and audit to Drive and GitHub. This production authorization does not approve new artwork; final candidate approval remains Adam’s. Preserve existing lettering as content-space placeholders and do not redo fonts. Preserve approved Pages 3–12 and earlier candidates.
 
 ## Saving and synchronizing
 
@@ -26,4 +26,4 @@ Run the repository mechanical checks appropriate to changed manifests and canon 
 
 ## Current checkpoint
 
-Pages 11–12 REV27 artwork is explicitly APPROVED by Adam Reid on 2026-10-10: “Approve”. Read BOOK-01/spread-11-12/manifest.yaml and qa/REV27_APPROVAL_2026-10-10.md. Matching Version A uses the same approved art. Eighty-five earlier spread files are preserved in 29 Superseded revision/date folders with verified inventory. Final manual wording and seventeen technical verification entries remain open; approval does not certify print readiness. Earlier spread approval evidence remains in each spread manifest. Wait for Adam before advancing to Pages 13–14 or editing approved artwork.
+Pages 11–12 REV27 artwork is explicitly APPROVED by Adam Reid on 2026-10-10: “Approve”. Read BOOK-01/spread-11-12/manifest.yaml and qa/REV27_APPROVAL_2026-10-10.md. Matching Version A uses the same approved art. Eighty-five earlier spread files are preserved in 29 Superseded revision/date folders with verified inventory. Final manual wording and seventeen technical verification entries remain open; approval does not certify print readiness. Earlier spread approval evidence remains in each spread manifest. The 2026-10-10 autonomous correction authorization now permits work through Pages 13–32. Preserve approved artwork unless Adam explicitly requests a change.
