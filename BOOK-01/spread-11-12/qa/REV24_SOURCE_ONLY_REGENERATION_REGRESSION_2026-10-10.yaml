@@ -1,0 +1,16 @@
+date: '2026-10-10'
+author_request: Completely regenerate only Vinny from approved source image and profile
+character: Vinny
+source_image_drive_id: 1m-mxpb7Fpu04jWj5sYVJTHxvXXPySuSa
+source_profile_drive_id: 1vG_CJ45X87ZsYlNr-Rq2VJiuRHaTtw4S
+new_character_design: false
+check:
+  - Source PNG/profile are the identity authority; preceding rejected spread faces must not steer a fresh identity regeneration.
+  - Match source round cheeks, soft short chin, small nose, brown-looking eyes, soft loose curls, gentle friendly smile and sturdy eight-year-old build.
+  - Restore exact registered LS and project-sticker artwork after generation.
+  - Remove the old silhouette completely; inspect background gaps for old helmet, hair, sleeve and footwear remnants.
+  - Preserve adjacent character pixels using bounded connected garment masks rather than broad scene-color restoration.
+  - Inspect full spread and close-up before recording any visible pass.
+  - An author rejection overrides preceding assistant likeness assessments; preserve earlier audit as history.
+  - Successful pixel/export checks do not grant author approval or certify exact heights/hidden details.
+approval_granted: false
