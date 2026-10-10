@@ -42,9 +42,9 @@ audit:
   archived: false
   print_ready: false
 intermediate_cycle:
-  REV10: {drive_id: 14lHVJwR154_SUEmQQ98srvFZMTicckb3, result: FAIL_VINNY_GREEN_IRISES}
-  REV11: {drive_id: 1K-d__lCZMRwWfAtv4sxqazde2mTm7fxH, result: FAIL_MAYA_HARPER_JOIN}
-  REV12: {drive_id: 1Jh6ptZ3sbrJQ8eGb-IiviVl86_U3kCl2, result: FAIL_STRIPED_MASK_ARTIFACT}
+  REV10: {drive_id: 14lHVJwR154_SUEmQQ98srvFZMTicckb3, audit_drive_id: 1Eo85H4yBahC4e9GNXl7_M7DkHIQJdD_u, audit_path: qa/REV10_INTERMEDIATE_AUDIT_2026-10-10.md, result: FAIL_VINNY_GREEN_IRISES}
+  REV11: {drive_id: 1K-d__lCZMRwWfAtv4sxqazde2mTm7fxH, audit_drive_id: 1vKiDWVP4B3OqwYaAa-6XefFFpiXoI3Rr, audit_path: qa/REV11_INTERMEDIATE_AUDIT_2026-10-10.md, result: FAIL_MAYA_HARPER_JOIN}
+  REV12: {drive_id: 1Jh6ptZ3sbrJQ8eGb-IiviVl86_U3kCl2, audit_drive_id: 1SRy8rlTzoPm6X9SbxaxoYMvD8qGBrEB3, audit_path: qa/REV12_INTERMEDIATE_AUDIT_2026-10-10.md, result: FAIL_STRIPED_MASK_ARTIFACT}
   REV13: {drive_id: 1FCmdRUD9US0_zBtybDmhmU5GqvixUkPc, result: VISIBLE_REPAIRS_PASS_OVERALL_NOT_ALL_PASS}
 open_items: [exact_numeric_heights, full_source_likeness, pose_rectified_badge_baseline, precise_prescription_side_protection, hidden_details, complete_site_geometry, native_print_proof_bleed_and_Version_A]
 permanent_recipient_sticker_locations_changed: false
