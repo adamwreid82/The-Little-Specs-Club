@@ -1,0 +1,17 @@
+date: '2026-10-10'
+new_character_design: false
+authority: approved_Drive_PNG_and_profile_pairs
+Vinny:
+  image_drive_id: 1m-mxpb7Fpu04jWj5sYVJTHxvXXPySuSa
+  profile_drive_id: 1vG_CJ45X87ZsYlNr-Rq2VJiuRHaTtw4S
+  check: Fuller round cheeks, short broad soft chin, soft loose dark-brown curly locks, brown-looking irises and slightly rounder sturdy child torso.
+  footwear: Match approved dark low hiking/work shoes with gray/olive accents and dark laces.
+  reject: Thin tapered face, elongated slim torso, repeated tight beadlike curls, brown high boots with ochre laces.
+Ben:
+  image_drive_id: 1lkboZGWom6Vw7et5J5__5dBivj7i2TRx
+  check: Match approved dark low rounded work shoes with dark laces under plain khakis.
+  reject: New prominent brown high boot uppers or ochre lace treatment.
+repair_recheck: [unchanged_badge_art, brown_irises, sticker_asset_and_grip, adjacent_Steph_hair_sleeve_hand, feet_ground_anchors, repair_joins, original_lettering]
+visual_checks_are_manual: true
+hidden_or_unmeasurable_details: UNVERIFIED
+approval_granted: false
