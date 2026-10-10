@@ -1,0 +1,445 @@
+{
+  "revision": "REV26",
+  "base_revision": "REV25",
+  "approved": false,
+  "all_pass": false,
+  "version_a_sha256": "493f96c42acb3119cd41367685a8053ff3d3bd62ee7159e2d03dfc5d6639c30a",
+  "version_b_sha256": "3ddd4311e3377c83a2ebb344fd1e9027a766ee9cd78560297b9eb6daad1b2d2c",
+  "dimensions": [
+    5100,
+    2550
+  ],
+  "dpi": 300,
+  "full_png_decode": "PASS",
+  "outside_helmet_logo_footprints_changed_pixels": 0,
+  "existing_text_region_changed_pixels": 0,
+  "version_a_plus_original_text_vs_b_changed_channels": 0,
+  "changed_pixels": 17683,
+  "reference_drive_id": "1WV1NJ9hH9PE4nNgnKk9DbY1HR9-KEtY2",
+  "reference_sha256": "2b9f89198ee798afe02f116a2e09eb6695cf2db5cdbe0b40cb682ca04fcb576b",
+  "exact_LS_source_sha256": "96a47ac122989b3527e3fc5f8aa58544fd438799c2c4d7041cca4ef40de34a42",
+  "positions": [
+    {
+      "name": "Vinny",
+      "origin": [
+        2790,
+        1230
+      ],
+      "ref_origin": [
+        790,
+        1335
+      ],
+      "ref_anchors": [
+        [
+          12,
+          202
+        ],
+        [
+          537,
+          383
+        ],
+        [
+          322,
+          15
+        ]
+      ],
+      "scene_anchors": [
+        [
+          8,
+          117
+        ],
+        [
+          285,
+          205
+        ],
+        [
+          156,
+          16
+        ]
+      ],
+      "ref_badge_bbox": [
+        218,
+        83,
+        101,
+        111
+      ],
+      "angle": 18,
+      "affine_ref_to_scene": [
+        [
+          0.5093625433451081,
+          0.052953948860874386,
+          -8.809048190037922
+        ],
+        [
+          -0.0118287584664744,
+          0.5204977800823152,
+          12.001393524970029
+        ]
+      ],
+      "scene_badge_quad": [
+        [
+          2896.6271640146483,
+          1282.6240399261108
+        ],
+        [
+          2948.072780892504,
+          1281.4293353209969
+        ],
+        [
+          2953.950669216061,
+          1339.204588910134
+        ],
+        [
+          2902.505052338205,
+          1340.3992935152478
+        ]
+      ],
+      "final_bbox": [
+        2893,
+        1278,
+        64,
+        66
+      ],
+      "method": "approved_reference_badge_projection_transferred_by_three_helmet_landmarks"
+    },
+    {
+      "name": "Steph",
+      "origin": [
+        3170,
+        1270
+      ],
+      "ref_origin": [
+        4190,
+        1480
+      ],
+      "ref_anchors": [
+        [
+          53,
+          132
+        ],
+        [
+          551,
+          382
+        ],
+        [
+          311,
+          0
+        ]
+      ],
+      "scene_anchors": [
+        [
+          72,
+          98
+        ],
+        [
+          288,
+          218
+        ],
+        [
+          194,
+          30
+        ]
+      ],
+      "ref_badge_bbox": [
+        220,
+        38,
+        94,
+        103
+      ],
+      "angle": 18,
+      "affine_ref_to_scene": [
+        [
+          0.4531158819374059,
+          -0.038606836819312665,
+          53.080960717466766
+        ],
+        [
+          -0.008906907460302886,
+          0.4977425596609233,
+          32.77004822015419
+        ]
+      ],
+      "scene_badge_quad": [
+        [
+          3321.299394944562,
+          1319.7247458460026
+        ],
+        [
+          3363.8922878466783,
+          1318.8874965447342
+        ],
+        [
+          3359.915783654289,
+          1370.1549801898093
+        ],
+        [
+          3317.322890752173,
+          1370.9922294910778
+        ]
+      ],
+      "final_bbox": [
+        3314,
+        1315,
+        53,
+        59
+      ],
+      "method": "approved_reference_badge_projection_transferred_by_three_helmet_landmarks"
+    },
+    {
+      "name": "Maya",
+      "origin": [
+        3500,
+        1310
+      ],
+      "ref_origin": [
+        3640,
+        1475
+      ],
+      "ref_anchors": [
+        [
+          50,
+          181
+        ],
+        [
+          565,
+          420
+        ],
+        [
+          329,
+          44
+        ]
+      ],
+      "scene_anchors": [
+        [
+          39,
+          97
+        ],
+        [
+          276,
+          223
+        ],
+        [
+          169,
+          22
+        ]
+      ],
+      "ref_badge_bbox": [
+        221,
+        84,
+        101,
+        118
+      ],
+      "angle": 18,
+      "affine_ref_to_scene": [
+        [
+          0.46299076044186654,
+          -0.0060261155964907625,
+          16.9411889008715
+        ],
+        [
+          -0.004831093882071821,
+          0.537606750415343,
+          -0.06526713107348366
+        ]
+      ],
+      "scene_badge_quad": [
+        [
+          3618.755953248419,
+          1354.0260281558774
+        ],
+        [
+          3665.518020053047,
+          1353.5380876737881
+        ],
+        [
+          3664.8069384126616,
+          1416.9756842227987
+        ],
+        [
+          3618.0448716080327,
+          1417.463624704888
+        ]
+      ],
+      "final_bbox": [
+        3615,
+        1350,
+        54,
+        71
+      ],
+      "method": "approved_reference_badge_projection_transferred_by_three_helmet_landmarks"
+    },
+    {
+      "name": "Mrs-Harper",
+      "origin": [
+        3880,
+        990
+      ],
+      "ref_origin": [
+        4520,
+        800
+      ],
+      "ref_anchors": [
+        [
+          43,
+          200
+        ],
+        [
+          568,
+          367
+        ],
+        [
+          334,
+          20
+        ]
+      ],
+      "scene_anchors": [
+        [
+          49,
+          108
+        ],
+        [
+          278,
+          204
+        ],
+        [
+          183,
+          28
+        ]
+      ],
+      "ref_badge_bbox": [
+        210,
+        77,
+        100,
+        112
+      ],
+      "angle": 18,
+      "affine_ref_to_scene": [
+        [
+          0.44443978559997765,
+          -0.0259334577244806,
+          35.07578076409708
+        ],
+        [
+          0.027394005464824567,
+          0.4887314199459108,
+          9.075773775830383
+        ]
+      ],
+      "scene_badge_quad": [
+        [
+          4006.4112594953076,
+          1042.4608342592787
+        ],
+        [
+          4050.855238055305,
+          1045.200234805761
+        ],
+        [
+          4047.950690790163,
+          1099.938153839703
+        ],
+        [
+          4003.5067122301657,
+          1097.1987532932208
+        ]
+      ],
+      "final_bbox": [
+        4000,
+        1039,
+        54,
+        64
+      ],
+      "method": "approved_reference_badge_projection_transferred_by_three_helmet_landmarks"
+    },
+    {
+      "name": "Ben",
+      "center": [
+        984,
+        1250
+      ],
+      "final_bbox": [
+        966,
+        1229,
+        37,
+        43
+      ],
+      "method": "manual_nose_facing_profile_front_panel_projection",
+      "profile_angle_degrees": -27,
+      "source_mirrored": false
+    }
+  ],
+  "footprints": [
+    [
+      958,
+      1235,
+      40,
+      46
+    ],
+    [
+      2889,
+      1276,
+      64,
+      59
+    ],
+    [
+      3299,
+      1317,
+      62,
+      62
+    ],
+    [
+      3582,
+      1370,
+      67,
+      67
+    ],
+    [
+      3983,
+      1059,
+      50,
+      53
+    ],
+    [
+      2893,
+      1278,
+      64,
+      66
+    ],
+    [
+      3314,
+      1315,
+      53,
+      59
+    ],
+    [
+      3615,
+      1350,
+      54,
+      71
+    ],
+    [
+      4000,
+      1039,
+      54,
+      64
+    ],
+    [
+      966,
+      1229,
+      37,
+      43
+    ]
+  ],
+  "Leo_front_badge_naturally_hidden": true,
+  "employer_logo_pixels_preserved": true,
+  "character_faces_and_bodies_preserved": true,
+  "source_files_modified": false,
+  "font_redesigned": false,
+  "prior_versions_preserved": true,
+  "reference_measurements_are_not_new_numeric_tolerances": true,
+  "physical_size_not_established": true,
+  "print_ready": false,
+  "drive_readback_sha256_verified": true,
+  "drive_readback_full_png_decode": "PASS",
+  "readback_retry_note": "First B download truncated; fresh raw download matched final file hash and fully decoded."
+}
