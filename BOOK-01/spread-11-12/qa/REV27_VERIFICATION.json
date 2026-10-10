@@ -1,0 +1,42 @@
+{
+  "revision": "REV27",
+  "base_revision": "REV26",
+  "approved": false,
+  "all_pass": false,
+  "visible_canon_result": "PASS_VISIBLE_CHECKS_WITH_UNVERIFIED_LIMITS",
+  "version_a_sha256": "b82236ad3131ebc7867c4a93dc6c094db90c16b91b81b2a06c2aff6de92c4625",
+  "version_b_sha256": "e9fa92547926a4e4fb56850a7eb2661bbf2782dfb99efc031fd3a94ca8dce77e",
+  "dimensions": [
+    5100,
+    2550
+  ],
+  "dpi": 300,
+  "full_png_decode": "PASS",
+  "changed_pixels": 3656,
+  "outside_sticker_circle_changed_pixels": 0,
+  "protected_original_hand_changed_pixels": 0,
+  "existing_text_region_changed_pixels": 0,
+  "version_a_plus_original_text_vs_b_changed_channels": 0,
+  "helmet_face_body_and_background_pixels_preserved": true,
+  "printed_sticker_diameter_pixels": 40,
+  "prior_printed_diameter_pixels_approx": 70,
+  "peer_diameter_pixels_approx": [
+    35,
+    40
+  ],
+  "physical_inches_not_certified": true,
+  "exact_sticker_asset_sha256": "adcfdcdbe9c533268012e45d5c2662cf10c8b5ef684eb389528cf7107a4975ba",
+  "generated_input": "generated_images/exec-e6b8d82a-4adb-4d7d-94d5-6a7b99b7e820.png",
+  "edit_region": {
+    "left": 2957.3,
+    "top": 1593.3,
+    "radius": 35.7
+  },
+  "source_files_modified": false,
+  "font_redesigned": false,
+  "prior_versions_preserved": true,
+  "archived": false,
+  "print_ready": false,
+  "drive_readback_sha256_verified": true,
+  "drive_readback_full_png_decode": "PASS"
+}
