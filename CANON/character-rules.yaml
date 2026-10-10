@@ -731,6 +731,11 @@ hard_hat_badge_application_lock:
   author: Adam
   recorded_date: '2026-10-05'
   approval_scope: six_LS_badge_sizes_and_positions_only
+  application_scope: all_future_spreads_and_books_for_the_six_LS_wearers
+  prospective_scope_reconfirmed_date: '2026-10-10'
+  prospective_scope_reconfirmed_by: Adam
+  prospective_scope_evidence: 'I meant for that to be locked moving forward'
+  existing_standard_requires_reapproval: false
   approval_evidence: 'lets go ahead a lock the helmet LS Logos size and position , correct Mrs. Harpers blouse'
   approval_record_path: CANON/approvals/LS_HELMET_APPLICATION_APPROVAL_2026-10-05.md
   approval_record_drive_id: 16lA94hDfUYZPhmJRNnajTJroBMZXPA_c
