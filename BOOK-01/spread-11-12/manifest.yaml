@@ -4,14 +4,14 @@ pages: &id001
 - 11
 - 12
 title: The Fire Station Sticker
-status: VISIBLE_CANON_PASS_WITH_UNVERIFIED_ITEMS_PENDING_AUTHOR_REVIEW
-approved: false
-final_locked: false
+status: ARTWORK_APPROVED_FINAL_WORDING_AND_PRINT_PREPARATION_OPEN
+approved: true
+final_locked: true
 version_a:
-  status: DRAFT_UNAPPROVED_MATCHING_ART
+  status: MATCHING_APPROVED_ART_DERIVATIVE
   path: version-a/
   drive_id: 15oqh9O8_v8wBJKXFeXH8ilLRIoQ2JuAZ
-  filename: Pages_11-12_REV27_Version_A_ART_ONLY_DRAFT.png
+  filename: Pages_11-12_REV27_Version_A_MATCHING_APPROVED_ART.png
   sha256: b82236ad3131ebc7867c4a93dc6c094db90c16b91b81b2a06c2aff6de92c4625
   dimensions_pixels:
   - 5100
@@ -19,10 +19,10 @@ version_a:
   dpi: 300
   bleed_status: NOT_GENERATED_FOR_REV27
 version_b:
-  status: PENDING_AUTHOR_REVIEW
+  status: APPROVED_ARTWORK_RESERVED_LETTERING
   path: version-b/
   drive_id: 1nUzw8w6HndlVJ9rdKRVW0PBASdDOiJEU
-  filename: Pages_11-12_REV27_Version_B_STICKER_SCALE_CORRECTION_PENDING_REVIEW.png
+  filename: Pages_11-12_REV27_Version_B_APPROVED.png
   sha256: e9fa92547926a4e4fb56850a7eb2661bbf2782dfb99efc031fd3a94ca8dce77e
   dimensions_pixels:
   - 5100
@@ -38,9 +38,9 @@ candidate:
   source_files_modified: false
   locked_helmet_pixels_preserved: true
 active_review:
-  request: Make the corrections
+  request: Approve
   full_canon_result: PASS_VISIBLE_WITH_UNVERIFIED_ITEMS
-  full_likeness: PENDING_AUTHOR_REVIEW
+  full_likeness: AUTHOR_APPROVED_REV27
   all_pass: false
   full_canon_counts:
     PASS: 50
@@ -51,6 +51,11 @@ active_review:
   audit_drive_id: 194VwOXsG4F7W5oJgjR6WoF6VN6xD9A4N
   audit_path: qa/REV27_FULL_CANON_AUDIT_2026-10-10.md
   regression_checks: qa/REV27_HELD_STICKER_REGRESSION_2026-10-10.json
+  author_whole_spread_review: APPROVED_REV27
+  author_review_resolved_by_approval: true
+  remaining_technical_unverified_count: 17
+  full_canon_counts_basis: Preapproval audit snapshot; author acceptance entry now
+    resolved by explicit approval
 audit:
   drive_id: 194VwOXsG4F7W5oJgjR6WoF6VN6xD9A4N
   report: qa/REV27_FULL_CANON_AUDIT_2026-10-10.md
@@ -91,8 +96,6 @@ helmet_visible_checks: &id003
   Elena-Rivera: PASS_UNCHANGED_EMPLOYER_LOGO
   Daniel-Brooks: PASS_UNCHANGED_SEPARATE_EMPLOYER_BASELINE
 open_items:
-- author_whole_spread_review
-- author_Vinny_full_likeness_review
 - exact_numeric_heights
 - unestablished_badge_physical_dimensions_and_rigorous_3D_rectification
 - hidden_details_and_site_geometry
@@ -105,8 +108,8 @@ open_items:
 permanent_recipient_sticker_locations_changed: false
 proposed_pose: before_application_each_recipient_holds_one
 final_lock_requires: Adam
-next_step: Show full REV27 and wait for Adam review. Candidate unapproved; no archival
-  moves or next-spread advancement.
+next_step: "Wait for Adam before advancing to Pages 13\u201314. REV27 artwork approved;\
+  \ final wording and technical print/hidden-detail verification remain open."
 confirmed_visible_failures: []
 historical_previous_manifest:
   book: 1
@@ -1056,3 +1059,155 @@ historical_previous_manifest:
   - Vinny_held_sticker_oversized_relative_to_peers_at_similar_depth
 resolved_REV26_failure: 'Vinny_held_sticker_oversized: corrected exact printed graphic
   to 40 candidate pixels; not an approved physical dimension'
+approved_by: Adam Reid
+approved_at: '2026-10-10T17:30:31-05:00'
+approval_wording: Approve
+final_lock_scope: REV27_artwork_only
+print_ready: false
+final_wording_approved: false
+approval:
+  record: qa/REV27_APPROVAL_2026-10-10.md
+  drive_id: 1J0Qq-G8n5MD4rRJ7BNSuss_9wZ3K5CQa
+  structured_record: qa/REV27_APPROVAL_2026-10-10.json
+  structured_drive_id: 1-cB2vYs9QysqfGENHWscmPwDRu37zQPn
+  approval_wording: Approve
+  approved_by: Adam Reid
+  approved_at: '2026-10-10T17:30:31-05:00'
+  scope: REV27 Version B artwork as shown; matching Version A contains the same approved
+    artwork without the reserved lettering
+  version_b_sha256: e9fa92547926a4e4fb56850a7eb2661bbf2782dfb99efc031fd3a94ca8dce77e
+  version_a_sha256: b82236ad3131ebc7867c4a93dc6c094db90c16b91b81b2a06c2aff6de92c4625
+  no_artwork_bytes_changed: true
+  technical_unverified_items_not_certified: true
+archive:
+  status: COMPLETE_VERIFIED
+  superseded_folder_id: 1Kl2ItqFwlVUB_3XGajBt_I-l3YlBWsyu
+  superseded_folder_url: https://drive.google.com/drive/folders/1Kl2ItqFwlVUB_3XGajBt_I-l3YlBWsyu
+  version_date_folder_count: 29
+  prior_file_count: 85
+  inventory_drive_id: 1Rc4yNly-ttcAUi4BI-UZXu2WhXWPgTEA
+  inventory_path: superseded/REV27_APPROVAL_2026-10-10/inventory.json
+  catalog_path: superseded/REV27_APPROVAL_2026-10-10/README.md
+  all_moves_verified: true
+  verification: Stable IDs, destination parents, preserved other parents and sizes;
+    metadata-only moves without uploads
+  current_REV27_files_kept_active: true
+  shared_bookwide_files_moved: false
+  repository_historical_links_preserved: true
+  groups:
+  - name: REV26_2026-10-10
+    id: 1wQ-uWQT74wCOEqdJz9Tj4eUTUsL-zbvI
+    url: https://drive.google.com/drive/folders/1wQ-uWQT74wCOEqdJz9Tj4eUTUsL-zbvI
+    file_count: 7
+  - name: REV25_2026-10-10
+    id: 1y5eOOXGEinlP6w9II3MpQlakyDshxMZQ
+    url: https://drive.google.com/drive/folders/1y5eOOXGEinlP6w9II3MpQlakyDshxMZQ
+    file_count: 5
+  - name: REV23_2026-10-10
+    id: 1QHkY8q6cI7ib22NE2Nj46zpejTPkqjAz
+    url: https://drive.google.com/drive/folders/1QHkY8q6cI7ib22NE2Nj46zpejTPkqjAz
+    file_count: 2
+  - name: REV24_2026-10-10
+    id: 1gjkFOuKQ2t1e1JO95P1dndJuMokDQR_4
+    url: https://drive.google.com/drive/folders/1gjkFOuKQ2t1e1JO95P1dndJuMokDQR_4
+    file_count: 5
+  - name: REV22_2026-10-10
+    id: 1iy4P-9YN5yb13YX2vPQ98L_OvGW1f5qw
+    url: https://drive.google.com/drive/folders/1iy4P-9YN5yb13YX2vPQ98L_OvGW1f5qw
+    file_count: 1
+  - name: REV21_2026-10-10
+    id: 1c2sFPJPq5ckroziL8dTuZ6_9aSGakVPq
+    url: https://drive.google.com/drive/folders/1c2sFPJPq5ckroziL8dTuZ6_9aSGakVPq
+    file_count: 1
+  - name: REV20_2026-10-10
+    id: 1IVcTUskriBGrw7yWiEk1fGQNOT4qBh0B
+    url: https://drive.google.com/drive/folders/1IVcTUskriBGrw7yWiEk1fGQNOT4qBh0B
+    file_count: 1
+  - name: REV19_2026-10-10
+    id: 13QH-J07vEuvN7xaBA0vCAZWO3nj5q8D8
+    url: https://drive.google.com/drive/folders/13QH-J07vEuvN7xaBA0vCAZWO3nj5q8D8
+    file_count: 1
+  - name: REV18_2026-10-10
+    id: 1ikRZuhbNagjcbUr4VxXjxtnN8siS0mDe
+    url: https://drive.google.com/drive/folders/1ikRZuhbNagjcbUr4VxXjxtnN8siS0mDe
+    file_count: 5
+  - name: REV17_2026-10-10
+    id: 1-VbASR2o01MnVrkVKugjvKw-Yw93gLFw
+    url: https://drive.google.com/drive/folders/1-VbASR2o01MnVrkVKugjvKw-Yw93gLFw
+    file_count: 8
+  - name: REV16_2026-10-10
+    id: 1CRDBp6j1k5HEnpIF-4ww8EZxbMWId6vE
+    url: https://drive.google.com/drive/folders/1CRDBp6j1k5HEnpIF-4ww8EZxbMWId6vE
+    file_count: 2
+  - name: REV15_2026-10-10
+    id: 1RPB2GHpUzMCzFL2DASl8PV_ad9RRJxqJ
+    url: https://drive.google.com/drive/folders/1RPB2GHpUzMCzFL2DASl8PV_ad9RRJxqJ
+    file_count: 2
+  - name: REV14_2026-10-10
+    id: 1JrV0a6EjpUrP4JF5OEk6uaaEQinGsbCu
+    url: https://drive.google.com/drive/folders/1JrV0a6EjpUrP4JF5OEk6uaaEQinGsbCu
+    file_count: 2
+  - name: REV12_2026-10-10
+    id: 1TN2jx3Jp-bb4oDX9s2s4VRSrtMxvK31z
+    url: https://drive.google.com/drive/folders/1TN2jx3Jp-bb4oDX9s2s4VRSrtMxvK31z
+    file_count: 2
+  - name: REV11_2026-10-10
+    id: 1kUhZrYGIgWbu6Y1yFSLbiCoa49b596J6
+    url: https://drive.google.com/drive/folders/1kUhZrYGIgWbu6Y1yFSLbiCoa49b596J6
+    file_count: 2
+  - name: REV10_2026-10-10
+    id: 1SQ9KBe84WhbFTX9duPR2w4QYjYVv9Zgu
+    url: https://drive.google.com/drive/folders/1SQ9KBe84WhbFTX9duPR2w4QYjYVv9Zgu
+    file_count: 2
+  - name: REV13_2026-10-10
+    id: 1aSOMtCuwGJyPmdJwrSKP4FaQ7O2cHm24
+    url: https://drive.google.com/drive/folders/1aSOMtCuwGJyPmdJwrSKP4FaQ7O2cHm24
+    file_count: 3
+  - name: REV09_2026-10-10
+    id: 1uPhIHiBqblWknw2-4w8ctzp7WHyoBNck
+    url: https://drive.google.com/drive/folders/1uPhIHiBqblWknw2-4w8ctzp7WHyoBNck
+    file_count: 3
+  - name: REV08_2026-10-10
+    id: 1qie3SmF7k-iA2MCZ_W0aZhKlY9mLhqMW
+    url: https://drive.google.com/drive/folders/1qie3SmF7k-iA2MCZ_W0aZhKlY9mLhqMW
+    file_count: 3
+  - name: REV07_2026-10-10
+    id: 131XDsDOWkjP6ywIqhJdCxwIAcym6a-uR
+    url: https://drive.google.com/drive/folders/131XDsDOWkjP6ywIqhJdCxwIAcym6a-uR
+    file_count: 3
+  - name: REV06_2026-10-10
+    id: 1NE-6p9NzQi01pp_hQ1m9mMW0g8ZS807f
+    url: https://drive.google.com/drive/folders/1NE-6p9NzQi01pp_hQ1m9mMW0g8ZS807f
+    file_count: 3
+  - name: REV05_2026-10-10
+    id: 17tRzDU9tp7O3SDlHApjezpB82LLF7V20
+    url: https://drive.google.com/drive/folders/17tRzDU9tp7O3SDlHApjezpB82LLF7V20
+    file_count: 1
+  - name: REV04_2026-10-10
+    id: 1KqLK6_j6ZdyW3PoGBv4L6ibpD6e4zOUe
+    url: https://drive.google.com/drive/folders/1KqLK6_j6ZdyW3PoGBv4L6ibpD6e4zOUe
+    file_count: 1
+  - name: LEGACY_2026-10-10
+    id: 1AhUImn3rXnBcOe1Upgh6Jvkunrdu9Qd-
+    url: https://drive.google.com/drive/folders/1AhUImn3rXnBcOe1Upgh6Jvkunrdu9Qd-
+    file_count: 1
+  - name: REV02_2026-10-10
+    id: 1NkwNezFZW9wal4WHqmhzYpJHbYAXw6LG
+    url: https://drive.google.com/drive/folders/1NkwNezFZW9wal4WHqmhzYpJHbYAXw6LG
+    file_count: 2
+  - name: REV03_2026-10-10
+    id: 1Wp5U_6ter1jg4mmtn8vv8jW-xICDt6O_
+    url: https://drive.google.com/drive/folders/1Wp5U_6ter1jg4mmtn8vv8jW-xICDt6O_
+    file_count: 3
+  - name: LEGACY_2026-10-01
+    id: 1xhdk0MfIrfvfBeR4Lsu1vHN30z7gRPmk
+    url: https://drive.google.com/drive/folders/1xhdk0MfIrfvfBeR4Lsu1vHN30z7gRPmk
+    file_count: 3
+  - name: LEGACY_2026-10-03
+    id: 10quvTAt-JUy2KsvtaOVBbUZoB05ah6qX
+    url: https://drive.google.com/drive/folders/10quvTAt-JUy2KsvtaOVBbUZoB05ah6qX
+    file_count: 7
+  - name: LEGACY_2026-10-02
+    id: 1mLJIjFa08o-Wj57v_51f-GthbAJIojy3
+    url: https://drive.google.com/drive/folders/1mLJIjFa08o-Wj57v_51f-GthbAJIojy3
+    file_count: 4
