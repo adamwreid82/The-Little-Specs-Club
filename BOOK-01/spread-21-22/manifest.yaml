@@ -3,6 +3,7 @@ status: VERSION_B_REVIEW_REQUIRED
 final_locked: false
 approved_by: null
 version_b:
+  path: version-b/
   status: review_required
   drive_id: 1FqINZbwuvS1xtafK-fho1A5CC8vv4Xj3
   sha256: be3230d4b0f1ef1090ce8671c1efebb1c511ad0d46651409feb4cc7fc34f41b2
@@ -58,3 +59,13 @@ lettering_only_revision_2026_10_03:
   artwork_approval_transferred: false
   native_artwork_print_detail_verified: false
   print_ready: false
+
+recovery_checkpoint_2026_10_11:
+  status: UNRESOLVED_NOT_COMPLETE
+  complete_visible_pass: false
+  author_approved: false
+  original_high_resolution_files_unchanged: true
+  prior_candidates_preserved: true
+  report_path: ../../QA/PAGES_13_32_RECOVERY_2026-10-11.md
+  report_drive_id: 1v_um_-nu0zEa5DGch9K8tmIyy9MrtQ4H
+  new_full_small_batch_audit_complete: false
