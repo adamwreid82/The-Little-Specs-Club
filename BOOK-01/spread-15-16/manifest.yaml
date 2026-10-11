@@ -119,3 +119,28 @@ masked_station_r4_2026_10_11:
   all_six_source_pairs_reopened: true
   saved_image_reopened_hash_verified: true
   archived: false
+
+masked_exact_badges_r5_2026_10_11:
+  status: UNRESOLVED_REPAIR_CHECKPOINT
+  png_drive_id: 1EhzmqtUam8vgXyac4NKYj3CIttRV15E1
+  audit_drive_id: 18GHxonShGenv2wpovUBdYREEV5rDdRSW
+  evidence_drive_id: 129OPjl5Be7ah_RjceyOeX9jm2tqL0raL
+  audit_path: qa/R5_EXACT_BADGES_FULL_AUDIT_2026-10-11.md
+  sha256: 8b3848780518ebbb1d488a4b6e7ad798a908eb32b24f6c97dc88ad727dd57c69
+  dimensions_pixels: [5100, 2550]
+  inherited_native_dimensions: [1774, 887]
+  changed_pixels: 79433
+  outside_mask_changed_pixels: 0
+  original_text_pixels_unchanged: true
+  exact_station_picture_preserved: true
+  exact_six_LS_and_five_visible_stickers_applied: true
+  existing_approved_LS_baseline_used: true
+  wrong_Harper_near_left_sticker_removed: true
+  four_full_source_pair_rechecks_completed: true
+  saved_image_reopened_hash_verified: true
+  failed_trials_preserved: true
+  unresolved: [pale helmet cleanup fields, fine edge finish, precise sticker fit, Leo hair, Steph freckles, Harper blouse, stature, fine PPE details, margins]
+  all_applicable_visible_items_pass: false
+  author_approved: false
+  print_ready: false
+  archived: false
