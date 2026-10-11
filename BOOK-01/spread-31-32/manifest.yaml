@@ -65,3 +65,21 @@ recovery_checkpoint_2026_10_11:
   report_path: ../../QA/PAGES_13_32_RECOVERY_2026-10-11.md
   report_drive_id: 1v_um_-nu0zEa5DGch9K8tmIyy9MrtQ4H
   new_full_small_batch_audit_complete: false
+
+masked_local_repair_r2_2026_10_11:
+  status: UNRESOLVED_NOT_ALL_PASS
+  candidate_drive_id: 1HtXxJ-YoiCTLtY-xWP_yNmycdrFI0374
+  audit_drive_id: 1_r6Pe6r70rI0WudqY5MNmB_W8rMedEKh
+  evidence_drive_id: 1BvQvQ7GXlkIwRou4ACCw4DPk5r_2Q3sW
+  audit_path: qa/R2_LOCAL_FULL_AUDIT_2026-10-11.md
+  sha256: 93b128e6eeb4a34a3a5bfd0fcd8d090ea8339dfd1c173480beb15173ae1f4225
+  dimensions: [5100, 2550]
+  inherited_native_dimensions: [1774, 887]
+  saved_file_reopened_hash_verified: true
+  outside_mask_changed_pixels: 0
+  original_text_ink_changed_pixels: 0
+  full_paired_named_character_recheck: true
+  all_applicable_visible_items_pass: false
+  author_approved: false
+  print_ready: false
+  archived: false
