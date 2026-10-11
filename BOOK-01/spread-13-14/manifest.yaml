@@ -148,3 +148,24 @@ recovery_checkpoint_2026_10_11:
   report_drive_id: 1v_um_-nu0zEa5DGch9K8tmIyy9MrtQ4H
   new_full_small_batch_audit_complete: true
   saved_repair_drive_id: 1hTF-KOxeh_Fy6-u0Gz0WoLJMeRzRBFaV
+
+masked_repair_r4_2026_10_11:
+  status: UNRESOLVED_REPAIR_CHECKPOINT
+  method_explicitly_authorized_by_author: true
+  author_approved: false
+  all_applicable_visible_items_pass: false
+  print_ready: false
+  png_drive_id: 1oZkqpGE0oLSHINv0A_lmjOtO69ctutvz
+  audit_drive_id: 19vHzrIGKvALhM2E3bg-KTQB1iYx5ho77
+  audit_path: qa/REPAIR_R4_MASKED_2026-10-11.md
+  verification_drive_id: 1q_0QNyz2QfTb9oTkeShj7nzYo02VA-Sp
+  sha256: 896d61e7701548a8e0fa6125118901c101c37d28460a690a18fce43ec82c09e0
+  dimensions_pixels: [5100, 2550]
+  outside_mask_changed_pixels: 0
+  text_region_changed_pixels: 0
+  exact_Eastmark_asset_applied: true
+  Eastmark_fine_lettering_quality: UNVERIFIED
+  all_seven_source_pairs_reopened: true
+  saved_image_reopened_hash_verified: true
+  original_files_preserved: true
+  archived: false
