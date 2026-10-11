@@ -69,3 +69,22 @@ recovery_checkpoint_2026_10_11:
   report_path: ../../QA/PAGES_13_32_RECOVERY_2026-10-11.md
   report_drive_id: 1v_um_-nu0zEa5DGch9K8tmIyy9MrtQ4H
   new_full_small_batch_audit_complete: false
+
+masked_local_repair_r2_2026_10_11:
+  status: UNRESOLVED_NOT_COMPLETE
+  candidate_drive_id: 1bHe5eSnmnE-mzFvyudNpI172ujRqBijC
+  audit_drive_id: 14Xfdw62u4h8s9g44onMKQvWqhb2jjYIW
+  evidence_drive_id: 1J5RbL9tq1PQohGLZLgU4q7hG2vTgQTIV
+  audit_path: qa/R2_LOCAL_FULL_AUDIT_2026-10-11.md
+  sha256: b8871f0c4f9fe0eed7dc5188e5aa29d9e88ca3d09de51ae1e3fc083e76b2f90f
+  dimensions_pixels: [5100, 2550]
+  source_pairs_checked: [Ben, Leo, Vinny, Steph, Maya, Mrs-Harper, Elena-Rivera, Natalie-Chen, Marcus-Jackson]
+  full_post_edit_audit_performed: true
+  saved_image_reopened_hash_verified: true
+  outside_mask_changed_pixels: 0
+  original_type_pixels_preserved: true
+  complete_visible_pass: false
+  author_approved: false
+  print_ready: false
+  originals_and_prior_revisions_preserved: true
+  changes: "Registered employer logos; unsupported hoops removed; smooth brown iris corrections. Remaining LS/stickers, likeness, hair, blouse, footwear, heights and visible uncertainties remain open."
