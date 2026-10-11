@@ -95,3 +95,20 @@ recovery_checkpoint_2026_10_11:
   dimensions_pixels: [5100, 2550]
   native_art_dimensions_pixels: [1774, 887]
   original_typography_restoration_complete: false
+
+masked_original_type_r4_2026_10_11:
+  status: UNRESOLVED_REPAIR_CHECKPOINT
+  author_approved: false
+  all_applicable_visible_items_pass: false
+  print_ready: false
+  png_drive_id: 1muqyHMrRFWc3NtnCrD6K2EEcKuUZNH4i
+  audit_drive_id: 1plHkciD-Tc1-C4kp6j4uLE-M3uL2x15z
+  audit_path: qa/R4_ORIGINAL_TYPE_FULL_AUDIT_2026-10-11.md
+  sha256: a4ba435d8544abbf428e09eeda5f872150372dc78c3556a821005ac775bb7124
+  dimensions_pixels: [5100, 2550]
+  original_PDF_font_glyphs_reused: true
+  outside_mask_changed_pixels: 0
+  saved_image_reopened_hash_verified: true
+  all_person_source_pair_recheck: true
+  original_files_preserved: true
+  archived: false
