@@ -101,3 +101,21 @@ masked_original_type_r3_2026_10_11:
   all_person_source_pair_recheck: true
   original_files_preserved: true
   archived: false
+
+masked_station_r4_2026_10_11:
+  status: UNRESOLVED_REPAIR_CHECKPOINT
+  author_approved: false
+  all_applicable_visible_items_pass: false
+  print_ready: false
+  png_drive_id: 1jEvYTQeRVCj3c4J4o3icOGeG_ItqArg6
+  audit_drive_id: 1yWWuL7BnAFRzfnzUnfMGfzc2oC1BJrtI
+  evidence_drive_id: 1c2baY4ILwi3wZ3ZRMf0Nfa9PEyY_Jyfa
+  audit_path: qa/R4_APPROVED_STATION_FULL_AUDIT_2026-10-11.md
+  sha256: e73c0b01ddef8790442eb076e916b3eb4b3a2316b5c2208290d7f871452495db
+  dimensions_pixels: [5100, 2550]
+  exact_station_asset_projected: true
+  outside_mask_changed_pixels: 0
+  text_changed_pixels: 0
+  all_six_source_pairs_reopened: true
+  saved_image_reopened_hash_verified: true
+  archived: false
