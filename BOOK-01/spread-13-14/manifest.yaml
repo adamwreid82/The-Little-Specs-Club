@@ -169,3 +169,23 @@ masked_repair_r4_2026_10_11:
   saved_image_reopened_hash_verified: true
   original_files_preserved: true
   archived: false
+
+masked_exact_badges_r5_2026_10_11:
+  status: UNRESOLVED_REPAIR_CHECKPOINT
+  author_approved: false
+  all_applicable_visible_items_pass: false
+  print_ready: false
+  png_drive_id: 1owd7_qAFEWqvYkDzsk6yGbCzHWisSA6X
+  audit_drive_id: 16ABpXpZ3nlikvGyrqTRZ1e6t697Kmwsb
+  evidence_drive_id: 1WozqUDoJhQkKSm_em2_kwShcOkYI4Sdq
+  audit_path: qa/R5_EXACT_BADGES_FULL_AUDIT_2026-10-11.md
+  sha256: 3ae1b27e602699ae3273d1569a7ea691494feb877b287f2bc306f528425202cb
+  dimensions_pixels: [5100, 2550]
+  exact_LS_and_visible_project_stickers_applied: true
+  existing_LS_baseline_used: true
+  new_baseline_created: false
+  outside_mask_changed_pixels: 0
+  original_text_pixels_unchanged: true
+  all_seven_source_pairs_reopened: true
+  saved_image_reopened_hash_verified: true
+  archived: false
