@@ -69,3 +69,23 @@ recovery_checkpoint_2026_10_11:
   report_path: ../../QA/PAGES_13_32_RECOVERY_2026-10-11.md
   report_drive_id: 1v_um_-nu0zEa5DGch9K8tmIyy9MrtQ4H
   new_full_small_batch_audit_complete: false
+
+masked_exact_badges_r2_2026_10_11:
+  status: UNRESOLVED_NOT_ALL_PASS
+  revision: R2
+  candidate_drive_id: 1Sg8xQAfOPGM8VVsh7cqvgWH__zyuNIBX
+  sha256: da1cb642300b2733385459193075d2fe3d95c2255b2fe6b4b4bf211fbcf9c46f
+  dimensions_pixels: [5100, 2550]
+  audit_drive_id: 15bvOTMm799iImGEswo1_7H5sOrmAPA-W
+  audit_path: qa/R2_EXACT_BADGES_FULL_AUDIT_2026-10-11.md
+  evidence_drive_id: 1tRKe_5pM5qTQSQzx6KuqtUCNv3sKijtL
+  saved_image_reopened_hash_verified: true
+  all_seven_paired_sources_checked: true
+  outside_mask_changed_pixels: 0
+  original_text_ink_changed_pixels: 0
+  original_high_resolution_files_unchanged: true
+  inherited_native_dimensions: [1774, 887]
+  all_applicable_visible_items_pass: false
+  author_approved: false
+  print_ready: false
+  archived: false
