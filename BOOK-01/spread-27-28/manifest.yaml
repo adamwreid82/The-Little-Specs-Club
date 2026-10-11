@@ -59,3 +59,24 @@ recovery_checkpoint_2026_10_11:
   report_path: ../../QA/PAGES_13_32_RECOVERY_2026-10-11.md
   report_drive_id: 1v_um_-nu0zEa5DGch9K8tmIyy9MrtQ4H
   new_full_small_batch_audit_complete: false
+
+masked_local_repair_r2_2026_10_11:
+  status: UNRESOLVED_SOURCE_MAPPING_BLOCKED
+  revision: R2
+  png_drive_id: 1FbPkfG5McMNNir2mc3-kDTBELPPkCHbH
+  audit_drive_id: 1ssD81fmfoixs2qlJ9g2ybLFVYFWmXABL
+  evidence_drive_id: 11JqAZjlR9P7-B-ON52JSDTDS4IarFjB6
+  report: qa/R2_LOCAL_FULL_AUDIT_2026-10-11.md
+  sha256: 9054054f3cdc4d4d3c87fbe57249aa987b2265d50b1622c1c446f4c180e688b8
+  dimensions_pixels: [5100, 2550]
+  inherited_native_artwork_pixels: [1774, 887]
+  outside_mask_changed_pixels: 0
+  original_text_ink_changed_pixels: 0
+  saved_png_reopened_hash_verified: true
+  named_cast_paired_source_recheck: true
+  supporting_workers_paired_source_recheck: false
+  complete_visible_pass: false
+  author_approved: false
+  print_ready: false
+  prior_candidates_preserved: true
+  unresolved: "Three supporting-worker source mappings unlocated; Steph ear-fill finish/freckles; shell/fine detail; height order, gutter, margins, Harper footwear/blouse. No named-person source-access blocker."
