@@ -58,3 +58,17 @@ lettering_only_revision_2026_10_03:
   artwork_approval_transferred: false
   native_artwork_print_detail_verified: false
   print_ready: false
+
+repair_2026_10_11:
+  status: UNRESOLVED_REPAIR_DRAFT
+  all_applicable_visible_items_pass: false
+  author_approved: false
+  archived: false
+  image_drive_id: 1ml-bOKejLU6fIlZrZk3Cfdhb1ubk4Vmy
+  audit_drive_id: 1UvtGm4ZFftyeBcEAGsqcK0cMMGk8gA7l
+  audit: qa/REPAIR_R2_UNRESOLVED_2026-10-11.md
+  sha256: cab8051c08c94fc5048352ed789b09c2b2f121d25e8bf78a79a16847163b7316
+  dimensions_pixels: [5100, 2550]
+  native_dimensions_pixels: [1774, 887]
+  upscaled: true
+  saved_bytes_reopened_verified: true
