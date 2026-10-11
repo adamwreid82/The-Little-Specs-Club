@@ -58,3 +58,23 @@ recovery_checkpoint_2026_10_11:
   report_path: ../../QA/PAGES_13_32_RECOVERY_2026-10-11.md
   report_drive_id: 1v_um_-nu0zEa5DGch9K8tmIyy9MrtQ4H
   new_full_small_batch_audit_complete: false
+
+masked_local_repair_r2_2026_10_11:
+  status: UNRESOLVED_NOT_ALL_PASS
+  revision: R2
+  png_drive_id: 1SJ2LeE2qer1Qy7Y2pfXQeF2Bh5lq_AzA
+  audit_drive_id: 1acQ-42wl5ZT8_EBzL9mDeDsma2b-51nW
+  evidence_drive_id: 1tlmQE_S7Ge-udh2aBBYetY9H9z0SBrEv
+  report: qa/R2_LOCAL_FULL_AUDIT_2026-10-11.md
+  sha256: 98a3f821f00a97f490e4780471390559eece575554ab5ee13a1606c77ef5bb21
+  dimensions_pixels: [5100, 2550]
+  inherited_native_artwork_pixels: [1774, 887]
+  outside_mask_changed_pixels: 0
+  original_text_ink_changed_pixels: 0
+  saved_png_reopened_hash_verified: true
+  full_paired_source_recheck: true
+  complete_visible_pass: false
+  author_approved: false
+  print_ready: false
+  prior_candidates_preserved: true
+  unresolved: "Ben visible left sticker missing; hair/likeness/clothing failures; vest/pocket/fine-detail uncertainties; gutter and outer crop. All nine paired sources found; no person-source blocker."
