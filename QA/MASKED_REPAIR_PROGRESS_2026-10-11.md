@@ -34,3 +34,16 @@ All rows below remain UNRESOLVED, unapproved and unarchived. Saved PNGs were dow
 | 27–28 | [R2](https://drive.google.com/file/d/1FbPkfG5McMNNir2mc3-kDTBELPPkCHbH/view) | [Full audit](https://drive.google.com/file/d/1ssD81fmfoixs2qlJ9g2ybLFVYFWmXABL/view) | [ZIP](https://drive.google.com/file/d/11JqAZjlR9P7-B-ON52JSDTDS4IarFjB6/view) | Three worker source mappings blocked; Steph ear fill/freckles, shell finish, height/gutter, Harper footwear/blouse, fine details |
 
 13–14 R5, 15–16 R4 and 17–18 R4 remain the previously linked unresolved revisions. Pages 29–30 and 31–32 remain recovered drafts pending the next local repair. No spread has an all-visible-items pass. Method authorization does not approve artwork. Approved Pages 11–12 REV27 remains untouched.
+
+## Additional saved checkpoints — Pages 29–32, 2026-10-11
+
+These are unresolved Version B candidates, not author approvals or print-ready files. Each saved image was downloaded, fully decoded, SHA256 matched and reopened as a whole spread. Both preserve every original lettering glyph and every pixel outside the recorded repair masks.
+
+| Spread | Saved PNG | Full audit | Evidence | Remaining work |
+|---|---|---|---|---|
+| 29–30 R2 | [Candidate](https://drive.google.com/file/d/1bx0vzg60iQFmYzlNuuptD5A0f5bP3Ugy/view) | [Audit](https://drive.google.com/file/d/1IrmA6nPg3FN7vW-rJ8Yo2FFVEAuAC9XL/view) | [ZIP](https://drive.google.com/file/d/1b1a5ONXJ-9BfG_IFqCh0vWW_nlwu_ShS/view) | Three supporting-worker source mappings; character hair/freckles, Harper outfit, Sam glove/patch/pouch design, decal fit/occlusion, heights and margins/gutter |
+| 31–32 R2 | [Candidate](https://drive.google.com/file/d/1HtXxJ-YoiCTLtY-xWP_yNmycdrFI0374/view) | [Audit](https://drive.google.com/file/d/1_r6Pe6r70rI0WudqY5MNmB_W8rMedEKh/view) | [ZIP](https://drive.google.com/file/d/1BvQvQ7GXlkIwRou4ACCw4DPk5r_2Q3sW/view) | Emblem edge finish, Steph helmet fill, Ben pants, hair/clothing colors, fine details, heights, title backgrounds and protected layout |
+
+GitHub: BOOK-01/spread-29-30/qa/R2_LOCAL_FULL_AUDIT_2026-10-11.md and BOOK-01/spread-31-32/qa/R2_LOCAL_FULL_AUDIT_2026-10-11.md; matching manifest checkpoints committed. This supersedes the earlier statement that these two spreads still had no localized repair.
+
+All ten spreads now have saved repair checkpoints and full itemized audits, but no spread has ALL APPLICABLE VISIBLE ITEMS PASS. Sources for named characters are available. Supporting-worker pair mappings remain unlocated for the operator on 23–24, three workers on 27–28 and three workers on 29–30. Other unresolved items are repair work, not claimed access blockers. Approved Pages 11–12 REV27 and all earlier candidates remain untouched.
