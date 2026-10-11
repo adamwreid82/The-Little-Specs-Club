@@ -3,6 +3,7 @@ status: VERSION_B_REVIEW_REQUIRED
 final_locked: false
 approved_by: null
 version_b:
+  path: version-b/
   status: review_required
   drive_id: 1TZi-s672YZodvnYQU9zetWxkxS_ltlsS
   sha256: ca36a73ddfdca5942517edc8d3f92200094aaf2aeaf3ececd53af89f95d45575
@@ -72,3 +73,14 @@ repair_2026_10_11:
   native_dimensions_pixels: [1774, 887]
   upscaled: true
   saved_bytes_reopened_verified: true
+
+recovery_checkpoint_2026_10_11:
+  status: UNRESOLVED_NOT_COMPLETE
+  complete_visible_pass: false
+  author_approved: false
+  original_high_resolution_files_unchanged: true
+  prior_candidates_preserved: true
+  report_path: ../../QA/PAGES_13_32_RECOVERY_2026-10-11.md
+  report_drive_id: 1v_um_-nu0zEa5DGch9K8tmIyy9MrtQ4H
+  new_full_small_batch_audit_complete: false
+  saved_repair_drive_id: 1ml-bOKejLU6fIlZrZk3Cfdhb1ubk4Vmy
