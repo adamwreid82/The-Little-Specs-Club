@@ -1,6 +1,7 @@
 spread: "27-28"
 status: REVIEW_REQUIRED
 version_b:
+  path: version-b/
   status: candidate_review_required
   drive_id: 1E-q_MFLr_oeuGfLXivDXPR44h5Y93rRg
   drive_url: https://drive.google.com/file/d/1E-q_MFLr_oeuGfLXivDXPR44h5Y93rRg/view?usp=drivesdk
@@ -48,3 +49,13 @@ lettering_only_revision_2026_10_03:
   artwork_approval_transferred: false
   native_artwork_print_detail_verified: false
   print_ready: false
+
+recovery_checkpoint_2026_10_11:
+  status: SOURCE_MAPPING_BLOCKED
+  complete_visible_pass: false
+  author_approved: false
+  original_high_resolution_files_unchanged: true
+  prior_candidates_preserved: true
+  report_path: ../../QA/PAGES_13_32_RECOVERY_2026-10-11.md
+  report_drive_id: 1v_um_-nu0zEa5DGch9K8tmIyy9MrtQ4H
+  new_full_small_batch_audit_complete: false
