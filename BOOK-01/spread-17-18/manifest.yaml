@@ -3,6 +3,7 @@ status: VERSION_B_REVIEW_REQUIRED
 final_locked: false
 approved_by: null
 version_b:
+  path: version-b/
   status: review_required
   drive_id: 1tdKGTvsiF7Ir0k4XXsRJaHPBoOft7shH
   sha256: 23c7bc62c36f0ce158c353d1f8adfcf2e593bb742d8b2e17c506ef26db85166a
@@ -76,3 +77,21 @@ lettering_only_revision_2026_10_04_rev2:
   artwork_approval_transferred: false
   native_artwork_print_detail_verified: false
   print_ready: false
+
+recovery_checkpoint_2026_10_11:
+  status: UNRESOLVED_NOT_COMPLETE
+  complete_visible_pass: false
+  author_approved: false
+  original_high_resolution_files_unchanged: true
+  prior_candidates_preserved: true
+  report_path: ../../QA/PAGES_13_32_RECOVERY_2026-10-11.md
+  report_drive_id: 1v_um_-nu0zEa5DGch9K8tmIyy9MrtQ4H
+  new_full_small_batch_audit_complete: false
+  saved_repair_drive_id: 1KxzhxhrTPmuty8gjmSx1aIrNZn_fAPYB
+  recovery_audit_drive_id: 12Zw2ks9GoK2Fxnyh5sQk1b14zaiEVF51
+  recovery_audit_path: qa/REPAIR_R3_RECOVERY_2026-10-11.md
+  saved_readback_verified: true
+  sha256: 36805f9a6a52b1de7efea843237355d01ce91c0d37a0c1778b77248278fe1662
+  dimensions_pixels: [5100, 2550]
+  native_art_dimensions_pixels: [1774, 887]
+  original_typography_restoration_complete: false
