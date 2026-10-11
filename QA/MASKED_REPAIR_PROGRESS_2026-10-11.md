@@ -47,3 +47,25 @@ These are unresolved Version B candidates, not author approvals or print-ready f
 GitHub: BOOK-01/spread-29-30/qa/R2_LOCAL_FULL_AUDIT_2026-10-11.md and BOOK-01/spread-31-32/qa/R2_LOCAL_FULL_AUDIT_2026-10-11.md; matching manifest checkpoints committed. This supersedes the earlier statement that these two spreads still had no localized repair.
 
 All ten spreads now have saved repair checkpoints and full itemized audits, but no spread has ALL APPLICABLE VISIBLE ITEMS PASS. Sources for named characters are available. Supporting-worker pair mappings remain unlocated for the operator on 23–24, three workers on 27–28 and three workers on 29–30. Other unresolved items are repair work, not claimed access blockers. Approved Pages 11–12 REV27 and all earlier candidates remain untouched.
+
+## Latest saved local-repair checkpoint — 2026-10-11, after 13–14 R6 and 15–16 R5
+
+No spread is fully passed, author approved or print ready. All earlier candidates and approved Pages 11–12 REV27 remain preserved.
+
+| Spread | Exact saved candidate | Audit | Evidence |
+|---|---|---|---|
+| 13–14 R6 | https://drive.google.com/file/d/1gJToS-8T0aVtzQOFHAYJvLi2BeNz4c1I/view | https://drive.google.com/file/d/142Bt870H9c9JmuV6aTc0MdYu3CjidwFU/view | https://drive.google.com/file/d/1IoXVNzCADdA_mw4H8xCevvRNEL84TmAS/view |
+| 15–16 R5 | https://drive.google.com/file/d/1EhzmqtUam8vgXyac4NKYj3CIttRV15E1/view | https://drive.google.com/file/d/18GHxonShGenv2wpovUBdYREEV5rDdRSW/view | https://drive.google.com/file/d/129OPjl5Be7ah_RjceyOeX9jm2tqL0raL/view |
+
+13–14 R6 SHA256: 026a75606a629cd6ee078aaf5b2ba8d6624e031e61a09cdea982c68b54702c4f. Harper toe caps corrected to source black; failed blouse/treetop trials preserved and reverted. All seven source/profile pairs rechecked. Measured gutter x2349–2751 intersects Leo helmet/face edge and hand: FAIL. Blouse, text background and detailed uncertainties remain open. GitHub manifest checkpoint a2a831d443be0ca962d14bcc89f2b05afe565d23.
+
+15–16 R5 SHA256: 8b3848780518ebbb1d488a4b6e7ad798a908eb32b24f6c97dc88ad727dd57c69. Exact six LS and five visible project stickers applied; wrong Harper near-left sticker removed. Four complete actual-output cast rechecks used all six approved source/profile pairs. Pale cleanup fields on Steph/Harper remain FAIL; subtle shell finish, exact sticker fit and prior character/layout failures remain unresolved. GitHub manifest checkpoint 80f34c07f00f79adb1c7a4dd5d717d09a96b0b54.
+
+Both saved PNGs downloaded, SHA256 matched, fully decoded at 5100 × 2550 and reopened visually. Outside-mask changed pixels and original PDF glyph changed pixels are zero. Inherited artwork was upscaled from 1774 × 887. The two changed manifests pass the existing structure validator; this is not a visual or approval pass. The previous all-ten manifest/canon-reference and 23-test checkpoint remains recorded; no canon source/reference changed here.
+
+All ten whole-spread previews, saved PNG links, complete item-by-item audits, source records and explicit NOT VISIBLE exclusions:
+- Review HTML: https://drive.google.com/file/d/18icNyCkcIXOJDjm9QMxJ02k4jfEEkQ8x/view
+- Status and precise next work: https://drive.google.com/file/d/10H43p7Rt429innuCJO1x09_V2sSAE1vn/view
+- All audits, including controlling Maya cargo-pocket correction: https://drive.google.com/file/d/1UZFFIoB1Zv1zmDVqdZyeqUhG9sIgyxhx/view
+
+Review bundle checks: all ten saved PNG hashes match their audits and all decode to 5100 × 2550. The HTML contains ten whole-spread previews and ten full audit sections. It does not grant new passes. Supporting-worker source/profile mappings remain unlocated on 23–24, 27–28 and 29–30; other listed failures are unfinished repair work rather than claimed access blockers.
