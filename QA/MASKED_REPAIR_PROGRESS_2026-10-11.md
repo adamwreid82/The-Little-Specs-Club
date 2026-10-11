@@ -19,3 +19,18 @@ All revised PNGs above decoded at 5100 × 2550 and were downloaded again, opened
 
 ---
 
+
+
+## Further masked-repair checkpoints — 2026-10-11
+
+All rows below remain UNRESOLVED, unapproved and unarchived. Saved PNGs were downloaded, fully decoded at 5100 × 2550, SHA256 matched and reopened as entire spreads. Each retains original glyph pixels and zero changes outside recorded masks. Inherited 1774 × 887 artwork was upscaled previously; print detail remains unverified.
+
+| Pages | Latest candidate | Audit | Evidence | Remaining work |
+|---|---|---|---|---|
+| 19–20 | [R2](https://drive.google.com/file/d/1bHe5eSnmnE-mzFvyudNpI172ujRqBijC/view) | [Full audit](https://drive.google.com/file/d/14Xfdw62u4h8s9g44onMKQvWqhb2jjYIW/view) | [ZIP](https://drive.google.com/file/d/1J5RbL9tq1PQohGLZLgU4q7hG2vTgQTIV/view) | LS/stickers, hair/freckles, Harper/Rivera clothing, heights and fine details |
+| 21–22 | [R2](https://drive.google.com/file/d/1Sg8xQAfOPGM8VVsh7cqvgWH__zyuNIBX/view) | [Full audit](https://drive.google.com/file/d/15bvOTMm799iImGEswo1_7H5sOrmAPA-W/view) | [ZIP](https://drive.google.com/file/d/1tRKe_5pM5qTQSQzx6KuqtUCNv3sKijtL/view) | Hair/likeness, Steph ear fill/freckles, Harper blouse/boots, heights and fine details |
+| 23–24 | [R2](https://drive.google.com/file/d/1ryuRTfyWMJR05EhN_k-gJiuRM9j1mNIa/view) | [Full audit](https://drive.google.com/file/d/13LF2ojvarEW7aei2pBEgoMVe94ceAVzV/view) | [ZIP](https://drive.google.com/file/d/1XnjqY8RE5ur_GR2ysSekDZGE4roKHgvD/view) | Operator source mapping blocked; LS, hair/blouse, heights, gutter and fine details |
+| 25–26 | [R2](https://drive.google.com/file/d/1SJ2LeE2qer1Qy7Y2pfXQeF2Bh5lq_AzA/view) | [Full audit](https://drive.google.com/file/d/1acQ-42wl5ZT8_EBzL9mDeDsma2b-51nW/view), [correction](https://drive.google.com/file/d/1AZeEwPEQcIGky2yhiaHhi0-hxs_6zZst/view) | [ZIP](https://drive.google.com/file/d/1tlmQE_S7Ge-udh2aBBYetY9H9z0SBrEv/view) | Ben visible sticker; likeness/hair, Erik beard/vest fill, Andre pouch, gutter and fine details. Maya cargo jeans confirmed approved; do not remove pockets |
+| 27–28 | [R2](https://drive.google.com/file/d/1FbPkfG5McMNNir2mc3-kDTBELPPkCHbH/view) | [Full audit](https://drive.google.com/file/d/1ssD81fmfoixs2qlJ9g2ybLFVYFWmXABL/view) | [ZIP](https://drive.google.com/file/d/11JqAZjlR9P7-B-ON52JSDTDS4IarFjB6/view) | Three worker source mappings blocked; Steph ear fill/freckles, shell finish, height/gutter, Harper footwear/blouse, fine details |
+
+13–14 R5, 15–16 R4 and 17–18 R4 remain the previously linked unresolved revisions. Pages 29–30 and 31–32 remain recovered drafts pending the next local repair. No spread has an all-visible-items pass. Method authorization does not approve artwork. Approved Pages 11–12 REV27 remains untouched.
