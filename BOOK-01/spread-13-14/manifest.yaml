@@ -3,6 +3,7 @@ status: VERSION_B_REVIEW_REQUIRED
 final_locked: false
 approved_by: null
 version_b:
+  path: version-b/
   status: review_required
   drive_id: 1LInqDl-7DxYmcRnhXyG4iT4VRJrRPAA6
   sha256: 135bbe07ebf0af192658d6d116ce5dbcfe413b8873939aebc6a9d4a02ce14915
@@ -136,3 +137,14 @@ repair_r3_original_type_2026_10_11:
     - Leo visible cargo detail and Steph freckles remain unverified
     - Left last text lines cross trees; gutter and outer clearances unverified
     - Pose-adjusted stature and native print detail unverified
+
+recovery_checkpoint_2026_10_11:
+  status: UNRESOLVED_NOT_COMPLETE
+  complete_visible_pass: false
+  author_approved: false
+  original_high_resolution_files_unchanged: true
+  prior_candidates_preserved: true
+  report_path: ../../QA/PAGES_13_32_RECOVERY_2026-10-11.md
+  report_drive_id: 1v_um_-nu0zEa5DGch9K8tmIyy9MrtQ4H
+  new_full_small_batch_audit_complete: true
+  saved_repair_drive_id: 1hTF-KOxeh_Fy6-u0Gz0WoLJMeRzRBFaV
