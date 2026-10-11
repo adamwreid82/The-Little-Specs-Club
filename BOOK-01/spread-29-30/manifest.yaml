@@ -77,3 +77,22 @@ recovery_checkpoint_2026_10_11:
   report_path: ../../QA/PAGES_13_32_RECOVERY_2026-10-11.md
   report_drive_id: 1v_um_-nu0zEa5DGch9K8tmIyy9MrtQ4H
   new_full_small_batch_audit_complete: false
+
+masked_local_repair_r2_2026_10_11:
+  status: UNRESOLVED_SOURCE_MAPPING_BLOCKED
+  candidate_drive_id: 1bx0vzg60iQFmYzlNuuptD5A0f5bP3Ugy
+  audit_drive_id: 1IrmA6nPg3FN7vW-rJ8Yo2FFVEAuAC9XL
+  evidence_drive_id: 1b1a5ONXJ-9BfG_IFqCh0vWW_nlwu_ShS
+  audit_path: qa/R2_LOCAL_FULL_AUDIT_2026-10-11.md
+  sha256: 4241442a66cfcde734feb092a8f2b0e3e1f7c6445d7141298f00075b92668bb6
+  dimensions: [5100, 2550]
+  inherited_native_dimensions: [1774, 887]
+  saved_file_reopened_hash_verified: true
+  outside_mask_changed_pixels: 0
+  original_text_ink_changed_pixels: 0
+  full_paired_named_character_recheck: true
+  supporting_worker_pairs_verified: false
+  all_applicable_visible_items_pass: false
+  author_approved: false
+  print_ready: false
+  archived: false
