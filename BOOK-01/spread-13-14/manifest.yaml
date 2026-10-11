@@ -189,3 +189,26 @@ masked_exact_badges_r5_2026_10_11:
   all_seven_source_pairs_reopened: true
   saved_image_reopened_hash_verified: true
   archived: false
+
+masked_local_r6_2026_10_11:
+  status: UNRESOLVED_REPAIR_CHECKPOINT
+  png_drive_id: 1gJToS-8T0aVtzQOFHAYJvLi2BeNz4c1I
+  audit_drive_id: 142Bt870H9c9JmuV6aTc0MdYu3CjidwFU
+  evidence_drive_id: 1IoXVNzCADdA_mw4H8xCevvRNEL84TmAS
+  audit_path: qa/R6_LOCAL_FULL_AUDIT_2026-10-11.md
+  sha256: 026a75606a629cd6ee078aaf5b2ba8d6624e031e61a09cdea982c68b54702c4f
+  dimensions_pixels: [5100, 2550]
+  inherited_native_dimensions: [1774, 887]
+  outside_mask_changed_pixels: 0
+  original_text_pixels_unchanged: true
+  all_seven_source_pairs_reopened: true
+  saved_image_reopened_hash_verified: true
+  repair: Harper brown work-shoe toe caps corrected to source black
+  rejected_trials_preserved: true
+  blouse_and_text_background_restored_after_failed_trials: true
+  gutter_status: FAIL
+  gutter_evidence: Recorded x2349-2751 band intersects Leo helmet/face edge and hand
+  all_applicable_visible_items_pass: false
+  author_approved: false
+  print_ready: false
+  archived: false
