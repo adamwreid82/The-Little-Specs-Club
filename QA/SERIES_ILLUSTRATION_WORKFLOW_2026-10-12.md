@@ -20,7 +20,7 @@ Google Drive approved canon, source PNGs, profiles, and explicit author approval
 
 ## Integrations
 - Adobe: optional localized edits; do not silently regenerate approved characters or claim pixel preservation without comparison.
-- Canva: optional editable typography and layout; confirm exact Architects Daughter 18 pt at final scale and safe zones. Never silently replace locked fonts or manuscript.
+- Canva: optional editable typography and layout; use Patrick Hand for future spreads (18 pt at final scale); preserve existing spreads and their current font/lettering and safe zones. Never silently replace locked fonts or manuscript.
 - Adobe Acrobat: optional PDF assembly/inspection; validate trim, bleed, pages, embedded fonts, resolution and actual proof separately.
 - Airtable: Books, Characters, Spreads, Audit Findings, Revisions, Approvals, Canon Rules. An indexed approval record is only populated using direct author evidence, revision identity and Drive/GitHub references.
 
