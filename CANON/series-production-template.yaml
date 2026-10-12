@@ -13,8 +13,10 @@ common:
     hard_gutter_px: 402
     effective_gutter_safety_px: [550, 600]
   typography:
-    font: "Architects Daughter"
+    font: "Patrick Hand"
     final_size_pt: 18
+    effective_scope: future_spreads_only
+    existing_spreads: preserve_current_font_and_lettering
     apply_after_artwork_review: true
     preserve_original_manuscript: true
   versions:
