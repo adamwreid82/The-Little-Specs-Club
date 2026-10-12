@@ -1,0 +1,57 @@
+version: 1
+template_id: little-specs-series
+status: production_configuration_not_new_artwork_approval
+authority:
+  canon: Google Drive approved canon and source images
+  controls: GitHub AGENTS.md and CANON/source-registry.yaml
+  tracker: Airtable appUivkPUJmlme2lL
+common:
+  image:
+    width_px: 5100
+    height_px: 2550
+    aspect_ratio: "2:1"
+    hard_gutter_px: 402
+    effective_gutter_safety_px: [550, 600]
+  typography:
+    font: "Architects Daughter"
+    final_size_pt: 18
+    apply_after_artwork_review: true
+    preserve_original_manuscript: true
+  versions:
+    build_first: B
+    derive_from_same_art: A
+  required_checks:
+    - source_image_for_every_visible_person
+    - approved_profile_for_every_visible_person
+    - locked_everyday_and_construction_clothing
+    - face_hair_proportions_PPE_logos
+    - construction_stage_and_site_assets
+    - perspective_and_story_composition
+    - gutter_typography_dimensions
+    - localized_repair_preservation
+    - full_spread_regressions
+  approval:
+    only_author_can_approve: true
+    qa_pass_is_not_approval: true
+    preserve_all_revisions: true
+books:
+  BOOK-01:
+    stage: "Site through footing"
+    canonical_rules: CANON/book-01-canon.yaml
+    status: existing_in_progress
+  BOOK-02:
+    stage: "Walls and structure"
+    canonical_rules: pending_book_specific_canon_review
+    status: manuscript_in_progress
+  BOOK-03:
+    stage: "In-wall systems and inspections"
+    canonical_rules: pending
+  BOOK-04:
+    stage: "Finishes"
+    canonical_rules: pending
+  BOOK-05:
+    stage: "Turnover"
+    canonical_rules: pending
+notes:
+  - "Common geometry is a baseline from Book 1; future book-specific deviations require explicit author approval."
+  - "This configuration does not assert creation of a native Canva project or Adobe document."
