@@ -1,0 +1,1898 @@
+# The Little Specs Club — Series Bible
+## Current Continuity Source | Consolidated Edition 4 FINAL | Height Canon 2026-09-11 | Series Naming Update 2026-09-13 | Fire Station Project Sticker Asset Lock 2026-09-14 | Sticker Size Lock 2026-09-15 | Rafael Martinez + Highpoint Masonry Lock 2026-09-19 | Marisol Vega + SummitShield Roofing + 5'7" Height Lock 2026-09-19
+
+**Version:** 2026-09-19, consolidated Edition 4 final with locked standing-height canon, series naming update, locked Fire Station Project sticker asset, locked smaller sticker size, and locked Rafael Martinez / Highpoint Masonry and Marisol Vega / SummitShield Roofing character-source additions  
+**Project:** The Little Specs Club  
+**Purpose:** Current authority for world, story, project chronology, branding, safety, Book 1 production continuity, locked Fire Station visual anchors, and the relationship between the current individual character master files.
+
+## Read this first
+
+This package replaces the active Edition 3 source set.
+
+**Character-source rule:** every character-specific fact contained in the current individual Master Character Profile and its paired approved PNG source image supersedes all earlier character descriptions, cast sheets, generated images, appearance notes, clothing notes, PPE notes, company assignments, personalities, roles, props, relationships, sticker positions, and other character-specific material.
+
+**Authority order:**
+1. Latest explicit author instruction.
+2. For character-specific matters: the current individual Master Character Profile plus that character's paired approved PNG source image in this Edition 4 package.
+3. For Fire Station architecture and early Book 1 site orientation: the locked project visual references in `Project Visual References/Fire Station/`.
+4. This Edition 4 Series Bible for unchanged world, story, project, chronology, branding, safety, production rules, and cross-character rules.
+5. The current Book 1 manuscript companion for manuscript wording.
+6. The Edition 4 Master Cast Source only as a convenience index and cross-cast visual check.
+
+If profile prose and the paired PNG ever appear to disagree on a visible physical feature, outfit, logo placement, PPE treatment, or visual styling, use the paired PNG for the visible depiction and the profile for non-visual character facts. Do not use older group sheets to resolve a conflict.
+
+**World continuity remains unchanged from Edition 3.** Middle Creek and the established project/world names remain locked unless the author explicitly changes them later.
+
+**Fire Station visual-anchor rule:** `Project Visual References/Fire Station/modern_middle_creek_fire_station.png` is the locked architectural appearance of Middle Creek Fire & Rescue Station No. 2. `Project Visual References/Fire Station/middle_creek_fire_station_construction_site.png` is the locked early-phase Book 1 site layout/orientation reference. Future illustrations must preserve these designs and orientation unless the author explicitly approves a change.
+
+**Old character material is superseded.** After replacing the active source package, older character sheets, older cast sheets, older character profiles, and prior generated character references should be treated as archive material only and should not be used to generate new illustrations.
+
+**Profile provenance note:** several individual profile DOCX files were authored immediately before Edition 4 and may still mention Edition 3, older group/cast sheets, an adult team sheet, lineup, PPE sheet, or helmet guide in their internal source notes. Those references are provenance only. They are superseded by this Edition 4 authority hierarchy and do not create a dependency on deleted older files. The substantive character facts and paired PNGs in those profiles remain current.
+
+## Contents
+
+1. Edition 4 non-negotiable authority and continuity rules
+2. Series foundation, world, format, and project structure
+3. Current character authority system and complete cast roster
+4. Series-wide character interaction and story behavior
+5. PPE, branding, hard hats, and project-sticker continuity
+6. Current named character companies and broader fictional trade ecosystem
+7. Complete Fire Station five-book working arc
+8. Book 1 current storyboard and production decisions
+9. Current Book 1 manuscript
+10. Current visual-source system and open production items
+11. Superseded-source policy and Edition 4 maintenance
+
+# 1. Edition 4 non-negotiable authority and continuity rules
+
+- The only current series name is **The Little Specs Club**, spelled exactly this way.
+- The five children as a group are called **the Little Specs** in narration, dialogue, back matter, marketing copy, and future story references when the wording refers to the children rather than the brand.
+- **The Little Specs Club** is the series/brand name. **The Little Specs** is the group name. Do not use the two forms interchangeably.
+- The prior series title is retired from current production. It may appear only inside an explicitly historical or superseded record that must preserve its original wording.
+- Current cover hierarchy is: **The Little Specs Club** → **Project One: The Fire Station** → **Book 1: A Fire Station Begins**.
+- Active series-prefixed source filenames use `The_Little_Specs_Club_`.
+- This naming change does **not** authorize visual redesign. Approved character source images, normal clothing, construction clothing, PPE, hard-hat colors, the current LS hard-hat badge, approved circular Club Emblem, and the locked Fire Station Project sticker asset remain controlled by their current approved sources unless the author separately approves a revision.
+- The permanent core child cast is **Benjamin “Ben,” Leon “Leo,” Vincent “Vinny,” Stephanie “Steph,” and Maya**. They are about eight years old and attend third grade at Middle Creek Elementary School with Mrs. Harper.
+- Relative child height remains **Ben → Leo → Vinny → Steph → Maya**, tallest to shortest.
+- **Locked standing-height canon (2026-09-11):** standing height is a fixed character-specific physical measurement used for cross-character illustration scaling. It is measured barefoot from the ground to the top of the head. Hair volume, hard hats, and other headgear do not count toward standing height. Perspective, posture, terrain, seated/kneeling poses, and footwear may change apparent height in a scene, but the underlying body-height relationships must remain consistent. Do not exaggerate small half-inch or one-inch differences merely to make the ranking obvious.
+
+### Locked standing heights
+
+| Character | Locked standing height | Inches |
+|---|---:|---:|
+| Ben | 4'5" | 53 |
+| Leo | 4'4½" | 52.5 |
+| Vinny | 4'4" | 52 |
+| Steph | 4'3½" | 51.5 |
+| Maya | 4'3" | 51 |
+| Danny Novak | 6'2" | 74 |
+| Erik Halvorsen | 6'1" | 73 |
+| Marcus Jackson | 6'0" | 72 |
+| Daniel Brooks | 5'10" | 70 |
+| Tony Marino | 5'10" | 70 |
+| Rafael Martinez | 5'10" | 70 |
+| Mayor Thomas Whitaker | 5'10" | 70 |
+| Andre Lewis | 5'9" | 69 |
+| Sam Carter | 5'8" | 68 |
+| Claire Morgan | 5'7" | 67 |
+| Marisol Vega | 5'7" | 67 |
+| Hannah Kowalski | 5'6" | 66 |
+| Elena Rivera | 5'5" | 65 |
+| Mrs. Harper | 5'5" | 65 |
+| Rebecca Foster | 5'4" | 64 |
+| Natalie Chen | 5'3" | 63 |
+| Priya Patel | 5'2" | 62 |
+- The current package contains **22 fully sourced characters**: five children, seven core adults, nine recurring specialists, and Mayor Thomas Whitaker.
+- Every current character must be illustrated from that character's paired PNG source image. Do not approximate a character from prose when the approved PNG is available.
+- Normal/school clothing and jobsite/construction clothing are locked by the individual character sources. Do not casually change shirts, pants, shoes, PPE, hairstyles, glasses, hard-hat colors, logos, or recurring accessories.
+- When multiple scenes occur during the same visit/day, preserve clothing, PPE, hairstyle, weather, carried items, and site conditions unless the story clearly changes them.
+- The five children and Mrs. Harper use the approved LS hard-hat badge (blue LS initials with a tilted yellow hard hat, dark contour, and narrow white outline), matching the approved 2026-09-27 source sheets. Other professionals use their current employer or public-agency identity from their profiles.
+- The jobsite itself is not branded as The Little Specs Club. Contractor, trade, municipal, and professional identities remain distinct from the children's brand.
+- The Fire Station Project sticker is issued to the children during Book 1 pages 11–12. There are no Fire Station Project stickers on the children before that scene. After issue, the exact locked asset `02 Locked Graphic Assets/Project Stickers/Fire_Station_Project_Sticker_APPROVED_LOCKED.png` must be used, and each sticker remains in its fixed individual position and scale.
+- Participating adult professionals retain their project-history stickers in the fixed positions specified by their current character profiles.
+- Rafael Martinez uses the exact locked Fire Station Project sticker on the right side of his tan hard hat, slightly toward the rear, at the current smaller realistic adult scale; Mrs. Harper's approved sticker size is the visual scale reference.
+- Marisol Vega has a locked standing height of 5'7" (67 inches / 170.18 cm), measured barefoot to the top of her head, excluding hair, hard hat, and footwear. Her approved appearance, clothing, PPE, company branding, and project-sticker placement remain unchanged.
+- Marisol uses the exact locked Fire Station Project sticker on the wearer's right side of her light cream/off-white hard hat, following the approved right-side helmet detail, at the smaller scale referenced to Mrs. Harper's corrected source. Her approved PNG is preserved unchanged; this record does not claim a separate sticker asset-match audit.
+- Mayor Thomas Whitaker is a completion-ceremony character only. He does not enter active construction areas, does not wear PPE, and does not receive project stickers.
+- Children observe, ask questions, compare, notice, and participate only in safe supervised demonstrations. Adults and trained tradespeople perform the construction work and make professional decisions.
+- Safety is part of every book. Unsafe behavior is never normalized.
+- Do not use real company names, logos, or distinctive branding from the author's real construction documents in this fictional series.
+- The final exterior design of **Middle Creek Fire & Rescue Station No. 2** is locked to `Project Visual References/Fire Station/modern_middle_creek_fire_station.png`. Preserve its three apparatus bays, separate public entrance, overall massing, material palette, signage/emblem treatment, and recognizable building identity.
+- The early-phase Book 1 jobsite is locked to `Project Visual References/Fire Station/middle_creek_fire_station_construction_site.png`. Preserve the visitor viewing area logic, site-access side, orange fencing, equipment/excavator zone, future public-entrance side, future apparatus-bay side, footprint orientation, foreground monument-sign/flag relationship, and general background/site environment. Do not mirror or flip the site.
+- Book 1 illustration production is locked to **Amazon KDP paperback**, **8.5 x 8.5-inch finished trim per page**, and **full bleed**. Facing story pages are developed primarily as one continuous two-page landscape illustration, with no manuscript text generated in the artwork and with protected gutter/text-safe areas for later typesetting.
+
+# 2. Series foundation, world, format, and project structure
+
+## Premise and educational approach
+
+Construction + adventure + age-appropriate life lessons. A recurring group of children follows real construction professionals as they solve understandable construction problems. The stories should work as stories, rather than tours filled with lectures. Construction vocabulary is real and explained through action, dialogue, and illustration.
+
+Working reader audience: **ages 4–8**. Character age: approximately **8**. Book 1 format is **32-page full-color illustrated picture book**. The current production target is **Amazon KDP paperback**, with a locked **8.5 × 8.5-inch finished trim per page** and **full bleed**. Facing story pages are developed primarily as continuous two-page landscape illustrations, then laid out for print. Exact final export/template dimensions, cover/spine calculations, ISBN/imprint, pricing, and other platform-production details remain separate final-production tasks and should be checked against the current KDP template before print export.
+
+Tone: warm, curious, expressive, collaborative, believable, and child-friendly. Characters speak as children, not miniature licensed professionals. No one child is always right. Each book combines a real construction lesson with an emotional lesson such as patience, teamwork, asking questions, checking work, or pride in doing a job correctly.
+
+Recurring rhythm: **Curiosity → problem → different ideas → investigation → discovery → professional resolution → construction lesson → emotional payoff.**
+
+The five perspectives are planning, engineering, field operations, design for people, and safety. Tradespeople receive visible credit for actually constructing the project.
+
+## World and access
+
+The children share Mrs. Harper's third-grade classroom. School topics, community developments, STEM activities, and approved field trips can launch stories. Mrs. Harper is a recurring bridge to the construction world; she does not have to appear at every future visit. In Book 1 she brings the group to the site.
+
+### Locked Middle Creek setting
+
+The series takes place in the fictional town of **Middle Creek**.
+
+| Setting element | Current canon |
+|---|---|
+| Town | **Middle Creek** |
+| Elementary school | **Middle Creek Elementary School** |
+| Fire department | **Middle Creek Fire & Rescue** |
+| Fire Station project | **Middle Creek Fire & Rescue Station No. 2** |
+| Children's hospital project | **Middle Creek Children's Hospital** |
+| Apartment project | **Creekside Apartments** |
+| Main waterway | **Sycamore River** |
+| Bridge project | **Northside Bridge** |
+
+These names are the current town-world canon and should be used consistently in future stories, illustrations, signs, maps, project documents, and project-specific artwork unless the author explicitly changes one.
+
+The exact street network, neighborhoods, civic buildings, school address, project-site locations, and detailed town map are still open. Do not invent a specific local geography and present it as locked until it is approved.
+
+The recurring general contractor / construction manager is **Civic Ridge Construction Group**. Site access requires authorized adult supervision and designated visitor areas.
+
+## Brand hierarchy
+
+**The Little Specs Club**  
+**Project One: The Fire Station**  
+**Book 1: A Fire Station Begins**
+
+Overall brand → project arc → individual book. Each book stands alone emotionally while advancing the same project. Covers across a five-book set should show the project visibly progressing.
+
+## Project sequence and five-book template
+
+| Arc | Project | Established direction |
+|---|---|---|
+| 1 | **The Fire Station** | In-world project: **Middle Creek Fire & Rescue Station No. 2**. Full five-book working arc and Book 1 manuscript established. |
+| 2 | **Middle Creek Children's Hospital** | Next planned five-book arc; teased at the Fire Station close. |
+| 3 | **Creekside Apartments** | Planned subsequent five-book arc. |
+| 4 | **Northside Bridge** | Planned subsequent five-book arc in Middle Creek. |
+
+Every project has five books:
+1. Planning and groundbreaking.
+2. Structure and exterior.
+3. Systems behind the walls.
+4. Finishes, testing, and inspections.
+5. Completion, turnover, and opening day.
+
+Adapt topics to the project type without changing the five-book count. One or two children may lead a book; equal dialogue on every spread is not required.
+
+**Middle Creek Children's Hospital** topic directions: emergency power, medical gases, specialized HVAC, infection control, patient rooms, operating areas, accessibility, and life safety. **Creekside Apartments** directions: repetitive construction, multiple floors, elevators, kitchens/bathrooms, fire-rated walls, balconies, common areas, and safe shared living. **Northside Bridge** directions: surveying, piers/foundations, water or roadway conditions, heavy cranes, steel/concrete, traffic control, weather, loads, and large-scale safety planning. Detailed titles, plots, and designs for these later arcs are not locked.
+
+Possible longer-term settings discussed: schools, libraries, stadiums, houses, roads, airports, and skyscrapers. These are expansion possibilities, not scheduled arcs.
+
+## Future merchandise
+
+Deferred until the series gains traction: child-sized branded hard hats, matching vests, and project sticker packs included with five-book sets. Hard hat front: approved LS hard-hat badge. Vest upper back: full series logo. Project sticker designs should reproduce consistently between books and physical sets. Physical merchandising timing does not override the in-story safety-orientation ceremony.
+
+# 3. Current character authority system and complete cast roster
+
+The individual character files in `Characters/` are now the controlling character sources. This Bible intentionally avoids re-stating full visual and personality descriptions so outdated duplicate text cannot compete with the current profiles.
+
+## Complete current cast
+
+| Character | Category | Role | Company / organization | Controlling profile | Approved source image |
+|---|---|---|---|---|---|
+| Benjamin “Ben” | Kid | Project Manager | — | `Characters/Kids/Ben/The_Little_Specs_Club_Ben_Master_Profile_2026-09-08.docx` | `Characters/Kids/Ben/Ben.png` |
+| Leon “Leo” | Kid | Site Superintendent | — | `Characters/Kids/Leo/The_Little_Specs_Club_Leo_Master_Profile_2026-09-08.docx` | `Characters/Kids/Leo/Leo.png` |
+| Maya | Kid | Engineer | — | `Characters/Kids/Maya/The_Little_Specs_Club_Maya_Master_Profile_2026-09-08.docx` | `Characters/Kids/Maya/Maya.png` |
+| Stephanie “Steph” | Kid | Architect | — | `Characters/Kids/Steph/The_Little_Specs_Club_Steph_Master_Profile_2026-09-08.docx` | `Characters/Kids/Steph/Steph.png` |
+| Vincent “Vinny” | Kid | HSE / Safety member of the group | — | `Characters/Kids/Vinny/The_Little_Specs_Club_Vinny_Master_Profile_2026-09-08.docx` | `Characters/Kids/Vinny/Vinny.png` |
+| Dr. Priya Patel | Core Adult | Structural / Consulting Engineer | Mason Vale Engineering | `Characters/Core Adults/Priya Patel (Engineer)/The_Little_Specs_Club_Dr_Priya_Patel_Master_Profile_2026-09-08.docx` | `Characters/Core Adults/Priya Patel (Engineer)/Dr. Priya Patel.png` |
+| Mr. Daniel Brooks | Core Adult | HSE / Safety Manager | Civic Ridge Construction Group | `Characters/Core Adults/Daniel Brooks (Safety Manager)/The_Little_Specs_Club_Mr_Daniel_Brooks_Master_Profile_2026-09-08.docx` | `Characters/Core Adults/Daniel Brooks (Safety Manager)/Mr. Daniel Brooks.png` |
+| Mr. Marcus Jackson | Core Adult | Site Superintendent | Civic Ridge Construction Group | `Characters/Core Adults/Marcus Jackson  (Superintendant)/The_Little_Specs_Club_Mr_Marcus_Jackson_Master_Profile_2026-09-08.docx` | `Characters/Core Adults/Marcus Jackson  (Superintendant)/Mr. Marcus Jackson.png` |
+| Mr. Tony Marino | Core Adult | General Trades Foreman / Carpenter | Redfern General Trades | `Characters/Core Adults/Tony Marino (Trades Foreman)/The_Little_Specs_Club_Mr_Tony_Marino_Master_Profile_2026-09-08.docx` | `Characters/Core Adults/Tony Marino (Trades Foreman)/Mr. Tony Marino.png` |
+| Mrs. Harper | Core Adult | Third-grade teacher for Ben, Leo, Vinny, Steph, and Maya | Middle Creek Elementary School | `Characters/Core Adults/Mrs. Harper (Teacher)/The_Little_Specs_Club_Mrs_Harper_Master_Profile_2026-09-08.docx` | `Characters/Core Adults/Mrs. Harper (Teacher)/Mrs. Harper.png` |
+| Ms. Claire Morgan | Core Adult | Architect | Harlow Finch Architects | `Characters/Core Adults/Claire Morgan (Architect)/The_Little_Specs_Club_Ms_Claire_Morgan_Master_Profile_2026-09-08.docx` | `Characters/Core Adults/Claire Morgan (Architect)/Ms. Claire Morgan.png` |
+| Ms. Elena Rivera | Core Adult | Project Manager | Civic Ridge Construction Group | `Characters/Core Adults/Elena Rivera (Project Manager)/The_Little_Specs_Club_Ms_Elena_Rivera_Master_Profile_2026-09-08.docx` | `Characters/Core Adults/Elena Rivera (Project Manager)/Ms. Elena Rivera.png` |
+| Mr. Andre Lewis | Recurring Specialist | Electrician | BrightLine Electrical Services | `Characters/Recurring Specialists/Andre Lewis (Electrician)/The_Little_Specs_Club_Mr_Andre_Lewis_Master_Profile_2026-09-08.docx` | `Characters/Recurring Specialists/Andre Lewis (Electrician)/Mr. Andre Lewis.png` |
+| Mr. Daniel “Danny” Novak | Recurring Specialist | Steel Erector / Ironworker Foreman | Summit Steel Erectors | `Characters/Recurring Specialists/Danny Novak (Steel)/The_Little_Specs_Club_Mr_Daniel_Novak_Master_Profile_2026-09-09.docx` | `Characters/Recurring Specialists/Danny Novak (Steel)/Mr. Daniel Danny Novak.png` |
+| Mr. Erik Halvorsen | Recurring Specialist | Plumber | ClearFlow Plumbing & Mechanical | `Characters/Recurring Specialists/Erik Halvorsen (Plumber)/The_Little_Specs_Club_Mr_Erik_Halvorsen_Master_Profile_2026-09-09.docx` | `Characters/Recurring Specialists/Erik Halvorsen (Plumber)/Mr. Erik Halvorsen.png` |
+| Mr. Samuel “Sam” Carter | Recurring Specialist | Concrete Foreman | StonePeak Concrete Contractors | `Characters/Recurring Specialists/Sam Carter (Concrete)/The_Little_Specs_Club_Mr_Samuel_Carter_Master_Profile_2026-09-09.docx` | `Characters/Recurring Specialists/Sam Carter (Concrete)/Mr. Samuel Sam Carter.png` |
+| Ms. Hannah Kowalski | Recurring Specialist | Mechanical / HVAC Technician | Northwind Mechanical Systems | `Characters/Recurring Specialists/Hannah Kowalski (HVAC)/The_Little_Specs_Club_Ms_Hannah_Kowalski_Master_Profile_2026-09-09.docx` | `Characters/Recurring Specialists/Hannah Kowalski (HVAC)/Ms. Hannah Kowalski.png` |
+| Ms. Rebecca “Becky” Foster | Recurring Specialist | Building Inspector | Middle Creek Building & Safety Department | `Characters/Recurring Specialists/Rebecca Foster (Building Inspector)/The_Little_Specs_Club_Ms_Rebecca_Foster_Master_Profile_2026-09-09.docx` | `Characters/Recurring Specialists/Rebecca Foster (Building Inspector)/Ms. Rebecca Foster.png` |
+| Natalie Chen | Recurring Specialist | Surveyor | Eastmark Surveying & Mapping | `Characters/Recurring Specialists/Natalie Chen (Surveyor)/The_Little_Specs_Club_Natalie_Chen_Master_Profile_2026-09-08.docx` | `Characters/Recurring Specialists/Natalie Chen (Surveyor)/Natalie Chen.png` |
+| Mr. Rafael Martinez | Recurring Specialist | Masonry Foreman | Highpoint Masonry | `The_Little_Specs_Club_Mr_Rafael_Martinez_Master_Profile_2026-09-19.docx` | `Mr. Rafael Martinez.png` |
+| Ms. Marisol Vega | Recurring Specialist | Roofing Foreman | SummitShield Roofing | `The_Little_Specs_Club_Ms_Marisol_Vega_Master_Profile_2026-09-19.docx` | `Ms. Marisol Vega.png` |
+| Mayor Thomas Whitaker | Civic / Mayor | Mayor of Middle Creek | Town of Middle Creek | `Characters/Civic/Mayor Thomas Whitaker/The_Little_Specs_Club_Mayor_Thomas_Whitaker_Master_Profile_2026-09-09.docx` | `Characters/Civic/Mayor Thomas Whitaker/Mayor Thomas Whitaker.png` |
+
+## Marisol Vega / SummitShield Roofing source lock
+
+Ms. Marisol Vega is the approved recurring Roofing Foreman for SummitShield Roofing. Her paired source is `Ms. Marisol Vega.png` (Drive ID `1KE81oMwAByCvB82ISJLnGEmNxbYVwmQ5`); her master profile is `The_Little_Specs_Club_Ms_Marisol_Vega_Master_Profile_2026-09-19.docx` (Drive ID `1fb6kliVp8mMyQCn33RYO0VtfudvWQkzl`). Both are in their respective Recurring Specialists folders. Her locked standing height is **5'7" (67 inches / 170.18 cm)**, barefoot from ground to top of head, excluding hair volume, headgear, and footwear.
+
+Use Marisol as the recognizable roofing trade lead whenever roofing work is materially shown, even without dialogue. Supporting roofers may appear, but do not replace her with a random foreman. Preserve her slate-blue polo, charcoal work pants, brown boots, cream/off-white branded hard hat, and approved task-appropriate PPE, including the blue-and-yellow roofing-harness design. The primary teaching line is **“A good roof protects everything underneath it.”**
+
+Production guidance, not new manuscript scenes: Book 2 is her principal roofing/enclosure phase; Book 3 may include actual roofing/system coordination; Book 4 may include roofing inspections or corrections; Book 5 may include roofing-related turnover, maintenance information, or the completed project team. Do not use her to replace another trade’s specialist. Her profile/source pair controls even if an older cast compilation does not yet include her.
+
+## Five-child perspective model
+
+- **Ben:** project planning, coordination, sequencing, and the big picture.
+- **Maya:** engineering, measurements, evidence, testing, and technical correctness.
+- **Leo:** field operations, equipment, constructability, and how work gets built.
+- **Steph:** architecture, design, space, appearance, and how people use buildings.
+- **Vinny:** HSE/safety, hazard awareness, PPE, and finding safe ways to work.
+
+Individual profiles control the exact personality, communication style, strengths, growth opportunities, appearance, clothing, props, and mentor relationships for each child.
+
+## Core mentor pairings
+
+- Ben ↔ Ms. Elena Rivera
+- Leo ↔ Mr. Marcus Jackson
+- Maya ↔ Dr. Priya Patel
+- Steph ↔ Ms. Claire Morgan
+- Vinny ↔ Mr. Daniel Brooks
+
+Mrs. Harper remains the classroom bridge. Mr. Tony Marino represents skilled general trades/carpentry. The recurring specialists provide trade-specific teaching without replacing the responsibility of trained professionals.
+
+## Recurring specialists by discipline
+
+- Natalie Chen — surveying and layout
+- Mr. Andre Lewis — electrical
+- Mr. Erik Halvorsen — plumbing
+- Ms. Hannah Kowalski — mechanical/HVAC
+- Mr. Samuel “Sam” Carter — concrete/foundations
+- Mr. Daniel “Danny” Novak — structural steel/ironwork
+- Ms. Rebecca “Becky” Foster — public building inspection
+- Mr. Rafael Martinez — masonry / CMU / brick / masonry layout and coordination
+- Ms. Marisol Vega — roofing / weatherproofing / insulation / flashing / roof drainage details / roofing safety
+- Mayor Thomas Whitaker — civic completion ceremonies and ribbon cuttings only
+
+# 4. Series-wide character interaction and story behavior
+
+The strongest solutions come from combining different perspectives rather than making one child consistently correct. Character dialogue should sound like intelligent children, not miniature licensed professionals.
+
+The adults respect the kids' curiosity without giving them unrealistic professional authority. The children may ask questions, observe work, read simplified drawings, help with safe measurements under supervision, build models, compare options, spot understandable discrepancies, suggest ideas, and identify safety concerns. They do not operate heavy machinery, perform hazardous construction work, work at heights, handle energized systems, or make final professional decisions.
+
+Recurring construction professionals and trade specialists should be credited visibly for doing the actual work. The series should continue reinforcing that successful construction depends on planners, designers, engineers, superintendents, safety professionals, skilled trades, inspectors, owners/users, and community stakeholders working together.
+
+### Recurring specialist depiction rule
+
+When a construction scene materially shows work from a trade that already has a named recurring specialist, use that specialist as the recognizable trade lead whenever applicable, even if the specialist has no dialogue. Generic workers may appear as supporting crew members, but they should not replace the established named specialist for that trade. If a trade does not yet have a locked specialist, approved fictional background workers may be used until a recurring specialist is established.
+
+Mrs. Harper can launch stories through school lessons, STEM activities, community developments, career discussions, field trips, math, science, art, and local history. Mayor Whitaker appears only when a completed facility is ready to function as part of Middle Creek.
+
+# 5. PPE, branding, hard hats, and project-sticker continuity
+
+## Scene-specific PPE
+
+Active construction areas require believable child-sized and adult PPE appropriate to the scene. Controlled tours inside active sites still use site PPE. School, office, civic-ceremony, and non-active settings do not require construction PPE unless specifically called for.
+
+Keep visitors separated from moving equipment, excavations, overhead work, energized systems, and other hazards. Use barricades, designated visitor paths, safe viewing positions, clear walkways, and adult supervision.
+
+## Current hard-hat and Fire Station sticker convenience table
+
+This table is a convenience summary only. The individual character profile and paired PNG remain the controlling sources if any detail is ever updated.
+
+| Character | Hard hat | Front identity | Fixed Fire Station sticker location | Special rule |
+|---|---|---|---|---|
+| Benjamin “Ben” | White | Approved LS hard-hat badge | Left side, above ear, slightly back | Fire Station sticker after Book 1 pp. 11–12 |
+| Leon “Leo” | Blue | Approved LS hard-hat badge | Right side, above ear, slightly back | Fire Station sticker after Book 1 pp. 11–12 |
+| Vincent “Vinny” | Green | Approved LS hard-hat badge | Back-left, toward rear | Fire Station sticker after Book 1 pp. 11–12 |
+| Stephanie “Steph” | Light gray | Approved LS hard-hat badge | Front-right beside the badge | Fire Station sticker after Book 1 pp. 11–12 |
+| Maya | Yellow | Approved LS hard-hat badge | Front-left beside the badge | Fire Station sticker after Book 1 pp. 11–12 |
+| Mrs. Harper | White | Approved LS hard-hat badge | Rear-right | Participating project history |
+| Ms. Elena Rivera | White | Civic Ridge Construction Group | Left-rear quadrant | Participating project history |
+| Mr. Marcus Jackson | Blue | Civic Ridge Construction Group | Back-right quadrant | Participating project history |
+| Dr. Priya Patel | Yellow | Mason Vale Engineering | Rear-left quadrant | Participating project history |
+| Ms. Claire Morgan | White | Harlow Finch Architects | Right-rear quadrant | Participating project history |
+| Mr. Daniel Brooks | Green | Civic Ridge Construction Group | Left side toward rear | Participating project history |
+| Mr. Tony Marino | White | Redfern General Trades | Rear-center-right | Participating project history |
+| Natalie Chen | Orange | Eastmark Surveying & Mapping | Back-left quadrant | Participating project history |
+| Mr. Andre Lewis | Red | BrightLine Electrical Services | Right side, slightly toward rear | Participating project history |
+| Mr. Erik Halvorsen | Teal | ClearFlow Plumbing & Mechanical | Left-rear side | Participating project history |
+| Ms. Hannah Kowalski | Light blue | Northwind Mechanical Systems | Rear-right quadrant | Participating project history |
+| Mr. Samuel “Sam” Carter | Gray | StonePeak Concrete Contractors | Left side, slightly behind midpoint | Participating project history |
+| Mr. Daniel “Danny” Novak | White | Summit Steel Erectors | Right-rear quadrant | Participating project history |
+| Ms. Rebecca “Becky” Foster | White | Middle Creek Building & Safety Department | Back-center-left | Participating project history |
+| Mr. Rafael Martinez | Tan | Highpoint Masonry | Right side, slightly toward rear | Participating project history; approved smaller adult sticker scale |
+| Ms. Marisol Vega | Light cream/off-white | SummitShield Roofing | Wearer’s right side; approved right-side helmet detail controls | Participating project history; smaller scale referenced to Mrs. Harper |
+| Mayor Thomas Whitaker | None | Town of Middle Creek civic identity | None | No PPE and no project sticker; completed-site ceremonies only |
+
+## Branding placement
+
+- Kids' hard-hat front: approved LS hard-hat badge with the approved narrow white outline for contrast.
+- Mrs. Harper hard-hat front: same approved LS hard-hat badge, matching the approved source sheet.
+- Other professionals: current employer/agency logo or identity from the individual profile.
+- Kids' vest front: simple and uncluttered.
+- Kids' vest upper back: preserve the exact branding treatment shown in each approved character source image. The series-name change alone does not authorize redrawing or changing the vest.
+- Adult PPE: professional/company identity, not The Little Specs Club branding.
+- Jobsite fencing, signs, trailers, equipment, materials, and trade vehicles: fictional contractor/trade identity only, never the children's brand unless a later story-specific reason is explicitly approved.
+
+## Locked Fire Station Project sticker asset
+
+The sole visual authority for the Fire Station Project sticker is `02 Locked Graphic Assets/Project Stickers/Fire_Station_Project_Sticker_APPROVED_LOCKED.png` (Drive file ID `1-nHpjvk0OBnVLBpLPjtPCTpyIde4nUAz`; SHA-256 `adcfdcdbe9c533268012e45d5c2662cf10c8b5ef684eb389528cf7107a4975ba`). This exact author-approved badge is the Fire Station Project sticker for the five Little Specs. Its artwork contains the project identity and slogan and must be treated as an immutable graphic asset.
+
+The Fire Station Project sticker must use the exact locked asset `Fire_Station_Project_Sticker_APPROVED_LOCKED.png` at the **new smaller canon size established by Maya’s latest corrected source sheet**, approximately half the scale of the earlier oversized version; this size is now locked for Ben, Leo, Maya, Steph, and Vinny and must not be enlarged for readability or camera emphasis.
+
+Do **not** redraw, regenerate, reinterpret, simplify, approximate, recolor, restyle, mirror, redesign, or substitute the sticker. Do not replace it with a generic fire truck, a different fire station, the Little Specs Club logo, the circular Club Emblem, a department badge, or any other graphic. Use the exact PNG asset. Permitted adjustments are limited to proportional scaling that preserves the locked smaller canon size, minimal perspective warping required to conform to the hard-hat surface, and natural scene lighting/shading. The internal artwork, colors, border, text, proportions, and design must remain unchanged. If the exact asset cannot be reproduced, omit it and flag the image for correction rather than inventing a replacement.
+
+Locked child placements after the Book 1 sticker ceremony:
+- **Ben:** left side of white hard hat, above the ear and slightly toward the back.
+- **Leo:** right side of blue hard hat, above the ear and slightly toward the back.
+- **Maya:** front-left side of yellow hard hat, beside the approved LS hard-hat badge.
+- **Steph:** front-right side of light gray hard hat, beside the approved LS hard-hat badge.
+- **Vinny:** back-left side of green hard hat, toward the rear.
+
+The sticker artwork is identical for all five children. Only the character-specific placement differs.
+
+## Project-sticker chronology
+
+For the Fire Station arc, the children receive the project sticker during Book 1 pages 11–12 after the safety instruction on pages 9–10. Before that ceremony, the Fire Station sticker must not appear on their hats. After placement, it remains permanent and is not moved, mirrored, rotated, enlarged, re-awarded, or relocated for camera convenience.
+
+Future project stickers accumulate around existing history. New stickers do not displace old ones. A sticker on the far side of a hard hat may naturally be hidden by the camera angle.
+
+# 6. Current named character companies and broader fictional trade ecosystem
+
+## Named recurring character employers and civic organizations
+
+- **Civic Ridge Construction Group:** Ms. Elena Rivera, Mr. Marcus Jackson, Mr. Daniel Brooks.
+- **Harlow Finch Architects:** Ms. Claire Morgan.
+- **Mason Vale Engineering:** Dr. Priya Patel.
+- **Eastmark Surveying & Mapping:** Natalie Chen.
+- **Redfern General Trades:** Mr. Tony Marino.
+- **BrightLine Electrical Services:** Mr. Andre Lewis.
+- **ClearFlow Plumbing & Mechanical:** Mr. Erik Halvorsen.
+- **Northwind Mechanical Systems:** Ms. Hannah Kowalski.
+- **StonePeak Concrete Contractors:** Mr. Samuel “Sam” Carter.
+- **Summit Steel Erectors:** Mr. Daniel “Danny” Novak.
+- **Highpoint Masonry:** Mr. Rafael Martinez.
+- **SummitShield Roofing:** Ms. Marisol Vega.
+- **Middle Creek Building & Safety Department:** Ms. Rebecca “Becky” Foster.
+- **Town of Middle Creek:** Mayor Thomas Whitaker.
+
+Whenever one of these named characters appears, the company/organization in that character's current profile controls.
+
+**Highpoint Masonry logo lock:** `Highpoint_Masonry_Logo_APPROVED_LOCKED.png` is the sole approved Highpoint Masonry company mark. It uses a red masonry-brick graphic above “Highpoint Masonry,” with “Highpoint” in black and “Masonry” in red. Do not redraw, recolor, restyle, simplify, or substitute this logo.
+
+**SummitShield Roofing logo lock:** `SummitShield_Roofing_Logo_APPROVED_LOCKED.png` (Drive ID `1_kvcNcklzduONXeWRGIICiUf5TjVsMr7`) is the unaltered raster crop of the blue angular roofline/mountain emblem and stacked company wording from Marisol’s approved reference sheet. Preserve the exact artwork. The approved light-colored clothing treatment remains controlled by her source sheet. This is not a newly drawn or vector logo.
+
+## Previously approved broader fictional trade-partner identities
+
+The following Edition 3 world identities remain available for unnamed/background companies or future use unless explicitly retired later. They must not override a named character's current employer assignment:
+
+- Ironleaf Siteworks — sitework / earthwork
+- Summit Concrete — concrete
+- Blue Ridge Structural — structural work
+- Frameline Carpentry — framing / carpentry
+- Clearview Glass — glass / specialty glazing
+- Doortech Solutions — doors / hardware
+- Northfield Interiors — interior finishes
+- Crestline Painting & Finishes — painting / finishes
+- Voltedge Electric — electrical
+- Clearbrook Mechanical — mechanical / plumbing
+- Redshield Fire Protection — fire protection
+- Signalcrest Systems — low voltage / communications / systems
+- Keystone Specialties — Division 10 / specialties
+- Craftline Millwork — millwork / casework
+- Everfield Glass & Aluminum — glass / aluminum glazing
+- Suncrest Window Film — window film
+- Weatherline Sealants — sealants / caulking
+
+No real contractor or trade branding from uploaded real-world construction documents may be reused in the fictional series.
+
+# 7. Complete Fire Station five-book working arc
+
+This is the full recovered working arc, updated for the later disturbed-stake resolution and orientation sticker rule. Its titles are the latest detailed arc titles. Individual manuscript decisions for Book 1 take precedence over earlier outline wording. Books 2–5 remain outlines, not finished manuscripts.
+
+# The Little Specs Club
+## Project One: The Fire Station
+### In-world facility: Middle Creek Fire & Rescue Station No. 2
+
+### Project Arc Overview
+The first five-book arc follows the Little Specs as they watch a brand-new community fire station go from an empty site to opening day.
+
+The goal of the arc is to introduce:
+- The five kids
+- Their construction personalities
+- The recurring adult mentors
+- Real construction sequencing
+- Safety as part of every phase
+- The idea that every role on a construction project matters
+
+Each book should work as a complete story by itself, but the five books together should feel like one continuous project.
+
+---
+
+# Book 1
+## The Little Specs Club: A Fire Station Begins
+
+### Construction Phase
+Planning, surveying, excavation, underground work, footings, and foundations.
+
+### Primary Character Focus
+**Ben and Maya**
+
+Ben becomes interested in how the entire project is organized.
+
+Maya becomes focused on making sure the building is placed and measured correctly.
+
+### Supporting Character Moments
+- Leo becomes fascinated with the excavator and other earthmoving equipment.
+- Vinny immediately notices site fencing, equipment paths, and PPE.
+- Steph studies the plans and tries to imagine the finished fire station before anything exists above the ground.
+
+### Sticker continuity
+In Book 1, pages 11–12, the kids receive the Fire Station sticker as part of their safety orientation. It remains in each child's fixed position through Books 1–5 and later arcs. Book 5 may reflect on its meaning; it does not award the first sticker or a duplicate.
+
+### Story Setup
+Mrs. Harper tells the class that **Middle Creek** is getting a new fire station: **Middle Creek Fire & Rescue Station No. 2**.
+
+The kids visit the site expecting to see a building.
+
+Instead, they see dirt, stakes, equipment, and construction fencing.
+
+Leo is disappointed.
+
+“Where’s the fire station?”
+
+Ms. Rivera explains that before a building can go up, a lot has to happen underneath it.
+
+### Main Problem
+A layout marker appears to be in the wrong location.
+
+The kids initially think it is a simple mistake.
+
+Maya wants to measure it.
+
+Ben wants to check the drawings and understand what else could be affected.
+
+Steph notices that changing the location could also affect the driveway where the fire trucks will exit.
+
+Leo begins looking at how much excavation has already been completed.
+
+Vinny makes sure no one crosses into the active excavation area while they investigate.
+
+The adult team confirms that a layout stake was bumped and is leaning away from its correct location. The surveyor resets and verifies the point before excavation and concrete proceed (later Book 1 manuscript controls).
+
+### Construction Topics
+- Site plans
+- Surveying
+- Stakes and layout
+- Excavation
+- Underground utilities
+- Footings
+- Foundations
+- Concrete
+- Why buildings need foundations
+
+### Safety Topics
+- Construction fencing
+- Staying outside equipment swing areas
+- Excavation hazards
+- High-visibility PPE
+- Why kids remain with adults on active jobsites
+
+### Core Lesson
+**A good building starts with a good foundation, and good decisions happen before the concrete is poured.**
+
+### Emotional Theme
+Planning ahead.
+
+### Ending
+The kids watch the first concrete footing being placed.
+
+Steph looks across the empty site and says she can finally imagine where the walls will be.
+
+Leo points toward a delivery truck approaching.
+
+It is carrying structural material for the next phase.
+
+### Lead-In to Book 2
+The foundation is ready.
+
+Now the fire station can finally start rising out of the ground.
+
+---
+
+# Book 2
+## The Little Specs Club: The Fire Station Takes Shape
+
+### Construction Phase
+Structural framing, masonry, roof, exterior walls, doors, windows, and building enclosure.
+
+### Primary Character Focus
+**Leo and Steph**
+
+Leo is fascinated by how the building physically comes together.
+
+Steph begins seeing her favorite part of the process: drawings becoming real spaces.
+
+### Supporting Character Moments
+- Ben follows the sequence of deliveries and crews.
+- Maya watches structural connections and measurements.
+- Vinny focuses on cranes, lifts, fall protection, and barricades.
+- Mr. Rafael Martinez leads the Highpoint Masonry crew when CMU or brick work is shown, even when he is not speaking. He gives Leo and Steph a recognizable skilled-trade connection to wall layout, openings, coursing, and craftsmanship.
+
+### Story Setup
+The kids return to discover that the flat concrete foundation now has walls and structural framing. Rafael and the Highpoint Masonry crew may be actively building masonry walls as part of this phase, consistent with the approved construction sequence.
+
+Leo cannot stop watching a crane lift material into place.
+
+Steph carries an early drawing of the finished station and compares it to what is being built.
+
+### Main Problem
+A large opening in one wall does not look right to Steph.
+
+She checks the architectural drawing.
+
+Maya measures it from a safe location.
+
+The kids discover that the opening is correct, but it seems unusually large because it will eventually contain one of the oversized apparatus-bay doors.
+
+Then another issue appears.
+
+A delivery has arrived out of sequence, and the material is blocking an area needed by another crew.
+
+Leo immediately understands the field problem.
+
+Ben starts thinking about sequencing.
+
+Mr. Jackson works with the team to reorganize the delivery area without delaying the work.
+
+### Construction Topics
+- Structural framing
+- Steel
+- Masonry
+- Roof framing
+- Exterior walls
+- Windows
+- Doors
+- Apparatus bays
+- Construction sequencing
+- Deliveries
+
+### Safety Topics
+- Crane swing radius
+- Suspended loads
+- Scissor lifts and boom lifts
+- Fall protection
+- Barricades
+- Safe material storage
+
+### Core Lesson
+**Buildings do not just go up. They have to go up in the right order.**
+
+### Emotional Theme
+Patience and sequencing.
+
+### Ending
+The kids walk through the enclosed building for the first time.
+
+There are rooms now, but the walls are still open.
+
+Leo looks inside one wall and sees pipes and conduit.
+
+“Whoa. What is all of that?”
+
+### Lead-In to Book 3
+The building has a shape.
+
+Now the kids discover everything that makes it work.
+
+---
+
+# Book 3
+## The Little Specs Club: What’s Behind the Walls?
+
+### Construction Phase
+Mechanical, electrical, plumbing, fire protection, communications, and interior rough-in.
+
+### Primary Character Focus
+**Maya and Ben**
+
+This is the most coordination-heavy book.
+
+Maya loves understanding how the systems work.
+
+Ben becomes fascinated with how so many different trades have to share the same space.
+
+### Supporting Character Moments
+- Leo follows how each trade physically installs its work.
+- Steph worries about how systems affect ceiling heights and room layouts.
+- Vinny watches ladder safety, electrical hazards, housekeeping, and overhead work.
+
+### Story Setup
+The kids return expecting to see finished rooms.
+
+Instead, they find open walls filled with pipes, wires, ducts, and equipment.
+
+Leo calls it a “building skeleton.”
+
+The adults explain that the fire station is getting its systems.
+
+### Main Problem
+Several building systems all need to pass through the same ceiling area.
+
+A large duct, sprinkler pipe, electrical conduit, and plumbing line are competing for space.
+
+Maya studies the dimensions.
+
+Ben looks at the coordination drawings.
+
+Leo asks how the crews will actually install everything.
+
+Steph notices that lowering the ceiling too far could change the look and feel of the room.
+
+Vinny points out that the crews also need enough space to install everything safely.
+
+The kids see how the adults coordinate the trades and adjust the routing before the walls and ceilings are closed.
+
+### Construction Topics
+- HVAC
+- Ductwork
+- Plumbing
+- Electrical
+- Lighting
+- Fire sprinklers
+- Fire alarm
+- Communications
+- Coordination drawings
+- Why systems are installed before walls close
+
+### Fire Station-Specific Topics
+- Exhaust removal systems
+- Emergency power
+- Apparatus bay systems
+- Firefighter alerting systems
+- Specialized equipment areas
+
+### Safety Topics
+- Ladder safety
+- Overhead work
+- Electrical awareness
+- Housekeeping
+- Keeping walkways clear
+- Proper PPE
+
+### Recurring Vinny Moment
+Leo becomes so interested in overhead work that he starts walking forward while looking up.
+
+Vinny catches him before he wanders outside the designated safe path.
+
+Vinny says:
+
+“Eyes up is good. Eyes everywhere is better.”
+
+### Core Lesson
+**A building works because many different systems work together.**
+
+### Emotional Theme
+Cooperation.
+
+### Ending
+The rough-in work passes inspection.
+
+Mr. Jackson tells the crews that the walls can begin closing.
+
+Steph smiles.
+
+“Now it’s going to start looking finished.”
+
+### Lead-In to Book 4
+The hidden systems are complete.
+
+Now the building has to become a real fire station.
+
+---
+
+# Book 4
+## The Little Specs Club: Ready for Inspection?
+
+### Construction Phase
+Drywall, ceilings, flooring, paint, fixtures, equipment installation, testing, inspections, punch list, and corrections.
+
+### Primary Character Focus
+**Steph and Vinny**
+
+Steph focuses on finishes and how the station feels to the firefighters.
+
+Vinny focuses on safe completion, testing, and correcting problems before opening.
+
+### Supporting Character Moments
+- Ben helps track unfinished items.
+- Maya checks details and measurements.
+- Leo follows final installations and field corrections.
+
+### Story Setup
+The kids hardly recognize the building.
+
+The walls are painted.
+
+The lights are on.
+
+The floors are going in.
+
+Cabinets, sinks, doors, and equipment are appearing everywhere.
+
+Steph loves seeing the design come together.
+
+Then Ms. Rivera explains that looking finished and being finished are not the same thing.
+
+### Main Problem
+The team begins the punch list and discovers several small issues.
+
+Examples:
+- A door does not close correctly.
+- One room has the wrong finish.
+- A light fixture is not operating.
+- A cabinet is slightly out of alignment.
+- A safety sign is missing.
+- One item is blocking required clearance.
+
+The kids initially think these are tiny problems.
+
+The adults explain that small details matter, especially in a building firefighters depend on during emergencies.
+
+Each child helps notice something from their own perspective.
+
+### Character Contributions
+**Ben**
+Tracks the punch-list items.
+
+**Maya**
+Measures and verifies installation details.
+
+**Leo**
+Looks at how the items can be corrected.
+
+**Steph**
+Checks design and finish quality.
+
+**Vinny**
+Looks for safety and access issues.
+
+### Construction Topics
+- Drywall
+- Painting
+- Ceilings
+- Flooring
+- Doors and hardware
+- Casework
+- Plumbing fixtures
+- Lighting
+- Equipment
+- Punch lists
+- Inspections
+- Testing
+
+### Safety Topics
+- Final housekeeping
+- Clear exit paths
+- Proper signage
+- Fire extinguishers
+- Guardrails and handrails
+- Equipment clearances
+- Why emergency systems are tested
+
+### Main Inspection Moment
+An inspector arrives.
+
+The kids assume the inspector is trying to find mistakes.
+
+Mrs. Harper later helps them understand that inspectors are another part of the team helping make sure the building is safe.
+
+### Core Lesson
+**Finished is not the same as ready. Good work has to be checked.**
+
+### Emotional Theme
+Taking pride in doing something correctly.
+
+### Ending
+The final major inspection is passed.
+
+Only a few small punch-list items remain.
+
+A fire engine arrives outside the new station.
+
+Leo’s eyes get huge.
+
+### Lead-In to Book 5
+Construction is almost complete.
+
+Now the building has to become a working fire station.
+
+---
+
+# Book 5
+## The Little Specs Club: Welcome to the Fire Station!
+
+### Construction Phase
+Final completion, commissioning, turnover, firefighter move-in, training, and opening day.
+
+### Primary Character Focus
+**All Five Kids**
+
+The final book should bring all five personalities together equally.
+
+### Story Setup
+The construction fences are coming down.
+
+The fire station has a sign.
+
+Fire trucks are moving into the apparatus bays.
+
+Furniture and equipment are being installed.
+
+The kids are excited because opening day is finally here.
+
+### Main Problem
+During the final preparations, the kids realize that building completion is not simply handing over the keys.
+
+The firefighters need to learn:
+- How systems operate
+- Where equipment is located
+- How emergency systems work
+- How the building should be maintained
+- What to do if something does not work properly
+
+A final readiness check begins.
+
+Each kid naturally looks at the station differently.
+
+### Character Contributions
+
+**Ben**
+Thinks about whether everything needed for turnover has been completed.
+
+**Maya**
+Checks how systems were tested and whether important information has been documented.
+
+**Leo**
+Watches training on doors, equipment, controls, and building systems.
+
+**Steph**
+Sees firefighters using the spaces she watched being designed.
+
+**Vinny**
+Checks that emergency routes, safety equipment, and procedures are ready.
+
+### Firefighter Interaction
+This book should feature firefighters more heavily.
+
+The kids learn how the building supports:
+- Fast emergency response
+- Firefighter safety
+- Training
+- Rest
+- Equipment maintenance
+- Community service
+
+### Construction Topics
+- Commissioning
+- Testing
+- Training
+- Operations manuals
+- Warranties
+- Turnover
+- Final cleaning
+- Move-in
+- Certificate of occupancy
+- Building maintenance
+
+### Safety Topics
+- Emergency exits
+- Fire alarms
+- Sprinklers
+- Safety equipment
+- Clear access
+- Building systems testing
+- Why safety continues after construction ends
+
+### Emotional Payoff
+The kids stand outside the completed station and compare it to the empty dirt lot from Book 1.
+
+Ben remembers the first plans.
+
+Maya remembers the layout stakes.
+
+Leo remembers the excavator.
+
+Steph remembers imagining the finished building.
+
+Vinny remembers checking the first jobsite entrance for hazards.
+
+They realize they watched an idea become a real building.
+
+### Core Lesson
+**Construction is not just about making buildings. It is about creating places that help people.**
+
+### Emotional Theme
+Pride, teamwork, and community.
+
+### Final Scene
+The station hosts its community opening.
+
+Mrs. Harper and the class attend.
+
+The fire chief thanks everyone who helped create the station.
+
+A firefighter asks the Little Specs:
+
+“So, what do you think your next project should be?”
+
+The kids look at one another.
+
+Mrs. Harper smiles.
+
+### Series Transition
+A large sign appears in the distance:
+
+**COMING SOON  
+MIDDLE CREEK CHILDREN'S HOSPITAL**
+
+Leo says:
+
+“That one looks big.”
+
+Maya says:
+
+“It looks complicated.”
+
+Vinny asks:
+
+“Do hospitals have special safety rules?”
+
+Steph is already sketching.
+
+Ben opens his notebook.
+
+### Closing Line
+**The Little Specs were ready to find out.**
+
+---
+
+# Fire Station Arc Character Balance
+
+## Book 1
+**Ben + Maya**
+Planning and foundations
+
+## Book 2
+**Leo + Steph**
+Structure and building enclosure
+
+## Book 3
+**Maya + Ben**
+Building systems and coordination
+
+## Book 4
+**Steph + Vinny**
+Finishes, inspections, and safety
+
+## Book 5
+**All Five**
+Turnover and opening day
+
+This distribution gives everyone meaningful moments while keeping the story natural.
+
+---
+
+# Fire Station Arc Educational Progression
+
+### Book 1
+**Where does a building begin?**
+
+### Book 2
+**How does a building stand up?**
+
+### Book 3
+**How does a building work?**
+
+### Book 4
+**How do we know a building is ready?**
+
+### Book 5
+**What happens when construction is finished?**
+
+Together, the five books take a child through the entire basic life cycle of a commercial construction project.
+
+---
+
+# Fire Station Arc Visual Progression
+
+The fire station should visibly evolve across the five covers.
+
+### Book 1
+Dirt, excavation, concrete, survey stakes
+
+### Book 2
+Framing, masonry, crane, partially enclosed station
+
+### Book 3
+Open walls, ducts, pipes, conduit, active interior work
+
+### Book 4
+Finished rooms, inspectors, punch-list details
+
+### Book 5
+Completed fire station, fire trucks, firefighters, community opening
+
+When all five books are displayed together, the covers should visually tell the story of the building being constructed from start to finish.
+
+---
+
+# Core Arc Message
+
+The Fire Station project should leave readers with one big idea:
+
+**A building is never made by one person.**
+
+It takes planners, designers, engineers, builders, tradespeople, safety professionals, inspectors, and many others working together.
+
+The Little Specs learn that the strongest projects are built on:
+
+**Planning.  
+Precision.  
+Teamwork.  
+Creativity.  
+Safety.**
+
+# 8. Book 1 current storyboard and production decisions
+
+**Title:** A Fire Station Begins  
+**Project:** Project One: The Fire Station  
+**Format:** 32 pages  
+**Primary focus:** Ben + Maya; strong roles for Leo, Steph, and Vinny  
+**Story question:** How can a whole fire station begin when all you can see is dirt?  
+**Construction problem:** A bumped, leaning layout stake produces a discrepancy. Maya notices; Ben brings it to the professionals; the surveyor and site team verify and reset it.  
+**Lesson:** Strong buildings begin with careful planning and a solid foundation. Checking early prevents larger problems.  
+**Original target length:** Approximately 650–850 story words, excluding back matter. The recovered revision is preserved below without cutting it to that earlier target.
+
+## Current page map
+
+This table reconciles the original storyboard with the later manuscript inserting the sticker ceremony. Use the **page numbers**, not old spread labels, to commission art.
+
+| Pages | Current scene | Story and illustration continuity |
+|---|---|---|
+| 1–2 | Title page | Current brand/project/book hierarchy. Latest manuscript treats both pages as title front matter; original storyboard allocated p.2 to copyright. Final copyright/imprint placement remains a production decision. A cast vignette, if used, must not imply pre-issued Fire Station stickers. |
+| 3–4 | The Big Announcement | Classroom; Harper presents a rendering. All five children react according to personality. No site PPE required. Completed station may appear in the classroom picture, not as an already-built site. |
+| 5–6 | Where Is the Fire Station? | Dirt, gravel, stakes, orange fencing, excavator; no fire-station building elements. Children with Harper at a designated safe arrival/viewing area. No Fire Station decals. A site trailer is support equipment, not completed station construction. |
+| 7–8 | Meet the Project Team | Rivera with white hat and plans/tablet; Jackson with blue hat, gray hair/beard and radio. Ben gravitates to planning; Leo to field operations. Company identities distinct from CK. No Fire Station decals on kids. |
+| 9–10 | Safety Orientation | Brooks instructs at visitor entrance: hats, vests, proper shoes, group, barricades, equipment. Vinny catches Leo's unfastened vest; Leo corrects it. No Fire Station decals yet. |
+| 11–12 | The Fire Station Sticker | Rivera displays the small round Fire Station decal. Each child applies one individually in the **locked permanent position** recorded in Section 6. Ceremony is within the orientation event. |
+| 13–14 | A Building Made of Stakes | Female surveyor demonstrates stakes, paint, string/control points and careful measurements. Maya compares drawing and site under supervision. Fire Station decals remain fixed. Physical site still at layout stage. |
+| 15–16 | Steph Sees It | Steph compares the drawing and dirt; identifies three truck doors and entrance. Imagination must be unmistakably separate from actual site progress. |
+| 17–18 | Something Doesn’t Add Up | Maya checks plan and measurement again; Ben joins; Steph notices driveway implication. Observe from safe locations. Kids do not move stakes. |
+| 19–20 | Stop and Check | Ben asks Rivera; she says “Show me.” Surveyor checks, Jackson inspects and notices tire tracks. The surveyor resets the bumped point and verifies it. |
+| 21–22 | One Little Stake | Patel explains how misplaced foundations affect walls, driveway, and excavation. Maya says “Measure twice. Build once.” No premature structure. |
+| 23–24 | Digging Begins | Checked layout precedes excavation. Leo watches scoop/lift/swing/dump behind barricades, outside equipment swing zones. Operator follows layout and depth. |
+| 25–26 | What Goes Underground? | Pipes and conduits appear below the future floor. Rivera explains why before concrete; Ben understands dependencies. Use distinct trades. Kids stay outside trenches. |
+| 27–28 | Building the Foundation | Forms, reinforcing steel, professional checks before concealment. Maya and Patel; Vinny and Brooks. Construction has reached foundation preparation, not walls/roof. |
+| 29–30 | Concrete Day | Concrete truck; professional placement and finishing; children watch behind barricade with established stickers. Steph sees the footprint matching her drawing. |
+| 31 | Little Specs Construction Facts | Foundation, surveyor, rebar, underfloor services, project-sticker fact; Vinny's Safety Corner. This is editorial back matter, not a company name or site sign. |
+| 32 | Next Time… | Foundation ready; delivery with structural material; each child responds in character. Decals in fixed positions. Tease Book 2: The Fire Station Takes Shape. Do not show erected future structure. |
+
+## Reconciled storyboard decisions
+
+The original storyboard put surveying on pages 11–12 and the later phases two pages earlier. The revised manuscript uses pages 11–12 for stickers, shifts surveying through foundation preparation forward, and uses pages 29–30 for concrete. The old standalone “From Dirt to Foundation” recap spread is no longer in the revised 32-page allocation.
+
+Earlier storyboard language had Jackson straighten the stake. The latest manuscript has the **surveyor reset and recheck the point**. Retain the professional verification rather than treating straightening a stick as sufficient.
+
+Construction progression: empty site → layout → verified correction → excavation → underground work → forms/rebar/checks → concrete foundation → structural delivery teaser. Do not compress all time into one implausible visit; the manuscript uses “Soon,” “Next,” and “Then came the day” to move the project forward.
+
+The original storyboard proposed faint transparent future-building overlays to express Steph's imagination. The later user specifically rejected building elements in early site art. Therefore early site reveals must remain visibly empty. When illustrating Steph's imagination, use a clearly bounded thought image or the held drawing so it cannot be mistaken for actual constructed walls. This is an editorial reconciliation, not a newly approved overlay artwork.
+
+Full-spread illustration intent remains: natural classroom introduction; wide early-site reveal; mentor connections; a friendly PPE correction rather than scolding; safe surveying demonstration; clear cause-and-effect investigation; impressive but believable machines; foundation payoff; educational back matter and next-book teaser. Exact camera angles, reusable site plan, and finished spread files were not recovered.
+
+## Character development retained
+
+Ben learns that leadership means finding the right people and answers rather than knowing everything. Maya demonstrates that careful checking is worth the time. Leo learns that equipment cannot replace planning. Steph connects drawings and people's needs to real spaces. Vinny demonstrates that safety starts before work starts.
+
+## Illustration production status
+
+The user requested illustrations for every spread, then regeneration and later batches. Several resulting images were rejected for character drift, incorrect adults, wrong company, premature stickers, and overadvanced construction. The retired brand must no longer appear. Requests to generate batches are not proof that those batches were approved. The locked current character/cast reference sheets control future illustration continuity, but a complete final approved Book 1 spread set has not yet been produced.
+
+# 9. Latest recovered Book 1 manuscript
+
+The following preserves the revised manuscript from the source conversation. It already incorporates the orientation sticker ceremony and the surveyor's reset. Later branding and visual rules control all artwork. The manuscript's sticker commentary and construction explanations are narrative material retained from the source, not a new technical verification of real-world practice.
+
+# The Little Specs Club  
+## The Fire Station  
+### Book 1: A Fire Station Begins
+
+---
+
+## Pages 1–2
+### Title Page
+
+**THE LITTLE SPECS CLUB**
+
+**Project One: The Fire Station**
+
+**Book 1**
+
+# A Fire Station Begins
+
+---
+
+## Pages 3–4
+### The Big Announcement
+
+Mrs. Harper stood beside a picture of a bright new fire station.
+
+“Our town is building something special,” she said.
+
+Leo nearly jumped from his seat.
+
+“A fire station!”
+
+Steph studied the picture.
+
+“I like those big red doors.”
+
+Maya noticed the drawings underneath it.
+
+Ben raised his hand.
+
+“Who plans a project that big?”
+
+Vinny had another question.
+
+“Do we get hard hats?”
+
+Mrs. Harper smiled.
+
+“You’re going to find out.”
+
+---
+
+## Pages 5–6
+### Where Is the Fire Station?
+
+The next morning, Mrs. Harper brought the Little Specs to the construction site.
+
+They saw dirt.
+
+They saw gravel.
+
+They saw wooden stakes.
+
+They saw orange fencing.
+
+And Leo saw a giant excavator.
+
+But there was one thing they did **not** see.
+
+“A fire station,” Leo said. “Where is it?”
+
+Steph held up the picture from class.
+
+“This is definitely the right place.”
+
+Ben studied the site.
+
+“Maybe the building has already started,” he said.
+
+“We just can’t see it yet.”
+
+---
+
+## Pages 7–8
+### Meet the Project Team
+
+A woman in a white hard hat walked toward them.
+
+“I’m Ms. Rivera, the Project Manager,” she said. “My job is to help keep the whole project organized.”
+
+Ben’s eyes went straight to the plans under her arm.
+
+A man with gray hair and a radio stepped beside her.
+
+“And I’m Mr. Jackson, the Superintendent. I help organize what happens out here every day.”
+
+Leo stared at the excavator.
+
+“So you know what all the machines are doing?”
+
+Mr. Jackson grinned.
+
+“I’d better.”
+
+---
+
+## Pages 9–10
+### Safety Orientation
+
+Before anyone went farther, Mr. Brooks gathered the group beside the visitor entrance.
+
+“Every project starts with safety,” he said.
+
+He showed them the rules.
+
+Hard hats.
+
+High-visibility vests.
+
+Proper shoes.
+
+Stay with the group.
+
+Stay behind barricades.
+
+Watch for moving equipment.
+
+“Construction sites can be exciting,” Mr. Brooks said, “but we never let excitement make us forget safety.”
+
+Leo was still watching the excavator.
+
+He started forward before fastening his vest.
+
+“Leo,” Vinny said.
+
+Leo stopped.
+
+Vinny pointed to the open vest.
+
+“Oh.”
+
+Leo fastened it.
+
+Vinny nodded.
+
+“Machines come after PPE.”
+
+Mr. Brooks smiled.
+
+“Good catch.”
+
+---
+
+## Pages 11–12
+### The Fire Station Sticker
+
+Ms. Rivera reached into a small box.
+
+“There’s one more thing we give people when they join a project.”
+
+She held up a small round sticker.
+
+It showed the future fire station.
+
+Across the bottom it read:
+
+**FIRE STATION**
+
+And beneath it was a small **CK**.
+
+Leo’s eyes widened.
+
+“For our hard hats?”
+
+“For your hard hats,” Ms. Rivera said.
+
+“This sticker represents the project you’re going to follow from the ground up.”
+
+One by one, the kids placed their stickers wherever they wanted.
+
+Ben carefully lined his up.
+
+Maya checked hers twice before pressing it down.
+
+Steph picked the spot that looked best.
+
+Leo stuck his on quickly and grinned.
+
+Vinny made sure his did not cover anything important.
+
+Mr. Brooks nodded.
+
+“Now remember where you put them. Project stickers stay with you.”
+
+The kids looked at one another’s hard hats.
+
+Their first project had officially begun.
+
+---
+
+## Pages 13–14
+### A Building Made of Stakes
+
+Nearby, a surveyor showed the kids small wooden stakes and bright marks painted on the ground.
+
+“These tell us exactly where the building belongs,” she explained.
+
+Maya looked surprised.
+
+“A whole building from little sticks?”
+
+“And very careful measurements,” said the surveyor.
+
+She showed Maya how the distances on the site matched the numbers on the plan.
+
+Maya checked one measurement.
+
+Then another.
+
+Her eyes narrowed.
+
+She liked things to be exact.
+
+---
+
+## Pages 15–16
+### Steph Sees It
+
+Steph held the fire station drawing in front of her.
+
+She looked at the empty dirt lot.
+
+Then back at the drawing.
+
+“There will be three big truck doors over there,” she said.
+
+She pointed.
+
+“And the entrance will be here.”
+
+For a moment, Steph could almost see it.
+
+Walls.
+
+Windows.
+
+Fire trucks.
+
+Firefighters hurrying in and out.
+
+Leo squinted.
+
+“I still see dirt.”
+
+Steph smiled.
+
+“You have to imagine it first.”
+
+---
+
+## Pages 17–18
+### Something Doesn’t Add Up
+
+Maya looked at one of the layout points again.
+
+Then she checked the plan.
+
+Then the measurement.
+
+Then the plan again.
+
+“That’s strange.”
+
+Ben walked over.
+
+“What is?”
+
+“This point should be farther away.”
+
+Ben checked the drawing.
+
+Steph looked toward the future fire-truck driveway.
+
+“If the building moved that way,” she said, “wouldn’t the driveway get smaller?”
+
+Maya nodded.
+
+Ben looked toward Ms. Rivera.
+
+“We should ask.”
+
+---
+
+## Pages 19–20
+### Stop and Check
+
+Ben approached Ms. Rivera.
+
+“Maya found something we don’t understand.”
+
+Ms. Rivera did not laugh.
+
+She did not guess.
+
+She said, “Show me.”
+
+The surveyor checked the measurements.
+
+Mr. Jackson inspected the stake.
+
+Then he noticed tire tracks nearby.
+
+“Aha.”
+
+The stake had been bumped and was leaning away from its correct location.
+
+The surveyor reset the point and checked again.
+
+“Now it matches.”
+
+Ms. Rivera smiled.
+
+“Good question, team.”
+
+---
+
+## Pages 21–22
+### One Little Stake
+
+Dr. Patel joined them.
+
+“What would happen if nobody checked it?” Maya asked.
+
+Dr. Patel pointed toward the ground.
+
+“If the foundation started in the wrong place, everything above it could be affected.”
+
+“The walls?” asked Steph.
+
+“Yes.”
+
+“The driveway?” asked Ben.
+
+“That too.”
+
+Leo looked at the excavator.
+
+“So even that giant machine could dig in the wrong place?”
+
+Dr. Patel nodded.
+
+Maya smiled.
+
+“Measure twice. Build once.”
+
+---
+
+## Pages 23–24
+### Digging Begins
+
+Once the layout was checked, the excavator began to work.
+
+Leo could hardly stand still.
+
+The bucket dug into the soil.
+
+Scoop.
+
+Lift.
+
+Swing.
+
+Dump.
+
+Mr. Jackson pointed toward the marks on the ground.
+
+“The operator isn’t just digging anywhere. The crew follows the layout and the correct depth.”
+
+Leo watched carefully.
+
+“So the machine is huge…”
+
+Mr. Jackson nodded.
+
+“…but the measurements still have to be exact.”
+
+Leo grinned.
+
+“That makes it even cooler.”
+
+---
+
+## Pages 25–26
+### What Goes Underground?
+
+Soon, the kids saw pipes and conduits being placed below the future floor.
+
+Leo tilted his head.
+
+“Why put those down there now?”
+
+Ms. Rivera pointed toward the area where concrete would eventually go.
+
+“Because once we cover everything with concrete, getting underneath it becomes much harder.”
+
+Ben looked at the schedule in her hands.
+
+“So one job has to happen before another job can start.”
+
+“Exactly,” she said.
+
+Ben smiled.
+
+Now **that** made sense.
+
+---
+
+## Pages 27–28
+### Building the Foundation
+
+Next came the reinforcing steel.
+
+Maya studied the steel bars inside the forms.
+
+Dr. Patel explained, “Concrete is very strong, and the steel helps it handle other forces too.”
+
+Workers carefully checked the forms.
+
+They checked the steel.
+
+They checked the measurements.
+
+Vinny noticed.
+
+“They’re checking everything again?”
+
+Mr. Brooks nodded.
+
+“Once concrete covers it, we want to know the work underneath is right.”
+
+Vinny approved.
+
+“Checking twice sounds pretty safe to me.”
+
+---
+
+## Pages 29–30
+### Concrete Day
+
+Then came the day Leo had been waiting for.
+
+A concrete truck rumbled onto the site.
+
+“YES!” Leo whispered.
+
+The Little Specs watched from behind the barricade, their Fire Station stickers now part of their hard hats.
+
+Concrete filled the forms.
+
+Workers guided it into place.
+
+They smoothed it.
+
+They checked it.
+
+Slowly, the foundation began to appear.
+
+Steph looked at her drawing.
+
+Then at the concrete.
+
+“I can see it now,” she said.
+
+Ben smiled.
+
+“It was there all along.”
+
+“We just needed the plan.”
+
+---
+
+## Page 31
+# Little Specs Construction Facts
+
+### What is a foundation?
+A foundation supports a building and helps transfer its weight safely into the ground.
+
+### What does a surveyor do?
+Surveyors use special tools and careful measurements to determine exactly where things should be built.
+
+### What is rebar?
+Rebar is reinforcing steel placed inside concrete to help make it stronger.
+
+### Why do pipes sometimes go under the floor?
+Some pipes and conduits must be installed before concrete covers the area.
+
+### Why do construction workers put stickers on hard hats?
+Project stickers can represent jobs, companies, training, milestones, or places a worker has been.
+
+The Little Specs received their **Fire Station project sticker during safety orientation**, just like project stickers are often handed out at real jobsites.
+
+### Vinny’s Safety Corner
+Construction sites can be dangerous.
+
+**Never enter an active construction site unless you are with an authorized adult and following the site’s safety rules.**
+
+---
+
+## Page 32
+# Next Time...
+
+The foundation was ready.
+
+A truck rolled toward the site carrying something very large.
+
+Leo stared.
+
+Maya looked at the drawings.
+
+Steph looked up.
+
+Vinny checked the barricade.
+
+Ben opened the schedule.
+
+Their Fire Station stickers were still on their hard hats, exactly where each kid had placed them.
+
+The fire station was finally ready to go...
+
+# UP!
+
+### Next:
+## The Little Specs Club  
+### The Fire Station  
+### Book 2: The Fire Station Takes Shape
+
+# 10. Current visual-source system and open production items
+
+## Current visual-source system
+
+1. The **22 individual paired PNG source images** in `Characters/` are the primary visual authority for each character.
+2. The matching **22 Master Character Profile DOCX files** are the primary character-writing and continuity authority.
+3. `Project Visual References/Fire Station/modern_middle_creek_fire_station.png` is the **LOCKED architectural reference** for Middle Creek Fire & Rescue Station No. 2. It controls the station's completed appearance and must guide classroom renderings, sticker artwork, phase illustrations, completed-building scenes, and opening/ribbon-cutting scenes.
+4. `Project Visual References/Fire Station/middle_creek_fire_station_construction_site.png` is the **LOCKED early-phase Book 1 site continuity reference**. It controls site orientation, visitor viewing area logic, site access, fencing, equipment/excavator zone, footprint orientation, future public-entrance side, future apparatus-bay side, monument-sign/flag relationship, and general environment. Do not mirror or flip it.
+5. `PROJECT_VISUAL_REFERENCE_MANIFEST_2026-09-09_EDITION_4_FINAL.md` indexes these project visual anchors and their hashes.
+6. `The_Little_Specs_Club_MASTER_CAST_SOURCE_2026-09-09_EDITION_4_FINAL.docx` is a convenience visual index assembled from current character source images. It does not override an individual profile/source pair.
+7. Older child sheets, adult sheets, group sheets, lineup sheets, rejected generations, and older master cast files are superseded and are not included as active authorities in Edition 4.
+8. Any internal profile reference to Edition 3 or to an older group/cast/helmet reference is superseded by the Edition 4 package hierarchy; it should not be used to re-activate an older source.
+
+## Production locks that remain open
+
+| Item | Current status | Still open |
+|---|---|---|
+| Series logo | Current legacy block logo and CK mark remain the working visual identity shown in the approved character sources | Standalone publication-ready vector master and exact production color specifications |
+| Character canon | 22 current character profiles and 22 paired source images are locked as the active character authority | Future characters or later explicit author revisions only |
+| Middle Creek world | Town, school, fire department, Fire Station, Children's Hospital, Creekside Apartments, Sycamore River, and Northside Bridge remain locked | Detailed street network, neighborhoods outside the locked Fire Station site, and full town map |
+| Fire Station exterior | **LOCKED** to `Project Visual References/Fire Station/modern_middle_creek_fire_station.png` | Only later explicit author-approved revisions |
+| Book 1 early-phase Fire Station site | **LOCKED** to `Project Visual References/Fire Station/middle_creek_fire_station_construction_site.png` | Later-phase site-progress references may be developed from this same orientation as construction advances |
+| Book 1 illustration format | **LOCKED:** Amazon KDP paperback; 8.5 × 8.5-inch finished trim per page; full bleed; story art primarily as continuous two-page landscape spreads; manuscript text typeset later | Exact current KDP export/template dimensions, final lettering/layout, copyright/imprint placement, print-ready export |
+| Book 1 | Revised 32-page manuscript and page map remain current | Final approved illustration set and final production assembly |
+| Publishing metadata | Paperback platform/trim/bleed direction is locked | ISBN/imprint, pricing, cover/spine production, release/distribution details |
+
+## Illustration preflight
+
+Before generating any book page:
+- Start with the spread brief, then select only the characters needed for that scene.
+- Load or reference the current paired PNG for **every named character** appearing. Do not recreate a named character from prose alone when the PNG exists.
+- Match normal clothing vs. construction clothing exactly to the approved source.
+- Preserve same-day clothing, PPE, hairstyle, carried items, weather, lighting, and site conditions unless the manuscript changes them.
+- Use the locked Fire Station exterior reference whenever the completed/proposed building is visibly represented.
+- Use the locked early-phase site reference for Book 1 jobsite orientation and do not mirror or flip it.
+- Maintain the correct construction phase and sticker chronology. Never show work that has not happened yet.
+- Keep construction equipment, materials, methods, worker locations, PPE, barricades, and access controls mechanically and professionally believable.
+- Do not invent missing character details from memory or older sources.
+- Do not move hard-hat stickers or logos for camera convenience.
+- Keep children in safe supervised positions and let trained professionals perform the work.
+- Generate story art without manuscript text; reserve a natural clean text-safe area for later typesetting.
+- Protect the center gutter: no faces, heads, critical hands, logos, hard-hat stickers, or essential story/construction information in the gutter.
+- Use cinematic camera variety while maintaining clear child-friendly storytelling.
+- Review each generated spread for character continuity and construction accuracy before approval and moving to the next spread.
+
+# 11. Superseded-source policy and Edition 4 maintenance
+
+## Superseded character material
+
+All character-specific information from Edition 3 and earlier is superseded by the current individual profiles and paired source images in this package. Older character appearances, outfits, company assignments, eye colors, hairstyles, PPE treatments, hard-hat logos, sticker positions, supporting cast concepts, and rejected image generations must not be used as active references.
+
+The retired names and abandoned concepts documented in earlier editions remain retired. Do not reintroduce old alternate series names or superseded characters merely because they appear in archived material.
+
+## World continuity
+
+The Middle Creek world information was not changed during the Edition 4 character rebuild. The world/project canon retained in Section 2 remains current.
+
+## Edition 4 change log — 2026-09-09
+
+- Replaced the Edition 3 character authority system with 20 individual current Master Character Profiles and 20 paired approved PNG source images.
+- Added the completed current roster of five kids, seven core adults, seven recurring specialists, and Mayor Thomas Whitaker.
+- Made all current character files explicitly superior to every prior character description or visual reference.
+- Added the current specialist employers BrightLine Electrical Services, ClearFlow Plumbing & Mechanical, Northwind Mechanical Systems, StonePeak Concrete Contractors, and Summit Steel Erectors as controlling employers for their named characters.
+- Added Middle Creek Building & Safety Department identity for Rebecca Foster and Town of Middle Creek civic identity for Mayor Thomas Whitaker.
+- Locked Mayor Whitaker as a post-construction ceremony character with no construction PPE or project stickers.
+- Preserved the existing Middle Creek world, Fire Station arc, Book 1 storyboard, and Book 1 manuscript without intentional story changes.
+- Removed older group/cast sheets from the active visual-authority chain.
+- Locked `modern_middle_creek_fire_station.png` as the controlling architectural appearance for Middle Creek Fire & Rescue Station No. 2.
+- Locked `middle_creek_fire_station_construction_site.png` as the controlling early-phase Book 1 site layout/orientation reference.
+- Locked Book 1 illustration production to Amazon KDP paperback, 8.5 × 8.5-inch finished trim, full bleed, continuous two-page story spreads, later typesetting of manuscript text, protected gutters, and scene-specific text-safe areas.
+
+## Character-source addition — 2026-09-19: Marisol Vega
+
+- Added Ms. Marisol Vega, Roofing Foreman for SummitShield Roofing, with the author-approved PNG and full master profile.
+- Recorded the author-approved standing height of 5'7" / 67 inches / 170.18 cm and replaced Marisol’s prior pending-height status.
+- Added the extracted approved SummitShield logo and the paired-source references; updated active totals to 22 characters / nine recurring specialists.
+- Preserved all existing character images, Marisol’s approved PNG, the story manuscripts, station architecture, and unrelated canon. Historical edition counts remain historical.
+
+## Package replacement rule
+
+When this Edition 4 package is uploaded as the active source set, archive or delete prior active source files so they cannot be mistaken for current authority. Future updates should increment the edition and replace, rather than layer ambiguously over, the active package.
+
+— End of current Edition 4 Series Bible —
+
+
+## Approved LS hard-hat badge — 2026-09-27
+
+Adam approved the revised source sheets for Ben, Leo, Vinny, Steph, Maya, and Mrs. Harper. These six source PNGs and their profiles were replaced in place; existing Drive IDs and links remain authoritative.
+
+Shared asset: Little_Specs_Club_LS_Hard_Hat_Badge_APPROVED_LOCKED.png
+Drive ID: 1T2tCGf79Efg-xpuYWBAi04-d7XG99sP_
+SHA-256: 96a47ac122989b3527e3fc5f8aa58544fd438799c2c4d7041cca4ef40de34a42
+
+Use the blue LS initials with the tilted yellow hard hat over the L. Match the approved source-sheet application, including the dark contour and narrow white outline for helmet contrast; no rectangular background patch. Specs means construction specifications. Helmet colors remain Ben white, Leo blue, Vinny green, Steph light gray, Maya yellow, Mrs. Harper white. Preserve clothing, vest emblems, and the locked Fire Station stickers and their placement. The front badge must not appear on rear helmet views.
+
+This approval supersedes older plain-LS helmet instructions and imagery for these six characters, including older Series Bible and cast references. Older finished spreads retain their historical approval but require a badge-continuity check before reuse or final production; this update does not claim those spreads have been revised.
+
+
+
+## Permanent job sticker continuity lock — 2026-09-27
+
+This author-approved update controls job-sticker continuity for the full current cast and supersedes conflicting earlier profile, timing, or project-history wording. It does not change the approved character artwork.
+
+Every received job sticker permanently occupies its established location on that person's hard hat, across all subsequent jobs and books. Each new job adds a sticker in a different unoccupied location; that location then becomes permanent. Never remove, replace, move, cover, or resize earlier job stickers to make room. Depict the cumulative history appropriate to the story's chronology, with natural perspective and occlusion. A hidden sticker remains physically present; never move it to face the camera. Correcting incorrect artwork of the same sticker is not removal of a previous job's history.
+
+Mrs. Harper always receives the same job stickers at the same time as Ben, Leo, Vinny, Steph, and Maya. All six receive the Fire Station sticker during Book 1 pages 11–12; it is absent before that ceremony. Their cumulative sticker inventory stays synchronized on all future jobs, while each retains their own permanent locations. Mrs. Harper's Fire Station location remains rear-right.
+
+The 19 other confirmed adult wearers below retain the Fire Station sticker permanently. Their exact receipt scenes are not specified by their approved profiles and must not be invented or assumed to match the children's ceremony. No earlier unrecorded jobs or stickers are inferred. Future job stickers require a new approved location for each recipient before production.
+
+Use Fire_Station_Project_Sticker_APPROVED_LOCKED.png, Drive ID 1-nHpjvk0OBnVLBpLPjtPCTpyIde4nUAz, SHA-256 adcfdcdbe9c533268012e45d5c2662cf10c8b5ef684eb389528cf7107a4975ba. Preserve the approved smaller sticker-to-helmet scale; adult references use Mrs. Harper's corrected scale. Do not redraw, regenerate, mirror, recolor, duplicate, or substitute the asset. Follow the helmet surface and perspective.
+
+All directions below are the wearer's left and right.
+
+| Character | Permanent Fire Station sticker location |
+|---|---|
+| Ben | left side above ear slightly back |
+| Leo | right side above ear slightly back |
+| Vinny | back left toward rear |
+| Steph | front right beside LS badge |
+| Maya | front left beside LS badge |
+| Mrs Harper | rear right |
+| Elena Rivera | left-rear quadrant, slightly above the band |
+| Marcus Jackson | back-right quadrant, toward the rear |
+| Omar Haddad | right side, slightly toward the rear |
+| Darius Cole | left side, slightly toward the rear |
+| Matthias Becker | right side, slightly toward the rear |
+| Luis Mendoza | left side, slightly toward the rear |
+| Priya Patel | rear-left quadrant |
+| Daniel Brooks | left side toward the rear, just behind the midpoint |
+| Tony Marino | rear-center-right, above the band |
+| Claire Morgan | right-rear quadrant, slightly above the band |
+| Andre Lewis | right side, slightly toward the rear, above the band |
+| Danny Novak | right-rear quadrant, slightly above the band |
+| Erik Halvorsen | left-rear side, above the band and slightly toward the back |
+| Sam Carter | left side, slightly behind the midpoint, above the band |
+| Hannah Kowalski | rear-right quadrant, just above the band |
+| Natalie Chen | back-left quadrant, slightly above the band |
+| Rafael Martinez | right side, slightly toward the rear |
+| Marisol Vega | right side, matching the approved right-side helmet detail |
+| Adrian Park | left side, slightly toward the rear |
+
+**Excluded:** Rebecca Foster's municipal inspector hard hat carries no contractor job stickers. Mayor Thomas Whitaker wears no construction PPE and no job stickers. These exclusions remain locked; the cumulative-history rule does not grant either character stickers.
+
+Coverage: 27 characters, comprising 25 confirmed Fire Station sticker wearers and 2 explicit exclusions. Written profiles and labeled helmet details were reviewed; this record does not claim pixel-level asset matching or that all earlier illustrated spreads have been corrected.
+
+
+
+## Children's vest-back Club Emblem placement lock — 2026-09-27
+
+Author-approved placement applies to Ben, Leo, Vinny, Steph, and Maya. The existing approved circular Club Emblem sits in the same relative position on each child's upper vest back: centered between the two vertical reflective strips and above the horizontal reflective strip. Use the vest panel and its strips as the placement reference, accounting naturally for perspective, pose, and fabric.
+
+Hair and hoodies may naturally cover part or all of the emblem. Full visibility is not required. Never move, lower, shrink, or reposition the emblem to expose it, and never move hair or a hoodie merely to reveal it. Preserve the existing approved emblem scale, vest design, clothing, and reflective-strip arrangement.
+
+This placement lock supersedes any conflicting visibility instruction for these five children. It records placement and occlusion; it does not designate a new standalone artwork asset or change other characters' vest branding.
+
+## Circular Club Emblem artwork and paired source lock 2026-09-27
+
+Adam approved and locked the circular vest-back Club Emblem with yellow “Little” lettering and a blue rivet as the dot on the “i.” The exact standalone file is `Little_Specs_Club_Circular_Vest_Back_Emblem_APPROVED_LOCKED.png`.
+
+- Drive ID: `1-mBZA9mDqfIQdSXOhPK83ZCvbIo30U21`
+- Drive link: https://drive.google.com/file/d/1-mBZA9mDqfIQdSXOhPK83ZCvbIo30U21/view
+- SHA256: `102ddb58397734515a0c11cd5fe205c070dfeff5677f9c63aeb15f2656b607c3`
+- Location: `00 MASTER CANON/06 Logos & Branding/`
+- Applies to Ben, Leo, Vinny, Steph, and Maya. It does not add a vest emblem to Mrs. Harper or any adult.
+
+On all five children, place the emblem at the same relative upper-back vest-panel position, centered between the two vertical reflective strips and above the horizontal reflective strip. Preserve established emblem scale, vest design, reflective-strip arrangement, and natural fabric perspective. Hair and hoodies may naturally obscure part or all of the emblem. Never move, lower, shrink, or reposition it for visibility; never move hair or hoodies to expose it.
+
+Use this exact asset. Do not redraw, regenerate, reinterpret, recolor, mirror, or substitute it. This artwork lock supersedes earlier circular vest-emblem depictions and the earlier statement that no standalone artwork was designated. The placement lock remains controlling. The LS hard-hat badge and Fire Station project sticker remain separate assets.
+
+The five current child PNG source sheets and their five paired Word profiles were updated in place for this emblem. Each profile embeds its matching updated PNG and includes this standalone asset identity and placement rule. These profile changes cover the vest emblem; they do not claim to rewrite the separate later sticker-history addenda. Unrelated adult hashes are not recertified by this update.
+
+| Character | Source PNG SHA256 | Paired profile SHA256 |
+|---|---|---|
+| Ben | `7d80c07dd66d305d1811da5dc5b20e3351b196c623ef1c3c0fc9a75795fbb08b` | `5fab37be1eb08aa9e71ed3087e1794a7e30f0777e23354706d6d7020d2e132a8` |
+| Leo | `830158fe4a00fd6a2ec4791593ae43c5add811ec4cce3f0ba2080de7eaa319a3` | `d2c24d0fb0d4262a738972f2e8e5972c82231db4719fab49ca1312c64e8ecd5b` |
+| Vinny | `db9e5d966fd39dcc0f242d1df93d64d3a9b2ad52672a341bf293b87c689f7219` | `b69e2d455657479ed9076f88c49d7462fba599e899c87a7d1d0d9f1520d4914e` |
+| Steph | `0338ba00d3cc122c7e1baecca56b577f51b54ea4a8f24ed2b7bbbc29685b934a` | `b001f923646aaf0d875994c418460c77049612452f158ced77c568478ad7d7e8` |
+| Maya | `405c184a953d966e68f5517078feef8bf056ceb405deb17842d9c9b9ab8e180c` | `f1824deec8163a56f53a01724aa45f37be0a9e3f30b15ad4239e08fff25e2d24` |
+
+
+## Approved standing heights and helmet colors reconciled 2026-09-27
+
+This records existing approvals from all 27 current individual Word profiles, reviewed together with their paired Drive PNG sources. It does not introduce new character approvals or change character artwork or profiles. This full-cast table supplements the earlier standing-height table.
+
+Standing height is measured barefoot, from the ground to the top of the head, excluding hair volume and headgear. Inches are the controlling numeric values; older profile centimeter equivalents may be rounded. Preserve the underlying body scale through changes in perspective, pose, terrain, or footwear. Do not exaggerate half-inch or one-inch differences or infer physical height from independently scaled figures on reference sheets. Match helmet colors to the approved source under scene lighting.
+
+| Character | Standing height | Inches | Hard hat |
+|---|---|---:|---|
+| Ben | 4′5″ | 53 | white |
+| Leo | 4′4½″ | 52.5 | blue |
+| Vinny | 4′4″ | 52 | green |
+| Steph | 4′3½″ | 51.5 | light gray |
+| Maya | 4′3″ | 51 | yellow |
+| Mrs-Harper | 5′5″ | 65 | white |
+| Elena-Rivera | 5′5″ | 65 | white |
+| Marcus-Jackson | 6′0″ | 72 | blue |
+| Omar-Haddad | 5′10″ | 70 | red |
+| Darius-Cole | 5′11″ | 71 | royal blue |
+| Matthias-Becker | 6′3″ | 75 | forest green (matte) |
+| Luis-Mendoza | 5′9″ | 69 | light gray (matte) |
+| Priya-Patel | 5′2″ | 62 | yellow |
+| Daniel-Brooks | 5′10″ | 70 | green |
+| Tony-Marino | 5′10″ | 70 | white |
+| Claire-Morgan | 5′7″ | 67 | white |
+| Andre-Lewis | 5′9″ | 69 | red |
+| Danny-Novak | 6′2″ | 74 | white |
+| Erik-Halvorsen | 6′1″ | 73 | teal |
+| Sam-Carter | 5′8″ | 68 | gray |
+| Hannah-Kowalski | 5′6″ | 66 | light blue |
+| Rebecca-Foster | 5′4″ | 64 | white |
+| Natalie-Chen | 5′3″ | 63 | orange |
+| Rafael-Martinez | 5′10″ | 70 | tan |
+| Marisol-Vega | 5′7″ | 67 | light cream off white |
+| Adrian-Park | 5′11″ | 71 | dark gray |
+| Mayor-Thomas-Whitaker | 5′10″ | 70 | None; no construction PPE |
+
+Adrian Park: the existing approved profile explicitly makes 5′11″ / 71 inches controlling and supersedes contradictory height text embedded in the generated reference-sheet label. This reconciliation preserves that existing ruling. Mayor Thomas Whitaker has no hard hat or construction PPE. Children’s height order remains Ben > Leo > Vinny > Steph > Maya.
+
+GitHub `CANON/character-rules.yaml`, `character_dimensions_and_helmet_colors`, records each profile/source Drive pair and the exact values. Existing adult source/profile hashes are not recertified by this review.
+
+## Monument sign design and depiction lock — 2026-09-27
+
+Approved by Adam in this session: “Lock it in and update everything that needs to be updated.”
+
+The permanent monument sign design is APPROVED LOCKED to its depiction in the existing approved `modern_middle_creek_fire_station.png`, Drive ID `1RGxuYGxHAnmnjZhTX6CSYOU16qKZ8oqD`, SHA256 `dc682f7483859fd71d84b91e4233c7a9fd2183797b99629c1fcb652bcee52eb0`. This hash identifies the complete exterior reference, not a separate sign image.
+
+Preserve the wording “MIDDLE CREEK / FIRE & RESCUE / STATION NO. 2,” fire-service emblem, lettering arrangement, colors, stone/brick materials, cap, proportions and established site relationship shown in that reference. Do not redesign, substitute branding, mirror or invent dimensions.
+
+Classroom pictures, drawings and renderings of the future completed station may show this sign, including the approved Pages 3–4 picture. It must not appear physically installed at the live Book 1 construction site. Use the approved temporary construction sign there when applicable. Physical installation in a later book must follow the established story phase; this lock does not invent an installation scene or date.
+
+This clarification supersedes older blanket prohibitions on the sign appearing anywhere in Book 1 and any older site-reference wording that could imply an installed permanent sign in Book 1. Preserve site orientation without importing later-stage completed features. Pages 3–4 passes this sign-scope check. Its production-size, Version A pairing and final print checks remain open. No source image, spread artwork or character profile was changed; no standalone sign asset was created.
+
+## Approved temporary construction sign reference — linked 2026-09-27
+
+Existing approval: Adam, 2026-09-12. Approval evidence: Canon Edition 5 Change Log, C5-SITE-004 and C5-SIGN-009, https://docs.google.com/document/d/1EqtxPZ8p15JaNUPTBCWakFEoT1FfHt-UPuHd0YbUa4Y/edit . This reconciliation links the existing approved asset; it does not create a new approval or replace artwork.
+
+Approved image: `Middle_Creek_Fire_Rescue_Station_No_2_Temporary_Construction_Sign_CANON_EDITION_5_APPROVED.png`
+Drive ID: `1MKMV9-qoF2Ar6L5Ha6pGYXthKvgOsnLM`
+Link: https://drive.google.com/file/d/1MKMV9-qoF2Ar6L5Ha6pGYXthKvgOsnLM/view
+Raw-file SHA256 verified 2026-09-27: `7bf0a0a00a1c76b930f19922cfb5bd93059e282961ccd1ce2799829b76eb8a27`
+GitHub registry key: `project_visuals.fire_station_temporary_construction_sign`
+
+Preserve the approved Middle Creek Fire & Rescue emblem, exact wording “MIDDLE CREEK FIRE & RESCUE STATION NO. 2” and “COMING SOON,” red/cream/charcoal/gold palette, layout, typography hierarchy, panel proportions and temporary post-mounted construction. Do not redesign or substitute the approved design. The referenced image includes background context; this sign lock does not replace the separate approved site-layout reference.
+
+Use this public-facing project sign from the beginning of visible construction activity until the exterior, permanent site work and landscaping are complete and the permanent monument sign is being installed or is in place. Once the permanent sign is installed, remove the temporary sign; it must not reappear in later completed-site scenes. Do not invent an installation scene or date.
+
+The temporary sign is a persistent site-continuity element during applicable phases. Camera angle may vary; when its public-facing location is visible, use this approved design with consistent placement logic. Natural occlusion is allowed. Realistic dust or weathering may be shown when needed, without changing its recognizable design, wording, emblem or proportions.
+
+This physical-site transition rule does not prohibit classroom pictures or drawings of the future completed station from showing the permanent monument sign, as expressly approved on 2026-09-27. No image, source sheet, profile or spread pixels were changed by this linkage.
+
+
+## Author-approved helmet logo working baseline — 2026-10-01
+
+Adam approved the current helmet logo sizes and positions as the working baseline moving forward, subject to later explicit author adjustments.
+
+Controlling reference: [Helmet_Logo_Size_Position_BASELINE_APPROVED_2026-10-01.png](https://drive.google.com/file/d/1avjiIqZbZXG9Vo7HDBb34wAJ0K1jKPZd/view)
+SHA256: 91e77046e46bfe37b5bb09cbb33d74eaece755855aa8e8540a18d1217595a898
+Reference dimensions: 5100 x 2550; Pages 9–10 revision 12, including the final Leo centerline correction.
+
+All six LS badges (Ben, Leo, Vinny, Steph, Maya and Mrs. Harper) use the common size approved from Leo, with the current raised placement. Center each badge on the wearer's facial centerline and orient it with the nose. Preserve the exact locked LS artwork, dark contour and narrow outer white outline, allowing natural perspective, helmet curvature and occlusion. Future views do not require equal raw screen-pixel dimensions. Never add a front badge to a rear view.
+
+Daniel Brooks's employer logo retains its own current size and position in this reference; the Leo-size rule applies only to LS badges. No placement or size is inferred for unseen adults.
+
+This addendum supersedes conflicting older source-specific helmet logo sizing and placement instructions only. The operative GitHub rule is CANON/character-rules.yaml → hard_hat_badge_application_lock, linked by CANON/source-registry.yaml → helmet_badge_application_reference. Older measurements are historical references only. Profiles and source sheets must still be used together for all other character details.
+
+Approval covers helmet logo sizes and positions only. It does not approve the entire spread, certify all canon checks, or establish production readiness. Source sheets and individual Word profiles were not rewritten by this lock.
+
