@@ -1056,7 +1056,7 @@ This table reconciles the original storyboard with the later manuscript insertin
 | 1–2 | Title page | Current brand/project/book hierarchy. Latest manuscript treats both pages as title front matter; original storyboard allocated p.2 to copyright. Final copyright/imprint placement remains a production decision. A cast vignette, if used, must not imply pre-issued Fire Station stickers. |
 | 3–4 | The Big Announcement | Classroom; Harper presents a rendering. All five children react according to personality. No site PPE required. Completed station may appear in the classroom picture, not as an already-built site. |
 | 5–6 | Where Is the Fire Station? | Dirt, gravel, stakes, orange fencing, excavator; no fire-station building elements. Children with Harper at a designated safe arrival/viewing area. No Fire Station decals. A site trailer is support equipment, not completed station construction. |
-| 7–8 | Meet the Project Team | Rivera with white hat and plans/tablet; Jackson with blue hat, gray hair/beard and radio. Ben gravitates to planning; Leo to field operations. Company identities distinct from CK. No Fire Station decals on kids. |
+| 7–8 | Meet the Project Team | Rivera with white hat and plans/tablet; Jackson with blue hat, gray hair/beard and radio. Ben gravitates to planning; Leo to field operations. Company identities distinct from the Little Specs Club. No Fire Station decals on kids. |
 | 9–10 | Safety Orientation | Brooks instructs at visitor entrance: hats, vests, proper shoes, group, barricades, equipment. Vinny catches Leo's unfastened vest; Leo corrects it. No Fire Station decals yet. |
 | 11–12 | The Fire Station Sticker | Rivera displays the small round Fire Station decal. Each child applies one individually in the **locked permanent position** recorded in Section 6. Ceremony is within the orientation event. |
 | 13–14 | A Building Made of Stakes | Female surveyor demonstrates stakes, paint, string/control points and careful measurements. Maya compares drawing and site under supervision. Fire Station decals remain fixed. Physical site still at layout stage. |
@@ -1261,7 +1261,7 @@ Across the bottom it read:
 
 **FIRE STATION**
 
-And beneath it was a small **CK**.
+And beneath it was the Fire Station project emblem.
 
 Leo’s eyes widened.
 
@@ -1646,7 +1646,7 @@ The fire station was finally ready to go...
 
 | Item | Current status | Still open |
 |---|---|---|
-| Series logo | Current legacy block logo and CK mark remain the working visual identity shown in the approved character sources | Standalone publication-ready vector master and exact production color specifications |
+| Series logo | The approved LS hard-hat badge and circular Club Emblem remain the controlled visual identity shown in the approved character sources | Standalone publication-ready vector master and exact production color specifications |
 | Character canon | 22 current character profiles and 22 paired source images are locked as the active character authority | Future characters or later explicit author revisions only |
 | Middle Creek world | Town, school, fire department, Fire Station, Children's Hospital, Creekside Apartments, Sycamore River, and Northside Bridge remain locked | Detailed street network, neighborhoods outside the locked Fire Station site, and full town map |
 | Fire Station exterior | **LOCKED** to `Project Visual References/Fire Station/modern_middle_creek_fire_station.png` | Only later explicit author-approved revisions |
