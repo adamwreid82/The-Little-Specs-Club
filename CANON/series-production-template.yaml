@@ -17,7 +17,11 @@ common:
     font_weight: 400
     final_size_pt: 18
     effective_scope: future_spreads_only
-    existing_spreads: preserve_current_font_and_lettering
+    existing_spreads: preserve_historical_versions_unmodified
+    book_01_composition_refresh: apply_roboto_400_18pt_to_every_new_version_b_spread_from_pages_1_to_32
+    workflow: typeset_text_as_real_editable_font_after_illustration_generation
+    prohibit_ai_rasterized_or_imitated_lettering: true
+    typography_failure_blocks_candidate_qa: true
     apply_after_artwork_review: true
     preserve_original_manuscript: true
   versions:
