@@ -2,7 +2,7 @@
 
 Status: DRAFT PRODUCTION PLAN, NOT ARTWORK APPROVAL. Canon authority: original Drive manuscript plus later approved source/series locks. All historical art and approvals remain unchanged.
 
-The prior exploratory plan mismatched several manuscript beats. This corrected plan is aligned to section headings in the current Book 1 manuscript, and any final text must come from the corrected CK-free manuscript. Pages 31–32 are back matter, not a cinematic closing scene.
+The prior exploratory plan mismatched several manuscript beats. This corrected plan is aligned to section headings in the current Book 1 manuscript, and any final text must come from the corrected CK-free manuscript. Page 31 contains educational back matter and Page 32 contains the 'Next Time...' Book 2 teaser. Do not portray both as an invented closing scene.
 
 | Pages | Actual manuscript beat | Camera/composition | Production note |
 |---|---|---|---|
@@ -21,7 +21,7 @@ The prior exploratory plan mismatched several manuscript beats. This corrected p
 | 25–26 | What Goes Underground? | Ground-level side detail along underground systems | Pipes and conduit below future floor; retain Steph sticker location |
 | 27–28 | Building the Foundation | Three-quarter near-field reinforcing shot | Rebar and forms prior to concrete; named workers sourced |
 | 29–30 | Concrete Day | Dynamic wide from protected observation side | Concrete truck, forms, crew finishing; no completed above-ground walls |
-| 31–32 | Little Specs Construction Facts / back matter | Consistent educational infographic layout | Not a fictional sunset ending; inspect actual back-matter text and pagination before design |
+| 31–32 | Page 31 construction facts; Page 32 'Next Time...' Book 2 teaser | Split spread: clean educational facts page left; dramatic forward-looking vehicle arrival teaser right | Page 31 must remain readable; Page 32 truck arrives with characters reacting, no premature structure built or substitute for approved stickers |
 
 ## Global preflight (each spread)
 1. Retrieve manuscript text verbatim and compare pages to headings.
@@ -35,4 +35,4 @@ The prior exploratory plan mismatched several manuscript beats. This corrected p
 
 ## Outstanding
 - Synchronize corrected source manuscript and Series Bible text to original Drive master files once supported by safe raw-file replacement; GitHub corrected working copies are available.
-- Confirm exact page 32 back-matter placement before final template; no inferred scene.
+- Page 31 factual material and Page 32 Next Time teaser must both be preserved in final layout; confirm print layout capacity and wording before artwork approval.
