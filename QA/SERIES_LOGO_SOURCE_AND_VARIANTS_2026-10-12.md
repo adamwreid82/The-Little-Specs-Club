@@ -30,3 +30,10 @@ The two PNGs below were uploaded to the **03 PRODUCTION REVIEW** Drive folder as
 - Exact original 323×151 crop: https://drive.google.com/file/d/17k8yGM-KxN2-lZE3AFn52kCjvvvBNxO_/view (66,771 bytes, uploaded and verified by metadata).
 - Deterministic 8× layout preview: https://drive.google.com/file/d/1XlIiF-S_e3IZ0Uq5V_WG-QYzhdLTPoM1/view (1,318,279 bytes, uploaded and verified by metadata).
 - Both are stored in 03 PRODUCTION REVIEW, not 00 MASTER CANON or 02 Locked Graphic Assets. The main wordmark is established in the source image; the crop/enlargement has not been granted independent production approval.
+
+## Unified working package uploaded to Drive
+- ZIP: https://drive.google.com/file/d/1Barx5YTh6ZMYQfQhzxgMstd0rYEoXRwh/view
+- Drive ID: 1Barx5YTh6ZMYQfQhzxgMstd0rYEoXRwh, folder 03 PRODUCTION REVIEW (1Mbpw81H15b57na9nhiPXiR8krTDq1Cul)
+- ZIP SHA-256: 297c772364fb5137c3820f8fb1b49fb1f97e3564461db32e95bd48406efbb0ef
+- Contains exact original source crop, 8x layout-only enlargement, raster-embedded SVG, JSON source provenance, comparison montage and README.
+- Storage and file-size readback verified. Reference-only; NOT an approved title composition or true vector print master.
