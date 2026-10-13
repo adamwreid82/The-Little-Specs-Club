@@ -5,6 +5,24 @@ authority:
   canon: Google Drive approved canon and source images
   controls: GitHub AGENTS.md and CANON/source-registry.yaml
   tracker: Airtable appUivkPUJmlme2lL
+series_branding:
+  primary_logo:
+    identity: existing_multicolor_The_Little_Specs_Club_full_wordmark
+    visual_authority: approved_character_source_sheets
+    example_drive_sources:
+      - 1lkboZGWom6Vw7et5J5__5dBivj7i2TRx  # Ben sheet
+      - 1mXnar5Tl1iBPSSP_MaL1Xq7YVNTKabXB  # Mayor sheet
+    tagline: "PLANS TODAY. BRIGHTER TOMORROWS."
+    usage: book_title_masthead
+    separate_from: [LS_hard_hat_badge, circular_vest_back_emblem, fire_station_project_sticker]
+    recreate_or_substitute_without_approval: false
+    print_master_status: standalone_high_resolution_master_not_yet_verified
+    embedded_source_logo_crop_status: reference_only_not_print_certified
+  text_beside_logo:
+    font: Roboto
+    weight: 400
+    point_size_at_print: 18
+    do_not_replace_approved_logo_lettering: true
 common:
   image:
     width_px: 5100
