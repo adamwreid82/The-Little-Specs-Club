@@ -30,3 +30,11 @@ A Fire Station Begins
 
 ## Remaining sync blocker
 The raw Markdown/TXT original Drive masters have not yet been replaced with their corrected GitHub equivalents. Their Drive file IDs should remain unchanged once authenticated raw-file replacement can be accomplished. Never overwrite approved visual assets or silently promote working copies.
+
+
+## Reference-package gate (2026-10-12)
+Source registry index: QA/SERIES_REFERENCE_PACKAGE_MANIFEST_2026-10-12.json.
+Do not produce another rendered illustration until all visual assets actually used have been retrieved and inspected. A registry URL or file hash alone is NOT a visual inspection.
+The Pages 1–2 no-people/no-lettering background must exclude ALL site signs, lettering, labels, logos, and characters. Assemble real, approved LS assets and title text in the layout stage, not by asking the image generator to draw them.
+The exact title copy is shown above. Exclude invented author credits, narration, or alternate book names. Do not promote a candidate if its generated image contains words, characters or project-specific graphic marks.
+Images generated in the two preceding attempts are rejected, not approved references.
