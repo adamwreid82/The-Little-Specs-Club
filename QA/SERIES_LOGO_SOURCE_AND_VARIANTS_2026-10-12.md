@@ -17,7 +17,7 @@ Author direction (2026-10-12): Use the existing established full-color The Littl
 - `Little_Specs_Club_Logo_Embedded_Original_REFERENCE.svg`: editable placement container that embeds exact raster source bytes. NOT a vector trace.
 - `Little_Specs_Club_Series_Logo_Provenance.json`: local provenance sidecar.
 
-All of the above remain conversation-local working files until separately saved to controlled long-term storage. Do not misrepresent them as approved title artwork or as an existing high-resolution master.
+The two PNGs below were uploaded to the **03 PRODUCTION REVIEW** Drive folder as working references; they are not included in locked master canon. The editable SVG and provenance JSON remain conversation-local until separately saved. Do not misrepresent them as approved title artwork or as an existing high-resolution master.
 
 ## Title-spread use and approval gates
 - Author has instructed use of this *established logo design* for the title page. Composition, final size, typography hierarchy, and print-quality reproduction are still open.
@@ -25,3 +25,8 @@ All of the above remain conversation-local working files until separately saved 
 - Use the exact logo pixels for mockups. For print, locate the native/high-resolution original or commission a faithful, user-reviewed vector recreation if necessary; do not silently vector-trace or replace approved artwork.
 - Maintain title manuscript unchanged; remaining non-logo title wording uses actual Roboto Regular 400 and the established 18pt layout rule pending title hierarchy review.
 - Preserve prior rejected Pages 1–2 candidates. Author approval is still required for any newly composed spread.
+
+## Confirmed Google Drive working references (not approved print masters)
+- Exact original 323×151 crop: https://drive.google.com/file/d/17k8yGM-KxN2-lZE3AFn52kCjvvvBNxO_/view (66,771 bytes, uploaded and verified by metadata).
+- Deterministic 8× layout preview: https://drive.google.com/file/d/1XlIiF-S_e3IZ0Uq5V_WG-QYzhdLTPoM1/view (1,318,279 bytes, uploaded and verified by metadata).
+- Both are stored in 03 PRODUCTION REVIEW, not 00 MASTER CANON or 02 Locked Graphic Assets. The main wordmark is established in the source image; the crop/enlargement has not been granted independent production approval.
