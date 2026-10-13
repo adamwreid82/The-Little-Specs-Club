@@ -21,3 +21,8 @@ REJECT all graphics represented as approved in the immediately preceding Pages 1
 
 ## Hold and next steps
 Do NOT generate another title graphic. Before a replacement, establish source identity and explicit author approval for intended title-page logo/graphics, not merely hard-hat or project visual approval. Source every visual actually chosen and separately get author approval of the composed title spread. Keep previously approved character images, clothing, signs, logos and spreads unchanged.
+
+## Clarification after rejection
+The author clarified: "Reply was wrong but so was the spread." Both the illustrative images inserted in the assistant reply AND the internally assembled Pages 1–2 source-backed proof are rejected. Correct source asset checks, even when genuine, did not establish approval for the composition.
+
+Approved adjacent-spread style anchor: BOOK-01/spread-03-04/manifest.yaml, REV4 Version B (Drive file 1DRYEa_fQ9A0t0m3oUDlxkAO_KneIfDd8, SHA-256 8fe4e3fc475994340097912535c24eb5a33dd9bd24efe18f30e4bbd8827ed915; author approval 2026-10-04). This is a style anchor, NOT a substitute title-page layout or transferable approval. Inspect original image and source profiles before creating a new candidate.
