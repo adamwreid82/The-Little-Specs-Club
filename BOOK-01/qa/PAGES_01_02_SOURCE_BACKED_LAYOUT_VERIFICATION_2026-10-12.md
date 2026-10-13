@@ -1,3 +1,7 @@
+# AUTHOR REJECTION OVERRIDE — 2026-10-12
+
+**REJECTED. DO NOT USE IN PRODUCTION.** The author explicitly stated that both the assistant's reply graphics and the actual title spread proof were wrong. This supersedes any apparent implication below that a matching hash constitutes approval for title-page use. The historical testing/verification details below are retained as a record, not an authorization. Do not use the proof's graphic arrangement as a reference. Original approved asset files themselves remain untouched.
+
 # Book 1 Pages 1–2 — source-backed layout validation (2026-10-12)
 
 Status: NEW REVIEW-ONLY LAYOUT PROOF, NOT AN AUTHOR-APPROVED SPREAD.
