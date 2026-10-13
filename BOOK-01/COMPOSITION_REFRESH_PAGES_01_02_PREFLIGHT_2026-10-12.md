@@ -38,3 +38,6 @@ Do not produce another rendered illustration until all visual assets actually us
 The Pages 1–2 no-people/no-lettering background must exclude ALL site signs, lettering, labels, logos, and characters. Assemble real, approved LS assets and title text in the layout stage, not by asking the image generator to draw them.
 The exact title copy is shown above. Exclude invented author credits, narration, or alternate book names. Do not promote a candidate if its generated image contains words, characters or project-specific graphic marks.
 Images generated in the two preceding attempts are rejected, not approved references.
+
+## Author rejection override — 2026-10-12
+All prior new Pages 1–2 title-layout proof graphics have been explicitly rejected by the author. Matching source-image hashes does not authorize using a hard-hat badge as a title logo or placing an approved architecture rendering in the title spread. Refer to BOOK-01/qa/PAGES_01_02_AUTHOR_REJECTION_2026-10-12.md. Before any new composition, identify the exact author-approved title-specific graphic references and their intended application. No generic image previews or unapproved substitutes.
