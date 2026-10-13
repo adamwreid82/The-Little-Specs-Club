@@ -41,3 +41,6 @@ Images generated in the two preceding attempts are rejected, not approved refere
 
 ## Author rejection override — 2026-10-12
 All prior new Pages 1–2 title-layout proof graphics have been explicitly rejected by the author. Matching source-image hashes does not authorize using a hard-hat badge as a title logo or placing an approved architecture rendering in the title spread. Refer to BOOK-01/qa/PAGES_01_02_AUTHOR_REJECTION_2026-10-12.md. Before any new composition, identify the exact author-approved title-specific graphic references and their intended application. No generic image previews or unapproved substitutes.
+
+## Verified style anchor, not title-layout approval
+Pages 3–4 REV4 Version B is approved historical artwork (Drive file 1DRYEa_fQ9A0t0m3oUDlxkAO_KneIfDd8; manifest BOOK-01/spread-03-04/manifest.yaml; approved 2026-10-04). Inspect it for illustration style consistency before proceeding. Do not reproduce its composition by default. The author rejected the earlier Pages 1–2 graphic proof and the reply previews. No stand-alone title-page logo was confirmed in the locked graphics folder. Seek the correct title-specific artwork or approval before choosing title graphics. Only the current approved project image/profile sources may be used, and no historical artwork approval transfers to a newly made image.
