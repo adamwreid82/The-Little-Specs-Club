@@ -1,3 +1,7 @@
+# REJECTION OVERRIDE — AUTHOR FEEDBACK
+
+**REJECTED. DO NOT USE, DISPLAY AS AN APPROVED CANDIDATE, OR BUILD FURTHER REVISIONS FROM THIS ARTWORK.** The author responded to REV7: “Absolutely not, this looks nothing like what I was asking for.” Although individual source-sheet pixels and hashes were verified, the resulting cut-and-paste composite did not match the cohesive illustrated look, intended creative direction, or quality requirements. Mechanical passing checks never override direct artistic rejection. Preserve the original revision and this audit as history only. The current status below is superseded.
+
 # Book 1 Pages 1–2 — Composition Refresh REV7 audit
 Date (local): 2026-10-12
 **STATUS: NEW REVIEW CANDIDATE ONLY — NOT AUTHOR APPROVED.**
