@@ -1,0 +1,286 @@
+{
+  "version": 1,
+  "series": "The Little Specs Club",
+  "authority": "Google Drive approved masters; GitHub CANON/source-registry.yaml controls references",
+  "source_registry": "CANON/source-registry.yaml",
+  "characters": [
+    {
+      "name": "Ben",
+      "image": "1lkboZGWom6Vw7et5J5__5dBivj7i2TRx",
+      "profile": "1rhPTyBiDT9OevTiI9ncFGYR8JPbLVt6m",
+      "image_sha256": "7d80c07dd66d305d1811da5dc5b20e3351b196c623ef1c3c0fc9a75795fbb08b",
+      "profile_sha256": "5fab37be1eb08aa9e71ed3087e1794a7e30f0777e23354706d6d7020d2e132a8",
+      "logo": "1T2tCGf79Efg-xpuYWBAi04-d7XG99sP_",
+      "branding": "source-registry"
+    },
+    {
+      "name": "Leo",
+      "image": "1PmH5IMF_HI_s9y1slZM9DXbWzTYVnbGc",
+      "profile": "1JD1OTpwF7EJizHYwaE-31j-z-kMPRqbx",
+      "image_sha256": "830158fe4a00fd6a2ec4791593ae43c5add811ec4cce3f0ba2080de7eaa319a3",
+      "profile_sha256": "d2c24d0fb0d4262a738972f2e8e5972c82231db4719fab49ca1312c64e8ecd5b",
+      "logo": "1T2tCGf79Efg-xpuYWBAi04-d7XG99sP_",
+      "branding": "source-registry"
+    },
+    {
+      "name": "Vinny",
+      "image": "1m-mxpb7Fpu04jWj5sYVJTHxvXXPySuSa",
+      "profile": "1vG_CJ45X87ZsYlNr-Rq2VJiuRHaTtw4S",
+      "image_sha256": "db9e5d966fd39dcc0f242d1df93d64d3a9b2ad52672a341bf293b87c689f7219",
+      "profile_sha256": "b69e2d455657479ed9076f88c49d7462fba599e899c87a7d1d0d9f1520d4914e",
+      "logo": "1T2tCGf79Efg-xpuYWBAi04-d7XG99sP_",
+      "branding": "source-registry"
+    },
+    {
+      "name": "Steph",
+      "image": "1gF-pOjdltQVujd5NyCcX-Brh-EI0vQ9j",
+      "profile": "1hzABye97w5caJMYh90wvyGXrd17gXCBS",
+      "image_sha256": "0338ba00d3cc122c7e1baecca56b577f51b54ea4a8f24ed2b7bbbc29685b934a",
+      "profile_sha256": "b001f923646aaf0d875994c418460c77049612452f158ced77c568478ad7d7e8",
+      "logo": "1T2tCGf79Efg-xpuYWBAi04-d7XG99sP_",
+      "branding": "source-registry"
+    },
+    {
+      "name": "Maya",
+      "image": "1RZtZjt-3eX0iFFcKw1ZxtnlXj3pkoerU",
+      "profile": "1nERipp0Qz3AUFuYFkJ25rOuM0UfIGnV3",
+      "image_sha256": "405c184a953d966e68f5517078feef8bf056ceb405deb17842d9c9b9ab8e180c",
+      "profile_sha256": "f1824deec8163a56f53a01724aa45f37be0a9e3f30b15ad4239e08fff25e2d24",
+      "logo": "1T2tCGf79Efg-xpuYWBAi04-d7XG99sP_",
+      "branding": "source-registry"
+    },
+    {
+      "name": "Mrs-Harper",
+      "image": "1a8RlfOktPoAQ__pLTtLIyaA3qidnPOaD",
+      "profile": "1WFn924opY9kuG2ZWYukYBI97Xm6vytu0",
+      "image_sha256": "ac95bce80c63cafa60bc088555a4cf66dfe86147ce51342185d773cee825f288",
+      "profile_sha256": "965c95f7659d185929cd58030805f0224f9229e6f3c81ee8544b1e98aac49d34",
+      "logo": "1T2tCGf79Efg-xpuYWBAi04-d7XG99sP_",
+      "branding": "source-registry"
+    },
+    {
+      "name": "Elena-Rivera",
+      "image": "1LMyoOO57gA-NQxgtF5poW7UPvfVjgqjP",
+      "profile": "1nplm3aa__GwX4zVAlZ85usrKFuijLQdX",
+      "image_sha256": "7607cf26c2d548a98f73a50560138f6dedd68689c0ff0cdb4fdbccc893f4aada",
+      "profile_sha256": "4174fae06271098642cdae38c05c67712adbdc2785a312cbd670ca6b297e6099",
+      "logo": "1fxorW51CQTRe80sbMjrminP1LCMouu3E",
+      "branding": "Civic Ridge Construction Group"
+    },
+    {
+      "name": "Marcus-Jackson",
+      "image": "1Y9-w_J1cnz_abDKpIL8Iz5W1GfvA_8xh",
+      "profile": "1fz_v6E5jSGrZD6LVdlDaVflPCloME6T5",
+      "image_sha256": "742f5a2609f9fcce1fcf2c2fec466d6a1e0deb2d98f7716aa7410253ab29c76d",
+      "profile_sha256": "0e3dd0970d1849417b3577bb803e733e1e18e13347122c748cc71dc993b472f7",
+      "logo": "1LiC6REi7qsbYCZWgvE2PLRZ82ABPOdpL",
+      "branding": "Civic Ridge Construction Group"
+    },
+    {
+      "name": "Omar-Haddad",
+      "image": "1O3aQjII-MCTJkKGXBFGnFKlkrVAEooFU",
+      "profile": "1_3fVjalO6s29OKVUvaiDIyY-jDXgAsGZ",
+      "image_sha256": "419080f6ed702e8c8156e334b58159a54b71e03d06f32f65781ad0ee394f042a",
+      "profile_sha256": "c8735b76a9aaba6b2beada69c8980d23a4be3f2a6ce3f4b70da8a1888ed5e2c4",
+      "logo": "1Hpb2A5xz9e61zGH4weCMusEu5rVjMTdN",
+      "branding": "Redshield Fire Protection"
+    },
+    {
+      "name": "Darius-Cole",
+      "image": "19DwA63zOWkf0wzcRLEsirKVKAwRl6IoR",
+      "profile": "1bGxDE5g2ADoVMR0otnrduAXXk4hIM4UO",
+      "image_sha256": "fb043570754af2414af4e1f2b359ceacfb94ff614288121c6f8750dab39d17ec",
+      "profile_sha256": "46f5ac7cdf77b3922c51613c3b47a0894c702f1915f10cc07935680f9cf450f6",
+      "logo": "1s68Yo-8mPKkmqnLOoxIW5bL-QeAQhGYc",
+      "branding": "Signalcrest Systems"
+    },
+    {
+      "name": "Matthias-Becker",
+      "image": "1SSu1FS_GU-TmvcaKpeo79WTEBYbWdSiA",
+      "profile": "1AezDbqDE-fRxdzpMECr4thS1qQ_tzEJ_",
+      "image_sha256": "f3d6a4a76a6c1656d3420bba3d7bca92cc20ae5658e6c5eddb61438187b22678",
+      "profile_sha256": "9957b6d13fe1424ade48099aa4c68fb5f7f581fe65e6ce3ddd63de3baba4a37b",
+      "logo": "17MXnh65J1PUxkC6gwF-QVWkccKD2oyot",
+      "branding": "Doortech Solutions"
+    },
+    {
+      "name": "Luis-Mendoza",
+      "image": "1cB-Kurd99KMyKaKmar4rYTnw0U1JCFCk",
+      "profile": "1iLVzifnM16EHL4xG2uhTFIs00uY33ByS",
+      "image_sha256": "db71ce1351582e1a31dfdbca9a41762d3ebfa4fff387e90d757a59ac2e0e41b3",
+      "profile_sha256": "2ad1341d7357f351901a9f5af7a5b4175d8b439b98d95478e731eefe5fa6c296",
+      "logo": "1OECG6fFNGVejLd8JrB8TZc7NcVBwG8Zd",
+      "branding": "LevelLine Interior Systems"
+    },
+    {
+      "name": "Priya-Patel",
+      "image": "19ZMf5fqX8WGlhs7I7tJx_iFgrdlgpe8e",
+      "profile": "1ZyHR-GirFpMwk8DcRqlJVpy0RHXUBKd6",
+      "image_sha256": "b1a053ca9f77df429b3e72f4c49fe1b59fc843557c55f37afcebe8d87b89fdab",
+      "profile_sha256": "28bb5fb860b59357006d7c2a89e7f43455f61799a6f07cccbab6308988173166",
+      "logo": "1D4PbZIA9a8kxKzvB1ikkEd83UVEUvvd3",
+      "branding": "Mason Vale Engineering"
+    },
+    {
+      "name": "Daniel-Brooks",
+      "image": "1TVWd4mtznkx3tFEKNKF_TClF5VBPILey",
+      "profile": "1yk_XlyuOxhaKMIms-e7mwbCrviNKZrKZ",
+      "image_sha256": "5fc186933893463902db56efb8d6b3e8d97697b7751d798e580a488da7450087",
+      "profile_sha256": "a096423467027096ceb99c671bea8c6299b77334509d49452b98f64dfaf35553",
+      "logo": "1NuuEPJ9RaAOcBGd7rM-cL2w7KMkJRxXz",
+      "branding": "Civic Ridge Construction Group"
+    },
+    {
+      "name": "Tony-Marino",
+      "image": "1FjL5YJLklpXpHnqHGZmVc8Ps87IgvJro",
+      "profile": "1tJnFRmAnXSViwGbNxi9-RAyuBz9KD9Uq",
+      "image_sha256": "546d050489f5c7eea1992c84b5d9a84e59accf372e85cb840b306fc2123c2054",
+      "profile_sha256": "6000214c393c2ef573b46f4dec4886ffc4d9c18069567868429b51d5427fe313",
+      "logo": "1Rtphl_UKRFO0u1iEtFMgT9ajLp2Zp-Nh",
+      "branding": "Redfern General Trades"
+    },
+    {
+      "name": "Claire-Morgan",
+      "image": "1ApL7UT7gBmjU87isBkMIgmH7yfl6osGI",
+      "profile": "1e1eXCok2BoUhiI0EJMPlJbSrAOl-fGNl",
+      "image_sha256": "bd46f6dc36bb208cee8fc0070af3bd0ffff241cccfe6ff2a612b251893969758",
+      "profile_sha256": "42db0cd80c79f22ac5ad453dc65cb15adbeacf568fe165e24ca275d7b4ea167d",
+      "logo": "13hMYEF6vMYU1Owio4_L1kiJ2_XJIPuG5",
+      "branding": "Harlow Finch Architects"
+    },
+    {
+      "name": "Andre-Lewis",
+      "image": "19t86oLfRhIKYzmYNbusdw5_4tCDw7WXt",
+      "profile": "18CwXMwvHtzpdfFHvRrwP6kt627X8OVuY",
+      "image_sha256": "d6e75728c961e654827581c3c8caea89c81447c526f1a61a2c39a5f8f886cdc8",
+      "profile_sha256": "d1dfa10496e849da73fef28653a2579c76fd701094ef6eac7af619efd725ea2c",
+      "logo": "1lnRl4cOQsAvUmaBOJBP-JsQekLPJzblP",
+      "branding": "BrightLine Electrical Services"
+    },
+    {
+      "name": "Danny-Novak",
+      "image": "1nwcHFsFOjHeOwn5Ia8ojuH0aPkeruhXC",
+      "profile": "1kA8So6rSfZzlBka3W4C7afJRy40FxAVe",
+      "image_sha256": "5b0292f915a515ed9e925af690a3faa0e6630267c628c031db1513b0741f593d",
+      "profile_sha256": "24ac7b7d0ab6b83b81214dbb3a4a0cf1fb5c82b852ee3ebec977d5dbc06d2585",
+      "logo": "1HdH_vtGuEe_XvIooZOn2lVypw-tg8vhp",
+      "branding": "Summit Steel Erectors"
+    },
+    {
+      "name": "Erik-Halvorsen",
+      "image": "1RTlNNdcM4OABk5cyx5ojrWXZ6T9uo2yl",
+      "profile": "1x2hsPULWLsbQz5P-9AKD2bijnhJM2qNQ",
+      "image_sha256": "2c4fb079d7e07fe3645726a17e3c3e84fe6f74fab6107ea42c232de1f6fa7753",
+      "profile_sha256": "8f8d9853f86e3992cef74a9c69caaac1326d05614b7307be0ba051e7c159eba0",
+      "logo": "1xgG4SSvso9uSwClW-1GmtOq0XQ0L4lgb",
+      "branding": "ClearFlow Plumbing & Mechanical"
+    },
+    {
+      "name": "Sam-Carter",
+      "image": "1Qi3rZ38Z9ECfoDh9INZtJKrhlNiQL8MM",
+      "profile": "1kK4mZofl4ThreXAmEOiTfobtroYz73g8",
+      "image_sha256": "3f702485e094e601fbff168ec2048894d9c27706145c2995573bf557f2253b84",
+      "profile_sha256": "dc4defd6cce8d90bd14d59c057b3ae42813d13dcc5b508241cd7495acb070aa0",
+      "logo": "1aIczs4c5kAPHOmJMY4mMR8zZHlllT5QC",
+      "branding": "StonePeak Concrete Contractors"
+    },
+    {
+      "name": "Hannah-Kowalski",
+      "image": "1dpTbrZcPD1B0IUZQqEI91ShVnrXdRJ3X",
+      "profile": "1tYW3YSp7wUOd15lhtnFei86bk5ZQjJi0",
+      "image_sha256": "d10c6a014440259cc71416518d228770c98e67e63b5135e50d572c2923e8d199",
+      "profile_sha256": "4d80f49b4cfa6c046649f8cd562b2806baa8087dbde2280f994327d5b009760a",
+      "logo": "15zoXYewr6_SDUh0MKJD-WKUzDrnvL_3d",
+      "branding": "Northwind Mechanical Systems"
+    },
+    {
+      "name": "Rebecca-Foster",
+      "image": "1V1Di0i9D2jR20yvGI2hcEw0yY5dj0qb8",
+      "profile": "1D8decViO9EqAkdoV26jGNTqw1opps8zx",
+      "image_sha256": "f76c9a49c36a19de5df570828d0b7f2ac327958f8588d842caa93f1871206269",
+      "profile_sha256": "dfe68127812706127d8ebbd6a1f6511b3023d150ff82fbb4b63d9bc339102330",
+      "logo": "",
+      "branding": "source_image"
+    },
+    {
+      "name": "Natalie-Chen",
+      "image": "1YDeJ77qoOWC38ImzZ-L8ssI9VOtVzyWb",
+      "profile": "1kexCprbvMpHthz30eyCKVWwuPx6KKCML",
+      "image_sha256": "16498fa5d8c2b994b9d674cb555efe732847fd5f5e86fa536a3c8caaf494e0bc",
+      "profile_sha256": "58f8e9478b1dba7ee03396a330b365c6630c6cd98e4fab574889bf319483b6a4",
+      "logo": "1zE6qaJMz-XR7hca3Pcp7l_QOekPGpMIV",
+      "branding": "Eastmark Surveying & Mapping"
+    },
+    {
+      "name": "Rafael-Martinez",
+      "image": "1EZwyjIPxGsllz_wDM5SKZTtNXwbtMqyg",
+      "profile": "1Wc3dRKOlp1tQhDu85x1rH5eRHBeNR_er",
+      "image_sha256": "53064a9ba5dbbf62ae3d92558b923c789b73aeabd9e27d6f05f491e06e0910e7",
+      "profile_sha256": "eef33ee8abcf313496cc1b82e6aa98d22198f3199fe8882e165f177dad308a1e",
+      "logo": "1Gxgk65AnRbjpM0xEf3uKsk3LLRoZUOrw",
+      "branding": "Highpoint Masonry"
+    },
+    {
+      "name": "Marisol-Vega",
+      "image": "1KE81oMwAByCvB82ISJLnGEmNxbYVwmQ5",
+      "profile": "1fb6kliVp8mMyQCn33RYO0VtfudvWQkzl",
+      "image_sha256": "2d663422cec71d394d684b85f484f0f9c5fa48fc6d2a7a780bd51b892767a871",
+      "profile_sha256": "f419851838804c352a83a2ac02655bca592da708305afd4ab5bc2157b41b0712",
+      "logo": "1_kvcNcklzduONXeWRGIICiUf5TjVsMr7",
+      "branding": "SummitShield Roofing"
+    },
+    {
+      "name": "Adrian-Park",
+      "image": "1lgne6yQTzA8jdd-xRWDUsLsljdF3xsxt",
+      "profile": "1b413iqNNYc1IVnDeFm6FI9U6g_oRpI7M",
+      "image_sha256": "407ba7bd5e47a0aa0603f6f07752c8f3335bbd55eb7c3f5407df181f9212236e",
+      "profile_sha256": "8a08f8561b6926ce6838f1502eac11bbdef255e3776f98092e27075b5f59de4f",
+      "logo": "1QrTua07LUAUO7DP_p9-zSKc8rSg09EhU",
+      "branding": "Everfield Glass & Aluminum"
+    },
+    {
+      "name": "Mayor-Thomas-Whitaker",
+      "image": "1mXnar5Tl1iBPSSP_MaL1Xq7YVNTKabXB",
+      "profile": "1sePhT5kayhUtmfDyTFQ4DyYU_k0lWzCw",
+      "image_sha256": "0be2b5d1355c42c8a077ac38302e45d39c91add993411a0c11a87b916fa091f8",
+      "profile_sha256": "563aae37e50fa113ea92a54a50d28a7d4df652b5cad579055eeb650d5926403b",
+      "logo": "",
+      "branding": "source_image"
+    }
+  ],
+  "graphics": {
+    "club_logo_source": "approved LS badge in registered source images",
+    "project_sticker": {
+      "drive_id": "1-nHpjvk0OBnVLBpLPjtPCTpyIde4nUAz",
+      "sha256": "adcfdcdbe9c533268012e45d5c2662cf10c8b5ef684eb389528cf7107a4975ba"
+    },
+    "fire_station_exterior": {
+      "drive_id": "1RGxuYGxHAnmnjZhTX6CSYOU16qKZ8oqD",
+      "sha256": "dc682f7483859fd71d84b91e4233c7a9fd2183797b99629c1fcb652bcee52eb0"
+    },
+    "temporary_site_sign": {
+      "drive_id": "1MKMV9-qoF2Ar6L5Ha6pGYXthKvgOsnLM",
+      "sha256": "7bf0a0a00a1c76b930f19922cfb5bd93059e282961ccd1ce2799829b76eb8a27"
+    }
+  },
+  "gates": {
+    "before_generation": [
+      "resolve_exact_manuscript_spread",
+      "retrieve_and_visually_inspect_each_visible_person_image_and_profile",
+      "verify_character_image_and_profile_hashes",
+      "resolve_logo_and_project_assets",
+      "confirm_scene_stage_and_camera",
+      "confirm_text_free_image_brief"
+    ],
+    "after_generation": [
+      "check_visible_person_source_identity",
+      "check_clothes_ppe_branding",
+      "check_site_stage",
+      "check_gutter_dimensions",
+      "check_no_ai_generated_text",
+      "compare_full_spread_regressions"
+    ],
+    "approval": "user_explicit_only"
+  },
+  "status": "Reference index only. Retrieval, hashes, and visual likeness must be verified per generation session; not pre-certified."
+}
