@@ -24,3 +24,16 @@ Actual approved adjacent illustration reference:
 
 ## Pending design decision
 Select a title-spread composition: all five children in a natural candid storybook scene versus a more symbolic construction/plans scene. Neither is canonically approved by this file.
+
+
+## Established main series logo confirmed — 2026-10-12
+The author instructed: "Use the logo already established for The Little Specs Club."
+This is the FULL-COLOR SERIES WORDMARK/LOCKUP shown at the upper-left of the approved child source sheets, not the small front-of-helmet LS badge, and not the round vest-back club emblem.
+- Verified reference: Ben's approved PNG source sheet, Drive file ID `1lkboZGWom6Vw7et5J5__5dBivj7i2TRx`; logo visible at upper left.
+- Additional reference: Mayor Thomas Whitaker's approved PNG source sheet, Drive file ID `1mXnar5Tl1iBPSSP_MaL1Xq7YVNTKabXB`; logo at upper left and lower right.
+- Visual identity: blue construction-themed magnifying-glass/helmet lockup; "The Little Specs Club" multicolor wordmark, and "PLANS TODAY. BRIGHTER TOMORROWS." tagline.
+- This source sheet is an authoritative visual reference for which branding design to use. However it is not a standalone high-resolution publication-logo asset.
+- Current exact-pixel reference crop (from approved Ben source PNG): `Little_Specs_Club_Existing_Series_Logo_Source_Crop_REFERENCE_ONLY.png` (323x151 px; conversation working copy). No AI recreation or style alteration.
+- For Pages 1–2: use established series logo exactly, no replacement typography or newly invented series wordmark. Roboto Regular (400), 18pt applies to the *separately typeset manuscript copy* other than the existing graphic logo itself.
+- BEFORE final print placement, obtain or locate original high-quality standalone logo/vector or submit a faithful production-quality recreation to author for approval. Do not upscale a 323px crop and present it as an approved print-ready title logo.
+- No new title composition or title-page approval is implied by this identification. Previously rejected mockups remain rejected.
