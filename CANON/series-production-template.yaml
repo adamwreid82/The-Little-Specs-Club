@@ -13,6 +13,12 @@ series_branding:
       - 1lkboZGWom6Vw7et5J5__5dBivj7i2TRx  # Ben sheet
       - 1mXnar5Tl1iBPSSP_MaL1Xq7YVNTKabXB  # Mayor sheet
     tagline: "PLANS TODAY. BRIGHTER TOMORROWS."
+    ben_source_png_sha256: 7d80c07dd66d305d1811da5dc5b20e3351b196c623ef1c3c0fc9a75795fbb08b
+    ben_source_crop_xyxy: [6, 0, 329, 151]
+    ben_source_crop_sha256: 175cce33214694d8f894ef310969317d49426db1383b1d39c842bceb5041ab1c
+    logo_source_register: QA/SERIES_LOGO_SOURCE_AND_VARIANTS_2026-10-12.md
+    known_character_sheet_tagline_variant: "Leo sheet: A CHILDREN'S BOOK SERIES."
+    source_sheet_assets_unchanged: true
     usage: book_title_masthead
     separate_from: [LS_hard_hat_badge, circular_vest_back_emblem, fire_station_project_sticker]
     recreate_or_substitute_without_approval: false
