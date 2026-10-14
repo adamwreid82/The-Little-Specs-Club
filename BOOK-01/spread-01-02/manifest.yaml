@@ -6,19 +6,19 @@
   ],
   "status": "PENDING_AUTHOR_REVIEW_NOT_PRINT_READY",
   "active_review": {
-    "revision": "REV8",
+    "revision": "REV9",
     "date": "2026-10-14",
     "version": "B",
-    "drive_id": "1aALl7QA7EbbcrqVDSMA2PwuGBDsLD3Tq",
-    "sha256": "51048831eb3c39df12ec02380b9b14489c5036bdcd630f47843e898cf0494684",
+    "drive_id": "1wztQumNDcPfyFVIn7dnLT90SlbtJUnfs",
+    "sha256": "8aa4af334a0acf455b0b6ddd21fa8c580092eb3c9ce93729415a131736ae1e9f",
     "dimensions": [
       5100,
       2550
     ],
-    "editable_drive_id": "18MWX_xNohgOQDdiWzp-cwkXHl9y5om4G",
-    "audit_drive_id": "1QOPyj86EzRXAwPT1J59UycjiQ_aEeRJi",
-    "audit_path": "BOOK-01/spread-01-02/qa/REV8_TITLE_REVIEW_2026-10-14.md",
-    "package_drive_id": "1RFRE5V-tzz12fWIQtySO8esG64mjXjKx",
+    "editable_drive_id": "1MSWvPv0mbnVF8gYzcYmzBut9HnatmzsJ",
+    "audit_drive_id": "1eAV2tD4uQeNaLwzBxibSRVs7L44G1gsB",
+    "package_drive_id": "1xqSgS8ndG029Za59cQObILvry5_JLIyV",
+    "audit_path": "BOOK-01/spread-01-02/qa/REV9_TITLE_REVIEW_2026-10-14.md",
     "approval": null
   },
   "sources": {
@@ -45,6 +45,34 @@
       ],
       "tagline": "PLANS TODAY. BRIGHTER TOMORROWS.",
       "print_master": false
+    },
+    "leo": {
+      "image": "1PmH5IMF_HI_s9y1slZM9DXbWzTYVnbGc",
+      "profile": "1JD1OTpwF7EJizHYwaE-31j-z-kMPRqbx",
+      "image_sha256_verified": true,
+      "profile_text_read": true,
+      "profile_byte_hash": "UNVERIFIED"
+    },
+    "vinny": {
+      "image": "1m-mxpb7Fpu04jWj5sYVJTHxvXXPySuSa",
+      "profile": "1vG_CJ45X87ZsYlNr-Rq2VJiuRHaTtw4S",
+      "image_sha256_verified": true,
+      "profile_text_read": true,
+      "profile_byte_hash": "UNVERIFIED"
+    },
+    "steph": {
+      "image": "1gF-pOjdltQVujd5NyCcX-Brh-EI0vQ9j",
+      "profile": "1hzABye97w5caJMYh90wvyGXrd17gXCBS",
+      "image_sha256_verified": true,
+      "profile_text_read": true,
+      "profile_byte_hash": "UNVERIFIED"
+    },
+    "maya": {
+      "image": "1RZtZjt-3eX0iFFcKw1ZxtnlXj3pkoerU",
+      "profile": "1nERipp0Qz3AUFuYFkJ25rOuM0UfIGnV3",
+      "image_sha256_verified": true,
+      "profile_text_read": true,
+      "profile_byte_hash": "UNVERIFIED"
     }
   },
   "typography": {
@@ -55,21 +83,37 @@
     "editable": true,
     "manuscript_ai_generated": false
   },
-  "repair": {
-    "changed_native_pixels": 13417,
-    "changed_pixels_outside_mask": 0
-  },
   "open_findings": [
     "Logo native resolution FAIL for print",
     "Illustration native print detail UNVERIFIED",
     "Final bleed/KDP template and physical proof UNVERIFIED",
     "Current profile byte hash UNVERIFIED",
-    "Destination SVG editor font handling UNVERIFIED"
+    "Destination SVG editor font handling UNVERIFIED",
+    "Exact physical height differences UNVERIFIED",
+    "Extra gutter buffer FAIL: Ben shoe/leg slightly enters buffer; hard gutter clear"
   ],
   "version_a": "Deferred until author approves underlying art",
   "history": {
     "REV7": "REJECTED; preserve both original Drive files and rejection evidence",
-    "rejection_record": "BOOK-01/spread-01-02/qa/COMPOSITION_REFRESH_REV7_2026-10-12.md"
+    "rejection_record": "BOOK-01/spread-01-02/qa/COMPOSITION_REFRESH_REV7_2026-10-12.md",
+    "REV8": {
+      "revision": "REV8",
+      "date": "2026-10-14",
+      "version": "B",
+      "drive_id": "1aALl7QA7EbbcrqVDSMA2PwuGBDsLD3Tq",
+      "sha256": "51048831eb3c39df12ec02380b9b14489c5036bdcd630f47843e898cf0494684",
+      "dimensions": [
+        5100,
+        2550
+      ],
+      "editable_drive_id": "18MWX_xNohgOQDdiWzp-cwkXHl9y5om4G",
+      "audit_drive_id": "1QOPyj86EzRXAwPT1J59UycjiQ_aEeRJi",
+      "audit_path": "BOOK-01/spread-01-02/qa/REV8_TITLE_REVIEW_2026-10-14.md",
+      "package_drive_id": "1RFRE5V-tzz12fWIQtySO8esG64mjXjKx",
+      "approval": null,
+      "status": "SUPERSEDED_AUTHOR_COMPOSITION_CORRECTION_PRESERVED"
+    }
   },
-  "approval_rule": "Only explicit author approval of this exact revision; QA is not approval"
+  "approval_rule": "Only explicit author approval of this exact revision; QA is not approval",
+  "scene": "Ben, Leo, Vinny, Steph and Maya in approved everyday clothing outside orange fence, looking at plans, with excavator digging in background."
 }
