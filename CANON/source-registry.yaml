@@ -130,3 +130,18 @@ helmet_LS_application_baseline:
   approval_record_drive_id: 16lA94hDfUYZPhmJRNnajTJroBMZXPA_c
   rule: CANON/character-rules.yaml#hard_hat_badge_application_lock
   whole_reference_spread_approved: false
+
+series_wordmark_master:
+  status: APPROVED_LOCKED
+  approved_by: Adam_Reid
+  approved_date: '2026-10-17'
+  image_id: 1RQ2--6O8C9UJp9flZ3nuxbZwicFvJY3H
+  filename: Little_Specs_Club_Series_Logo_APPROVED_LOCKED.png
+  sha256: f6e961865fda8f3d52a081350442874dcc1cef12a8ebc8f3ebeebdbfb6e1d7a2
+  dimensions_px: [1834, 858]
+  transparent: true
+  exact_asset_required: true
+  approval_record: CANON/approvals/SERIES_LOGO_APPROVAL_2026-10-17.md
+  replaces: historical_character_sheet_wordmark_crops_for_future_series_wordmark_use
+  other_locked_branding_assets_changed: false
+  spread_approval: false
