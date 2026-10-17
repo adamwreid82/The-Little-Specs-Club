@@ -8,7 +8,16 @@ authority:
 series_branding:
   primary_logo:
     identity: existing_multicolor_The_Little_Specs_Club_full_wordmark
-    visual_authority: approved_character_source_sheets
+    visual_authority: approved_standalone_series_logo_2026_10_17
+    status: APPROVED_LOCKED
+    approved_by: Adam_Reid
+    approved_date: '2026-10-17'
+    master_drive_id: 1RQ2--6O8C9UJp9flZ3nuxbZwicFvJY3H
+    master_filename: Little_Specs_Club_Series_Logo_APPROVED_LOCKED.png
+    master_sha256: f6e961865fda8f3d52a081350442874dcc1cef12a8ebc8f3ebeebdbfb6e1d7a2
+    master_dimensions_px: [1834, 858]
+    exact_asset_required: true
+    approval_record: CANON/approvals/SERIES_LOGO_APPROVAL_2026-10-17.md
     example_drive_sources:
       - 1lkboZGWom6Vw7et5J5__5dBivj7i2TRx  # Ben sheet
       - 1mXnar5Tl1iBPSSP_MaL1Xq7YVNTKabXB  # Mayor sheet
@@ -22,8 +31,8 @@ series_branding:
     usage: book_title_masthead
     separate_from: [LS_hard_hat_badge, circular_vest_back_emblem, fire_station_project_sticker]
     recreate_or_substitute_without_approval: false
-    print_master_status: standalone_high_resolution_master_not_yet_verified
-    embedded_source_logo_crop_status: reference_only_not_print_certified
+    print_master_status: approved_raster_design_master_final_placement_proof_required
+    embedded_source_logo_crop_status: historical_reference_superseded_for_future_wordmark_use
   text_beside_logo:
     font: Roboto
     weight: 400
