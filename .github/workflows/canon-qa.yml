@@ -17,3 +17,4 @@ jobs:
       - run: pip install pyyaml
       - run: python -m unittest discover -s QA -p 'test_*.py' -v
       - run: python QA/check_canon.py
+      - run: python QA/check_reference_sheets.py --json
