@@ -1,5 +1,31 @@
 # The Little Specs Club production instructions
 
+## Codex implementation update: 2026-10-25
+
+This file contains historical production checkpoints below. A dated checkpoint is
+NOT proof of the latest approved candidate. Before every task, reconcile the
+current Drive review index, exact approved asset hashes, GitHub manifests and
+newer approvals. Never infer a source change from an old checkpoint.
+
+Codex's approved initial role is to **write and test production QA code**,
+not replace artists, generate or overwrite source artwork, silently correct
+characters, or self-approve a spread or reference sheet. Work in a separate
+branch and open a pull request; do not merge automatically.
+
+For character sheets, read QA/REFERENCE_SHEETS.md, run
+python QA/check_reference_sheets.py, and use QA/reference-sheet-ledger.yaml.
+The ledger initially has 27 characters / 216 required views, all pending.
+Ben and Leo are comparison standards only, not auto-verified sheet approvals.
+Never claim the script performed image likeness comparison. A visible feature
+that cannot be checked is UNVERIFIED. The approval record must preserve
+Adam's exact evidence for the exact raw image hash. Never invent evidence.
+
+Do not change user-approved normal or construction clothing, faces, builds,
+PPE colors, helmet logos, sticker locations, or approved source file bytes.
+Use character-specific source image and profile. For small artwork repairs,
+preserve already-correct regions; any artwork edit needs separate authorization
+beyond this technical QA implementation.
+
 GitHub is the production control record. Approved Drive canon/profile/source pairs remain the visual authority and Drive stores the artwork. Use both on every review or production task.
 
 ## Before work
