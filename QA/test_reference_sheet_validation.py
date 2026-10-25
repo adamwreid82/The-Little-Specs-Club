@@ -140,5 +140,20 @@ class ReferenceSheetTests(unittest.TestCase):
             self.assertTrue(any("mismatch" in e for e in errors))
 
 
+    def test_identity_cannot_pass_as_not_visible(self):
+        ledger, registry = complete()
+        front = ledger["characters"]["Ben"]["angles"]["front"]
+        front["checks"]["identity"] = "NOT_VISIBLE"
+        front["not_visible_reasons"] = {"identity": "Unclear"}
+        self.assertTrue(any("identity must be visibly checked PASS" in e
+                            for e in audit(ledger, registry)[0]))
+
+    def test_duplicate_keys_in_ledger_are_rejected(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            p = Path(tmp) / "duplicate.yaml"
+            p.write_text("schema_version: 1\nschema_version: 1\ncharacters: {}\n")
+            with self.assertRaises(ValueError):
+                load_yaml(p)
+
 if __name__ == "__main__":
     unittest.main()
