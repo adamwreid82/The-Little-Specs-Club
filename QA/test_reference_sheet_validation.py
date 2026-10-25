@@ -3,9 +3,13 @@ import copy
 import hashlib
 from pathlib import Path
 import tempfile
+import contextlib
+import io
+import json
+import yaml
 import unittest
 
-from check_reference_sheets import ANGLES, CHECKS, audit, load_yaml, verify_sheet_files
+from check_reference_sheets import ANGLES, CHECKS, audit, load_yaml, verify_sheet_files, main
 
 ROOT = Path(__file__).resolve().parents[1]
 SHEET_ID = "sheet_drive_id_123456"
@@ -16,6 +20,7 @@ def fixture():
     registry = {"characters": {"Ben": {
         "image_id": "source_image_123456",
         "profile_id": "source_profile_123456",
+        "image_sha256": "c" * 64, "profile_sha256": "d" * 64,
     }}}
     ledger = {"schema_version": 1, "characters": {"Ben": {
         "reference_standard": True, "sheet": None, "angles": {}, "approval": None,
@@ -30,6 +35,9 @@ def complete():
     }
     record = {
         "status": "PASS",
+        "sheet_drive_id": SHEET_ID, "sheet_sha256": SHEET_HASH, "sheet_revision": "REV1",
+        "source_image_sha256": "c" * 64, "source_profile_sha256": "d" * 64,
+        "evidence": "Synthetic test fixture only; not a real inspection",
         "checks": {key: "PASS" for key in CHECKS},
         "source_image_id": registry["characters"]["Ben"]["image_id"],
         "source_profile_id": registry["characters"]["Ben"]["profile_id"],
@@ -41,6 +49,8 @@ def complete():
     }
     ledger["characters"]["Ben"]["approval"] = {
         "status": "APPROVED", "approved_by": "Adam Reid",
+        "sheet_drive_id": SHEET_ID, "sheet_revision": "REV1",
+        "approval_quote": "Synthetic approval fixture only",
         "approved_on": "2026-10-25",
         "sheet_sha256": SHEET_HASH,
         "evidence": "Exact author approval record in Drive",
@@ -154,6 +164,112 @@ class ReferenceSheetTests(unittest.TestCase):
             p.write_text("schema_version: 1\nschema_version: 1\ncharacters: {}\n")
             with self.assertRaises(ValueError):
                 load_yaml(p)
+
+
+    def test_missing_character_fails(self):
+        ledger, registry = fixture()
+        ledger["characters"].clear()
+        self.assertTrue(any("missing from ledger" in e for e in audit(ledger, registry)[0]))
+
+    def test_changed_source_hash_invalidates_old_review(self):
+        for kind in ("image", "profile"):
+            with self.subTest(kind=kind):
+                ledger, registry = complete()
+                registry["characters"]["Ben"][kind + "_sha256"] = "e" * 64
+                errors, summary, _ = audit(ledger, registry)
+                self.assertTrue(any("sha256" in e for e in errors))
+                self.assertEqual(summary["character_reports"]["Ben"]["visual_review_status"], "UNVERIFIED")
+
+    def test_changed_candidate_invalidates_old_review(self):
+        for key, value in (("sha256", "e" * 64), ("revision", "REV2"),
+                           ("drive_id", "another_sheet_12345")):
+            with self.subTest(key=key):
+                ledger, registry = complete()
+                ledger["characters"]["Ben"]["approval"] = None
+                ledger["characters"]["Ben"]["sheet"][key] = value
+                self.assertTrue(any("exact sheet" in e for e in audit(ledger, registry)[0]))
+
+    def test_pass_needs_evidence(self):
+        ledger, registry = complete()
+        del ledger["characters"]["Ben"]["angles"]["front"]["evidence"]
+        self.assertTrue(any("inspection evidence" in e for e in audit(ledger, registry)[0]))
+
+    def test_invalid_calendar_date_fails(self):
+        ledger, registry = complete()
+        ledger["characters"]["Ben"]["angles"]["front"]["reviewed_on"] = "2026-02-31"
+        ledger["characters"]["Ben"]["approval"]["approved_on"] = "2026-13-01"
+        self.assertGreaterEqual(len(audit(ledger, registry)[0]), 2)
+
+    def test_malformed_status_is_failure_not_crash(self):
+        ledger, registry = complete()
+        ledger["characters"]["Ben"]["angles"]["front"]["status"] = []
+        self.assertTrue(audit(ledger, registry)[0])
+        ledger, registry = complete()
+        ledger["characters"]["Ben"]["angles"]["front"]["checks"]["face"] = []
+        self.assertTrue(audit(ledger, registry)[0])
+
+    def test_unknown_and_unreadable_raw_files_fail(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            sheets = {SHEET_ID: ("Ben", SHEET_HASH)}
+            for mapping in ({"unknown": "x.png"}, {SHEET_ID: "missing.png"}):
+                self.assertTrue(verify_sheet_files(mapping, sheets, Path(tmp))[0])
+
+    def test_exact_approval_wording_and_version_required(self):
+        for field in ("approval_quote", "sheet_drive_id", "sheet_revision"):
+            with self.subTest(field=field):
+                ledger, registry = complete()
+                del ledger["characters"]["Ben"]["approval"][field]
+                self.assertTrue(audit(ledger, registry)[0])
+
+    def test_reports_missing_and_failed_angles(self):
+        ledger, registry = fixture()
+        _, summary, _ = audit(ledger, registry)
+        self.assertEqual(summary["character_reports"]["Ben"]["visual_review_status"], "UNVERIFIED")
+        ledger["characters"]["Ben"]["angles"]["front"] = {"status": "FAIL", "notes": "Repair required"}
+        errors, summary, _ = audit(ledger, registry)
+        self.assertFalse(errors)
+        self.assertEqual(summary["character_reports"]["Ben"]["visual_review_status"], "FAIL")
+
+class ReferenceSheetCliTests(unittest.TestCase):
+    def run_cli(self, ledger, registry, *flags):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            (root / "ledger.yaml").write_text(yaml.safe_dump(ledger))
+            (root / "registry.yaml").write_text(yaml.safe_dump(registry))
+            output = io.StringIO()
+            with contextlib.redirect_stdout(output):
+                code = main(["--ledger", str(root / "ledger.yaml"), "--registry",
+                             str(root / "registry.yaml"), "--json", *flags])
+            return code, json.loads(output.getvalue())
+
+    def test_pending_inventory_reports_unverified(self):
+        code, report = self.run_cli(*fixture())
+        self.assertEqual(code, 0)
+        self.assertEqual(report["mechanical_status"], "PASS")
+        self.assertEqual(report["visual_review_status"], "UNVERIFIED")
+        self.assertEqual(report["byte_verification_status"], "UNVERIFIED")
+
+    def test_complete_gate_rejects_missing_views(self):
+        code, report = self.run_cli(*fixture(), "--require-complete")
+        self.assertEqual(code, 1)
+        self.assertTrue(report["errors"])
+
+    def test_raw_gate_rejects_missing_sheet_files(self):
+        code, report = self.run_cli(*complete(), "--require-all-assets")
+        self.assertEqual(code, 1)
+        self.assertEqual(report["byte_verification_status"], "UNVERIFIED")
+
+    def test_complete_synthetic_records_are_not_authenticated_approval(self):
+        code, report = self.run_cli(*complete(), "--require-complete")
+        self.assertEqual(code, 0)
+        self.assertFalse(report["approval_authenticated_by_script"])
+        self.assertFalse(report["summary"]["visual_comparison_performed_by_script"])
+
+    def test_malformed_ledger_returns_json_failure(self):
+        code, report = self.run_cli({"characters": []}, fixture()[1])
+        self.assertEqual(code, 1)
+        self.assertEqual(report["visual_review_status"], "UNVERIFIED")
+
 
 if __name__ == "__main__":
     unittest.main()
