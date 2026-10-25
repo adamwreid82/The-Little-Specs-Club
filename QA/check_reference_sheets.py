@@ -12,6 +12,7 @@ import re
 import sys
 
 import yaml
+from check_canon import read_yaml
 
 ROOT = Path(__file__).resolve().parents[1]
 ANGLES = ("front", "front_right", "right", "back_right", "back",
@@ -26,8 +27,8 @@ DATE = re.compile(r"^\d{4}-\d\d-\d\d$")
 
 
 def load_yaml(path):
-    with Path(path).open(encoding="utf-8") as stream:
-        return yaml.safe_load(stream)
+    # Reuse the existing strict canon loader: duplicate YAML keys must fail.
+    return read_yaml(path)
 
 
 def valid_id(value):
@@ -51,7 +52,7 @@ def audit(ledger, registry):
     entries = ledger.get("characters") if isinstance(ledger, dict) else None
     if not isinstance(entries, dict):
         return ["ledger must contain a characters mapping"], {}, {}
-    if ledger.get("schema_version") != 1:
+    if type(ledger.get("schema_version")) is not int or ledger.get("schema_version") != 1:
         errors.append("schema_version must be 1")
     if set(entries) != set(characters):
         for name in sorted(set(characters) - set(entries)):
@@ -67,7 +68,7 @@ def audit(ledger, registry):
             errors.append(f"{name}: expected mapping")
             total_missing += len(ANGLES)
             continue
-        if row.get("reference_standard") not in (True, False):
+        if type(row.get("reference_standard")) is not bool:
             errors.append(f"{name}: reference_standard must be boolean")
         if row.get("reference_standard") is True and name not in {"Ben", "Leo"}:
             errors.append(f"{name}: new visual standard requires author authorization")
@@ -137,6 +138,9 @@ def audit(ledger, registry):
                     val not in ("PASS", "NOT_VISIBLE") for val in checks.values()
                 ):
                     errors.append(f"{name}/{angle}: PASS requires all checks PASS/NOT_VISIBLE")
+                for essential in ("identity", "proportions", "outfit"):
+                    if checks.get(essential) != "PASS":
+                        errors.append(f"{name}/{angle}: {essential} must be visibly checked PASS")
                 for key, expected in (
                     ("source_image_id", characters[name].get("image_id")),
                     ("source_profile_id", characters[name].get("profile_id")),
