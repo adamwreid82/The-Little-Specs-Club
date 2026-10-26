@@ -5,6 +5,8 @@ on:
       spread:
         description: "Book 1 spread folder, e.g. spread-09-10"
         required: true
+permissions:
+  contents: read
 jobs:
   qa:
     runs-on: ubuntu-latest
@@ -12,5 +14,14 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
-      - run: pip install pillow pyyaml
-      - run: python QA/run_spread_qa.py BOOK-01/${{ inputs.spread }}
+      - run: python -m pip install -r requirements-dev.txt
+      - name: Check exact active candidate
+        env:
+          SPREAD: ${{ inputs.spread }}
+        run: python QA/run_spread_qa.py "BOOK-01/$SPREAD" --json > spread-qa-report.json
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: spread-qa-report
+          path: spread-qa-report.json
+          if-no-files-found: warn

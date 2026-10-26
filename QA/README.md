@@ -49,3 +49,62 @@ hashes, scope, and evidence. No source art or Word profile content was changed.
 This completed audit does not make future reference-only CI runs byte verification;
 supply fresh raw files when checking live Drive content. The five child profile YAML
 copies were separately synchronized to the verified emblem-update hashes.
+
+## Exact active spread candidates
+
+`run_spread_qa.py` no longer chooses the first PNG in `version-b/`. It resolves
+an exact Drive ID and SHA-256 before examining candidate files or audit evidence.
+It accepts the existing `active_review.candidate`, flat `active_review` identity,
+and `candidate_drive_id`/`candidate_sha256` formats. Conflicting identity aliases
+or explicit pointers fail. An explicit active identity can differ from historical
+`version_b`; no metadata or evidence is silently borrowed from the old candidate.
+
+Without an active identity, `version_b` is usable only when no other unarchived,
+nonhistorical candidate record competes with it. Audit/index records and the known
+approved LS source reference are not competing artwork candidates. Dates, revision
+numbers, YAML order, file timestamps and approval flags never select a candidate.
+Ambiguous records remain UNVERIFIED and their evidence is not checked.
+
+For future reconciliation of legacy manifests, `active_candidate` may name the
+exact top-level candidate record (for example `masked_local_r6_2026_10_11`). This
+is a metadata pointer, not an approval. This implementation does not add pointers
+or change any existing production records. If `active_review` also names an image,
+both pointers must agree on ID/hash. Audit paths come from the selected record or
+its explicit active review, never an unrelated top-level `qa` or old revision.
+
+```sh
+python QA/run_spread_qa.py BOOK-01/spread-13-14 --json
+# Optional: map the active Drive ID to an original downloaded file.
+python QA/run_spread_qa.py BOOK-01/spread-13-14 --asset-files raw-files.yaml --json
+```
+
+The raw-file map is the same ID-to-path YAML form used for canon checks; relative
+paths are resolved against the map file. Otherwise, only an exact candidate file
+path or its exact filename is used, never a directory scan. For existing active
+records without a path, the filename is looked up under `version-b/`. Hash mismatch
+fails and prevents image decoding/checks. Matching bytes are fully decoded and
+checked for PNG format, canon dimensions and agreement with candidate dimensions.
+Missing local files stay UNVERIFIED; there is no automatic Drive download.
+
+`evidence_binding: PASS` means only that the selected audit cites the exact active
+candidate SHA-256. It does not validate the document's findings, confirm live Drive
+bytes, certify likeness, or authenticate an approval. Missing audits are UNVERIFIED;
+an available audit without the candidate hash fails linkage. Image/hash checks,
+recorded evidence linkage and visual review are reported separately. Visual review,
+layout, typography, manuscript fidelity, and approval remain UNVERIFIED by this tool.
+
+Exit codes: **1** for failed mechanical checks, **2** for incomplete verification.
+A full artwork PASS/exit 0 is intentionally not available from this mechanical
+runner. Spread QA uploads its JSON report even on a failed/incomplete run. Its
+GitHub workflow still requires manual dispatch; Canon QA automatically runs the
+regression suite on relevant branch pushes and PRs.
+
+### Read-only production check — 2026-10-25
+
+The new resolver identifies explicit active records for Pages 1–12. Pages 13–32
+have competing historical/current repair records without an explicit active
+pointer, so candidate resolution remains UNVERIFIED. No candidate is inferred to
+be current from chronology. Pages 1–2 still has the existing manifest schema mismatch;
+its selected REV9 audit also lacks the candidate hash citation required for linkage.
+These findings do not revoke or grant any artwork approval. No production manifest,
+artwork, source, manuscript, canon record, or prior audit was changed.

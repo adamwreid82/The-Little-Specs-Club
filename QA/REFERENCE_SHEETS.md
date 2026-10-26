@@ -116,3 +116,52 @@ a passing check, a GitHub commit, or a successful CI run.
 After this PR is reviewed, the next step is to register actual Drive reference
 sheet IDs and visually compare each view side by side against its own source.
 That cannot be performed by this ledger alone.
+
+## Reproducible local setup (Python 3.12)
+
+```sh
+python3.12 -m venv .venv
+.venv/bin/python -m pip install -r requirements-dev.txt
+.venv/bin/python -m unittest discover -s QA -p 'test_*.py' -v
+.venv/bin/python QA/check_canon.py --strict --json
+.venv/bin/python QA/check_reference_sheets.py --json
+```
+
+CI uses the same pinned dependencies. Canon QA saves its JSON sheet report as a
+workflow artifact. A successful inventory check can coexist with 216 unverified
+views. `mechanical_status` validates records; `visual_review_status` summarizes
+recorded reviewer evidence; `byte_verification_status` describes supplied sheet
+bytes. None authenticates author consent or performs visual comparison.
+
+Each PASS angle now also requires:
+
+```yaml
+sheet_drive_id: "<registered sheet drive_id>"
+sheet_sha256: "<registered sheet sha256>"
+sheet_revision: "<registered sheet revision>"
+source_image_sha256: "<this character's registry image_sha256>"
+source_profile_sha256: "<this character's registry profile_sha256>"
+evidence: "<audit file/record reference describing actual visual comparison>"
+```
+
+Each approval also requires `sheet_drive_id`, `sheet_revision`, and
+`approval_quote` (Adam's exact wording), alongside the existing hash/date/evidence.
+These fields are required for future records; the pending inventory is unchanged.
+Changing candidate ID, revision, candidate bytes, or either source hash invalidates
+old PASS evidence. Reinspect the new version before recording any new PASS.
+Review normal and construction clothing against the individual profile, including
+applicable vest/PPE, height, and character-specific accessories within the existing
+outfit/proportions/identity checks. Do not infer applicability from another person.
+
+Per-character reports show every angle as PASS, FAIL, or UNVERIFIED, and list
+`checks_without_visible_pass`. A NOT_VISIBLE check does not become a visible
+PASS, even with eight otherwise valid angle reviews. Some characters have no
+applicable helmet/sticker/PPE; record the source-grounded reason rather than
+inventing one. A record of approval does not resolve hidden technical details.
+
+For revisions, retain the original Drive bytes and per-version audits. Before
+changing the active ledger pointer, commit the prior record; add a new versioned
+audit with old/new IDs, hashes, exact failed checks, repair notes and unresolved
+items. Re-run mechanical and raw-byte checks and obtain fresh visual evidence.
+Git history preserves prior ledger states; this validator does not enforce Drive
+immutability, authenticate evidence, or automatically migrate revision records.
