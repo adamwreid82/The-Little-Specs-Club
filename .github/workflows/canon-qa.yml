@@ -2,9 +2,9 @@ name: Canon reference QA
 on:
   workflow_dispatch:
   push:
-    paths: ['CANON/**', 'CHARACTERS/**', 'QA/**', '.github/workflows/canon-qa.yml']
+    paths: ['CANON/**', 'CHARACTERS/**', 'QA/**', '.github/workflows/canon-qa.yml', 'requirements-dev.txt']
   pull_request:
-    paths: ['CANON/**', 'CHARACTERS/**', 'QA/**', '.github/workflows/canon-qa.yml']
+    paths: ['CANON/**', 'CHARACTERS/**', 'QA/**', '.github/workflows/canon-qa.yml', 'requirements-dev.txt']
 permissions:
   contents: read
 jobs:
@@ -14,6 +14,13 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: {python-version: '3.12'}
-      - run: pip install pyyaml
+      - run: python -m pip install -r requirements-dev.txt
       - run: python -m unittest discover -s QA -p 'test_*.py' -v
       - run: python QA/check_canon.py
+      - run: python QA/check_reference_sheets.py --json > reference-sheet-report.json
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: reference-sheet-report
+          path: reference-sheet-report.json
+          if-no-files-found: warn

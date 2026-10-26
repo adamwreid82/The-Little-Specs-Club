@@ -1,0 +1,141 @@
+# Inventory-only records. Missing angles are PENDING, never automatic PASS.
+# All sheets and their eight view audits must be registered from the approved Drive
+# source/profile authority before any approval is recorded.
+# Ben/Leo reference_standard = comparison benchmark, NOT eight-angle approval.
+schema_version: 1
+characters:
+  Ben:
+    reference_standard: true
+    sheet: null
+    angles: {}
+    approval: null
+  Leo:
+    reference_standard: true
+    sheet: null
+    angles: {}
+    approval: null
+  Vinny:
+    reference_standard: false
+    sheet: null
+    angles: {}
+    approval: null
+  Steph:
+    reference_standard: false
+    sheet: null
+    angles: {}
+    approval: null
+  Maya:
+    reference_standard: false
+    sheet: null
+    angles: {}
+    approval: null
+  Mrs-Harper:
+    reference_standard: false
+    sheet: null
+    angles: {}
+    approval: null
+  Elena-Rivera:
+    reference_standard: false
+    sheet: null
+    angles: {}
+    approval: null
+  Marcus-Jackson:
+    reference_standard: false
+    sheet: null
+    angles: {}
+    approval: null
+  Omar-Haddad:
+    reference_standard: false
+    sheet: null
+    angles: {}
+    approval: null
+  Darius-Cole:
+    reference_standard: false
+    sheet: null
+    angles: {}
+    approval: null
+  Matthias-Becker:
+    reference_standard: false
+    sheet: null
+    angles: {}
+    approval: null
+  Luis-Mendoza:
+    reference_standard: false
+    sheet: null
+    angles: {}
+    approval: null
+  Priya-Patel:
+    reference_standard: false
+    sheet: null
+    angles: {}
+    approval: null
+  Daniel-Brooks:
+    reference_standard: false
+    sheet: null
+    angles: {}
+    approval: null
+  Tony-Marino:
+    reference_standard: false
+    sheet: null
+    angles: {}
+    approval: null
+  Claire-Morgan:
+    reference_standard: false
+    sheet: null
+    angles: {}
+    approval: null
+  Andre-Lewis:
+    reference_standard: false
+    sheet: null
+    angles: {}
+    approval: null
+  Danny-Novak:
+    reference_standard: false
+    sheet: null
+    angles: {}
+    approval: null
+  Erik-Halvorsen:
+    reference_standard: false
+    sheet: null
+    angles: {}
+    approval: null
+  Sam-Carter:
+    reference_standard: false
+    sheet: null
+    angles: {}
+    approval: null
+  Hannah-Kowalski:
+    reference_standard: false
+    sheet: null
+    angles: {}
+    approval: null
+  Rebecca-Foster:
+    reference_standard: false
+    sheet: null
+    angles: {}
+    approval: null
+  Natalie-Chen:
+    reference_standard: false
+    sheet: null
+    angles: {}
+    approval: null
+  Rafael-Martinez:
+    reference_standard: false
+    sheet: null
+    angles: {}
+    approval: null
+  Marisol-Vega:
+    reference_standard: false
+    sheet: null
+    angles: {}
+    approval: null
+  Adrian-Park:
+    reference_standard: false
+    sheet: null
+    angles: {}
+    approval: null
+  Mayor-Thomas-Whitaker:
+    reference_standard: false
+    sheet: null
+    angles: {}
+    approval: null
