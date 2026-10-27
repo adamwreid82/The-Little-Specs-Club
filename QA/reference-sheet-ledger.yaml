@@ -1,7 +1,3 @@
-# Inventory-only records. Missing angles are PENDING, never automatic PASS.
-# All sheets and their eight view audits must be registered from the approved Drive
-# source/profile authority before any approval is recorded.
-# Ben/Leo reference_standard = comparison benchmark, NOT eight-angle approval.
 schema_version: 1
 characters:
   Ben:
@@ -16,18 +12,147 @@ characters:
     approval: null
   Vinny:
     reference_standard: false
-    sheet: null
-    angles: {}
+    sheet:
+      drive_id: 1WIlDyVm3yqRcd48F7NGFgooc1t9n5eyw
+      sha256: 567c38bea4183faa7adb6b47927f7ceb5e9ae69a5c5f2e8c325efb9bd8f9c2a1
+      revision: PPE R12
+    angles:
+      front:
+        status: UNVERIFIED
+        notes: Localized repair candidate. See QA/audits/2026-10-27-kids-ppe-repair.md.
+          Author-reported hair boundary concerns and exact cross-pose decal registration
+          are not certified by this partial repair pass.
+      front_right:
+        status: UNVERIFIED
+        notes: Localized repair candidate. See QA/audits/2026-10-27-kids-ppe-repair.md.
+          Author-reported hair boundary concerns and exact cross-pose decal registration
+          are not certified by this partial repair pass.
+      right:
+        status: UNVERIFIED
+        notes: Localized repair candidate. See QA/audits/2026-10-27-kids-ppe-repair.md.
+          Author-reported hair boundary concerns and exact cross-pose decal registration
+          are not certified by this partial repair pass.
+      back_right:
+        status: UNVERIFIED
+        notes: Localized repair candidate. See QA/audits/2026-10-27-kids-ppe-repair.md.
+          Author-reported hair boundary concerns and exact cross-pose decal registration
+          are not certified by this partial repair pass.
+      back:
+        status: UNVERIFIED
+        notes: Localized repair candidate. See QA/audits/2026-10-27-kids-ppe-repair.md.
+          Author-reported hair boundary concerns and exact cross-pose decal registration
+          are not certified by this partial repair pass.
+      back_left:
+        status: UNVERIFIED
+        notes: Localized repair candidate. See QA/audits/2026-10-27-kids-ppe-repair.md.
+          Author-reported hair boundary concerns and exact cross-pose decal registration
+          are not certified by this partial repair pass.
+      left:
+        status: UNVERIFIED
+        notes: Localized repair candidate. See QA/audits/2026-10-27-kids-ppe-repair.md.
+          Author-reported hair boundary concerns and exact cross-pose decal registration
+          are not certified by this partial repair pass.
+      front_left:
+        status: UNVERIFIED
+        notes: Localized repair candidate. See QA/audits/2026-10-27-kids-ppe-repair.md.
+          Author-reported hair boundary concerns and exact cross-pose decal registration
+          are not certified by this partial repair pass.
     approval: null
   Steph:
     reference_standard: false
-    sheet: null
-    angles: {}
+    sheet:
+      drive_id: 1XVjxaJjLCM53hVeZHrX1R5yUrQUHWD4A
+      sha256: daad261f3475bee4c942d4cbda9d1954f3229a69ae4b56425f209de5eb7e176e
+      revision: PPE R11
+    angles:
+      front:
+        status: UNVERIFIED
+        notes: Localized repair candidate. See QA/audits/2026-10-27-kids-ppe-repair.md.
+          Author-reported hair boundary concerns and exact cross-pose decal registration
+          are not certified by this partial repair pass.
+      front_right:
+        status: UNVERIFIED
+        notes: Localized repair candidate. See QA/audits/2026-10-27-kids-ppe-repair.md.
+          Author-reported hair boundary concerns and exact cross-pose decal registration
+          are not certified by this partial repair pass.
+      right:
+        status: UNVERIFIED
+        notes: Localized repair candidate. See QA/audits/2026-10-27-kids-ppe-repair.md.
+          Author-reported hair boundary concerns and exact cross-pose decal registration
+          are not certified by this partial repair pass.
+      back_right:
+        status: UNVERIFIED
+        notes: Localized repair candidate. See QA/audits/2026-10-27-kids-ppe-repair.md.
+          Author-reported hair boundary concerns and exact cross-pose decal registration
+          are not certified by this partial repair pass.
+      back:
+        status: UNVERIFIED
+        notes: Localized repair candidate. See QA/audits/2026-10-27-kids-ppe-repair.md.
+          Author-reported hair boundary concerns and exact cross-pose decal registration
+          are not certified by this partial repair pass.
+      back_left:
+        status: UNVERIFIED
+        notes: Localized repair candidate. See QA/audits/2026-10-27-kids-ppe-repair.md.
+          Author-reported hair boundary concerns and exact cross-pose decal registration
+          are not certified by this partial repair pass.
+      left:
+        status: UNVERIFIED
+        notes: Localized repair candidate. See QA/audits/2026-10-27-kids-ppe-repair.md.
+          Author-reported hair boundary concerns and exact cross-pose decal registration
+          are not certified by this partial repair pass.
+      front_left:
+        status: UNVERIFIED
+        notes: Localized repair candidate. See QA/audits/2026-10-27-kids-ppe-repair.md.
+          Author-reported hair boundary concerns and exact cross-pose decal registration
+          are not certified by this partial repair pass.
     approval: null
   Maya:
     reference_standard: false
-    sheet: null
-    angles: {}
+    sheet:
+      drive_id: 1Jy9LgJnzly4lnZWKGO5xbmaxEaVuoQCk
+      sha256: 920c3700b5923d65b2e7fd6efca8cdeb3efb616c1752154ba5e3dea1ef9be679
+      revision: PPE R5
+    angles:
+      front:
+        status: UNVERIFIED
+        notes: Localized repair candidate. See QA/audits/2026-10-27-kids-ppe-repair.md.
+          Author-reported hair boundary concerns and exact cross-pose decal registration
+          are not certified by this partial repair pass.
+      front_right:
+        status: UNVERIFIED
+        notes: Localized repair candidate. See QA/audits/2026-10-27-kids-ppe-repair.md.
+          Author-reported hair boundary concerns and exact cross-pose decal registration
+          are not certified by this partial repair pass.
+      right:
+        status: UNVERIFIED
+        notes: Localized repair candidate. See QA/audits/2026-10-27-kids-ppe-repair.md.
+          Author-reported hair boundary concerns and exact cross-pose decal registration
+          are not certified by this partial repair pass.
+      back_right:
+        status: UNVERIFIED
+        notes: Localized repair candidate. See QA/audits/2026-10-27-kids-ppe-repair.md.
+          Author-reported hair boundary concerns and exact cross-pose decal registration
+          are not certified by this partial repair pass.
+      back:
+        status: UNVERIFIED
+        notes: Localized repair candidate. See QA/audits/2026-10-27-kids-ppe-repair.md.
+          Author-reported hair boundary concerns and exact cross-pose decal registration
+          are not certified by this partial repair pass.
+      back_left:
+        status: UNVERIFIED
+        notes: Localized repair candidate. See QA/audits/2026-10-27-kids-ppe-repair.md.
+          Author-reported hair boundary concerns and exact cross-pose decal registration
+          are not certified by this partial repair pass.
+      left:
+        status: UNVERIFIED
+        notes: Localized repair candidate. See QA/audits/2026-10-27-kids-ppe-repair.md.
+          Author-reported hair boundary concerns and exact cross-pose decal registration
+          are not certified by this partial repair pass.
+      front_left:
+        status: UNVERIFIED
+        notes: Localized repair candidate. See QA/audits/2026-10-27-kids-ppe-repair.md.
+          Author-reported hair boundary concerns and exact cross-pose decal registration
+          are not certified by this partial repair pass.
     approval: null
   Mrs-Harper:
     reference_standard: false
