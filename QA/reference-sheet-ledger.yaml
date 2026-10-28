@@ -13,66 +13,66 @@ characters:
   Vinny:
     reference_standard: false
     sheet:
-      drive_id: 1eqKPQs4Oi4QkjNi79w3IQg0Lq3OIiZo8
-      sha256: d3903640a95d570848a46a940a5b079c87a269082f873690bda223028826d1db
-      revision: PPE R14
+      drive_id: 1OeCQ4niPlHy7G4Zzon3pwx95ulcpXkkh
+      sha256: 24818af75c422de477a1409fa3f442b864d600603e0d65eed258c692afa07067
+      revision: PPE R15
     angles:
       front:
         status: UNVERIFIED
-        notes: Latest targeted helmet-edge and hair/brim bleed repair inspected in
-          QA/audits/2026-10-28-kids-helmet-edge-repair.md. Prior R13/R6 were reported
-          defective by Adam. Identified dark rim smears and discolored shell patches
-          repaired; eight head views rechecked. Overall certification remains unverified
-          for exact decal projection and comparative physical heights. No author approval.
+        notes: Targeted placement correction inspected in QA/audits/2026-10-28-kids-logo-placement-repair.md.
+          Oct 24 Ben PPE R5 lock used for Vinny front badge placement; own PNG/profile
+          vest-panel registration used for both children. Original hood/hair occlusion
+          preserved. Prior R14/R7 placement rejected by Adam. Whole-sheet canon, hidden/profile
+          decal extents and exact 3D projection remain unverified. No author approval.
       front_right:
         status: UNVERIFIED
-        notes: Latest targeted helmet-edge and hair/brim bleed repair inspected in
-          QA/audits/2026-10-28-kids-helmet-edge-repair.md. Prior R13/R6 were reported
-          defective by Adam. Identified dark rim smears and discolored shell patches
-          repaired; eight head views rechecked. Overall certification remains unverified
-          for exact decal projection and comparative physical heights. No author approval.
+        notes: Targeted placement correction inspected in QA/audits/2026-10-28-kids-logo-placement-repair.md.
+          Oct 24 Ben PPE R5 lock used for Vinny front badge placement; own PNG/profile
+          vest-panel registration used for both children. Original hood/hair occlusion
+          preserved. Prior R14/R7 placement rejected by Adam. Whole-sheet canon, hidden/profile
+          decal extents and exact 3D projection remain unverified. No author approval.
       right:
         status: UNVERIFIED
-        notes: Latest targeted helmet-edge and hair/brim bleed repair inspected in
-          QA/audits/2026-10-28-kids-helmet-edge-repair.md. Prior R13/R6 were reported
-          defective by Adam. Identified dark rim smears and discolored shell patches
-          repaired; eight head views rechecked. Overall certification remains unverified
-          for exact decal projection and comparative physical heights. No author approval.
+        notes: Targeted placement correction inspected in QA/audits/2026-10-28-kids-logo-placement-repair.md.
+          Oct 24 Ben PPE R5 lock used for Vinny front badge placement; own PNG/profile
+          vest-panel registration used for both children. Original hood/hair occlusion
+          preserved. Prior R14/R7 placement rejected by Adam. Whole-sheet canon, hidden/profile
+          decal extents and exact 3D projection remain unverified. No author approval.
       back_right:
         status: UNVERIFIED
-        notes: Latest targeted helmet-edge and hair/brim bleed repair inspected in
-          QA/audits/2026-10-28-kids-helmet-edge-repair.md. Prior R13/R6 were reported
-          defective by Adam. Identified dark rim smears and discolored shell patches
-          repaired; eight head views rechecked. Overall certification remains unverified
-          for exact decal projection and comparative physical heights. No author approval.
+        notes: Targeted placement correction inspected in QA/audits/2026-10-28-kids-logo-placement-repair.md.
+          Oct 24 Ben PPE R5 lock used for Vinny front badge placement; own PNG/profile
+          vest-panel registration used for both children. Original hood/hair occlusion
+          preserved. Prior R14/R7 placement rejected by Adam. Whole-sheet canon, hidden/profile
+          decal extents and exact 3D projection remain unverified. No author approval.
       back:
         status: UNVERIFIED
-        notes: Latest targeted helmet-edge and hair/brim bleed repair inspected in
-          QA/audits/2026-10-28-kids-helmet-edge-repair.md. Prior R13/R6 were reported
-          defective by Adam. Identified dark rim smears and discolored shell patches
-          repaired; eight head views rechecked. Overall certification remains unverified
-          for exact decal projection and comparative physical heights. No author approval.
+        notes: Targeted placement correction inspected in QA/audits/2026-10-28-kids-logo-placement-repair.md.
+          Oct 24 Ben PPE R5 lock used for Vinny front badge placement; own PNG/profile
+          vest-panel registration used for both children. Original hood/hair occlusion
+          preserved. Prior R14/R7 placement rejected by Adam. Whole-sheet canon, hidden/profile
+          decal extents and exact 3D projection remain unverified. No author approval.
       back_left:
         status: UNVERIFIED
-        notes: Latest targeted helmet-edge and hair/brim bleed repair inspected in
-          QA/audits/2026-10-28-kids-helmet-edge-repair.md. Prior R13/R6 were reported
-          defective by Adam. Identified dark rim smears and discolored shell patches
-          repaired; eight head views rechecked. Overall certification remains unverified
-          for exact decal projection and comparative physical heights. No author approval.
+        notes: Targeted placement correction inspected in QA/audits/2026-10-28-kids-logo-placement-repair.md.
+          Oct 24 Ben PPE R5 lock used for Vinny front badge placement; own PNG/profile
+          vest-panel registration used for both children. Original hood/hair occlusion
+          preserved. Prior R14/R7 placement rejected by Adam. Whole-sheet canon, hidden/profile
+          decal extents and exact 3D projection remain unverified. No author approval.
       left:
         status: UNVERIFIED
-        notes: Latest targeted helmet-edge and hair/brim bleed repair inspected in
-          QA/audits/2026-10-28-kids-helmet-edge-repair.md. Prior R13/R6 were reported
-          defective by Adam. Identified dark rim smears and discolored shell patches
-          repaired; eight head views rechecked. Overall certification remains unverified
-          for exact decal projection and comparative physical heights. No author approval.
+        notes: Targeted placement correction inspected in QA/audits/2026-10-28-kids-logo-placement-repair.md.
+          Oct 24 Ben PPE R5 lock used for Vinny front badge placement; own PNG/profile
+          vest-panel registration used for both children. Original hood/hair occlusion
+          preserved. Prior R14/R7 placement rejected by Adam. Whole-sheet canon, hidden/profile
+          decal extents and exact 3D projection remain unverified. No author approval.
       front_left:
         status: UNVERIFIED
-        notes: Latest targeted helmet-edge and hair/brim bleed repair inspected in
-          QA/audits/2026-10-28-kids-helmet-edge-repair.md. Prior R13/R6 were reported
-          defective by Adam. Identified dark rim smears and discolored shell patches
-          repaired; eight head views rechecked. Overall certification remains unverified
-          for exact decal projection and comparative physical heights. No author approval.
+        notes: Targeted placement correction inspected in QA/audits/2026-10-28-kids-logo-placement-repair.md.
+          Oct 24 Ben PPE R5 lock used for Vinny front badge placement; own PNG/profile
+          vest-panel registration used for both children. Original hood/hair occlusion
+          preserved. Prior R14/R7 placement rejected by Adam. Whole-sheet canon, hidden/profile
+          decal extents and exact 3D projection remain unverified. No author approval.
     approval: null
   Steph:
     reference_standard: false
@@ -141,66 +141,66 @@ characters:
   Maya:
     reference_standard: false
     sheet:
-      drive_id: 1rMA-hXpMNguE8j0eexITY4vGoCY9mrHA
-      sha256: 514b4cfb128a417c40b51747a927d49d1a99dcd46da990e3af1aa1d4d3eb58af
-      revision: PPE R7
+      drive_id: 159Bxa9jvwYUw6O6ojFA_5lgZfHQiskNu
+      sha256: ae2f98c37d68cd40ff6cdfc4900426006341ca5c24e6fa8ba0ad72b1381d6c06
+      revision: PPE R8
     angles:
       front:
         status: UNVERIFIED
-        notes: Latest targeted helmet-edge and hair/brim bleed repair inspected in
-          QA/audits/2026-10-28-kids-helmet-edge-repair.md. Prior R13/R6 were reported
-          defective by Adam. Identified dark rim smears and discolored shell patches
-          repaired; eight head views rechecked. Overall certification remains unverified
-          for exact decal projection and comparative physical heights. No author approval.
+        notes: Targeted placement correction inspected in QA/audits/2026-10-28-kids-logo-placement-repair.md.
+          Oct 24 Ben PPE R5 lock used for Vinny front badge placement; own PNG/profile
+          vest-panel registration used for both children. Original hood/hair occlusion
+          preserved. Prior R14/R7 placement rejected by Adam. Whole-sheet canon, hidden/profile
+          decal extents and exact 3D projection remain unverified. No author approval.
       front_right:
         status: UNVERIFIED
-        notes: Latest targeted helmet-edge and hair/brim bleed repair inspected in
-          QA/audits/2026-10-28-kids-helmet-edge-repair.md. Prior R13/R6 were reported
-          defective by Adam. Identified dark rim smears and discolored shell patches
-          repaired; eight head views rechecked. Overall certification remains unverified
-          for exact decal projection and comparative physical heights. No author approval.
+        notes: Targeted placement correction inspected in QA/audits/2026-10-28-kids-logo-placement-repair.md.
+          Oct 24 Ben PPE R5 lock used for Vinny front badge placement; own PNG/profile
+          vest-panel registration used for both children. Original hood/hair occlusion
+          preserved. Prior R14/R7 placement rejected by Adam. Whole-sheet canon, hidden/profile
+          decal extents and exact 3D projection remain unverified. No author approval.
       right:
         status: UNVERIFIED
-        notes: Latest targeted helmet-edge and hair/brim bleed repair inspected in
-          QA/audits/2026-10-28-kids-helmet-edge-repair.md. Prior R13/R6 were reported
-          defective by Adam. Identified dark rim smears and discolored shell patches
-          repaired; eight head views rechecked. Overall certification remains unverified
-          for exact decal projection and comparative physical heights. No author approval.
+        notes: Targeted placement correction inspected in QA/audits/2026-10-28-kids-logo-placement-repair.md.
+          Oct 24 Ben PPE R5 lock used for Vinny front badge placement; own PNG/profile
+          vest-panel registration used for both children. Original hood/hair occlusion
+          preserved. Prior R14/R7 placement rejected by Adam. Whole-sheet canon, hidden/profile
+          decal extents and exact 3D projection remain unverified. No author approval.
       back_right:
         status: UNVERIFIED
-        notes: Latest targeted helmet-edge and hair/brim bleed repair inspected in
-          QA/audits/2026-10-28-kids-helmet-edge-repair.md. Prior R13/R6 were reported
-          defective by Adam. Identified dark rim smears and discolored shell patches
-          repaired; eight head views rechecked. Overall certification remains unverified
-          for exact decal projection and comparative physical heights. No author approval.
+        notes: Targeted placement correction inspected in QA/audits/2026-10-28-kids-logo-placement-repair.md.
+          Oct 24 Ben PPE R5 lock used for Vinny front badge placement; own PNG/profile
+          vest-panel registration used for both children. Original hood/hair occlusion
+          preserved. Prior R14/R7 placement rejected by Adam. Whole-sheet canon, hidden/profile
+          decal extents and exact 3D projection remain unverified. No author approval.
       back:
         status: UNVERIFIED
-        notes: Latest targeted helmet-edge and hair/brim bleed repair inspected in
-          QA/audits/2026-10-28-kids-helmet-edge-repair.md. Prior R13/R6 were reported
-          defective by Adam. Identified dark rim smears and discolored shell patches
-          repaired; eight head views rechecked. Overall certification remains unverified
-          for exact decal projection and comparative physical heights. No author approval.
+        notes: Targeted placement correction inspected in QA/audits/2026-10-28-kids-logo-placement-repair.md.
+          Oct 24 Ben PPE R5 lock used for Vinny front badge placement; own PNG/profile
+          vest-panel registration used for both children. Original hood/hair occlusion
+          preserved. Prior R14/R7 placement rejected by Adam. Whole-sheet canon, hidden/profile
+          decal extents and exact 3D projection remain unverified. No author approval.
       back_left:
         status: UNVERIFIED
-        notes: Latest targeted helmet-edge and hair/brim bleed repair inspected in
-          QA/audits/2026-10-28-kids-helmet-edge-repair.md. Prior R13/R6 were reported
-          defective by Adam. Identified dark rim smears and discolored shell patches
-          repaired; eight head views rechecked. Overall certification remains unverified
-          for exact decal projection and comparative physical heights. No author approval.
+        notes: Targeted placement correction inspected in QA/audits/2026-10-28-kids-logo-placement-repair.md.
+          Oct 24 Ben PPE R5 lock used for Vinny front badge placement; own PNG/profile
+          vest-panel registration used for both children. Original hood/hair occlusion
+          preserved. Prior R14/R7 placement rejected by Adam. Whole-sheet canon, hidden/profile
+          decal extents and exact 3D projection remain unverified. No author approval.
       left:
         status: UNVERIFIED
-        notes: Latest targeted helmet-edge and hair/brim bleed repair inspected in
-          QA/audits/2026-10-28-kids-helmet-edge-repair.md. Prior R13/R6 were reported
-          defective by Adam. Identified dark rim smears and discolored shell patches
-          repaired; eight head views rechecked. Overall certification remains unverified
-          for exact decal projection and comparative physical heights. No author approval.
+        notes: Targeted placement correction inspected in QA/audits/2026-10-28-kids-logo-placement-repair.md.
+          Oct 24 Ben PPE R5 lock used for Vinny front badge placement; own PNG/profile
+          vest-panel registration used for both children. Original hood/hair occlusion
+          preserved. Prior R14/R7 placement rejected by Adam. Whole-sheet canon, hidden/profile
+          decal extents and exact 3D projection remain unverified. No author approval.
       front_left:
         status: UNVERIFIED
-        notes: Latest targeted helmet-edge and hair/brim bleed repair inspected in
-          QA/audits/2026-10-28-kids-helmet-edge-repair.md. Prior R13/R6 were reported
-          defective by Adam. Identified dark rim smears and discolored shell patches
-          repaired; eight head views rechecked. Overall certification remains unverified
-          for exact decal projection and comparative physical heights. No author approval.
+        notes: Targeted placement correction inspected in QA/audits/2026-10-28-kids-logo-placement-repair.md.
+          Oct 24 Ben PPE R5 lock used for Vinny front badge placement; own PNG/profile
+          vest-panel registration used for both children. Original hood/hair occlusion
+          preserved. Prior R14/R7 placement rejected by Adam. Whole-sheet canon, hidden/profile
+          decal extents and exact 3D projection remain unverified. No author approval.
     approval: null
   Mrs-Harper:
     reference_standard: false
