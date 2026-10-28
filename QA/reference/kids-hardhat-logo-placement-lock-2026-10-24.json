@@ -1,0 +1,97 @@
+{
+  "status": "APPROVED_LOCKED",
+  "approval_date": "2026-10-24",
+  "approved_by": "Adam Reid",
+  "approval_statement": "Ben’s hard hat logo is good, lets use its location for the other kids",
+  "scope": [
+    "Ben",
+    "Leo",
+    "Vinny",
+    "Steph",
+    "Maya"
+  ],
+  "visual_master": {
+    "drive_id": "1jfdO92dW-tXMyhoWgmb2AxhAKWqqlCFx",
+    "name": "Ben_PPE_8_Angles_APPROVED_R5.png",
+    "local_image_sha256": "e1754499e1bfc3acc6054df9f57b4417eda1db64be4c34fb1cb7712390c4746a",
+    "image_dimensions": [
+      3072,
+      2048
+    ]
+  },
+  "badge_asset": {
+    "drive_id": "1T2tCGf79Efg-xpuYWBAi04-d7XG99sP_",
+    "sha256": "96a47ac122989b3527e3fc5f8aa58544fd438799c2c4d7041cca4ef40de34a42"
+  },
+  "master_badge_placements": [
+    {
+      "asset": "badge",
+      "box_1536": [
+        240,
+        46,
+        36,
+        33
+      ],
+      "rotation": 0
+    },
+    {
+      "asset": "badge",
+      "box_1536": [
+        607,
+        57,
+        32,
+        33
+      ],
+      "rotation": 4
+    },
+    {
+      "asset": "badge",
+      "box_1536": [
+        1255,
+        534,
+        31,
+        33
+      ],
+      "rotation": -4
+    },
+    {
+      "asset": "badge",
+      "box_1536": [
+        996,
+        77,
+        6,
+        25
+      ],
+      "rotation": 15
+    },
+    {
+      "asset": "badge",
+      "box_1536": [
+        898,
+        546,
+        6,
+        25
+      ],
+      "rotation": -15
+    }
+  ],
+  "coordinate_note": "Recorded boxes use Ben original 1536x1024 reference coordinates; multiply by two for approved 3072x2048 sheet. These are reference-image coordinates, not reusable screen coordinates on other children.",
+  "transfer_rules": [
+    "Match Ben approved location relative to the front shell panel, front centerline and top of brim band.",
+    "Preserve the relative size and visible brim clearance shown in Ben; scale with the helmet, not the page.",
+    "Keep the exact locked badge PNG. Never regenerate or redraw it.",
+    "Front centerline follows helmet/nose direction. Project perspective and natural occlusion without changing the anchored location.",
+    "Retain each child assigned helmet style and color.",
+    "Retain accepted job sticker placements and sizes, including Leo P2.",
+    "The 3D guide must be fitted to this approved visual reference. It cannot override it.",
+    "Ben is unchanged. Leo P1-P4 are not approved logo masters."
+  ],
+  "limits": "This locks a visual placement standard, not new physical millimeter dimensions or a verified 3D surface. Other children must be checked against Ben after application.",
+  "application_status": {
+    "Ben": "approved master; unchanged",
+    "Leo": "pending application of Ben standard",
+    "Vinny": "pending application of Ben standard",
+    "Steph": "pending application of Ben standard",
+    "Maya": "pending application of Ben standard"
+  }
+}
