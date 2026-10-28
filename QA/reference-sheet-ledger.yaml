@@ -13,62 +13,66 @@ characters:
   Vinny:
     reference_standard: false
     sheet:
-      drive_id: 1IrPOeQPGtSD8GtPNOuLviwzP7wmd-WSI
-      sha256: 01d40381161dbd7283c490b2ad62d912ea48de3b226b97a224b5f3652e6bcb8d
-      revision: PPE R13
+      drive_id: 1eqKPQs4Oi4QkjNi79w3IQg0Lq3OIiZo8
+      sha256: d3903640a95d570848a46a940a5b079c87a269082f873690bda223028826d1db
+      revision: PPE R14
     angles:
       front:
         status: UNVERIFIED
-        notes: Source/profile comparison and focused visual reinspection recorded
-          in QA/audits/2026-10-28-kids-ppe-repair.md. Exact cross-view badge/sticker
-          registration and physical relative heights remain unverified. No author
-          approval.
+        notes: Latest targeted helmet-edge and hair/brim bleed repair inspected in
+          QA/audits/2026-10-28-kids-helmet-edge-repair.md. Prior R13/R6 were reported
+          defective by Adam. Identified dark rim smears and discolored shell patches
+          repaired; eight head views rechecked. Overall certification remains unverified
+          for exact decal projection and comparative physical heights. No author approval.
       front_right:
         status: UNVERIFIED
-        notes: Source/profile comparison and focused visual reinspection recorded
-          in QA/audits/2026-10-28-kids-ppe-repair.md. Exact cross-view badge/sticker
-          registration and physical relative heights remain unverified. No author
-          approval.
+        notes: Latest targeted helmet-edge and hair/brim bleed repair inspected in
+          QA/audits/2026-10-28-kids-helmet-edge-repair.md. Prior R13/R6 were reported
+          defective by Adam. Identified dark rim smears and discolored shell patches
+          repaired; eight head views rechecked. Overall certification remains unverified
+          for exact decal projection and comparative physical heights. No author approval.
       right:
         status: UNVERIFIED
-        notes: Source/profile comparison and focused visual reinspection recorded
-          in QA/audits/2026-10-28-kids-ppe-repair.md. Exact cross-view badge/sticker
-          registration and physical relative heights remain unverified. No author
-          approval.
+        notes: Latest targeted helmet-edge and hair/brim bleed repair inspected in
+          QA/audits/2026-10-28-kids-helmet-edge-repair.md. Prior R13/R6 were reported
+          defective by Adam. Identified dark rim smears and discolored shell patches
+          repaired; eight head views rechecked. Overall certification remains unverified
+          for exact decal projection and comparative physical heights. No author approval.
       back_right:
         status: UNVERIFIED
-        notes: Source/profile comparison and focused visual reinspection recorded
-          in QA/audits/2026-10-28-kids-ppe-repair.md. Former rectangular vest repair
-          and tonal discontinuities cleaned; existing emblem pixels and natural hood/hair
-          overlap preserved. Exact cross-view badge/sticker registration and physical
-          relative heights remain unverified. No author approval.
+        notes: Latest targeted helmet-edge and hair/brim bleed repair inspected in
+          QA/audits/2026-10-28-kids-helmet-edge-repair.md. Prior R13/R6 were reported
+          defective by Adam. Identified dark rim smears and discolored shell patches
+          repaired; eight head views rechecked. Overall certification remains unverified
+          for exact decal projection and comparative physical heights. No author approval.
       back:
         status: UNVERIFIED
-        notes: Source/profile comparison and focused visual reinspection recorded
-          in QA/audits/2026-10-28-kids-ppe-repair.md. Former rectangular vest repair
-          and tonal discontinuities cleaned; existing emblem pixels and natural hood/hair
-          overlap preserved. Exact cross-view badge/sticker registration and physical
-          relative heights remain unverified. No author approval.
+        notes: Latest targeted helmet-edge and hair/brim bleed repair inspected in
+          QA/audits/2026-10-28-kids-helmet-edge-repair.md. Prior R13/R6 were reported
+          defective by Adam. Identified dark rim smears and discolored shell patches
+          repaired; eight head views rechecked. Overall certification remains unverified
+          for exact decal projection and comparative physical heights. No author approval.
       back_left:
         status: UNVERIFIED
-        notes: Source/profile comparison and focused visual reinspection recorded
-          in QA/audits/2026-10-28-kids-ppe-repair.md. Former rectangular vest repair
-          and tonal discontinuities cleaned; existing emblem pixels and natural hood/hair
-          overlap preserved. Exact cross-view badge/sticker registration and physical
-          relative heights remain unverified. No author approval.
+        notes: Latest targeted helmet-edge and hair/brim bleed repair inspected in
+          QA/audits/2026-10-28-kids-helmet-edge-repair.md. Prior R13/R6 were reported
+          defective by Adam. Identified dark rim smears and discolored shell patches
+          repaired; eight head views rechecked. Overall certification remains unverified
+          for exact decal projection and comparative physical heights. No author approval.
       left:
         status: UNVERIFIED
-        notes: Source/profile comparison and focused visual reinspection recorded
-          in QA/audits/2026-10-28-kids-ppe-repair.md. Exact cross-view badge/sticker
-          registration and physical relative heights remain unverified. No author
-          approval.
+        notes: Latest targeted helmet-edge and hair/brim bleed repair inspected in
+          QA/audits/2026-10-28-kids-helmet-edge-repair.md. Prior R13/R6 were reported
+          defective by Adam. Identified dark rim smears and discolored shell patches
+          repaired; eight head views rechecked. Overall certification remains unverified
+          for exact decal projection and comparative physical heights. No author approval.
       front_left:
         status: UNVERIFIED
-        notes: Source/profile comparison and focused visual reinspection recorded
-          in QA/audits/2026-10-28-kids-ppe-repair.md. Localized shell-shading repair
-          inspected; original badge and face retained. Exact cross-view badge/sticker
-          registration and physical relative heights remain unverified. No author
-          approval.
+        notes: Latest targeted helmet-edge and hair/brim bleed repair inspected in
+          QA/audits/2026-10-28-kids-helmet-edge-repair.md. Prior R13/R6 were reported
+          defective by Adam. Identified dark rim smears and discolored shell patches
+          repaired; eight head views rechecked. Overall certification remains unverified
+          for exact decal projection and comparative physical heights. No author approval.
     approval: null
   Steph:
     reference_standard: false
@@ -137,61 +141,66 @@ characters:
   Maya:
     reference_standard: false
     sheet:
-      drive_id: 1YfayM5TOfFOfG9ICk6OPvxoJAyHJiJDW
-      sha256: 3053c5e2440096d846e17db3ab0cba4b41b90fa5b4ebb5fd13aaa4dbdc7e2e66
-      revision: PPE R6
+      drive_id: 1rMA-hXpMNguE8j0eexITY4vGoCY9mrHA
+      sha256: 514b4cfb128a417c40b51747a927d49d1a99dcd46da990e3af1aa1d4d3eb58af
+      revision: PPE R7
     angles:
       front:
         status: UNVERIFIED
-        notes: Source/profile comparison and focused visual reinspection recorded
-          in QA/audits/2026-10-28-kids-ppe-repair.md. Exact cross-view badge/sticker
-          registration and physical relative heights remain unverified. No author
-          approval.
+        notes: Latest targeted helmet-edge and hair/brim bleed repair inspected in
+          QA/audits/2026-10-28-kids-helmet-edge-repair.md. Prior R13/R6 were reported
+          defective by Adam. Identified dark rim smears and discolored shell patches
+          repaired; eight head views rechecked. Overall certification remains unverified
+          for exact decal projection and comparative physical heights. No author approval.
       front_right:
         status: UNVERIFIED
-        notes: Source/profile comparison and focused visual reinspection recorded
-          in QA/audits/2026-10-28-kids-ppe-repair.md. Exact cross-view badge/sticker
-          registration and physical relative heights remain unverified. No author
-          approval.
+        notes: Latest targeted helmet-edge and hair/brim bleed repair inspected in
+          QA/audits/2026-10-28-kids-helmet-edge-repair.md. Prior R13/R6 were reported
+          defective by Adam. Identified dark rim smears and discolored shell patches
+          repaired; eight head views rechecked. Overall certification remains unverified
+          for exact decal projection and comparative physical heights. No author approval.
       right:
         status: UNVERIFIED
-        notes: Source/profile comparison and focused visual reinspection recorded
-          in QA/audits/2026-10-28-kids-ppe-repair.md. Exact cross-view badge/sticker
-          registration and physical relative heights remain unverified. No author
-          approval.
+        notes: Latest targeted helmet-edge and hair/brim bleed repair inspected in
+          QA/audits/2026-10-28-kids-helmet-edge-repair.md. Prior R13/R6 were reported
+          defective by Adam. Identified dark rim smears and discolored shell patches
+          repaired; eight head views rechecked. Overall certification remains unverified
+          for exact decal projection and comparative physical heights. No author approval.
       back_right:
         status: UNVERIFIED
-        notes: Source/profile comparison and focused visual reinspection recorded
-          in QA/audits/2026-10-28-kids-ppe-repair.md. Former rectangular vest repair
-          and tonal discontinuities cleaned; existing emblem pixels and natural hood/hair
-          overlap preserved. Exact cross-view badge/sticker registration and physical
-          relative heights remain unverified. No author approval.
+        notes: Latest targeted helmet-edge and hair/brim bleed repair inspected in
+          QA/audits/2026-10-28-kids-helmet-edge-repair.md. Prior R13/R6 were reported
+          defective by Adam. Identified dark rim smears and discolored shell patches
+          repaired; eight head views rechecked. Overall certification remains unverified
+          for exact decal projection and comparative physical heights. No author approval.
       back:
         status: UNVERIFIED
-        notes: Source/profile comparison and focused visual reinspection recorded
-          in QA/audits/2026-10-28-kids-ppe-repair.md. Former rectangular vest repair
-          and tonal discontinuities cleaned; existing emblem pixels and natural hood/hair
-          overlap preserved. Exact cross-view badge/sticker registration and physical
-          relative heights remain unverified. No author approval.
+        notes: Latest targeted helmet-edge and hair/brim bleed repair inspected in
+          QA/audits/2026-10-28-kids-helmet-edge-repair.md. Prior R13/R6 were reported
+          defective by Adam. Identified dark rim smears and discolored shell patches
+          repaired; eight head views rechecked. Overall certification remains unverified
+          for exact decal projection and comparative physical heights. No author approval.
       back_left:
         status: UNVERIFIED
-        notes: Source/profile comparison and focused visual reinspection recorded
-          in QA/audits/2026-10-28-kids-ppe-repair.md. Former rectangular vest repair
-          and tonal discontinuities cleaned; existing emblem pixels and natural hood/hair
-          overlap preserved. Exact cross-view badge/sticker registration and physical
-          relative heights remain unverified. No author approval.
+        notes: Latest targeted helmet-edge and hair/brim bleed repair inspected in
+          QA/audits/2026-10-28-kids-helmet-edge-repair.md. Prior R13/R6 were reported
+          defective by Adam. Identified dark rim smears and discolored shell patches
+          repaired; eight head views rechecked. Overall certification remains unverified
+          for exact decal projection and comparative physical heights. No author approval.
       left:
         status: UNVERIFIED
-        notes: Source/profile comparison and focused visual reinspection recorded
-          in QA/audits/2026-10-28-kids-ppe-repair.md. Exact cross-view badge/sticker
-          registration and physical relative heights remain unverified. No author
-          approval.
+        notes: Latest targeted helmet-edge and hair/brim bleed repair inspected in
+          QA/audits/2026-10-28-kids-helmet-edge-repair.md. Prior R13/R6 were reported
+          defective by Adam. Identified dark rim smears and discolored shell patches
+          repaired; eight head views rechecked. Overall certification remains unverified
+          for exact decal projection and comparative physical heights. No author approval.
       front_left:
         status: UNVERIFIED
-        notes: Source/profile comparison and focused visual reinspection recorded
-          in QA/audits/2026-10-28-kids-ppe-repair.md. Exact cross-view badge/sticker
-          registration and physical relative heights remain unverified. No author
-          approval.
+        notes: Latest targeted helmet-edge and hair/brim bleed repair inspected in
+          QA/audits/2026-10-28-kids-helmet-edge-repair.md. Prior R13/R6 were reported
+          defective by Adam. Identified dark rim smears and discolored shell patches
+          repaired; eight head views rechecked. Overall certification remains unverified
+          for exact decal projection and comparative physical heights. No author approval.
     approval: null
   Mrs-Harper:
     reference_standard: false
