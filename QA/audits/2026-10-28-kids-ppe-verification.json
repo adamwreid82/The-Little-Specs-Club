@@ -1,0 +1,89 @@
+[
+  {
+    "name": "vinny",
+    "filename": "Vinny_PPE_8_Angles_REVIEW_R13.png",
+    "previous_filename": "Vinny_PPE_8_Angles_REVIEW_R12.png",
+    "dimensions": [
+      3072,
+      2048
+    ],
+    "bytes": 3762331,
+    "sha256": "01d40381161dbd7283c490b2ad62d912ea48de3b226b97a224b5f3652e6bcb8d",
+    "changed_pixels": 32910,
+    "changed_outside_repair_footprints": 0,
+    "png_decode": "PASS",
+    "visible_face_band_changes_excluding_freckles": {
+      "front": 0,
+      "front_right": 0,
+      "right": 0,
+      "left": 0,
+      "front_left": 0
+    }
+  },
+  {
+    "name": "steph",
+    "filename": "Steph_PPE_8_Angles_REVIEW_R12.png",
+    "previous_filename": "Steph_PPE_8_Angles_REVIEW_R11.png",
+    "dimensions": [
+      3072,
+      2048
+    ],
+    "bytes": 3594158,
+    "sha256": "56202643bb7ef262613ca676c1fa620307649f728762262dfc569867afb00619",
+    "changed_pixels": 14523,
+    "changed_outside_repair_footprints": 0,
+    "freckle_texture_points": [
+      {
+        "view_index": 0,
+        "freckle_texture_points": 22
+      },
+      {
+        "view_index": 1,
+        "freckle_texture_points": 22
+      },
+      {
+        "view_index": 2,
+        "freckle_texture_points": 9
+      },
+      {
+        "view_index": 3,
+        "freckle_texture_points": 13
+      },
+      {
+        "view_index": 4,
+        "freckle_texture_points": 19
+      }
+    ],
+    "freckle_changed_pixels": 666,
+    "freckle_method": "Only isolated tiny generated cheek-texture dark spots; no generated face pixels composited",
+    "png_decode": "PASS",
+    "visible_face_band_changes_excluding_freckles": {
+      "front": 0,
+      "front_right": 0,
+      "right": 0,
+      "left": 0,
+      "front_left": 0
+    }
+  },
+  {
+    "name": "maya",
+    "filename": "Maya_PPE_8_Angles_REVIEW_R6.png",
+    "previous_filename": "Maya_PPE_8_Angles_REVIEW_R5.png",
+    "dimensions": [
+      3072,
+      2048
+    ],
+    "bytes": 3786565,
+    "sha256": "3053c5e2440096d846e17db3ab0cba4b41b90fa5b4ebb5fd13aaa4dbdc7e2e66",
+    "changed_pixels": 10700,
+    "changed_outside_repair_footprints": 0,
+    "png_decode": "PASS",
+    "visible_face_band_changes_excluding_freckles": {
+      "front": 0,
+      "front_right": 0,
+      "right": 0,
+      "left": 0,
+      "front_left": 0
+    }
+  }
+]
