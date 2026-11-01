@@ -727,6 +727,8 @@ source_detail_regression_checks:
     hidden_or_unmeasurable_details: UNVERIFIED_not_PASS
 
 hard_hat_badge_application_lock:
+  current_source_reference: CANON/source-registry.yaml#hardhat_source_sheet_reference
+  current_source_approval_record: QA/hardhat-sources/R7/approval-2026-11-01.json
   status: AUTHOR_APPROVED_WORKING_BASELINE
   author: Adam
   recorded_date: '2026-10-05'
@@ -751,7 +753,7 @@ hard_hat_badge_application_lock:
     origin: Pages_9_10_REV2_proportional_helmet_fit
     other_artwork_in_reference_approved: false
   rule:
-    - Use the six displayed REV2 applications as the controlling size and position reference.
+    - Use the latest author-approved R7 hardhat source sheets identified in CANON/source-registry.yaml#hardhat_source_sheet_reference for the represented logo size and position; the six REV2 applications are retained as historical evidence.
     - Fit each LS badge proportionately to its helmet, retaining the approved character-specific reference relationship.
     - Center on the facial centerline and face in the direction of the nose.
     - Preserve raised front-panel placement and brim clearance.
@@ -786,3 +788,4 @@ source_eye_color_regression_checks:
     check: Preserve brown-looking irises; inspect at close-up after every facial or body-scale edit.
     reject: Green or olive-green iris drift introduced during generation.
   scope: visible_source_comparison_not_automatic_identity_or_author_approval
+
