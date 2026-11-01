@@ -1,7 +1,7 @@
 {
   "revision": "R7",
   "created_on": "2026-11-01",
-  "status": "PENDING_AUTHOR_REVIEW",
+  "status": "AUTHOR_APPROVED",
   "source_folder_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov",
   "source_parent_folder_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL",
   "source_folder": "Hardhat Sources R5 - Logo and Placement Corrections - REVIEW 2026-10-21/Editable Sources and Placement Records",
@@ -18,7 +18,7 @@
     {
       "character": "Ben",
       "revision": "R7",
-      "approval": "PENDING_AUTHOR_REVIEW",
+      "approval": "AUTHOR_APPROVED",
       "source": {
         "id": "1y60zoxGXteb7UXg87VsOqvSJv1di0Lzi",
         "name": "Ben_Hardhat_Source_R5.svg",
@@ -57,12 +57,13 @@
       "placement_record": {
         "drive_id": "1wd0tk59TgvSk5I2by_bDrS0eWPQyHFXs",
         "url": "https://drive.google.com/file/d/1wd0tk59TgvSk5I2by_bDrS0eWPQyHFXs/view?usp=drivesdk"
-      }
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
     },
     {
       "character": "Leo",
       "revision": "R7",
-      "approval": "PENDING_AUTHOR_REVIEW",
+      "approval": "AUTHOR_APPROVED",
       "source": {
         "id": "1_vqWYtvfjEu7ZowocXar3B2UR4xPoOYi",
         "name": "Leo_Hardhat_Source_R5.svg",
@@ -101,12 +102,13 @@
       "placement_record": {
         "drive_id": "1jcICdv0nxzdDBlzCsChbAFg1-zdZ1FJD",
         "url": "https://drive.google.com/file/d/1jcICdv0nxzdDBlzCsChbAFg1-zdZ1FJD/view?usp=drivesdk"
-      }
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
     },
     {
       "character": "Vinny",
       "revision": "R7",
-      "approval": "PENDING_AUTHOR_REVIEW",
+      "approval": "AUTHOR_APPROVED",
       "source": {
         "id": "12hXRuygJl6WPeXO4zlG1xiL2lxWNH_Kz",
         "name": "Vinny_Hardhat_Source_R5.svg",
@@ -145,12 +147,13 @@
       "placement_record": {
         "drive_id": "115V63_CPBn35EbrnZIQDkWFRs6uncfHJ",
         "url": "https://drive.google.com/file/d/115V63_CPBn35EbrnZIQDkWFRs6uncfHJ/view?usp=drivesdk"
-      }
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
     },
     {
       "character": "Steph",
       "revision": "R7",
-      "approval": "PENDING_AUTHOR_REVIEW",
+      "approval": "AUTHOR_APPROVED",
       "source": {
         "id": "1yEx4vgq8fXzeCJang5gSquFcaJQkBJo_",
         "name": "Steph_Hardhat_Source_R5.svg",
@@ -189,12 +192,13 @@
       "placement_record": {
         "drive_id": "1ciHKMc5U4W88JS7_WKuXdtufFXQAk2ja",
         "url": "https://drive.google.com/file/d/1ciHKMc5U4W88JS7_WKuXdtufFXQAk2ja/view?usp=drivesdk"
-      }
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
     },
     {
       "character": "Maya",
       "revision": "R7",
-      "approval": "PENDING_AUTHOR_REVIEW",
+      "approval": "AUTHOR_APPROVED",
       "source": {
         "id": "1pHwSfT5JQwler1Om7d9XaPcM5iSZghvl",
         "name": "Maya_Hardhat_Source_R5.svg",
@@ -233,12 +237,13 @@
       "placement_record": {
         "drive_id": "18youWlsc4OdFxUhXGc_RgOUcg3Y9Pyqc",
         "url": "https://drive.google.com/file/d/18youWlsc4OdFxUhXGc_RgOUcg3Y9Pyqc/view?usp=drivesdk"
-      }
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
     },
     {
       "character": "Mrs Harper",
       "revision": "R7",
-      "approval": "PENDING_AUTHOR_REVIEW",
+      "approval": "AUTHOR_APPROVED",
       "source": {
         "id": "1gXa1ucaxDxjdLdBX0LhtBLnIQT13E0vt",
         "name": "Mrs_Harper_Hardhat_Source_R5.svg",
@@ -277,12 +282,13 @@
       "placement_record": {
         "drive_id": "1L7QkA21DcAxAS_4mT2HKgNEmU_3qUrtB",
         "url": "https://drive.google.com/file/d/1L7QkA21DcAxAS_4mT2HKgNEmU_3qUrtB/view?usp=drivesdk"
-      }
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
     },
     {
       "character": "Elena Rivera",
       "revision": "R7",
-      "approval": "PENDING_AUTHOR_REVIEW",
+      "approval": "AUTHOR_APPROVED",
       "source": {
         "id": "1QdXVf8Cxa20jDQ3qj8t7rdva52KgyO5d",
         "name": "Elena_Rivera_Hardhat_Source_R5.svg",
@@ -321,12 +327,13 @@
       "placement_record": {
         "drive_id": "1AcZmzNdJQ3XNSmYalGhEMqj6-GeWdX-1",
         "url": "https://drive.google.com/file/d/1AcZmzNdJQ3XNSmYalGhEMqj6-GeWdX-1/view?usp=drivesdk"
-      }
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
     },
     {
       "character": "Marcus Jackson",
       "revision": "R7",
-      "approval": "PENDING_AUTHOR_REVIEW",
+      "approval": "AUTHOR_APPROVED",
       "source": {
         "id": "1O135cEGMPhc6gkk6lsd6gtSsw9t2QIFU",
         "name": "Marcus_Jackson_Hardhat_Source_R5.svg",
@@ -365,12 +372,13 @@
       "placement_record": {
         "drive_id": "1MZc19mOSSwFVVi2DEHguG6EQMG53wfxV",
         "url": "https://drive.google.com/file/d/1MZc19mOSSwFVVi2DEHguG6EQMG53wfxV/view?usp=drivesdk"
-      }
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
     },
     {
       "character": "Priya Patel",
       "revision": "R7",
-      "approval": "PENDING_AUTHOR_REVIEW",
+      "approval": "AUTHOR_APPROVED",
       "source": {
         "id": "1ydXbls9eMFxtD4zYQxwU-tQvul4sSKV3",
         "name": "Priya_Patel_Hardhat_Source_R5.svg",
@@ -409,12 +417,13 @@
       "placement_record": {
         "drive_id": "1tBH_mEgo4Dd21ZLOkldoRuIw7jy_LlaK",
         "url": "https://drive.google.com/file/d/1tBH_mEgo4Dd21ZLOkldoRuIw7jy_LlaK/view?usp=drivesdk"
-      }
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
     },
     {
       "character": "Daniel Brooks",
       "revision": "R7",
-      "approval": "PENDING_AUTHOR_REVIEW",
+      "approval": "AUTHOR_APPROVED",
       "source": {
         "id": "13T6oVJmvrSee97K8h-gry0PIJBHpCC8V",
         "name": "Daniel_Brooks_Hardhat_Source_R5.svg",
@@ -453,12 +462,13 @@
       "placement_record": {
         "drive_id": "1Kkjt4ZIFrHJdIb_qtOnm9ObE_7bnvOg0",
         "url": "https://drive.google.com/file/d/1Kkjt4ZIFrHJdIb_qtOnm9ObE_7bnvOg0/view?usp=drivesdk"
-      }
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
     },
     {
       "character": "Tony Marino",
       "revision": "R7",
-      "approval": "PENDING_AUTHOR_REVIEW",
+      "approval": "AUTHOR_APPROVED",
       "source": {
         "id": "1p6rFd67DdHF7PWGKoN4Uoo0o8r3IsYht",
         "name": "Tony_Marino_Hardhat_Source_R5.svg",
@@ -497,12 +507,13 @@
       "placement_record": {
         "drive_id": "1tcEmGLqvwqOu1yktAIckVeJjQHY-nwO-",
         "url": "https://drive.google.com/file/d/1tcEmGLqvwqOu1yktAIckVeJjQHY-nwO-/view?usp=drivesdk"
-      }
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
     },
     {
       "character": "Claire Morgan",
       "revision": "R7",
-      "approval": "PENDING_AUTHOR_REVIEW",
+      "approval": "AUTHOR_APPROVED",
       "source": {
         "id": "1N4QNHvV0dmIhNjdesBAiL_wObiAqTD8o",
         "name": "Claire_Morgan_Hardhat_Source_R5.svg",
@@ -541,12 +552,13 @@
       "placement_record": {
         "drive_id": "19TM8CiY8Zd8_sLnQ0uh5vgVTVtOCwR7l",
         "url": "https://drive.google.com/file/d/19TM8CiY8Zd8_sLnQ0uh5vgVTVtOCwR7l/view?usp=drivesdk"
-      }
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
     },
     {
       "character": "Omar Haddad",
       "revision": "R7",
-      "approval": "PENDING_AUTHOR_REVIEW",
+      "approval": "AUTHOR_APPROVED",
       "source": {
         "id": "1sI3Q3vS6klTuh3s5hiByd1DOR9cHqyOL",
         "name": "Omar_Haddad_Hardhat_Source_R5.svg",
@@ -585,12 +597,13 @@
       "placement_record": {
         "drive_id": "1BpWhYWq-3UTV99JtgOHlUtZjTU9G1iDJ",
         "url": "https://drive.google.com/file/d/1BpWhYWq-3UTV99JtgOHlUtZjTU9G1iDJ/view?usp=drivesdk"
-      }
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
     },
     {
       "character": "Darius Cole",
       "revision": "R7",
-      "approval": "PENDING_AUTHOR_REVIEW",
+      "approval": "AUTHOR_APPROVED",
       "source": {
         "id": "1LLCafvFO5iGMxrnCDyIuZ0hT71u6Oj6a",
         "name": "Darius_Cole_Hardhat_Source_R5.svg",
@@ -629,12 +642,13 @@
       "placement_record": {
         "drive_id": "1tC-FFT4HCFm1be_OqD3iNkEHUyKZ-K5b",
         "url": "https://drive.google.com/file/d/1tC-FFT4HCFm1be_OqD3iNkEHUyKZ-K5b/view?usp=drivesdk"
-      }
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
     },
     {
       "character": "Matthias Becker",
       "revision": "R7",
-      "approval": "PENDING_AUTHOR_REVIEW",
+      "approval": "AUTHOR_APPROVED",
       "source": {
         "id": "1iBo9KFczlNQsThJK6C89qby_mYze-e-d",
         "name": "Matthias_Becker_Hardhat_Source_R5.svg",
@@ -673,12 +687,13 @@
       "placement_record": {
         "drive_id": "1AaeJR9cgrRxduBsKXrMaHIpfPCfAa4CX",
         "url": "https://drive.google.com/file/d/1AaeJR9cgrRxduBsKXrMaHIpfPCfAa4CX/view?usp=drivesdk"
-      }
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
     },
     {
       "character": "Luis Mendoza",
       "revision": "R7",
-      "approval": "PENDING_AUTHOR_REVIEW",
+      "approval": "AUTHOR_APPROVED",
       "source": {
         "id": "1terCVW5CIn1o6VERwizsrycpvzsWo2gW",
         "name": "Luis_Mendoza_Hardhat_Source_R5.svg",
@@ -717,12 +732,13 @@
       "placement_record": {
         "drive_id": "1guq-LjxRQ8a6H-LnaCI_cjLuw4BW6m7i",
         "url": "https://drive.google.com/file/d/1guq-LjxRQ8a6H-LnaCI_cjLuw4BW6m7i/view?usp=drivesdk"
-      }
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
     },
     {
       "character": "Andre Lewis",
       "revision": "R7",
-      "approval": "PENDING_AUTHOR_REVIEW",
+      "approval": "AUTHOR_APPROVED",
       "source": {
         "id": "1j70h1I63iwjMpWg3ybdYUCgivyp9cTUO",
         "name": "Andre_Lewis_Hardhat_Source_R5.svg",
@@ -761,12 +777,13 @@
       "placement_record": {
         "drive_id": "1CHMsQ1WGUE3p1u7GjTN-iZiHIOlRQr-u",
         "url": "https://drive.google.com/file/d/1CHMsQ1WGUE3p1u7GjTN-iZiHIOlRQr-u/view?usp=drivesdk"
-      }
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
     },
     {
       "character": "Danny Novak",
       "revision": "R7",
-      "approval": "PENDING_AUTHOR_REVIEW",
+      "approval": "AUTHOR_APPROVED",
       "source": {
         "id": "1j3n5-01CwpU121_VmP0ujCgsp4WTQQPP",
         "name": "Danny_Novak_Hardhat_Source_R5.svg",
@@ -805,12 +822,13 @@
       "placement_record": {
         "drive_id": "19AkqrAuY-tUknEUB3Xbti7zjAmKqssym",
         "url": "https://drive.google.com/file/d/19AkqrAuY-tUknEUB3Xbti7zjAmKqssym/view?usp=drivesdk"
-      }
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
     },
     {
       "character": "Erik Halvorsen",
       "revision": "R7",
-      "approval": "PENDING_AUTHOR_REVIEW",
+      "approval": "AUTHOR_APPROVED",
       "source": {
         "id": "1x3Jcyc9Dtz9Qw7aHMtcL1RoU-P-FRYH5",
         "name": "Erik_Halvorsen_Hardhat_Source_R5.svg",
@@ -849,12 +867,13 @@
       "placement_record": {
         "drive_id": "1PqcLGp2hv9jp42DpqlmS3K3VNI5CKOBt",
         "url": "https://drive.google.com/file/d/1PqcLGp2hv9jp42DpqlmS3K3VNI5CKOBt/view?usp=drivesdk"
-      }
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
     },
     {
       "character": "Sam Carter",
       "revision": "R7",
-      "approval": "PENDING_AUTHOR_REVIEW",
+      "approval": "AUTHOR_APPROVED",
       "source": {
         "id": "1ZMDUhQcio6nyhJMXdCM47v6kMOWrFyUW",
         "name": "Sam_Carter_Hardhat_Source_R5.svg",
@@ -893,12 +912,13 @@
       "placement_record": {
         "drive_id": "1DPuOEg4i9haTsPY8GBbVLmWQ55Dat5VZ",
         "url": "https://drive.google.com/file/d/1DPuOEg4i9haTsPY8GBbVLmWQ55Dat5VZ/view?usp=drivesdk"
-      }
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
     },
     {
       "character": "Hannah Kowalski",
       "revision": "R7",
-      "approval": "PENDING_AUTHOR_REVIEW",
+      "approval": "AUTHOR_APPROVED",
       "source": {
         "id": "1BZK48d_1Nzvpl0dG6g6TNpj7aQlTY9Hw",
         "name": "Hannah_Kowalski_Hardhat_Source_R5.svg",
@@ -937,12 +957,13 @@
       "placement_record": {
         "drive_id": "1mOPZ-T252L0RbfcX8TKfNOJIDqWODfa1",
         "url": "https://drive.google.com/file/d/1mOPZ-T252L0RbfcX8TKfNOJIDqWODfa1/view?usp=drivesdk"
-      }
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
     },
     {
       "character": "Rebecca Foster",
       "revision": "R7",
-      "approval": "PENDING_AUTHOR_REVIEW",
+      "approval": "AUTHOR_APPROVED",
       "source": {
         "id": "1L-I74qZgEE6mqn4QOdiw7Xe9jCu_kLs3",
         "name": "Rebecca_Foster_Hardhat_Source_R5.svg",
@@ -981,12 +1002,13 @@
       "placement_record": {
         "drive_id": "1PHGbqCnhXXZ3yOuAWK5Xe_ReziKdBsu6",
         "url": "https://drive.google.com/file/d/1PHGbqCnhXXZ3yOuAWK5Xe_ReziKdBsu6/view?usp=drivesdk"
-      }
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
     },
     {
       "character": "Natalie Chen",
       "revision": "R7",
-      "approval": "PENDING_AUTHOR_REVIEW",
+      "approval": "AUTHOR_APPROVED",
       "source": {
         "id": "1EKsRfE_4L70V_gB5-ZDcaa7oc9RtWXyk",
         "name": "Natalie_Chen_Hardhat_Source_R5.svg",
@@ -1025,12 +1047,13 @@
       "placement_record": {
         "drive_id": "1x5Evv1uYrU2hEFsXL3KvBbBKYDKiPkRh",
         "url": "https://drive.google.com/file/d/1x5Evv1uYrU2hEFsXL3KvBbBKYDKiPkRh/view?usp=drivesdk"
-      }
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
     },
     {
       "character": "Rafael Martinez",
       "revision": "R7",
-      "approval": "PENDING_AUTHOR_REVIEW",
+      "approval": "AUTHOR_APPROVED",
       "source": {
         "id": "1u0kb98KWu31y_wPf5UkoWmms0wPzzH-H",
         "name": "Rafael_Martinez_Hardhat_Source_R5.svg",
@@ -1069,12 +1092,13 @@
       "placement_record": {
         "drive_id": "1a6g5o84nXmMSf4ukTSXjyYbq8Ig4lyrp",
         "url": "https://drive.google.com/file/d/1a6g5o84nXmMSf4ukTSXjyYbq8Ig4lyrp/view?usp=drivesdk"
-      }
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
     },
     {
       "character": "Marisol Vega",
       "revision": "R7",
-      "approval": "PENDING_AUTHOR_REVIEW",
+      "approval": "AUTHOR_APPROVED",
       "source": {
         "id": "1jiAs8kZkD7azCTRAQeFZ0kSH6lwEvW7r",
         "name": "Marisol_Vega_Hardhat_Source_R5.svg",
@@ -1113,12 +1137,13 @@
       "placement_record": {
         "drive_id": "1KCZQbm3_TnoHC7wCD2yLe0g3BmX8yfCK",
         "url": "https://drive.google.com/file/d/1KCZQbm3_TnoHC7wCD2yLe0g3BmX8yfCK/view?usp=drivesdk"
-      }
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
     },
     {
       "character": "Adrian Park",
       "revision": "R7",
-      "approval": "PENDING_AUTHOR_REVIEW",
+      "approval": "AUTHOR_APPROVED",
       "source": {
         "id": "1OhUIRNnzn9m1l85ojHCbUHAJB3jvihvM",
         "name": "Adrian_Park_Hardhat_Source_R5.svg",
@@ -1157,7 +1182,8 @@
       "placement_record": {
         "drive_id": "1O-ofaxIldbnPoeBl0TXdrLMc_6fA5N_v",
         "url": "https://drive.google.com/file/d/1O-ofaxIldbnPoeBl0TXdrLMc_6fA5N_v/view?usp=drivesdk"
-      }
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
     }
   ],
   "limitations": [
@@ -1174,7 +1200,7 @@
       "success": true,
       "id": "17J0cREVTUkPV2TlcFZhH3zht5igIaaoU",
       "url": "https://drive.google.com/drive/folders/17J0cREVTUkPV2TlcFZhH3zht5igIaaoU",
-      "title": "Hardhat Sources R7 - Edited SVG Review - 2026-11-01",
+      "title": "Hardhat Sources R7 - APPROVED - 2026-11-01",
       "parent_id": "1Mbpw81H15b57na9nhiPXiR8krTDq1Cul"
     },
     "pdf": {
@@ -1201,7 +1227,7 @@
       "success": true,
       "id": "1ablLOJRuYFsoVljRITqpKDP-H5eaWKYE",
       "url": "https://drive.google.com/drive/folders/1ablLOJRuYFsoVljRITqpKDP-H5eaWKYE",
-      "title": "Individual PNG Review Sheets",
+      "title": "Individual PNG Approved Sheets",
       "parent_id": "17J0cREVTUkPV2TlcFZhH3zht5igIaaoU"
     },
     "editable_folder": {
@@ -1217,5 +1243,97 @@
       "svg": 26,
       "placement_json": 26
     }
-  }
+  },
+  "author_approval": {
+    "status": "AUTHOR_APPROVED",
+    "approved_by": "Adam Reid",
+    "approved_on": "2026-11-01",
+    "approval_quote": "approved",
+    "scope": "All 26 R7 hardhat source sheets and their shown helmet artwork, colors, logo placement and project sticker placement. The exact SVG and PNG versions are identified below.",
+    "record_path": "QA/hardhat-sources/R7/approval-2026-11-01.json",
+    "pdf_sha256": "668facf3d3ddc4b5dc21a09e092e71552f7fe4129ea13c2f356c5646254014f0"
+  },
+  "archive": {
+    "folder": {
+      "success": true,
+      "id": "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG",
+      "url": "https://drive.google.com/drive/folders/1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG",
+      "title": "Superseded - Earlier Hardhat Sources - Archived 2026-11-01",
+      "parent_id": "17J0cREVTUkPV2TlcFZhH3zht5igIaaoU"
+    },
+    "moves": [
+      {
+        "id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf",
+        "name": "Hardhat Source Sheets - All Characters - REVIEW 2026-10-20",
+        "from_parent": "1Mbpw81H15b57na9nhiPXiR8krTDq1Cul",
+        "to_parent": "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG",
+        "result": {
+          "success": true,
+          "accepted_input": null,
+          "id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf",
+          "title": "Hardhat Source Sheets - All Characters - REVIEW 2026-10-20",
+          "mime_type": "application/vnd.google-apps.folder",
+          "url": "https://drive.google.com/drive/folders/1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf",
+          "parent_ids": [
+            "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG"
+          ],
+          "modified_time": null,
+          "size": null
+        },
+        "verified_parent_ids": [
+          "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG"
+        ]
+      },
+      {
+        "id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL",
+        "name": "Hardhat Sources R5 - Logo and Placement Corrections - REVIEW 2026-10-21",
+        "from_parent": "1Mbpw81H15b57na9nhiPXiR8krTDq1Cul",
+        "to_parent": "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG",
+        "result": {
+          "success": true,
+          "accepted_input": null,
+          "id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL",
+          "title": "Hardhat Sources R5 - Logo and Placement Corrections - REVIEW 2026-10-21",
+          "mime_type": "application/vnd.google-apps.folder",
+          "url": "https://drive.google.com/drive/folders/1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL",
+          "parent_ids": [
+            "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG"
+          ],
+          "modified_time": null,
+          "size": null
+        },
+        "verified_parent_ids": [
+          "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG"
+        ]
+      },
+      {
+        "id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW",
+        "name": "Hardhat 3D Sources R6 - MSA Styles - REVIEW",
+        "from_parent": "1Mbpw81H15b57na9nhiPXiR8krTDq1Cul",
+        "to_parent": "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG",
+        "result": {
+          "success": true,
+          "accepted_input": null,
+          "id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW",
+          "title": "Hardhat 3D Sources R6 - MSA Styles - REVIEW",
+          "mime_type": "application/vnd.google-apps.folder",
+          "url": "https://drive.google.com/drive/folders/1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW",
+          "parent_ids": [
+            "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG"
+          ],
+          "modified_time": null,
+          "size": null
+        },
+        "verified_parent_ids": [
+          "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG"
+        ]
+      }
+    ],
+    "descendant_count": 280,
+    "inventory_file": "Archive_Inventory_R7_Approval.json",
+    "inventory_sha256": "e26c7909773b2d611569c7e62c9c0a1ad45ada399253c885d0de2638e910772b",
+    "verification": "All three source folders now have only the verified archive parent. Parent-only moves preserve all descendant IDs and bytes.",
+    "inventory_drive_id": "1eP_rVrSAdYzvTRaN4TThjFG3JIXytLab"
+  },
+  "approval_record_drive_id": "1fasyeQo5Zk-H2Wp2CDzT-FioWHMwLTVa"
 }
