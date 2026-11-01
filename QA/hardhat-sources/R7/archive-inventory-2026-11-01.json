@@ -1,0 +1,2039 @@
+{
+  "archive_folder": {
+    "success": true,
+    "id": "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG",
+    "url": "https://drive.google.com/drive/folders/1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG",
+    "title": "Superseded - Earlier Hardhat Sources - Archived 2026-11-01",
+    "parent_id": "17J0cREVTUkPV2TlcFZhH3zht5igIaaoU"
+  },
+  "moves": [
+    {
+      "id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf",
+      "name": "Hardhat Source Sheets - All Characters - REVIEW 2026-10-20",
+      "from_parent": "1Mbpw81H15b57na9nhiPXiR8krTDq1Cul",
+      "to_parent": "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG",
+      "result": {
+        "success": true,
+        "accepted_input": null,
+        "id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf",
+        "title": "Hardhat Source Sheets - All Characters - REVIEW 2026-10-20",
+        "mime_type": "application/vnd.google-apps.folder",
+        "url": "https://drive.google.com/drive/folders/1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf",
+        "parent_ids": [
+          "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG"
+        ],
+        "modified_time": null,
+        "size": null
+      },
+      "verified_parent_ids": [
+        "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG"
+      ]
+    },
+    {
+      "id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL",
+      "name": "Hardhat Sources R5 - Logo and Placement Corrections - REVIEW 2026-10-21",
+      "from_parent": "1Mbpw81H15b57na9nhiPXiR8krTDq1Cul",
+      "to_parent": "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG",
+      "result": {
+        "success": true,
+        "accepted_input": null,
+        "id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL",
+        "title": "Hardhat Sources R5 - Logo and Placement Corrections - REVIEW 2026-10-21",
+        "mime_type": "application/vnd.google-apps.folder",
+        "url": "https://drive.google.com/drive/folders/1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL",
+        "parent_ids": [
+          "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG"
+        ],
+        "modified_time": null,
+        "size": null
+      },
+      "verified_parent_ids": [
+        "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG"
+      ]
+    },
+    {
+      "id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW",
+      "name": "Hardhat 3D Sources R6 - MSA Styles - REVIEW",
+      "from_parent": "1Mbpw81H15b57na9nhiPXiR8krTDq1Cul",
+      "to_parent": "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG",
+      "result": {
+        "success": true,
+        "accepted_input": null,
+        "id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW",
+        "title": "Hardhat 3D Sources R6 - MSA Styles - REVIEW",
+        "mime_type": "application/vnd.google-apps.folder",
+        "url": "https://drive.google.com/drive/folders/1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW",
+        "parent_ids": [
+          "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG"
+        ],
+        "modified_time": null,
+        "size": null
+      },
+      "verified_parent_ids": [
+        "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG"
+      ]
+    }
+  ],
+  "descendants": [
+    {
+      "id": "1x6siXvZP0xuvY_0kLCD7g6Wy9Z0FDKls",
+      "title": "Omar_Haddad_Hardhat_Source_R4.png",
+      "mime_type": "image/png",
+      "size": "2129831",
+      "inventory_parent_id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf"
+    },
+    {
+      "id": "16vpclx0e43LLYC8nuWUCFJQ08SgCJliY",
+      "title": "Vinny_Hardhat_Source_R4.png",
+      "mime_type": "image/png",
+      "size": "1957629",
+      "inventory_parent_id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf"
+    },
+    {
+      "id": "1Pxdmk_iyW2yPH9oj5Dqtm0KMWIfiCHvK",
+      "title": "Tony_Marino_Hardhat_Source_R4.png",
+      "mime_type": "image/png",
+      "size": "1568217",
+      "inventory_parent_id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf"
+    },
+    {
+      "id": "1QmxGLDxj3Y_P3m-wwlto5K8Xl985mrMF",
+      "title": "Steph_Hardhat_Source_R4.png",
+      "mime_type": "image/png",
+      "size": "1597377",
+      "inventory_parent_id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf"
+    },
+    {
+      "id": "1KSnzS172sB5N5kTOvD58SUT4AALTyIqv",
+      "title": "Sam_Carter_Hardhat_Source_R4.png",
+      "mime_type": "image/png",
+      "size": "1826879",
+      "inventory_parent_id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf"
+    },
+    {
+      "id": "1vHXslqt3Tbu0JmULphvoj_mGN7eG7kS3",
+      "title": "Rebecca_Foster_Hardhat_Source_R4.png",
+      "mime_type": "image/png",
+      "size": "1512052",
+      "inventory_parent_id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf"
+    },
+    {
+      "id": "1h69uMOgVBc4CiXUorxME3gzEY9xzVJKi",
+      "title": "Rafael_Martinez_Hardhat_Source_R4.png",
+      "mime_type": "image/png",
+      "size": "1814284",
+      "inventory_parent_id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf"
+    },
+    {
+      "id": "1d-NAtc7u-TK0zzB9WAkiqhgCpuSYYDIF",
+      "title": "README.md",
+      "mime_type": "text/markdown",
+      "size": "4132",
+      "inventory_parent_id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf"
+    },
+    {
+      "id": "1Cx_V4ngaG86IMMYxEmV3PVJOIl-kKHSd",
+      "title": "Priya_Patel_Hardhat_Source_R4.png",
+      "mime_type": "image/png",
+      "size": "1911471",
+      "inventory_parent_id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf"
+    },
+    {
+      "id": "168WjIjVjZe9TGkmnd8zgGOtQOU_W0jRk",
+      "title": "Natalie_Chen_Hardhat_Source_R4.png",
+      "mime_type": "image/png",
+      "size": "1945353",
+      "inventory_parent_id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf"
+    },
+    {
+      "id": "1Wxktbt9k6B3-4XyPFleRvggzia_0v0UK",
+      "title": "Mrs_Harper_Hardhat_Source_R4.png",
+      "mime_type": "image/png",
+      "size": "1497093",
+      "inventory_parent_id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf"
+    },
+    {
+      "id": "1e8Sc73CszPTOxjQg1lFsAgDFyakCLLQx",
+      "title": "Maya_Hardhat_Source_R4.png",
+      "mime_type": "image/png",
+      "size": "1968689",
+      "inventory_parent_id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf"
+    },
+    {
+      "id": "1RO1539I7LZwVk8y1Q7OSJuCcws40HAsH",
+      "title": "Matthias_Becker_Hardhat_Source_R4.png",
+      "mime_type": "image/png",
+      "size": "1942367",
+      "inventory_parent_id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf"
+    },
+    {
+      "id": "1ltqNpK5frIVE5VcjMKtzSM60vDCh06JF",
+      "title": "Marisol_Vega_Hardhat_Source_R4.png",
+      "mime_type": "image/png",
+      "size": "1707793",
+      "inventory_parent_id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf"
+    },
+    {
+      "id": "1KHKcoMBgDo5JYaJG1JFG940EBBgAa6z-",
+      "title": "Marcus_Jackson_Hardhat_Source_R4.png",
+      "mime_type": "image/png",
+      "size": "2069696",
+      "inventory_parent_id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf"
+    },
+    {
+      "id": "1FUV7lcnA0g-hOc0Nzgg-RB0tZ5GtHmru",
+      "title": "Luis_Mendoza_Hardhat_Source_R4.png",
+      "mime_type": "image/png",
+      "size": "1830303",
+      "inventory_parent_id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf"
+    },
+    {
+      "id": "1KJuKQ2w5eptk3MT1q-azo5Mfokepz9BC",
+      "title": "Leo_Hardhat_Source_R4.png",
+      "mime_type": "image/png",
+      "size": "1796340",
+      "inventory_parent_id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf"
+    },
+    {
+      "id": "1JLJ9OuYP58vz67PydQ4PEcK_LQUMFk4R",
+      "title": "Hannah_Kowalski_Hardhat_Source_R4.png",
+      "mime_type": "image/png",
+      "size": "2108283",
+      "inventory_parent_id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf"
+    },
+    {
+      "id": "1wuZdGpHsWHBDjjBjCsTJclZ9lYnZ-o5X",
+      "title": "Erik_Halvorsen_Hardhat_Source_R4.png",
+      "mime_type": "image/png",
+      "size": "2165948",
+      "inventory_parent_id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf"
+    },
+    {
+      "id": "1RsDtKCioYvPevI2-UwgqdeI6_qmp-quZ",
+      "title": "Elena_Rivera_Hardhat_Source_R4.png",
+      "mime_type": "image/png",
+      "size": "1508954",
+      "inventory_parent_id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf"
+    },
+    {
+      "id": "1_anmiu36C6vd_z2m38DK8Pabf1ChTQBt",
+      "title": "Darius_Cole_Hardhat_Source_R4.png",
+      "mime_type": "image/png",
+      "size": "1929133",
+      "inventory_parent_id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf"
+    },
+    {
+      "id": "1kIeVpqAbAz3i_XvFLYiPo6pc5MXEtRs6",
+      "title": "Danny_Novak_Hardhat_Source_R4.png",
+      "mime_type": "image/png",
+      "size": "1699187",
+      "inventory_parent_id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf"
+    },
+    {
+      "id": "1IbjsS133b9yIQziQtiwUBGcityODncNT",
+      "title": "Daniel_Brooks_Hardhat_Source_R4.png",
+      "mime_type": "image/png",
+      "size": "2060114",
+      "inventory_parent_id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf"
+    },
+    {
+      "id": "187tVV8pzxl43YB76EZAgmOyQC5dO6DsZ",
+      "title": "Claire_Morgan_Hardhat_Source_R4.png",
+      "mime_type": "image/png",
+      "size": "1549765",
+      "inventory_parent_id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf"
+    },
+    {
+      "id": "1d3bGrZzRi46352VU_Q4w8sj3mKqyvFSc",
+      "title": "Ben_Hardhat_Source_R4.png",
+      "mime_type": "image/png",
+      "size": "1620025",
+      "inventory_parent_id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf"
+    },
+    {
+      "id": "1AXSaPpWuJzZh2kI7iCbv6G3SOqX0cQ9q",
+      "title": "Andre_Lewis_Hardhat_Source_R4.png",
+      "mime_type": "image/png",
+      "size": "2065884",
+      "inventory_parent_id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf"
+    },
+    {
+      "id": "1cUQgzwna_iymFGduibXBJme6J7ZIrXvw",
+      "title": "Adrian_Park_Hardhat_Source_R4.png",
+      "mime_type": "image/png",
+      "size": "1802740",
+      "inventory_parent_id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf"
+    },
+    {
+      "id": "1yjORDLUD0znAlozTVJsYAsU_7m3Qkp_S",
+      "title": "Hardhat_Source_Review_All_Characters.pdf",
+      "mime_type": "application/pdf",
+      "size": "8225982",
+      "inventory_parent_id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf"
+    },
+    {
+      "id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T",
+      "title": "Editable Sources and Placement Records",
+      "mime_type": "application/vnd.google-apps.folder",
+      "size": null,
+      "inventory_parent_id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf"
+    },
+    {
+      "id": "1LZlGXPqRYNxJJtgJKRmGKkK3OpznPedB",
+      "title": "Rafael_Martinez_Hardhat_Source_R5.png",
+      "mime_type": "image/png",
+      "size": "1794183",
+      "inventory_parent_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL"
+    },
+    {
+      "id": "1x1-xr00VqX6a70-FsU-XjaMBUsZTKbLf",
+      "title": "Claire_Morgan_Hardhat_Source_R5.png",
+      "mime_type": "image/png",
+      "size": "1533236",
+      "inventory_parent_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL"
+    },
+    {
+      "id": "1kquoDkXcoYcWzUPYUmDePDVFSpTf1G1V",
+      "title": "Vinny_Hardhat_Source_R5.png",
+      "mime_type": "image/png",
+      "size": "1954769",
+      "inventory_parent_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL"
+    },
+    {
+      "id": "1j-n7b2pr4VA22hLs7gZttZUdaBy6HBEB",
+      "title": "Tony_Marino_Hardhat_Source_R5.png",
+      "mime_type": "image/png",
+      "size": "1538444",
+      "inventory_parent_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL"
+    },
+    {
+      "id": "1_ecPHfVWvWajhplmRUmboGCFvSBz1VyR",
+      "title": "Steph_Hardhat_Source_R5.png",
+      "mime_type": "image/png",
+      "size": "1592847",
+      "inventory_parent_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL"
+    },
+    {
+      "id": "1AqgnnOwP7ief_-wMneiB5AYS-vk894go",
+      "title": "Sam_Carter_Hardhat_Source_R5.png",
+      "mime_type": "image/png",
+      "size": "1796968",
+      "inventory_parent_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL"
+    },
+    {
+      "id": "10TftM4HqF5hfK7ChLe1HleGnZSC_qTmE",
+      "title": "Rebecca_Foster_Hardhat_Source_R5.png",
+      "mime_type": "image/png",
+      "size": "1487969",
+      "inventory_parent_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL"
+    },
+    {
+      "id": "1FFKFTsRmvPc4WgfIHd-7I1GhecHDyYn9",
+      "title": "README_R5.txt",
+      "mime_type": "text/plain",
+      "size": "1825",
+      "inventory_parent_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL"
+    },
+    {
+      "id": "1J8znLl-QeHb9MtkGqV4q3O_HEj8XV-iP",
+      "title": "Priya_Patel_Hardhat_Source_R5.png",
+      "mime_type": "image/png",
+      "size": "1891417",
+      "inventory_parent_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL"
+    },
+    {
+      "id": "1mipqKj5O4knxmN-7pV43_LG8IV4xiatL",
+      "title": "Placement_Verification_R5.csv",
+      "mime_type": "text/csv",
+      "size": "3008",
+      "inventory_parent_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL"
+    },
+    {
+      "id": "1vSi89mweymUWBMCjlEITqTZkBNNhIcIT",
+      "title": "Omar_Haddad_Hardhat_Source_R5.png",
+      "mime_type": "image/png",
+      "size": "2111613",
+      "inventory_parent_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL"
+    },
+    {
+      "id": "1iZE5NRUAO7ojYiVqbkRAxAuj3ja1LlBa",
+      "title": "Natalie_Chen_Hardhat_Source_R5.png",
+      "mime_type": "image/png",
+      "size": "1929968",
+      "inventory_parent_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL"
+    },
+    {
+      "id": "1lyeaEDoemZkbasyrYlDps199Lc9TUMKT",
+      "title": "Mrs_Harper_Hardhat_Source_R5.png",
+      "mime_type": "image/png",
+      "size": "1493659",
+      "inventory_parent_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL"
+    },
+    {
+      "id": "1BEWJpw4B2uhQoXH7sczIk2S6IqhyrKB0",
+      "title": "Maya_Hardhat_Source_R5.png",
+      "mime_type": "image/png",
+      "size": "1971372",
+      "inventory_parent_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL"
+    },
+    {
+      "id": "15CrfuM8SQ-H52mDM2eNMT82P4x_UHRa4",
+      "title": "Matthias_Becker_Hardhat_Source_R5.png",
+      "mime_type": "image/png",
+      "size": "1918504",
+      "inventory_parent_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL"
+    },
+    {
+      "id": "1zDsB9YUqmrVPvbA12H7zhs2KXR14l5XQ",
+      "title": "Marisol_Vega_Hardhat_Source_R5.png",
+      "mime_type": "image/png",
+      "size": "1691785",
+      "inventory_parent_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL"
+    },
+    {
+      "id": "1GI-omwuM21r0D2YpUjhL6G72I4Aj9fUh",
+      "title": "Marcus_Jackson_Hardhat_Source_R5.png",
+      "mime_type": "image/png",
+      "size": "2069307",
+      "inventory_parent_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL"
+    },
+    {
+      "id": "1UfoP5aruzvSDJoWMLaT8wQvLC6hVSYzm",
+      "title": "Luis_Mendoza_Hardhat_Source_R5.png",
+      "mime_type": "image/png",
+      "size": "1807243",
+      "inventory_parent_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL"
+    },
+    {
+      "id": "1mALWqpYDM98VX5eWSD79VshAxvRnpRfB",
+      "title": "Leo_Hardhat_Source_R5.png",
+      "mime_type": "image/png",
+      "size": "1795029",
+      "inventory_parent_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL"
+    },
+    {
+      "id": "1dDlKBQDjLKTLD9yVr6T6DMZfrKyln8w6",
+      "title": "Hannah_Kowalski_Hardhat_Source_R5.png",
+      "mime_type": "image/png",
+      "size": "2084068",
+      "inventory_parent_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL"
+    },
+    {
+      "id": "1A7lxWkBO7ya9ooYmmMj2LDzMt9q4gZZN",
+      "title": "Erik_Halvorsen_Hardhat_Source_R5.png",
+      "mime_type": "image/png",
+      "size": "2152101",
+      "inventory_parent_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL"
+    },
+    {
+      "id": "1IDTnFKm-VYHhS4Y-NkOwafQlyVaN19AR",
+      "title": "Elena_Rivera_Hardhat_Source_R5.png",
+      "mime_type": "image/png",
+      "size": "1507663",
+      "inventory_parent_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL"
+    },
+    {
+      "id": "1PCCFfKLJIC-Kz0wQyyzvLKns2zy6CL7M",
+      "title": "Darius_Cole_Hardhat_Source_R5.png",
+      "mime_type": "image/png",
+      "size": "1907432",
+      "inventory_parent_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL"
+    },
+    {
+      "id": "1dJRv4jbgVPWDr384FmOZX5XPD81RUx4c",
+      "title": "Danny_Novak_Hardhat_Source_R5.png",
+      "mime_type": "image/png",
+      "size": "1666076",
+      "inventory_parent_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL"
+    },
+    {
+      "id": "1ZJxjLK1Jn5YJWRKyn0gQeWKijxaKkT3x",
+      "title": "Daniel_Brooks_Hardhat_Source_R5.png",
+      "mime_type": "image/png",
+      "size": "2057599",
+      "inventory_parent_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL"
+    },
+    {
+      "id": "1mRtRGmjvHA5UVkLYYbN0YM4Xvg8Ef4Rd",
+      "title": "Ben_Hardhat_Source_R5.png",
+      "mime_type": "image/png",
+      "size": "1617611",
+      "inventory_parent_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL"
+    },
+    {
+      "id": "1fzcZ1OPZAfeIBJAjybPqJs22Sn7hh4eI",
+      "title": "Andre_Lewis_Hardhat_Source_R5.png",
+      "mime_type": "image/png",
+      "size": "2057291",
+      "inventory_parent_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL"
+    },
+    {
+      "id": "14hAfbkIU76kte0E8AzphaTO8NAX4HBCT",
+      "title": "Adrian_Park_Hardhat_Source_R5.png",
+      "mime_type": "image/png",
+      "size": "1781094",
+      "inventory_parent_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL"
+    },
+    {
+      "id": "1aAsiNwrn1r-IVmnnRaF_JBLCP2miGk4H",
+      "title": "Hardhat_Source_Review_R5_All_Characters.pdf",
+      "mime_type": "application/pdf",
+      "size": "24215904",
+      "inventory_parent_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL"
+    },
+    {
+      "id": "1-HpxRRhPFUjay-bH0Ms9uiyzQ7lg40LR",
+      "title": "Restored High Resolution Logos - Review",
+      "mime_type": "application/vnd.google-apps.folder",
+      "size": null,
+      "inventory_parent_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL"
+    },
+    {
+      "id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov",
+      "title": "Editable Sources and Placement Records",
+      "mime_type": "application/vnd.google-apps.folder",
+      "size": null,
+      "inventory_parent_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL"
+    },
+    {
+      "id": "1U0C5qL3S2PthHHznZ91Awn6RjMtcrGML",
+      "title": "Kids_Hardhat_Logo_Placement_LOCKED_2026-10-24.json",
+      "mime_type": "application/json",
+      "size": "2942",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "1B0kSrRIjoMRs4z3LdJTPLHgMu6XKi8M-",
+      "title": "Kids_Hardhat_Logo_Placement_LOCKED_2026-10-24.txt",
+      "mime_type": "text/plain",
+      "size": "1184",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "1S4ZDy00zpTu-ePv0w6wA4FSa1vH38i-q",
+      "title": "Vinny_Hardhat_R6.png",
+      "mime_type": "image/png",
+      "size": "311170",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "17PdM29K1smTD8Djjyq_7JDUkT_kaCyWY",
+      "title": "Tony_Marino_Hardhat_R6.png",
+      "mime_type": "image/png",
+      "size": "346966",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "19ZoFGSQmgJfpZFW3vH-zFpYoVzlUfnP8",
+      "title": "Steph_Hardhat_R6.png",
+      "mime_type": "image/png",
+      "size": "345419",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "1R0KJoueDXBwenTOq2D3fd64DKUlhHXA3",
+      "title": "Sam_Carter_Hardhat_R6.png",
+      "mime_type": "image/png",
+      "size": "353198",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "1Wbb1nTSETDUPz9WEeZIm5KY-FprYBdfd",
+      "title": "Rebecca_Foster_Hardhat_R6.png",
+      "mime_type": "image/png",
+      "size": "344915",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "1C1rpGNjJFNs61TuhFZMEgv1oUgYT3_Pi",
+      "title": "Rafael_Martinez_Hardhat_R6.png",
+      "mime_type": "image/png",
+      "size": "363790",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "1-jZyiFQZsqrQRHNFwoS-fMHlfzXs-L2W",
+      "title": "Priya_Patel_Hardhat_R6.png",
+      "mime_type": "image/png",
+      "size": "366651",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "1kJnreUzLAn2kNSRChuK4mm6P98UV-4lc",
+      "title": "Omar_Haddad_Hardhat_R6.png",
+      "mime_type": "image/png",
+      "size": "329445",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "1plJ0rjsoemPm7F8CoUwiWkJ1Q8CeGA_g",
+      "title": "Natalie_Chen_Hardhat_R6.png",
+      "mime_type": "image/png",
+      "size": "359237",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "1b8EsKwZUFNGP4qrFuAXL_xHzkR7AZC2d",
+      "title": "Mrs_Harper_Hardhat_R6.png",
+      "mime_type": "image/png",
+      "size": "342062",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "1BPyHlHSVyCtEiouPKaGg8LDVfTeNhrJz",
+      "title": "Maya_Hardhat_R6.png",
+      "mime_type": "image/png",
+      "size": "357503",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "1dSqU3HgQVwPtHg4rZQqiEK0J2lqrVHtO",
+      "title": "Matthias_Becker_Hardhat_R6.png",
+      "mime_type": "image/png",
+      "size": "260596",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "1io6i809YqQD2pRTkCQIGjus2JHcjizFR",
+      "title": "Master_full_R6.png",
+      "mime_type": "image/png",
+      "size": "264686",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "1ctk3FXyUrZVkvvVidCGHEqLcZfzpTRvn",
+      "title": "Master_cap_R6.png",
+      "mime_type": "image/png",
+      "size": "263371",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "1eubns-myZwYflxd2KxmNmPAJ8hVereGO",
+      "title": "Marisol_Vega_Hardhat_R6.png",
+      "mime_type": "image/png",
+      "size": "363212",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "1HY5AeVrbVC-mk5qPMEqjx7U2AHN1vDs4",
+      "title": "Marcus_Jackson_Hardhat_R6.png",
+      "mime_type": "image/png",
+      "size": "338458",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "1nFscjyZAzo4Hjpdo4p0chu_oQNqx5TuI",
+      "title": "Luis_Mendoza_Hardhat_R6.png",
+      "mime_type": "image/png",
+      "size": "320262",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "1MkH9pRvBtkWIXT4YHQG8e9OtpYWGgcvo",
+      "title": "Leo_Hardhat_R6.png",
+      "mime_type": "image/png",
+      "size": "333509",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "1dwicwxaHH3Wmk2WZIWfarpc5wug6MCA6",
+      "title": "Hannah_Kowalski_Hardhat_R6.png",
+      "mime_type": "image/png",
+      "size": "371408",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "1sDCUVA4g1sOcn9Mr9QWAD7X3PhMX2Ru-",
+      "title": "Erik_Halvorsen_Hardhat_R6.png",
+      "mime_type": "image/png",
+      "size": "323735",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "1P4gfuTeL3jPD7sqqpBiNF12i0907RPrp",
+      "title": "Elena_Rivera_Hardhat_R6.png",
+      "mime_type": "image/png",
+      "size": "352537",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "1o4I8PKzVLREv8yLI-Joa5uQsEJAdGE-Q",
+      "title": "Darius_Cole_Hardhat_R6.png",
+      "mime_type": "image/png",
+      "size": "345379",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "1pNbRCDOkzx-yNLv0FBr22sgmSMUZs5JH",
+      "title": "Danny_Novak_Hardhat_R6.png",
+      "mime_type": "image/png",
+      "size": "361435",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "19E8jR9CDYIWEM5PgzRZwT8CVXB1ZP0J_",
+      "title": "Daniel_Brooks_Hardhat_R6.png",
+      "mime_type": "image/png",
+      "size": "313480",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "1zh4GUpR4ve2hJdQQi-vxFQkXqnbsEwXe",
+      "title": "Claire_Morgan_Hardhat_R6.png",
+      "mime_type": "image/png",
+      "size": "345957",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "1n7lmZhT7PKMIudcfURrepZV2_OCvggEE",
+      "title": "Ben_Hardhat_R6.png",
+      "mime_type": "image/png",
+      "size": "340912",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "1LW6dAFfWHWnugQieo9wfXRtnBM-jcaai",
+      "title": "Andre_Lewis_Hardhat_R6.png",
+      "mime_type": "image/png",
+      "size": "328327",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "156S2GUP1Elj7X9SLNA1qmwSZyMEbjNJl",
+      "title": "Adrian_Park_Hardhat_R6.png",
+      "mime_type": "image/png",
+      "size": "309382",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "13TN9xUYVSMJPt8xpIdZ9hicu8J4wWy2C",
+      "title": "Verification_R6.json",
+      "mime_type": "application/json",
+      "size": "14604",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "1TmmuRcMskUMeFdvTGPGV6RL4nhafWesf",
+      "title": "README_R6.txt",
+      "mime_type": "text/plain",
+      "size": "3221",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "1JKl0SeAjDHrxJSbrj0nj0urjCgOWK00r",
+      "title": "Hardhat_Assignments_R6.json",
+      "mime_type": "application/json",
+      "size": "44146",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "1QpHrgwfh6Tb8frgsmBExIGzEz9M6-fZm",
+      "title": "Hardhat_Assignments_R6.csv",
+      "mime_type": "text/csv",
+      "size": "1871",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "18LQaP87PRmOB8N2u7eto7vr9_BA1Pjui",
+      "title": "Hardhat_3D_All_Characters_R6.pdf",
+      "mime_type": "application/pdf",
+      "size": "7018888",
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0",
+      "title": "Editable 3D Models and Character Records",
+      "mime_type": "application/vnd.google-apps.folder",
+      "size": null,
+      "inventory_parent_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW"
+    },
+    {
+      "id": "1nu4lWOJnQAy4R7Po7O3qz-iCXdsLFoAb",
+      "title": "Tony_Marino_Hardhat_Source_R4.svg",
+      "mime_type": "image/svg+xml",
+      "size": "7671044",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1rXj9pqAUN6-pH4MZeht2Mfd9wc_Do4lI",
+      "title": "Vinny_Placement_Record.json",
+      "mime_type": "application/json",
+      "size": "1725",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1zuVn6XXLPAe10ppeKEwsucSiZ63ZTs20",
+      "title": "Vinny_Hardhat_Source_R4.svg",
+      "mime_type": "image/svg+xml",
+      "size": "8637672",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1Zfkmfupa3vhjk73mMpsL4LRnuTeaUodB",
+      "title": "Tony_Marino_Placement_Record.json",
+      "mime_type": "application/json",
+      "size": "1747",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1OckMTdyS69lFgyga1FJR4r8iTijDP99S",
+      "title": "Steph_Placement_Record.json",
+      "mime_type": "application/json",
+      "size": "1753",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "15s-6UuzZPE-RnGxb9mKkHzS55QJbWq1C",
+      "title": "Steph_Hardhat_Source_R4.svg",
+      "mime_type": "image/svg+xml",
+      "size": "8474687",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "12tsaW8s4jqZQEzcyegDJHvITXf7fbpa3",
+      "title": "Sam_Carter_Placement_Record.json",
+      "mime_type": "application/json",
+      "size": "1760",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1j70vjahYLB7Ua9dgFBdZvQZApLERwvGF",
+      "title": "Sam_Carter_Hardhat_Source_R4.svg",
+      "mime_type": "image/svg+xml",
+      "size": "7765015",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1g9ix1e6aFXw6M3jpD_lXGEmS2N-vLZyO",
+      "title": "Rebecca_Foster_Placement_Record.json",
+      "mime_type": "application/json",
+      "size": "1041",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1nQeyeHAvFsYSrrFV1bIItH_UUuco1iAI",
+      "title": "Rebecca_Foster_Hardhat_Source_R4.svg",
+      "mime_type": "image/svg+xml",
+      "size": "1964029",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1W2FgTh-ZnumEimty2L2PkBxwWm3MGQmZ",
+      "title": "Rafael_Martinez_Placement_Record.json",
+      "mime_type": "application/json",
+      "size": "1737",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1St0BA2hRM5Gd4N1-IvyI-Ccle_qrJ_XV",
+      "title": "Rafael_Martinez_Hardhat_Source_R4.svg",
+      "mime_type": "image/svg+xml",
+      "size": "7697473",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "17H5e-En5mR8bwNUr65vF24nKuNlrbL7z",
+      "title": "Priya_Patel_Placement_Record.json",
+      "mime_type": "application/json",
+      "size": "1740",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "188qGs_2MZNYeZBqMFoAktr7QUPo8iULa",
+      "title": "Priya_Patel_Hardhat_Source_R4.svg",
+      "mime_type": "image/svg+xml",
+      "size": "7653590",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "15SUy_Rw5wyZsMHGfFBJnK5anpADK9Bu6",
+      "title": "Omar_Haddad_Placement_Record.json",
+      "mime_type": "application/json",
+      "size": "1738",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1zRCZCUeJCurJct_ZHQuAIV9KRPdApq7u",
+      "title": "Omar_Haddad_Hardhat_Source_R4.svg",
+      "mime_type": "image/svg+xml",
+      "size": "7782397",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1TOsjqNB3zKWLL_NzI1vlRQOZeRekivvS",
+      "title": "Natalie_Chen_Placement_Record.json",
+      "mime_type": "application/json",
+      "size": "1728",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1ccR26L6WIfYfTihwjphKmNlLkyZU744V",
+      "title": "Natalie_Chen_Hardhat_Source_R4.svg",
+      "mime_type": "image/svg+xml",
+      "size": "7728575",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1rPCqhQ_4ftjeyG_Ka9xrmVAKaTE4nATx",
+      "title": "Mrs_Harper_Placement_Record.json",
+      "mime_type": "application/json",
+      "size": "1740",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1riDrULjbCagebXV4ES00To20sJnbVMmS",
+      "title": "Mrs_Harper_Hardhat_Source_R4.svg",
+      "mime_type": "image/svg+xml",
+      "size": "8493207",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1WQj2BgGXe6dXyE7AgqbsPaV_qfqMvt87",
+      "title": "Maya_Placement_Record.json",
+      "mime_type": "application/json",
+      "size": "1711",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1fQ56qhagIOdIym72f7AR16VdCXcqqlEa",
+      "title": "Maya_Hardhat_Source_R4.svg",
+      "mime_type": "image/svg+xml",
+      "size": "8605767",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1fXTbGdG8em9MITqKM-KPgyfTwDiknZj1",
+      "title": "Matthias_Becker_Placement_Record.json",
+      "mime_type": "application/json",
+      "size": "1776",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1ZA3_MOiVIUFeJstnZjo5Zth_Yo3_pbYB",
+      "title": "Matthias_Becker_Hardhat_Source_R4.svg",
+      "mime_type": "image/svg+xml",
+      "size": "7789161",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "19SWJVTUCBcljciYmIyYjYydDLh4Qxmij",
+      "title": "Marisol_Vega_Placement_Record.json",
+      "mime_type": "application/json",
+      "size": "1760",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1hcx9Dh64Wziv7TKt7oZef7RnHxG3d5gp",
+      "title": "Marisol_Vega_Hardhat_Source_R4.svg",
+      "mime_type": "image/svg+xml",
+      "size": "7699978",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1O0OzuYwjJmNddSlJk71TEGt9V_1xR2DQ",
+      "title": "Marcus_Jackson_Placement_Record.json",
+      "mime_type": "application/json",
+      "size": "1728",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "15SEjIwktkmRxzzPT9AocEWI-gUCBIbzS",
+      "title": "Marcus_Jackson_Hardhat_Source_R4.svg",
+      "mime_type": "image/svg+xml",
+      "size": "7762247",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1qBpg21s86P-ljesa32W3JNnOio3riffr",
+      "title": "Luis_Mendoza_Placement_Record.json",
+      "mime_type": "application/json",
+      "size": "1726",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "13xQ82__iPOwmtqVPZEB_9DQeduADYXmK",
+      "title": "Luis_Mendoza_Hardhat_Source_R4.svg",
+      "mime_type": "image/svg+xml",
+      "size": "7748450",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1Q-kuBFzOPw1aAs1KdvNRd6n8180uLaBf",
+      "title": "Leo_Placement_Record.json",
+      "mime_type": "application/json",
+      "size": "1735",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1DQNad8CtCK0dYI93UX68DdVi-P7oudva",
+      "title": "Leo_Hardhat_Source_R4.svg",
+      "mime_type": "image/svg+xml",
+      "size": "8496129",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1hsRd7FTdoIjAJ_uRq-9OMoiV9sTZv_UZ",
+      "title": "Hardhat_Source_Register.json",
+      "mime_type": "application/json",
+      "size": "52915",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1XNjs5ScuM_-1ZwDoN6kMGrqAiIl3DTDU",
+      "title": "Hannah_Kowalski_Placement_Record.json",
+      "mime_type": "application/json",
+      "size": "1751",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1V2LEaBl2tbm5PQRKTttH15STSq4jd2UT",
+      "title": "Hannah_Kowalski_Hardhat_Source_R4.svg",
+      "mime_type": "image/svg+xml",
+      "size": "7815995",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1xKJctPL6aKSoLnAL6iA8hSP6yHtH617u",
+      "title": "Erik_Halvorsen_Placement_Record.json",
+      "mime_type": "application/json",
+      "size": "1720",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1Wc2_nvKKDYRtduqJpWZAJQ3S8Xatn_EQ",
+      "title": "Erik_Halvorsen_Hardhat_Source_R4.svg",
+      "mime_type": "image/svg+xml",
+      "size": "7895456",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "19Idnhj1WbzJsPEArkGiyZjrqD3rYs0-M",
+      "title": "Elena_Rivera_Placement_Record.json",
+      "mime_type": "application/json",
+      "size": "1758",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1TRgwiek2HIDTR8KevOkwADixDJaqGISD",
+      "title": "Elena_Rivera_Hardhat_Source_R4.svg",
+      "mime_type": "image/svg+xml",
+      "size": "8591238",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1g69k105KdqNTl9sNC04_qiAfsn_B_KzL",
+      "title": "Darius_Cole_Placement_Record.json",
+      "mime_type": "application/json",
+      "size": "1745",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "118tkBpizdHRbMPAPXejzPC_Y6pvFUwJd",
+      "title": "Darius_Cole_Hardhat_Source_R4.svg",
+      "mime_type": "image/svg+xml",
+      "size": "7712298",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "15j9v1lVVBttqpslwx-IChf234Fn6jeRH",
+      "title": "Danny_Novak_Placement_Record.json",
+      "mime_type": "application/json",
+      "size": "1737",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1iJFNSTkiCp85IWT1KbXx62Zsh3szK7mU",
+      "title": "Danny_Novak_Hardhat_Source_R4.svg",
+      "mime_type": "image/svg+xml",
+      "size": "7722788",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1ppCsBokSmkvqAYAWOIqDkG-7NMWgXsKm",
+      "title": "Daniel_Brooks_Placement_Record.json",
+      "mime_type": "application/json",
+      "size": "1770",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1Ml8yDZgT3POr1Oc4W3iNzFtUUbATxt0a",
+      "title": "Daniel_Brooks_Hardhat_Source_R4.svg",
+      "mime_type": "image/svg+xml",
+      "size": "7840416",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1xN8xFbPk3tqvumvbsEP3BBbrUaq8egdx",
+      "title": "Claire_Morgan_Placement_Record.json",
+      "mime_type": "application/json",
+      "size": "1761",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1_n_8w-DctJ6ES_Qqu_JGDcWJX9POmlOy",
+      "title": "Claire_Morgan_Hardhat_Source_R4.svg",
+      "mime_type": "image/svg+xml",
+      "size": "7644294",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1DmlxxbOsZn6F1sIN0ml8NNICnErJHODY",
+      "title": "Ben_Placement_Record.json",
+      "mime_type": "application/json",
+      "size": "1734",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1LNgNsqzDnI5ykncZ9TLDmLRbrBcIA8Dz",
+      "title": "Ben_Hardhat_Source_R4.svg",
+      "mime_type": "image/svg+xml",
+      "size": "8558606",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1CSY5OsCd9v8ePxXy_Y--8TKgGXpxr0hf",
+      "title": "Andre_Lewis_Placement_Record.json",
+      "mime_type": "application/json",
+      "size": "1737",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1C8xVHAlaZ8EaVfS3e8BGeSc6FmK2tgdf",
+      "title": "Andre_Lewis_Hardhat_Source_R4.svg",
+      "mime_type": "image/svg+xml",
+      "size": "7794437",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "19mOUgHi3h7W0XeDkP0zOZCsCpcGUxG14",
+      "title": "Adrian_Park_Placement_Record.json",
+      "mime_type": "application/json",
+      "size": "1765",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1f9jsAMMmtKHA1zZHC8dm7ZxtRYW8rPMJ",
+      "title": "Adrian_Park_Hardhat_Source_R4.svg",
+      "mime_type": "image/svg+xml",
+      "size": "7829962",
+      "inventory_parent_id": "1mafCQv8HD9hYoDB3kEdMMoj9Drt7AF7T"
+    },
+    {
+      "id": "1m1sPwO0GT-W9-5C19W2UyPqFZ9tmCnMI",
+      "title": "Luis_Mendoza_Logo_Restored_R5_REVIEW.png",
+      "mime_type": "image/png",
+      "size": "806848",
+      "inventory_parent_id": "1-HpxRRhPFUjay-bH0Ms9uiyzQ7lg40LR"
+    },
+    {
+      "id": "1v_NIUvRgdT6EC4aOtzzCVC4231WR4kfa",
+      "title": "Matthias_Becker_Logo_Restored_R5_REVIEW.png",
+      "mime_type": "image/png",
+      "size": "523371",
+      "inventory_parent_id": "1-HpxRRhPFUjay-bH0Ms9uiyzQ7lg40LR"
+    },
+    {
+      "id": "1XP9ei73Hoo5XjDAB28v7B0FF2B6lc2Sf",
+      "title": "Darius_Cole_Logo_Restored_R5_REVIEW.png",
+      "mime_type": "image/png",
+      "size": "982814",
+      "inventory_parent_id": "1-HpxRRhPFUjay-bH0Ms9uiyzQ7lg40LR"
+    },
+    {
+      "id": "1WZwW721Si3TKzpTUS-A5R8cQqBGthH9m",
+      "title": "Omar_Haddad_Logo_Restored_R5_REVIEW.png",
+      "mime_type": "image/png",
+      "size": "679820",
+      "inventory_parent_id": "1-HpxRRhPFUjay-bH0Ms9uiyzQ7lg40LR"
+    },
+    {
+      "id": "1m-sVFpoIWnV9qnfVzUNQYiUtKQZeQyb3",
+      "title": "Adrian_Park_Logo_Restored_R5_REVIEW.png",
+      "mime_type": "image/png",
+      "size": "632274",
+      "inventory_parent_id": "1-HpxRRhPFUjay-bH0Ms9uiyzQ7lg40LR"
+    },
+    {
+      "id": "107So9Qz-mmkxs2w_agnhzvzCCgHFF7wM",
+      "title": "Marisol_Vega_Logo_Restored_R5_REVIEW.png",
+      "mime_type": "image/png",
+      "size": "636890",
+      "inventory_parent_id": "1-HpxRRhPFUjay-bH0Ms9uiyzQ7lg40LR"
+    },
+    {
+      "id": "1jk-55882bBwX3lvVae3u_wGL6O88qzXH",
+      "title": "Rafael_Martinez_Logo_Restored_R5_REVIEW.png",
+      "mime_type": "image/png",
+      "size": "674276",
+      "inventory_parent_id": "1-HpxRRhPFUjay-bH0Ms9uiyzQ7lg40LR"
+    },
+    {
+      "id": "19mgHNGZznrptgcdoU065ESxH9dKic1ti",
+      "title": "Rebecca_Foster_Logo_Restored_R5_REVIEW.png",
+      "mime_type": "image/png",
+      "size": "911035",
+      "inventory_parent_id": "1-HpxRRhPFUjay-bH0Ms9uiyzQ7lg40LR"
+    },
+    {
+      "id": "1eBu39bYwUz22OugcltkVXBj6bQseDtHy",
+      "title": "Hannah_Kowalski_Logo_Restored_R5_REVIEW.png",
+      "mime_type": "image/png",
+      "size": "1105122",
+      "inventory_parent_id": "1-HpxRRhPFUjay-bH0Ms9uiyzQ7lg40LR"
+    },
+    {
+      "id": "1qcZQCh8pCkHLhZbMvTgUEeZINFitgF--",
+      "title": "Sam_Carter_Logo_Restored_R5_REVIEW.png",
+      "mime_type": "image/png",
+      "size": "648401",
+      "inventory_parent_id": "1-HpxRRhPFUjay-bH0Ms9uiyzQ7lg40LR"
+    },
+    {
+      "id": "1M3KYPxkzmz_4CLCU1QqETASlDZNm9Itt",
+      "title": "Erik_Halvorsen_Logo_Restored_R5_REVIEW.png",
+      "mime_type": "image/png",
+      "size": "559506",
+      "inventory_parent_id": "1-HpxRRhPFUjay-bH0Ms9uiyzQ7lg40LR"
+    },
+    {
+      "id": "147GdXTorJSBbdwAL1xoaO8G8ZhPE7o8V",
+      "title": "Danny_Novak_Logo_Restored_R5_REVIEW.png",
+      "mime_type": "image/png",
+      "size": "666346",
+      "inventory_parent_id": "1-HpxRRhPFUjay-bH0Ms9uiyzQ7lg40LR"
+    },
+    {
+      "id": "1Q-yu6ST5QL39GqCv0-o01l3C854bP7fL",
+      "title": "Andre_Lewis_Logo_Restored_R5_REVIEW.png",
+      "mime_type": "image/png",
+      "size": "608374",
+      "inventory_parent_id": "1-HpxRRhPFUjay-bH0Ms9uiyzQ7lg40LR"
+    },
+    {
+      "id": "1gYWAzOom4lplhdwA9GF-x_sT0hEr3xXT",
+      "title": "Natalie_Chen_Logo_Restored_R5_REVIEW.png",
+      "mime_type": "image/png",
+      "size": "1157282",
+      "inventory_parent_id": "1-HpxRRhPFUjay-bH0Ms9uiyzQ7lg40LR"
+    },
+    {
+      "id": "1oEKlxJMpY8PbdTps7J9__ofVC-7izHnb",
+      "title": "Tony_Marino_Logo_Restored_R5_REVIEW.png",
+      "mime_type": "image/png",
+      "size": "1149300",
+      "inventory_parent_id": "1-HpxRRhPFUjay-bH0Ms9uiyzQ7lg40LR"
+    },
+    {
+      "id": "1mj-_iCyjNTvl2eu_9759LXa4GReoPM0N",
+      "title": "Claire_Morgan_Logo_Restored_R5_REVIEW.png",
+      "mime_type": "image/png",
+      "size": "441900",
+      "inventory_parent_id": "1-HpxRRhPFUjay-bH0Ms9uiyzQ7lg40LR"
+    },
+    {
+      "id": "1sE_A4_4TXd3_cCAK-ImNnjRHTr5vF8X3",
+      "title": "Priya_Patel_Logo_Restored_R5_REVIEW.png",
+      "mime_type": "image/png",
+      "size": "475769",
+      "inventory_parent_id": "1-HpxRRhPFUjay-bH0Ms9uiyzQ7lg40LR"
+    },
+    {
+      "id": "1iBo9KFczlNQsThJK6C89qby_mYze-e-d",
+      "title": "Matthias_Becker_Hardhat_Source_R5.svg",
+      "mime_type": "image/svg+xml",
+      "size": "5621076",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1EKsRfE_4L70V_gB5-ZDcaa7oc9RtWXyk",
+      "title": "Natalie_Chen_Hardhat_Source_R5.svg",
+      "mime_type": "image/svg+xml",
+      "size": "6613251",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1sI3Q3vS6klTuh3s5hiByd1DOR9cHqyOL",
+      "title": "Omar_Haddad_Hardhat_Source_R5.svg",
+      "mime_type": "image/svg+xml",
+      "size": "5874903",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1ydXbls9eMFxtD4zYQxwU-tQvul4sSKV3",
+      "title": "Priya_Patel_Hardhat_Source_R5.svg",
+      "mime_type": "image/svg+xml",
+      "size": "5404914",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1p6rFd67DdHF7PWGKoN4Uoo0o8r3IsYht",
+      "title": "Tony_Marino_Hardhat_Source_R5.svg",
+      "mime_type": "image/svg+xml",
+      "size": "6545170",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1L-I74qZgEE6mqn4QOdiw7Xe9jCu_kLs3",
+      "title": "Rebecca_Foster_Hardhat_Source_R5.svg",
+      "mime_type": "image/svg+xml",
+      "size": "6026944",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1u0kb98KWu31y_wPf5UkoWmms0wPzzH-H",
+      "title": "Rafael_Martinez_Hardhat_Source_R5.svg",
+      "mime_type": "image/svg+xml",
+      "size": "5759222",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1ZMDUhQcio6nyhJMXdCM47v6kMOWrFyUW",
+      "title": "Sam_Carter_Hardhat_Source_R5.svg",
+      "mime_type": "image/svg+xml",
+      "size": "5771418",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1jiAs8kZkD7azCTRAQeFZ0kSH6lwEvW7r",
+      "title": "Marisol_Vega_Hardhat_Source_R5.svg",
+      "mime_type": "image/svg+xml",
+      "size": "5660181",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1O135cEGMPhc6gkk6lsd6gtSsw9t2QIFU",
+      "title": "Marcus_Jackson_Hardhat_Source_R5.svg",
+      "mime_type": "image/svg+xml",
+      "size": "5011365",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1terCVW5CIn1o6VERwizsrycpvzsWo2gW",
+      "title": "Luis_Mendoza_Hardhat_Source_R5.svg",
+      "mime_type": "image/svg+xml",
+      "size": "5908854",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1BZK48d_1Nzvpl0dG6g6TNpj7aQlTY9Hw",
+      "title": "Hannah_Kowalski_Hardhat_Source_R5.svg",
+      "mime_type": "image/svg+xml",
+      "size": "6423744",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1x3Jcyc9Dtz9Qw7aHMtcL1RoU-P-FRYH5",
+      "title": "Erik_Halvorsen_Hardhat_Source_R5.svg",
+      "mime_type": "image/svg+xml",
+      "size": "5735993",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1QdXVf8Cxa20jDQ3qj8t7rdva52KgyO5d",
+      "title": "Elena_Rivera_Hardhat_Source_R5.svg",
+      "mime_type": "image/svg+xml",
+      "size": "5839109",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1LLCafvFO5iGMxrnCDyIuZ0hT71u6Oj6a",
+      "title": "Darius_Cole_Hardhat_Source_R5.svg",
+      "mime_type": "image/svg+xml",
+      "size": "6272948",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1j3n5-01CwpU121_VmP0ujCgsp4WTQQPP",
+      "title": "Danny_Novak_Hardhat_Source_R5.svg",
+      "mime_type": "image/svg+xml",
+      "size": "5779000",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "13T6oVJmvrSee97K8h-gry0PIJBHpCC8V",
+      "title": "Daniel_Brooks_Hardhat_Source_R5.svg",
+      "mime_type": "image/svg+xml",
+      "size": "5089500",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1N4QNHvV0dmIhNjdesBAiL_wObiAqTD8o",
+      "title": "Claire_Morgan_Hardhat_Source_R5.svg",
+      "mime_type": "image/svg+xml",
+      "size": "5399299",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1y60zoxGXteb7UXg87VsOqvSJv1di0Lzi",
+      "title": "Ben_Hardhat_Source_R5.svg",
+      "mime_type": "image/svg+xml",
+      "size": "5807682",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1j70h1I63iwjMpWg3ybdYUCgivyp9cTUO",
+      "title": "Andre_Lewis_Hardhat_Source_R5.svg",
+      "mime_type": "image/svg+xml",
+      "size": "5738197",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1OhUIRNnzn9m1l85ojHCbUHAJB3jvihvM",
+      "title": "Adrian_Park_Hardhat_Source_R5.svg",
+      "mime_type": "image/svg+xml",
+      "size": "5857150",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1yEx4vgq8fXzeCJang5gSquFcaJQkBJo_",
+      "title": "Steph_Hardhat_Source_R5.svg",
+      "mime_type": "image/svg+xml",
+      "size": "5723808",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "12hXRuygJl6WPeXO4zlG1xiL2lxWNH_Kz",
+      "title": "Vinny_Hardhat_Source_R5.svg",
+      "mime_type": "image/svg+xml",
+      "size": "5886750",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1pHwSfT5JQwler1Om7d9XaPcM5iSZghvl",
+      "title": "Maya_Hardhat_Source_R5.svg",
+      "mime_type": "image/svg+xml",
+      "size": "5850933",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "19pPWuZvhDAIYE8B2QM6XuWzRphZXcFPB",
+      "title": "Logo_Restoration_Provenance.json",
+      "mime_type": "application/json",
+      "size": "494",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1pBhlLqQJO2DQSQIb9V7RXKbmT7y97JGw",
+      "title": "create_review_r5.py",
+      "mime_type": "text/x-python",
+      "size": "4721",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "153iR91zPpMAmG-Rpe4uBXnhERMVsBu9k",
+      "title": "calibration.json",
+      "mime_type": "application/json",
+      "size": "38096",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1hvJt67hauCP8ec53hFz78okh_dWTKS3c",
+      "title": "calibrate.py",
+      "mime_type": "text/x-python",
+      "size": "1408",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1ZrayadPHH2aeU2GXg4o812AKN70863kx",
+      "title": "build_r5.cjs",
+      "mime_type": "application/octet-stream",
+      "size": "6332",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1W7G16hYnKf3rG8GMZxsghS-bK3U_EAtn",
+      "title": "Vinny_Placement_Record_R5.json",
+      "mime_type": "application/json",
+      "size": "4758",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1tz8E_lyyG6_O4Dqga0Y2-I-NJCKUIuTg",
+      "title": "Tony_Marino_Placement_Record_R5.json",
+      "mime_type": "application/json",
+      "size": "4762",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1bcevvIwzQWgZE_uLdlYde14dRPH7zQJk",
+      "title": "Steph_Placement_Record_R5.json",
+      "mime_type": "application/json",
+      "size": "4755",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1-cjrvLXx09EvN8N_4h4U8u2RjJhIfU0P",
+      "title": "Sam_Carter_Placement_Record_R5.json",
+      "mime_type": "application/json",
+      "size": "4775",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "16Izg-sMepXmSSZws17117CCLuXu6nTx_",
+      "title": "Rebecca_Foster_Placement_Record_R5.json",
+      "mime_type": "application/json",
+      "size": "1535",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "17qc-A3fTmLIHwCDbXneUMydSy2QGABXf",
+      "title": "Rafael_Martinez_Placement_Record_R5.json",
+      "mime_type": "application/json",
+      "size": "4776",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1SIVocqgFWuXU-8BrhTxd1fpsRPb2tHB4",
+      "title": "Priya_Patel_Placement_Record_R5.json",
+      "mime_type": "application/json",
+      "size": "4722",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1lQiVyvIw7yhus47lxSyxBSzRl2yVPPHr",
+      "title": "Omar_Haddad_Placement_Record_R5.json",
+      "mime_type": "application/json",
+      "size": "4762",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1Zvgarki_zQyF4Il3kBa6nInY_-mBGuyN",
+      "title": "Natalie_Chen_Placement_Record_R5.json",
+      "mime_type": "application/json",
+      "size": "4766",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1b7QXDQhQIWdz0xgX1oZ1Jc-aV8I9hgxI",
+      "title": "Mrs_Harper_Placement_Record_R5.json",
+      "mime_type": "application/json",
+      "size": "4753",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1gXa1ucaxDxjdLdBX0LhtBLnIQT13E0vt",
+      "title": "Mrs_Harper_Hardhat_Source_R5.svg",
+      "mime_type": "image/svg+xml",
+      "size": "5738403",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1xjp_QRXCOXgNU_hOlXKjQpazHfdFhf3X",
+      "title": "Maya_Placement_Record_R5.json",
+      "mime_type": "application/json",
+      "size": "4739",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1lD6nN8DTtKxlUPufBG8rL-Glx0pe6iDc",
+      "title": "Matthias_Becker_Placement_Record_R5.json",
+      "mime_type": "application/json",
+      "size": "4822",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1BONt5J4Cy50Bx-kxuoLvmSiLSSp3jLGc",
+      "title": "Marisol_Vega_Placement_Record_R5.json",
+      "mime_type": "application/json",
+      "size": "4806",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1-ClswPWlEvr8yZEyJ6gnWbnclnaheQhb",
+      "title": "Marcus_Jackson_Placement_Record_R5.json",
+      "mime_type": "application/json",
+      "size": "4774",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1d3FiFPdnLkuggTrrlvUi3rKJkD_O3Wq7",
+      "title": "Luis_Mendoza_Placement_Record_R5.json",
+      "mime_type": "application/json",
+      "size": "4754",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1Xwa2ZcBj-ISmvs-CVJZPIV1hEB6w8C1r",
+      "title": "Leo_Placement_Record_R5.json",
+      "mime_type": "application/json",
+      "size": "4756",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1_vqWYtvfjEu7ZowocXar3B2UR4xPoOYi",
+      "title": "Leo_Hardhat_Source_R5.svg",
+      "mime_type": "image/svg+xml",
+      "size": "5741376",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1cG0z_im06goFdRspIN74YZWilZAKxeat",
+      "title": "Hardhat_Source_Register_R5.json",
+      "mime_type": "application/json",
+      "size": "140366",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1TKCfeZmqwxr68dZzn3DHud4zb3hcIgf2",
+      "title": "Hannah_Kowalski_Placement_Record_R5.json",
+      "mime_type": "application/json",
+      "size": "4762",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1CASg4pxVk0SjNN5abPZGghB5Y_pbd1aL",
+      "title": "Erik_Halvorsen_Placement_Record_R5.json",
+      "mime_type": "application/json",
+      "size": "4776",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1luzIDjI6TapXU1YaDSEuRrgNGkIDX1YJ",
+      "title": "Elena_Rivera_Placement_Record_R5.json",
+      "mime_type": "application/json",
+      "size": "4788",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1S5kIJbpeM5-6b0LHpRhtCzXI8z_KD-mb",
+      "title": "Darius_Cole_Placement_Record_R5.json",
+      "mime_type": "application/json",
+      "size": "4792",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1WTl1xXCV6kIiDWurY51sUOJrIABgSeoM",
+      "title": "Danny_Novak_Placement_Record_R5.json",
+      "mime_type": "application/json",
+      "size": "4752",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1tmRR9dKcQAbpSsDf7M2SewzISIOCz_Qe",
+      "title": "Daniel_Brooks_Placement_Record_R5.json",
+      "mime_type": "application/json",
+      "size": "4811",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1kNX-Xn1DGGbVib8jwkZWSr9GgVwVeKrL",
+      "title": "Claire_Morgan_Placement_Record_R5.json",
+      "mime_type": "application/json",
+      "size": "4792",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "18KbiKPnuF0S4fGcN5ojNcUcMULuQVzfb",
+      "title": "Ben_Placement_Record_R5.json",
+      "mime_type": "application/json",
+      "size": "4756",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1BDgxmrzCJc1nNLT8tD7FFKO91vbfLi5n",
+      "title": "Andre_Lewis_Placement_Record_R5.json",
+      "mime_type": "application/json",
+      "size": "4760",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1u4V5aDuRecJ_VpKKst5LOSN7UKA3RL5a",
+      "title": "Adrian_Park_Placement_Record_R5.json",
+      "mime_type": "application/json",
+      "size": "4765",
+      "inventory_parent_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov"
+    },
+    {
+      "id": "1O0gfMJd4-OMH_cbGH0XyeSDwahhjN21A",
+      "title": "Vinny_Hardhat_R6.json",
+      "mime_type": "application/json",
+      "size": "1551",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1ddtlDSywiZZpJbzuTC_KmqeMhQaRA0a3",
+      "title": "Vinny_Hardhat_R6.glb",
+      "mime_type": "model/gltf-binary",
+      "size": "3365804",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1o2NH4wZvIbl5LxzmRwsPvABnJx7aLSQk",
+      "title": "Tony_Marino_Hardhat_R6.json",
+      "mime_type": "application/json",
+      "size": "1564",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1pYx94efbeoRGMaR_6Wb1QE8H0LtjCzq0",
+      "title": "Tony_Marino_Hardhat_R6.glb",
+      "mime_type": "model/gltf-binary",
+      "size": "3875696",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1pJzQOusT7ixD-QI_qjh6cjTC9DGaClFg",
+      "title": "Steph_Hardhat_R6.json",
+      "mime_type": "application/json",
+      "size": "1555",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1KZWFV_GC1AREVgE3CBYbV9zNnpevvTtA",
+      "title": "Steph_Hardhat_R6.glb",
+      "mime_type": "model/gltf-binary",
+      "size": "3365792",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1ZVfo3_gi7vh9x773HMzGVKOaaMj2GbuD",
+      "title": "Sam_Carter_Hardhat_R6.json",
+      "mime_type": "application/json",
+      "size": "1564",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "154Gl9BwZDvdIsjGcEetfE7mdIHz3XW-t",
+      "title": "Sam_Carter_Hardhat_R6.glb",
+      "mime_type": "model/gltf-binary",
+      "size": "3343360",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1uF-GBD9ItOJi8qJlfYYdSISI1j2pf9Sc",
+      "title": "Rebecca_Foster_Hardhat_R6.json",
+      "mime_type": "application/json",
+      "size": "1257",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "15DmPvOdvahW-MRpclJT2H9JDpzCn1u3z",
+      "title": "Rebecca_Foster_Hardhat_R6.glb",
+      "mime_type": "model/gltf-binary",
+      "size": "1553504",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1gpFkzqtd3Tpa2JKQHecS6E7sMeEHDNCu",
+      "title": "Rafael_Martinez_Hardhat_R6.json",
+      "mime_type": "application/json",
+      "size": "1569",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1Sgjg1bK1Ysjiwx6MxhDMrlGpDHCArdsZ",
+      "title": "Rafael_Martinez_Hardhat_R6.glb",
+      "mime_type": "model/gltf-binary",
+      "size": "3342308",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1PhFb1RmZj4ND-NdZcJNFvk5d06sUfqzw",
+      "title": "Priya_Patel_Hardhat_R6.json",
+      "mime_type": "application/json",
+      "size": "1565",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1BOSoDxZ6CKm2Wjphc6VpcfwormIMU3VK",
+      "title": "Priya_Patel_Hardhat_R6.glb",
+      "mime_type": "model/gltf-binary",
+      "size": "3177996",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1_wqf2ZaWBdfmNrIxN6qfVEHOVTjK9HQy",
+      "title": "Omar_Haddad_Hardhat_R6.json",
+      "mime_type": "application/json",
+      "size": "1563",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "10xHZW0aKSD4ZTV9G90NWyuXw7bttues1",
+      "title": "Omar_Haddad_Hardhat_R6.glb",
+      "mime_type": "model/gltf-binary",
+      "size": "3393860",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1s1wB28drorkSLfA_-4DJigveiBXMlj_u",
+      "title": "Natalie_Chen_Hardhat_R6.json",
+      "mime_type": "application/json",
+      "size": "1568",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1KnagKk1KnWJXp_VltsPg8Lmo6Pb05uqR",
+      "title": "Natalie_Chen_Hardhat_R6.glb",
+      "mime_type": "model/gltf-binary",
+      "size": "3778772",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1P4-YYpycc8pkRPgW_bQFKwfNXrIm7h21",
+      "title": "Mrs_Harper_Hardhat_R6.json",
+      "mime_type": "application/json",
+      "size": "1556",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "16aWaMlJ-7KLQY3Ks6VEaEPl7X0PrP6wV",
+      "title": "Mrs_Harper_Hardhat_R6.glb",
+      "mime_type": "model/gltf-binary",
+      "size": "3365812",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "16b0R6GwRx2cRPwbuZLmoXptU2GLhkAOK",
+      "title": "Maya_Hardhat_R6.json",
+      "mime_type": "application/json",
+      "size": "1551",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "17agW0Vr9p0Cbek4gM-d5ZvdoyPkwBSh9",
+      "title": "Maya_Hardhat_R6.glb",
+      "mime_type": "model/gltf-binary",
+      "size": "3365800",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1AMLVdFnd2amLIGSzp14rLsN-_R64TN9R",
+      "title": "Matthias_Becker_Hardhat_R6.json",
+      "mime_type": "application/json",
+      "size": "1581",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1fX_DsWFKZoDKMc_B4tbrUHEMqRmrw3Yw",
+      "title": "Matthias_Becker_Hardhat_R6.glb",
+      "mime_type": "model/gltf-binary",
+      "size": "3216992",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1I6gWpcqZcShMVzrXZyUNbkZM-g9G3Y3I",
+      "title": "Master_full_R6.glb",
+      "mime_type": "model/gltf-binary",
+      "size": "673452",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1hw-2oi9opg_BafYDjZ0ptAMKT78pxt_M",
+      "title": "Master_cap_R6.glb",
+      "mime_type": "model/gltf-binary",
+      "size": "673448",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1XZuxMkUW_uZzA6QVGEwHv4ga5N4eb1Z1",
+      "title": "Marisol_Vega_Hardhat_R6.json",
+      "mime_type": "application/json",
+      "size": "1584",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1uzkR7mLQGRHZXNTIN5O6qJlpSlfa1vyx",
+      "title": "Marisol_Vega_Hardhat_R6.glb",
+      "mime_type": "model/gltf-binary",
+      "size": "3320184",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1owWN_dydi0GgS9CtWcBcj-E77ZxLhbUn",
+      "title": "Marcus_Jackson_Hardhat_R6.json",
+      "mime_type": "application/json",
+      "size": "1563",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1dBFXKVN5-R7fdSyxisZ6zkN2RODLxmtb",
+      "title": "Marcus_Jackson_Hardhat_R6.glb",
+      "mime_type": "model/gltf-binary",
+      "size": "2822584",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1YIImrUneWJXUyEiEyxI9riSlgHuJhI1V",
+      "title": "Luis_Mendoza_Hardhat_R6.json",
+      "mime_type": "application/json",
+      "size": "1576",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1COffM0XSrS9At3Nk6pQTgcbgAaySXQpg",
+      "title": "Luis_Mendoza_Hardhat_R6.glb",
+      "mime_type": "model/gltf-binary",
+      "size": "3461896",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1PcP8bqFY4tDEVmW6hdJt0M23hbQOBYVj",
+      "title": "Leo_Hardhat_R6.json",
+      "mime_type": "application/json",
+      "size": "1548",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1D22Un6eGxhjUeXjzOlD4_w9_anCmGsUe",
+      "title": "Leo_Hardhat_R6.glb",
+      "mime_type": "model/gltf-binary",
+      "size": "3365804",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1CdEAjvO20vjvyzyeL_2uYADL1Svq-dw1",
+      "title": "Hannah_Kowalski_Hardhat_R6.json",
+      "mime_type": "application/json",
+      "size": "1573",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1dND--6zPTfFVQ1RSP_G1kb2d6hXyPByA",
+      "title": "Hannah_Kowalski_Hardhat_R6.glb",
+      "mime_type": "model/gltf-binary",
+      "size": "3666528",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1IC3rCFGMQz2PuFf_zKyl8mgeSTpBvrhu",
+      "title": "Erik_Halvorsen_Hardhat_R6.json",
+      "mime_type": "application/json",
+      "size": "1566",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1gAQeRPhexwUDlNTx9xr2dLjX71uRT1si",
+      "title": "Erik_Halvorsen_Hardhat_R6.glb",
+      "mime_type": "model/gltf-binary",
+      "size": "3253940",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1vzzZ8eKi3Cnvwujn6jfB7fx7qPdglHzs",
+      "title": "Elena_Rivera_Hardhat_R6.json",
+      "mime_type": "application/json",
+      "size": "1561",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1gWhRuLKta-7Zt8lmCOp953OENZOqNZHn",
+      "title": "Elena_Rivera_Hardhat_R6.glb",
+      "mime_type": "model/gltf-binary",
+      "size": "3500816",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1Shue5IalIafLs8lS2x9JnZ5jUI8JmUIn",
+      "title": "Darius_Cole_Hardhat_R6.json",
+      "mime_type": "application/json",
+      "size": "1569",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1Hx-a98VEnRhtxmvmQ2_uCgUGRZzHwhmP",
+      "title": "Darius_Cole_Hardhat_R6.glb",
+      "mime_type": "model/gltf-binary",
+      "size": "3636856",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1aqP4ydFJL0FjGXVgXOiHKOFdx0ePr0A-",
+      "title": "Danny_Novak_Hardhat_R6.json",
+      "mime_type": "application/json",
+      "size": "1566",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1sF_Tvn1khZnOnbp2X_egP7MlNwr4VnKT",
+      "title": "Danny_Novak_Hardhat_R6.glb",
+      "mime_type": "model/gltf-binary",
+      "size": "3352092",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1Z9degWHMfCX-BueYWabVoMOh30N7P9HW",
+      "title": "Daniel_Brooks_Hardhat_R6.json",
+      "mime_type": "application/json",
+      "size": "1562",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1Kji6wixj9BgWhbxINgVt6v9Up1qC_FRC",
+      "title": "Daniel_Brooks_Hardhat_R6.glb",
+      "mime_type": "model/gltf-binary",
+      "size": "2823584",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1V0LlCLT05NOTCvf_0qfnKVj-2DIciH3B",
+      "title": "Claire_Morgan_Hardhat_R6.json",
+      "mime_type": "application/json",
+      "size": "1566",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "17DTtgIxKqEyWSouUYRnCTc1GtA1rxQNL",
+      "title": "Claire_Morgan_Hardhat_R6.glb",
+      "mime_type": "model/gltf-binary",
+      "size": "3146992",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1UXY4jWFF-UfecjqiVKZ4bbN6jhn1nL7C",
+      "title": "Ben_Hardhat_R6.json",
+      "mime_type": "application/json",
+      "size": "1549",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1A2T2UEgbyUV7SvLffVkGng7x5V-bE_8d",
+      "title": "Ben_Hardhat_R6.glb",
+      "mime_type": "model/gltf-binary",
+      "size": "3365800",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "189y5KDYYMbBWy17CYRugiunmO4wK8Fkp",
+      "title": "Andre_Lewis_Hardhat_R6.json",
+      "mime_type": "application/json",
+      "size": "1562",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1Jbua4_gLZPnSXAT78f5V4YBHrpQPI4l1",
+      "title": "Andre_Lewis_Hardhat_R6.glb",
+      "mime_type": "model/gltf-binary",
+      "size": "3306084",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1YGb740UymVxWFfp9R3DmXDKhmr2L6h5J",
+      "title": "Adrian_Park_Hardhat_R6.json",
+      "mime_type": "application/json",
+      "size": "1569",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1OxbUzWn4vwxJ233_IYL52ucNpKE7HWNL",
+      "title": "Adrian_Park_Hardhat_R6.glb",
+      "mime_type": "model/gltf-binary",
+      "size": "3321244",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1vCNu8AiZhhoZMOQKSExMm_5mG45v2FCW",
+      "title": "assemble_review.py",
+      "mime_type": "text/x-python",
+      "size": "9168",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    },
+    {
+      "id": "1A9pooCSjzhSTYek_xz4BWsPT8nXlnPU-",
+      "title": "build_models.py",
+      "mime_type": "text/x-python",
+      "size": "12522",
+      "inventory_parent_id": "1DDUjgNlU22NsS8LqUEX-tM4zWs86Wyv0"
+    }
+  ]
+}

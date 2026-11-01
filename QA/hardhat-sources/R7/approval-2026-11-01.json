@@ -1,0 +1,941 @@
+{
+  "revision": "R7",
+  "status": "AUTHOR_APPROVED",
+  "approved_by": "Adam Reid",
+  "approved_on": "2026-11-01",
+  "approval_quote": "approved",
+  "evidence_context": "Direct user response to delivery of the R7 27-page PDF and its 26-character SVG/PNG source set.",
+  "scope": "All 26 R7 hardhat source sheets and their shown helmet artwork, colors, logo placement and project sticker placement. The exact SVG and PNG versions are identified below.",
+  "current_reference": "Use these approved R7 sheets for the represented hardhat artwork and placement. Preserve character-specific authored relationships and exact branding assets. Earlier source sheets remain historical evidence.",
+  "folder_id": "17J0cREVTUkPV2TlcFZhH3zht5igIaaoU",
+  "folder_url": "https://drive.google.com/drive/folders/17J0cREVTUkPV2TlcFZhH3zht5igIaaoU",
+  "pdf": {
+    "filename": "Hardhat_Source_Review_R7_All_Characters.pdf",
+    "sha256": "668facf3d3ddc4b5dc21a09e092e71552f7fe4129ea13c2f356c5646254014f0",
+    "bytes": 59028791,
+    "pages": 27,
+    "drive_id": "1Ms6pJt5DToOiDZRN4NO4riBb2ZB7utAQ",
+    "url": "https://drive.google.com/file/d/1Ms6pJt5DToOiDZRN4NO4riBb2ZB7utAQ/view"
+  },
+  "characters": [
+    {
+      "character": "Ben",
+      "pdf_page": 2,
+      "svg": {
+        "filename": "Ben_Hardhat_Source_R7.svg",
+        "sha256": "8ca5c7168d71a079037ed9e664f8ae93e3e0214029277f6b0e7bb9fad47dc2f0",
+        "bytes": 5805947,
+        "drive_id": "1r5OB5a5AOEG0cO3iPNLnAR_aAUocC38v",
+        "url": "https://drive.google.com/file/d/1r5OB5a5AOEG0cO3iPNLnAR_aAUocC38v/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Ben_Hardhat_Source_R7.png",
+        "sha256": "a701a63b5df294106b71cf067038fb6c6f9756a4df92dcd6447af17450cdf031",
+        "bytes": 1422294,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "18-LbUWGtYnVH3Wg8Bqi84xwvnSV_4QrZ",
+        "url": "https://drive.google.com/file/d/18-LbUWGtYnVH3Wg8Bqi84xwvnSV_4QrZ/view?usp=drivesdk"
+      },
+      "placement_snapshot": {
+        "drive_id": "1wd0tk59TgvSk5I2by_bDrS0eWPQyHFXs",
+        "url": "https://drive.google.com/file/d/1wd0tk59TgvSk5I2by_bDrS0eWPQyHFXs/view?usp=drivesdk",
+        "filename": "Ben_Placement_Record_R7.json",
+        "sha256": "2eec3f8a2c75bc5516f85b3d1f2a10699175083286139fca4f7050f5594b2abd",
+        "bytes": 12363
+      },
+      "input_source_id": "1y60zoxGXteb7UXg87VsOqvSJv1di0Lzi",
+      "input_source_sha256": "10159b01e3df1989f2ddff83bd28857062c712989af5b41d1c8c3130d4cbf9c3"
+    },
+    {
+      "character": "Leo",
+      "pdf_page": 3,
+      "svg": {
+        "filename": "Leo_Hardhat_Source_R7.svg",
+        "sha256": "86af0635c04a6a20fe628759ce0ae4a71b80122c31eff0fedd93615dd7ad8fa7",
+        "bytes": 5741414,
+        "drive_id": "1hNFKRDBYW2GLvge1EYFBfvaqf111B6vw",
+        "url": "https://drive.google.com/file/d/1hNFKRDBYW2GLvge1EYFBfvaqf111B6vw/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Leo_Hardhat_Source_R7.png",
+        "sha256": "30eb179ad61589c828e980c081cb871ea2399ec73306b01856a371f08f7bd477",
+        "bytes": 1446975,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1EqzQKOaznXhC5HQhAjHOCUXz6TOFqXFH",
+        "url": "https://drive.google.com/file/d/1EqzQKOaznXhC5HQhAjHOCUXz6TOFqXFH/view?usp=drivesdk"
+      },
+      "placement_snapshot": {
+        "drive_id": "1jcICdv0nxzdDBlzCsChbAFg1-zdZ1FJD",
+        "url": "https://drive.google.com/file/d/1jcICdv0nxzdDBlzCsChbAFg1-zdZ1FJD/view?usp=drivesdk",
+        "filename": "Leo_Placement_Record_R7.json",
+        "sha256": "3c63dcf146b3741466049bf9a72d4d99c002f46fee560becead14a74cb23e771",
+        "bytes": 11524
+      },
+      "input_source_id": "1_vqWYtvfjEu7ZowocXar3B2UR4xPoOYi",
+      "input_source_sha256": "6990c98700d561b6e5192b20e724023662e40d0e498781912fb8d25a50774ff3"
+    },
+    {
+      "character": "Vinny",
+      "pdf_page": 4,
+      "svg": {
+        "filename": "Vinny_Hardhat_Source_R7.svg",
+        "sha256": "376d59e80bb12db387d45a947d1a860eaab2048b7706fe29c4d42a7c2556bb7b",
+        "bytes": 5885015,
+        "drive_id": "1XF7iJ2-Ta6ezoWsL8aqwjdyx3s9Ye_vv",
+        "url": "https://drive.google.com/file/d/1XF7iJ2-Ta6ezoWsL8aqwjdyx3s9Ye_vv/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Vinny_Hardhat_Source_R7.png",
+        "sha256": "c43da2bfb5b0ca9c94139644cb78320686461bd410fa01f8826f9736bab1190a",
+        "bytes": 1524081,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1qNCI6Oa37yBvmCfffOThUUFvF51vupFo",
+        "url": "https://drive.google.com/file/d/1qNCI6Oa37yBvmCfffOThUUFvF51vupFo/view?usp=drivesdk"
+      },
+      "placement_snapshot": {
+        "drive_id": "115V63_CPBn35EbrnZIQDkWFRs6uncfHJ",
+        "url": "https://drive.google.com/file/d/115V63_CPBn35EbrnZIQDkWFRs6uncfHJ/view?usp=drivesdk",
+        "filename": "Vinny_Placement_Record_R7.json",
+        "sha256": "a053d2311fad4e61ddf38e3678972a198e41b836c58d0e2cbcd7309c5a5199f2",
+        "bytes": 12368
+      },
+      "input_source_id": "12hXRuygJl6WPeXO4zlG1xiL2lxWNH_Kz",
+      "input_source_sha256": "5c14ce2e9e03abff7ccbbed51396dda4564154e127f6d5e114231892b2de3e48"
+    },
+    {
+      "character": "Steph",
+      "pdf_page": 5,
+      "svg": {
+        "filename": "Steph_Hardhat_Source_R7.svg",
+        "sha256": "39b2b4c3ddb94dde87c9570f8912ab3305b559f70e001b0d07df0f8802ff4e5b",
+        "bytes": 5722074,
+        "drive_id": "1RWMcxM3VeGJlWxJ2nXQfGiuEhtW0oDUf",
+        "url": "https://drive.google.com/file/d/1RWMcxM3VeGJlWxJ2nXQfGiuEhtW0oDUf/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Steph_Hardhat_Source_R7.png",
+        "sha256": "46d2026163251b86b82f5285c64ef7a052bf8152f43fe9b51e42e734a26cba25",
+        "bytes": 1380220,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1pVd0kkLkP3r_cszYtL8pUnEK2BTVcqmz",
+        "url": "https://drive.google.com/file/d/1pVd0kkLkP3r_cszYtL8pUnEK2BTVcqmz/view?usp=drivesdk"
+      },
+      "placement_snapshot": {
+        "drive_id": "1ciHKMc5U4W88JS7_WKuXdtufFXQAk2ja",
+        "url": "https://drive.google.com/file/d/1ciHKMc5U4W88JS7_WKuXdtufFXQAk2ja/view?usp=drivesdk",
+        "filename": "Steph_Placement_Record_R7.json",
+        "sha256": "8420ce33723826148d1aabc1eff82d0754aa646b39d8d251fa1571333bbd8c2f",
+        "bytes": 12399
+      },
+      "input_source_id": "1yEx4vgq8fXzeCJang5gSquFcaJQkBJo_",
+      "input_source_sha256": "67fc2697b32697a46719ea18c3b2323b553dabba66d18583098be41b07db62ed"
+    },
+    {
+      "character": "Maya",
+      "pdf_page": 6,
+      "svg": {
+        "filename": "Maya_Hardhat_Source_R7.svg",
+        "sha256": "023c6054017864fb50f084e26233d44dbba40ff5fa27cd0b57f7e24ecbf894e6",
+        "bytes": 5850971,
+        "drive_id": "1XXKAvjPeXTqxcA9T65j-S8Ro5FSOP1k5",
+        "url": "https://drive.google.com/file/d/1XXKAvjPeXTqxcA9T65j-S8Ro5FSOP1k5/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Maya_Hardhat_Source_R7.png",
+        "sha256": "30ae249a67b805c6a9157fbc9bd4193d7aab5781bb2f3b20f1e9af0f58812efd",
+        "bytes": 1554696,
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "drive_id": "1FKytzqqSI-_iC20SO9EsUueE-dHQqUxM",
+        "url": "https://drive.google.com/file/d/1FKytzqqSI-_iC20SO9EsUueE-dHQqUxM/view?usp=drivesdk"
+      },
+      "placement_snapshot": {
+        "drive_id": "18youWlsc4OdFxUhXGc_RgOUcg3Y9Pyqc",
+        "url": "https://drive.google.com/file/d/18youWlsc4OdFxUhXGc_RgOUcg3Y9Pyqc/view?usp=drivesdk",
+        "filename": "Maya_Placement_Record_R7.json",
+        "sha256": "dfabb01646db2554b590fef08124d11f6f375cbc573e999de8c6a21ffd84f6e0",
+        "bytes": 11518
+      },
+      "input_source_id": "1pHwSfT5JQwler1Om7d9XaPcM5iSZghvl",
+      "input_source_sha256": "da8a692ea2daf5824daee0c44976fc10034918bb3702733741ef9b236351d177"
+    },
+    {
+      "character": "Mrs Harper",
+      "pdf_page": 7,
+      "svg": {
+        "filename": "Mrs_Harper_Hardhat_Source_R7.svg",
+        "sha256": "340b53b4d28a93f230b2bab033d0292f52f3c653ce26815594c87ee69266bcb2",
+        "bytes": 5738441,
+        "drive_id": "1h2tWmN835ZYMNsXveDYlwcPbpY5iSyMR",
+        "url": "https://drive.google.com/file/d/1h2tWmN835ZYMNsXveDYlwcPbpY5iSyMR/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Mrs_Harper_Hardhat_Source_R7.png",
+        "sha256": "595541d204ada9871ae39cdc6baa648f23e5ad38e0f6159d8d7e940107163fdf",
+        "bytes": 1374440,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1JwQ66X6lFO2xWCC_HpB3RfoAurpuvm_v",
+        "url": "https://drive.google.com/file/d/1JwQ66X6lFO2xWCC_HpB3RfoAurpuvm_v/view?usp=drivesdk"
+      },
+      "placement_snapshot": {
+        "drive_id": "1L7QkA21DcAxAS_4mT2HKgNEmU_3qUrtB",
+        "url": "https://drive.google.com/file/d/1L7QkA21DcAxAS_4mT2HKgNEmU_3qUrtB/view?usp=drivesdk",
+        "filename": "Mrs_Harper_Placement_Record_R7.json",
+        "sha256": "a1a8d175977e40999f3d10b0180b9f40a5a428440771610e75a97951b568f4a8",
+        "bytes": 11530
+      },
+      "input_source_id": "1gXa1ucaxDxjdLdBX0LhtBLnIQT13E0vt",
+      "input_source_sha256": "87a643a6e416033ed01230cda3ecdf0eb0bf746263d90fccb62d66a2d2506a4e"
+    },
+    {
+      "character": "Elena Rivera",
+      "pdf_page": 8,
+      "svg": {
+        "filename": "Elena_Rivera_Hardhat_Source_R7.svg",
+        "sha256": "098c05481b6d072514ffe198d5b80ccde45e8b8594dcf55a60bdb17245c27178",
+        "bytes": 5837629,
+        "drive_id": "1i9APN6PHhLYak8pMHG31WIhYMSBW2ZHF",
+        "url": "https://drive.google.com/file/d/1i9APN6PHhLYak8pMHG31WIhYMSBW2ZHF/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Elena_Rivera_Hardhat_Source_R7.png",
+        "sha256": "4c71201ddb50cbb4b3537ede9cab580c6444633a9f5f57ba8e5ff079479af50d",
+        "bytes": 1386800,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1F75iAh2m3WWFMoqFZWIbBSnXdhTP32ki",
+        "url": "https://drive.google.com/file/d/1F75iAh2m3WWFMoqFZWIbBSnXdhTP32ki/view?usp=drivesdk"
+      },
+      "placement_snapshot": {
+        "drive_id": "1AcZmzNdJQ3XNSmYalGhEMqj6-GeWdX-1",
+        "url": "https://drive.google.com/file/d/1AcZmzNdJQ3XNSmYalGhEMqj6-GeWdX-1/view?usp=drivesdk",
+        "filename": "Elena_Rivera_Placement_Record_R7.json",
+        "sha256": "76c6ec62525fb3edc4ef2963162258fba9d666108da3ae9b5735a8633c31f488",
+        "bytes": 17311
+      },
+      "input_source_id": "1QdXVf8Cxa20jDQ3qj8t7rdva52KgyO5d",
+      "input_source_sha256": "95f72c74c252433188140e64743e3312f700d773f767a7913a65db3fff06a405"
+    },
+    {
+      "character": "Marcus Jackson",
+      "pdf_page": 9,
+      "svg": {
+        "filename": "Marcus_Jackson_Hardhat_Source_R7.svg",
+        "sha256": "e6a59344376b9385523a4c94c21b2a16173b3e1db2fea517951fdc36a5144d6b",
+        "bytes": 5009630,
+        "drive_id": "1shxS_KrtAQ29yLemJafFT3RqlCKnNnID",
+        "url": "https://drive.google.com/file/d/1shxS_KrtAQ29yLemJafFT3RqlCKnNnID/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Marcus_Jackson_Hardhat_Source_R7.png",
+        "sha256": "f1a17deb6591a53663454cb542328ae3b09888e20a060b53dc47e84624a2c701",
+        "bytes": 1561330,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1WRZT8cCY7RgpikZ_wWyJxpf1DjiVybJU",
+        "url": "https://drive.google.com/file/d/1WRZT8cCY7RgpikZ_wWyJxpf1DjiVybJU/view?usp=drivesdk"
+      },
+      "placement_snapshot": {
+        "drive_id": "1MZc19mOSSwFVVi2DEHguG6EQMG53wfxV",
+        "url": "https://drive.google.com/file/d/1MZc19mOSSwFVVi2DEHguG6EQMG53wfxV/view?usp=drivesdk",
+        "filename": "Marcus_Jackson_Placement_Record_R7.json",
+        "sha256": "cd86c8001041757c3777bca8ff40b90cf8015e9d87f31d5fcc1f64071d538bdb",
+        "bytes": 12445
+      },
+      "input_source_id": "1O135cEGMPhc6gkk6lsd6gtSsw9t2QIFU",
+      "input_source_sha256": "1c81133cf918a4ae78e436b481c793eb6443e7ee7536024b0838fb7e06d7a1dc"
+    },
+    {
+      "character": "Priya Patel",
+      "pdf_page": 10,
+      "svg": {
+        "filename": "Priya_Patel_Hardhat_Source_R7.svg",
+        "sha256": "80662d6e528b3c8774cf8d94e1986397d1eea84b566bec9663ddeeca18207d0c",
+        "bytes": 5403165,
+        "drive_id": "19XwQG7EXgueJUjL3D6U0EAm0qduDsJ0h",
+        "url": "https://drive.google.com/file/d/19XwQG7EXgueJUjL3D6U0EAm0qduDsJ0h/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Priya_Patel_Hardhat_Source_R7.png",
+        "sha256": "40c9fc9e9e19ab0723f0b0e3e51abf261027f0c47c9cc294bc2bdea73f85ab63",
+        "bytes": 1506117,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1yagm0P3nFdGAsC5SHWKUBQ8236DDAsVR",
+        "url": "https://drive.google.com/file/d/1yagm0P3nFdGAsC5SHWKUBQ8236DDAsVR/view?usp=drivesdk"
+      },
+      "placement_snapshot": {
+        "drive_id": "1tBH_mEgo4Dd21ZLOkldoRuIw7jy_LlaK",
+        "url": "https://drive.google.com/file/d/1tBH_mEgo4Dd21ZLOkldoRuIw7jy_LlaK/view?usp=drivesdk",
+        "filename": "Priya_Patel_Placement_Record_R7.json",
+        "sha256": "afad1bcbf9fdade47a5d1f5131591380f5815a56a339709a22c827d9965d3269",
+        "bytes": 12394
+      },
+      "input_source_id": "1ydXbls9eMFxtD4zYQxwU-tQvul4sSKV3",
+      "input_source_sha256": "66c3f1b3f13d3235088b19d2a798c8fd590c7dccba588bdb5ec2b9390ed65161"
+    },
+    {
+      "character": "Daniel Brooks",
+      "pdf_page": 11,
+      "svg": {
+        "filename": "Daniel_Brooks_Hardhat_Source_R7.svg",
+        "sha256": "b5a41e1bafda42ffe50121cb21c975b70894a2ff51cd37876c23a6890d036f8a",
+        "bytes": 5087765,
+        "drive_id": "1d06g4pCgTuywA18QXKiAXBhn6BtWEO2b",
+        "url": "https://drive.google.com/file/d/1d06g4pCgTuywA18QXKiAXBhn6BtWEO2b/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Daniel_Brooks_Hardhat_Source_R7.png",
+        "sha256": "6aada1a67420b1d16c5067e5601c53af6a571bbbc576274e9c27caef79f9bd5d",
+        "bytes": 1619041,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1dEruTL27Dm3-1GB29vqKMg_O3QgXyszg",
+        "url": "https://drive.google.com/file/d/1dEruTL27Dm3-1GB29vqKMg_O3QgXyszg/view?usp=drivesdk"
+      },
+      "placement_snapshot": {
+        "drive_id": "1Kkjt4ZIFrHJdIb_qtOnm9ObE_7bnvOg0",
+        "url": "https://drive.google.com/file/d/1Kkjt4ZIFrHJdIb_qtOnm9ObE_7bnvOg0/view?usp=drivesdk",
+        "filename": "Daniel_Brooks_Placement_Record_R7.json",
+        "sha256": "0b655ae08796825262d1dcd00e4f626efadf7e351fe7b3e2dc0f2af36f5cd803",
+        "bytes": 12414
+      },
+      "input_source_id": "13T6oVJmvrSee97K8h-gry0PIJBHpCC8V",
+      "input_source_sha256": "8d048a02c0f0292f6a50e9170fcaf979a40e708ff49e9b9feb2a9c2f73245e75"
+    },
+    {
+      "character": "Tony Marino",
+      "pdf_page": 12,
+      "svg": {
+        "filename": "Tony_Marino_Hardhat_Source_R7.svg",
+        "sha256": "60af6353b89b4cfb6d23d6a4a776506db41ae943ea544c09b32dc4fcac7112a1",
+        "bytes": 6543421,
+        "drive_id": "1kTSqp1U_mfxDP3jeE1c7uc1UdDqOwHUw",
+        "url": "https://drive.google.com/file/d/1kTSqp1U_mfxDP3jeE1c7uc1UdDqOwHUw/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Tony_Marino_Hardhat_Source_R7.png",
+        "sha256": "1de02f8484767d28f8c86a09c927f7d9df6e120c2c7cf02668473c30458b1131",
+        "bytes": 1406307,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1zeHaX3ybb7-bYcbVsqEW-6a2Faq1061b",
+        "url": "https://drive.google.com/file/d/1zeHaX3ybb7-bYcbVsqEW-6a2Faq1061b/view?usp=drivesdk"
+      },
+      "placement_snapshot": {
+        "drive_id": "1tcEmGLqvwqOu1yktAIckVeJjQHY-nwO-",
+        "url": "https://drive.google.com/file/d/1tcEmGLqvwqOu1yktAIckVeJjQHY-nwO-/view?usp=drivesdk",
+        "filename": "Tony_Marino_Placement_Record_R7.json",
+        "sha256": "9870998ff31b5f41095b62b8255532b37f5ef000db4575845538071afe14f92d",
+        "bytes": 12412
+      },
+      "input_source_id": "1p6rFd67DdHF7PWGKoN4Uoo0o8r3IsYht",
+      "input_source_sha256": "1291793229adc11347dffb2028c92ae07bf70564fa2942368d0d22fd34daf45f"
+    },
+    {
+      "character": "Claire Morgan",
+      "pdf_page": 13,
+      "svg": {
+        "filename": "Claire_Morgan_Hardhat_Source_R7.svg",
+        "sha256": "58d8f34348cafc763cca8b6097ce221d7b288fe896842f09e6c3b19b667367bd",
+        "bytes": 5397550,
+        "drive_id": "1uMeIPP9R8QyWNc4jOVc6xo7wcOomzr3C",
+        "url": "https://drive.google.com/file/d/1uMeIPP9R8QyWNc4jOVc6xo7wcOomzr3C/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Claire_Morgan_Hardhat_Source_R7.png",
+        "sha256": "ddb33fbf22671d19fec8d0f58049bf306c4ed33ad3cdbc50a4922ff806cac2a7",
+        "bytes": 1409355,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1YdJ-zirE6JB3_4n9vDxap4HFGSdJPAyQ",
+        "url": "https://drive.google.com/file/d/1YdJ-zirE6JB3_4n9vDxap4HFGSdJPAyQ/view?usp=drivesdk"
+      },
+      "placement_snapshot": {
+        "drive_id": "19TM8CiY8Zd8_sLnQ0uh5vgVTVtOCwR7l",
+        "url": "https://drive.google.com/file/d/19TM8CiY8Zd8_sLnQ0uh5vgVTVtOCwR7l/view?usp=drivesdk",
+        "filename": "Claire_Morgan_Placement_Record_R7.json",
+        "sha256": "a9bf1fa353b73d3dddedae7638f28db9467a38c8af90bc0ec5bf45f0923a7dbf",
+        "bytes": 12411
+      },
+      "input_source_id": "1N4QNHvV0dmIhNjdesBAiL_wObiAqTD8o",
+      "input_source_sha256": "376c938d549bf5c7b93b052b8b2b4a4287034581fa07005aa973cfb59db49c1d"
+    },
+    {
+      "character": "Omar Haddad",
+      "pdf_page": 14,
+      "svg": {
+        "filename": "Omar_Haddad_Hardhat_Source_R7.svg",
+        "sha256": "78120abd57bc5a7feb31b64ba2c579899c4b3d4bf773a55d0e99dcfa7d641c23",
+        "bytes": 5873154,
+        "drive_id": "1nzz4b07VHpayvf5X5VcGeLR4MWLiB1aV",
+        "url": "https://drive.google.com/file/d/1nzz4b07VHpayvf5X5VcGeLR4MWLiB1aV/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Omar_Haddad_Hardhat_Source_R7.png",
+        "sha256": "a59acc8633474c4f38f14ec00611f15eae1fc81f54e3cb3b168ece0a91cd4aae",
+        "bytes": 1609192,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1WX9XGa3__0zcZOySIEYKse3sDxYshA1W",
+        "url": "https://drive.google.com/file/d/1WX9XGa3__0zcZOySIEYKse3sDxYshA1W/view?usp=drivesdk"
+      },
+      "placement_snapshot": {
+        "drive_id": "1BpWhYWq-3UTV99JtgOHlUtZjTU9G1iDJ",
+        "url": "https://drive.google.com/file/d/1BpWhYWq-3UTV99JtgOHlUtZjTU9G1iDJ/view?usp=drivesdk",
+        "filename": "Omar_Haddad_Placement_Record_R7.json",
+        "sha256": "0e79d2845b025443879ae6b8b0c9f95146d50d96be7ccb28d0720a70aed17501",
+        "bytes": 12433
+      },
+      "input_source_id": "1sI3Q3vS6klTuh3s5hiByd1DOR9cHqyOL",
+      "input_source_sha256": "6e1337dbb2a714da177cc5d007c4d61955580d685c17fda5f8d9a3721428cadc"
+    },
+    {
+      "character": "Darius Cole",
+      "pdf_page": 15,
+      "svg": {
+        "filename": "Darius_Cole_Hardhat_Source_R7.svg",
+        "sha256": "cf155f09303967f13b9609af4b7bc7337a7b8349d3f32fc26e473adbd98d6fc7",
+        "bytes": 6271459,
+        "drive_id": "1OuZ4Q6rR4J_tOqIJIcYFBLc3bDLhOHbF",
+        "url": "https://drive.google.com/file/d/1OuZ4Q6rR4J_tOqIJIcYFBLc3bDLhOHbF/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Darius_Cole_Hardhat_Source_R7.png",
+        "sha256": "705ee3f0844de669b795aedcbc3b3f6e9d4e8be83abd1b51363e31ebb6005739",
+        "bytes": 1535604,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1P-dQOxoL9e0aG4BcI0sm-4j0M0DONuGq",
+        "url": "https://drive.google.com/file/d/1P-dQOxoL9e0aG4BcI0sm-4j0M0DONuGq/view?usp=drivesdk"
+      },
+      "placement_snapshot": {
+        "drive_id": "1tC-FFT4HCFm1be_OqD3iNkEHUyKZ-K5b",
+        "url": "https://drive.google.com/file/d/1tC-FFT4HCFm1be_OqD3iNkEHUyKZ-K5b/view?usp=drivesdk",
+        "filename": "Darius_Cole_Placement_Record_R7.json",
+        "sha256": "5cf5d6ea8d852ee3afd46dcee64d806b21651e7c09ccddbf634b0c4779d7d445",
+        "bytes": 14607
+      },
+      "input_source_id": "1LLCafvFO5iGMxrnCDyIuZ0hT71u6Oj6a",
+      "input_source_sha256": "725b7147756f6b69a55632f1ae1e3041ce0636aa3ec28e7dac6abd5275bbce26"
+    },
+    {
+      "character": "Matthias Becker",
+      "pdf_page": 16,
+      "svg": {
+        "filename": "Matthias_Becker_Hardhat_Source_R7.svg",
+        "sha256": "e53a9f8840d4362ca99f53ece961cd8f624a8e819d25472751e1a7d418863330",
+        "bytes": 5619327,
+        "drive_id": "1sEE3_ZTwhJVAi2gXT3RbqO3-YbwNTi4K",
+        "url": "https://drive.google.com/file/d/1sEE3_ZTwhJVAi2gXT3RbqO3-YbwNTi4K/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Matthias_Becker_Hardhat_Source_R7.png",
+        "sha256": "96f4ab2d98b3d7d464dc20aac99667b816dc16e14d217d8ea2ba736180545d54",
+        "bytes": 1541926,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1E3LXNGX6KLlAmoZgdfybyetry1qZd_Q9",
+        "url": "https://drive.google.com/file/d/1E3LXNGX6KLlAmoZgdfybyetry1qZd_Q9/view?usp=drivesdk"
+      },
+      "placement_snapshot": {
+        "drive_id": "1AaeJR9cgrRxduBsKXrMaHIpfPCfAa4CX",
+        "url": "https://drive.google.com/file/d/1AaeJR9cgrRxduBsKXrMaHIpfPCfAa4CX/view?usp=drivesdk",
+        "filename": "Matthias_Becker_Placement_Record_R7.json",
+        "sha256": "1c73b8144efec61440fa32ade0f0572418f64cb32e496d1ed76f38139e2bcd65",
+        "bytes": 12508
+      },
+      "input_source_id": "1iBo9KFczlNQsThJK6C89qby_mYze-e-d",
+      "input_source_sha256": "fb9c1d424152234c0191f407508a3de9953eb9742beec3ab83a84e8f3e6f3bbe"
+    },
+    {
+      "character": "Luis Mendoza",
+      "pdf_page": 17,
+      "svg": {
+        "filename": "Luis_Mendoza_Hardhat_Source_R7.svg",
+        "sha256": "191ce5661f2ce806ffaf1e0244faef261167be3cb6b5ce848bfa48cfdcd2a4b6",
+        "bytes": 5907365,
+        "drive_id": "1iilSjXrlcFSF97p7c-oDT3tkkh8pmZ58",
+        "url": "https://drive.google.com/file/d/1iilSjXrlcFSF97p7c-oDT3tkkh8pmZ58/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Luis_Mendoza_Hardhat_Source_R7.png",
+        "sha256": "6133abce06a5995b797d8df61af9a11b083456aa0d41800aedfb8c41de632614",
+        "bytes": 1536344,
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "drive_id": "1he9IGwLxgBq4L_9QnyC5BaEDRuJMjzOH",
+        "url": "https://drive.google.com/file/d/1he9IGwLxgBq4L_9QnyC5BaEDRuJMjzOH/view?usp=drivesdk"
+      },
+      "placement_snapshot": {
+        "drive_id": "1guq-LjxRQ8a6H-LnaCI_cjLuw4BW6m7i",
+        "url": "https://drive.google.com/file/d/1guq-LjxRQ8a6H-LnaCI_cjLuw4BW6m7i/view?usp=drivesdk",
+        "filename": "Luis_Mendoza_Placement_Record_R7.json",
+        "sha256": "96f0ec84a737ca3cae352e18859993dfe8c4d710cc3c6689a84ec6175ce74319",
+        "bytes": 14437
+      },
+      "input_source_id": "1terCVW5CIn1o6VERwizsrycpvzsWo2gW",
+      "input_source_sha256": "37a9e67b07105451b6af68116c1abf0acc6fed0fc556bb460984680a41bdf3c5"
+    },
+    {
+      "character": "Andre Lewis",
+      "pdf_page": 18,
+      "svg": {
+        "filename": "Andre_Lewis_Hardhat_Source_R7.svg",
+        "sha256": "bd8b964cf757dc9630e259387deb8c22c0c7de65a73032b78ec8394d5608e392",
+        "bytes": 5736448,
+        "drive_id": "10ckWMmwMHgaJV1Hw3m9QRDlTCQGokcUr",
+        "url": "https://drive.google.com/file/d/10ckWMmwMHgaJV1Hw3m9QRDlTCQGokcUr/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Andre_Lewis_Hardhat_Source_R7.png",
+        "sha256": "e4c0c57f1645500fd67dc5869cdbe5de03c544a3b1c5f229d4cfb7eb0949a353",
+        "bytes": 1615089,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "10mmiiiaE8vAFKAojjl1HSyZAP1Q5O7mV",
+        "url": "https://drive.google.com/file/d/10mmiiiaE8vAFKAojjl1HSyZAP1Q5O7mV/view?usp=drivesdk"
+      },
+      "placement_snapshot": {
+        "drive_id": "1CHMsQ1WGUE3p1u7GjTN-iZiHIOlRQr-u",
+        "url": "https://drive.google.com/file/d/1CHMsQ1WGUE3p1u7GjTN-iZiHIOlRQr-u/view?usp=drivesdk",
+        "filename": "Andre_Lewis_Placement_Record_R7.json",
+        "sha256": "314c5ac1ffcff1cda3d54ef880b7ef2a8665d4f6364dcf1aea20b6d6b69ec2cc",
+        "bytes": 12420
+      },
+      "input_source_id": "1j70h1I63iwjMpWg3ybdYUCgivyp9cTUO",
+      "input_source_sha256": "a3bd26b5d16bda89016ae8675b67d8c901dd8133643d0d23be0f4837686c42d8"
+    },
+    {
+      "character": "Danny Novak",
+      "pdf_page": 19,
+      "svg": {
+        "filename": "Danny_Novak_Hardhat_Source_R7.svg",
+        "sha256": "19b0fa0f8391b2f152ee2ddd75113e3fbe32bd862ca4c9383703022119aa976d",
+        "bytes": 5777506,
+        "drive_id": "1MhviebzLUJy08jExUpjgkjeAD3PFBPvi",
+        "url": "https://drive.google.com/file/d/1MhviebzLUJy08jExUpjgkjeAD3PFBPvi/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Danny_Novak_Hardhat_Source_R7.png",
+        "sha256": "6f1a14326744f10a9b5ad738d04a0c55d22949e4318661faf290de70d398f126",
+        "bytes": 1493647,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1ANNI19nypfccvsldEJehoxO3pYAXiwCW",
+        "url": "https://drive.google.com/file/d/1ANNI19nypfccvsldEJehoxO3pYAXiwCW/view?usp=drivesdk"
+      },
+      "placement_snapshot": {
+        "drive_id": "19AkqrAuY-tUknEUB3Xbti7zjAmKqssym",
+        "url": "https://drive.google.com/file/d/19AkqrAuY-tUknEUB3Xbti7zjAmKqssym/view?usp=drivesdk",
+        "filename": "Danny_Novak_Placement_Record_R7.json",
+        "sha256": "29f5af4ce62d90b6861f410affe8b69751a75fca405c865d51ed3a76b5ebfc52",
+        "bytes": 16985
+      },
+      "input_source_id": "1j3n5-01CwpU121_VmP0ujCgsp4WTQQPP",
+      "input_source_sha256": "c4aebac8565e8d6e5d9a8acc5e4f687aa81b5767b453d624c5317d4a3a2f02aa"
+    },
+    {
+      "character": "Erik Halvorsen",
+      "pdf_page": 20,
+      "svg": {
+        "filename": "Erik_Halvorsen_Hardhat_Source_R7.svg",
+        "sha256": "2d96110581ae923651d8fccae46f2b324894505a4a4d24400bcc033eb65cd3b1",
+        "bytes": 5734504,
+        "drive_id": "1Zy0ektu5fWhmo5CIyUHClY9mpQM1B3Br",
+        "url": "https://drive.google.com/file/d/1Zy0ektu5fWhmo5CIyUHClY9mpQM1B3Br/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Erik_Halvorsen_Hardhat_Source_R7.png",
+        "sha256": "5102bb2cad1d9b0d1d6608dc5869ef71b28741c1dc444e46712baf7a4e6bdf25",
+        "bytes": 1737809,
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "drive_id": "1iLOcD7jDwSodkDZKEsG8MCb921XY_EcY",
+        "url": "https://drive.google.com/file/d/1iLOcD7jDwSodkDZKEsG8MCb921XY_EcY/view?usp=drivesdk"
+      },
+      "placement_snapshot": {
+        "drive_id": "1PqcLGp2hv9jp42DpqlmS3K3VNI5CKOBt",
+        "url": "https://drive.google.com/file/d/1PqcLGp2hv9jp42DpqlmS3K3VNI5CKOBt/view?usp=drivesdk",
+        "filename": "Erik_Halvorsen_Placement_Record_R7.json",
+        "sha256": "4d8f7b2a17375db4cb7f288ab1968b92c59f2f6d5cc6bf5bf8808bc9437e3ab7",
+        "bytes": 17180
+      },
+      "input_source_id": "1x3Jcyc9Dtz9Qw7aHMtcL1RoU-P-FRYH5",
+      "input_source_sha256": "628ea762e6a8c40257cdac4092f0aeebe36cd8b2e5824e22ed70d98714d6286e"
+    },
+    {
+      "character": "Sam Carter",
+      "pdf_page": 21,
+      "svg": {
+        "filename": "Sam_Carter_Hardhat_Source_R7.svg",
+        "sha256": "7125f02803ec43744866832b81f18c1df2aafde905337bcfdd6f83852e19f532",
+        "bytes": 5769669,
+        "drive_id": "1NIO2SXZ6dpR036OK3P44EVVLX74G1yY1",
+        "url": "https://drive.google.com/file/d/1NIO2SXZ6dpR036OK3P44EVVLX74G1yY1/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Sam_Carter_Hardhat_Source_R7.png",
+        "sha256": "6facfce7dbd25b115380759d329659730c93bf15b96db4fc490d4a049253bb95",
+        "bytes": 1582807,
+        "dimensions": [
+          1421,
+          1107
+        ],
+        "drive_id": "1hOCeRhKnHYMfs-lKd78uMumPHscvv7Jv",
+        "url": "https://drive.google.com/file/d/1hOCeRhKnHYMfs-lKd78uMumPHscvv7Jv/view?usp=drivesdk"
+      },
+      "placement_snapshot": {
+        "drive_id": "1DPuOEg4i9haTsPY8GBbVLmWQ55Dat5VZ",
+        "url": "https://drive.google.com/file/d/1DPuOEg4i9haTsPY8GBbVLmWQ55Dat5VZ/view?usp=drivesdk",
+        "filename": "Sam_Carter_Placement_Record_R7.json",
+        "sha256": "35aac902f9563f793330f641bd10c1a8c7013bbd6e4014b1ee239967e3296bd4",
+        "bytes": 12405
+      },
+      "input_source_id": "1ZMDUhQcio6nyhJMXdCM47v6kMOWrFyUW",
+      "input_source_sha256": "9728dab847125118f43489424175c09bbefbfc2fc88998f949964bd0c303a108"
+    },
+    {
+      "character": "Hannah Kowalski",
+      "pdf_page": 22,
+      "svg": {
+        "filename": "Hannah_Kowalski_Hardhat_Source_R7.svg",
+        "sha256": "956211d09343ef4410b276c78e76f83783da7e2eca71b03cbfa975a556133966",
+        "bytes": 6422255,
+        "drive_id": "1hWyH0Ub-ZmZT7-swQNcT_oN_yHoqEXfB",
+        "url": "https://drive.google.com/file/d/1hWyH0Ub-ZmZT7-swQNcT_oN_yHoqEXfB/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Hannah_Kowalski_Hardhat_Source_R7.png",
+        "sha256": "ea549e82b03500338d6c232bf72cfa641ab26c7fdf47d4dcdd86a5027714ec75",
+        "bytes": 1684096,
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "drive_id": "1laJrhRXlrYwM23QhPOJ2y7ImgAGygpix",
+        "url": "https://drive.google.com/file/d/1laJrhRXlrYwM23QhPOJ2y7ImgAGygpix/view?usp=drivesdk"
+      },
+      "placement_snapshot": {
+        "drive_id": "1mOPZ-T252L0RbfcX8TKfNOJIDqWODfa1",
+        "url": "https://drive.google.com/file/d/1mOPZ-T252L0RbfcX8TKfNOJIDqWODfa1/view?usp=drivesdk",
+        "filename": "Hannah_Kowalski_Placement_Record_R7.json",
+        "sha256": "cb44dcacc91d9fa55906f5b6f1b58e9757dd652ebf5d7373e09d0827fe88696f",
+        "bytes": 17450
+      },
+      "input_source_id": "1BZK48d_1Nzvpl0dG6g6TNpj7aQlTY9Hw",
+      "input_source_sha256": "d8167581e300f2ef7f360511870b86621d9ed87d90e9f6ff269a58eb2f907064"
+    },
+    {
+      "character": "Rebecca Foster",
+      "pdf_page": 23,
+      "svg": {
+        "filename": "Rebecca_Foster_Hardhat_Source_R7.svg",
+        "sha256": "8a59b35ed021a5abbdb6da0f4d56f7724049735ff4c010811f0de246185cc424",
+        "bytes": 6026576,
+        "drive_id": "1Mgy6UubEPoNf_A30WgTpGOFI7VRlN3kx",
+        "url": "https://drive.google.com/file/d/1Mgy6UubEPoNf_A30WgTpGOFI7VRlN3kx/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Rebecca_Foster_Hardhat_Source_R7.png",
+        "sha256": "bdfdc00a903d6e1fb01af52d1a9be5d138e008014f6a9be50cbae5da4f462a6d",
+        "bytes": 1316100,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1KD73c3rvWLnToP-bsJVu5vvBkH5itppz",
+        "url": "https://drive.google.com/file/d/1KD73c3rvWLnToP-bsJVu5vvBkH5itppz/view?usp=drivesdk"
+      },
+      "placement_snapshot": {
+        "drive_id": "1PHGbqCnhXXZ3yOuAWK5Xe_ReziKdBsu6",
+        "url": "https://drive.google.com/file/d/1PHGbqCnhXXZ3yOuAWK5Xe_ReziKdBsu6/view?usp=drivesdk",
+        "filename": "Rebecca_Foster_Placement_Record_R7.json",
+        "sha256": "36d8cc494091dfc609d7a3b06fae6db6429b99036bb84f3e6709c6844ba6df28",
+        "bytes": 2840
+      },
+      "input_source_id": "1L-I74qZgEE6mqn4QOdiw7Xe9jCu_kLs3",
+      "input_source_sha256": "15fe9d689782788d946316498debfbb7fc46eb9ad30305302833964b85ff6ec6"
+    },
+    {
+      "character": "Natalie Chen",
+      "pdf_page": 24,
+      "svg": {
+        "filename": "Natalie_Chen_Hardhat_Source_R7.svg",
+        "sha256": "3d5d68903f69776de9027dcfeeaa33bfdbce35cc77c9ac28d8371b629fb8f267",
+        "bytes": 6611502,
+        "drive_id": "1aqrnACUi_zfMMFwhatCvVq0893WDgyL2",
+        "url": "https://drive.google.com/file/d/1aqrnACUi_zfMMFwhatCvVq0893WDgyL2/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Natalie_Chen_Hardhat_Source_R7.png",
+        "sha256": "1fe1ec397e6a3270918eb6f53ccdcea222da88493c949d6e57d6ad319f7ff99e",
+        "bytes": 1533590,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1KcN1IK4dBOrqAcSFrEVA_WuyDHIwA2Wm",
+        "url": "https://drive.google.com/file/d/1KcN1IK4dBOrqAcSFrEVA_WuyDHIwA2Wm/view?usp=drivesdk"
+      },
+      "placement_snapshot": {
+        "drive_id": "1x5Evv1uYrU2hEFsXL3KvBbBKYDKiPkRh",
+        "url": "https://drive.google.com/file/d/1x5Evv1uYrU2hEFsXL3KvBbBKYDKiPkRh/view?usp=drivesdk",
+        "filename": "Natalie_Chen_Placement_Record_R7.json",
+        "sha256": "bdf47e8366fc1730cebf4691e80038b8746c48b8e50aa00d19147d972cc8d99b",
+        "bytes": 12386
+      },
+      "input_source_id": "1EKsRfE_4L70V_gB5-ZDcaa7oc9RtWXyk",
+      "input_source_sha256": "e7cd00e97abc190dfebc84bab0ad50d03e47f1880642dbbaf2d73e5dfd093824"
+    },
+    {
+      "character": "Rafael Martinez",
+      "pdf_page": 25,
+      "svg": {
+        "filename": "Rafael_Martinez_Hardhat_Source_R7.svg",
+        "sha256": "9dca981f3ca4359e594df0ff6549293fedc23bf27d92e96a8006ec57fd1d443e",
+        "bytes": 5757473,
+        "drive_id": "1pQMD76hRQMSP30N1WtSHbZn08p3Gln25",
+        "url": "https://drive.google.com/file/d/1pQMD76hRQMSP30N1WtSHbZn08p3Gln25/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Rafael_Martinez_Hardhat_Source_R7.png",
+        "sha256": "40796ccfc2c1fdd3136877f22a0a2ba2195dd7eaf326a59a30119296d6f08f60",
+        "bytes": 1464587,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1ApSLdrKK5NPbZ2E5m4UQH0WLS3Bs0ujo",
+        "url": "https://drive.google.com/file/d/1ApSLdrKK5NPbZ2E5m4UQH0WLS3Bs0ujo/view?usp=drivesdk"
+      },
+      "placement_snapshot": {
+        "drive_id": "1a6g5o84nXmMSf4ukTSXjyYbq8Ig4lyrp",
+        "url": "https://drive.google.com/file/d/1a6g5o84nXmMSf4ukTSXjyYbq8Ig4lyrp/view?usp=drivesdk",
+        "filename": "Rafael_Martinez_Placement_Record_R7.json",
+        "sha256": "6967edca3930793faca5bcf0a069ecc211dc3c0a8d6d3d646cc21cab6f03de55",
+        "bytes": 12444
+      },
+      "input_source_id": "1u0kb98KWu31y_wPf5UkoWmms0wPzzH-H",
+      "input_source_sha256": "fcd5935b2d27406eb51d7e47f288664b7061349d288e6771085c9cc5e5827fed"
+    },
+    {
+      "character": "Marisol Vega",
+      "pdf_page": 26,
+      "svg": {
+        "filename": "Marisol_Vega_Hardhat_Source_R7.svg",
+        "sha256": "c9a43331f9b187e221a35bfd68cd7e3c6f21faf7a9f9135c21299a60ecd5d8bd",
+        "bytes": 5658432,
+        "drive_id": "1tI4qUooIzfb4TQpTJqeoIX2JF8jOfyZC",
+        "url": "https://drive.google.com/file/d/1tI4qUooIzfb4TQpTJqeoIX2JF8jOfyZC/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Marisol_Vega_Hardhat_Source_R7.png",
+        "sha256": "bb277d25ea8f2538cf08998b072b41866666fd29421991844e05db3e5b2d79e6",
+        "bytes": 1432525,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "11Kx4-KvRSEXf84QvIYRABQ7dRNeaZU93",
+        "url": "https://drive.google.com/file/d/11Kx4-KvRSEXf84QvIYRABQ7dRNeaZU93/view?usp=drivesdk"
+      },
+      "placement_snapshot": {
+        "drive_id": "1KCZQbm3_TnoHC7wCD2yLe0g3BmX8yfCK",
+        "url": "https://drive.google.com/file/d/1KCZQbm3_TnoHC7wCD2yLe0g3BmX8yfCK/view?usp=drivesdk",
+        "filename": "Marisol_Vega_Placement_Record_R7.json",
+        "sha256": "e84a2a5d35f68e549efaedaa138b6f8845ab8f7ff6131ffb311854fbafbd8edf",
+        "bytes": 12422
+      },
+      "input_source_id": "1jiAs8kZkD7azCTRAQeFZ0kSH6lwEvW7r",
+      "input_source_sha256": "ed5b8d49208b53ed2badc8b28fda82a5452fabd658d03a386ebf06d044a8c1dd"
+    },
+    {
+      "character": "Adrian Park",
+      "pdf_page": 27,
+      "svg": {
+        "filename": "Adrian_Park_Hardhat_Source_R7.svg",
+        "sha256": "6ad3cf01d30bb55a9726a503f7006f2f21235290fef7f332c19be9ff8731e15e",
+        "bytes": 5855396,
+        "drive_id": "1iBaOAwigNy0F3cd39petfoftKnZ95Iw5",
+        "url": "https://drive.google.com/file/d/1iBaOAwigNy0F3cd39petfoftKnZ95Iw5/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Adrian_Park_Hardhat_Source_R7.png",
+        "sha256": "14b1f8f2ced3c66d1a8e30afc69d3ce29d69deeb92739387d62c404c5daa2e17",
+        "bytes": 1593034,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1st4xW-oEu94CEultdwRQxi5KcS5t1qAp",
+        "url": "https://drive.google.com/file/d/1st4xW-oEu94CEultdwRQxi5KcS5t1qAp/view?usp=drivesdk"
+      },
+      "placement_snapshot": {
+        "drive_id": "1O-ofaxIldbnPoeBl0TXdrLMc_6fA5N_v",
+        "url": "https://drive.google.com/file/d/1O-ofaxIldbnPoeBl0TXdrLMc_6fA5N_v/view?usp=drivesdk",
+        "filename": "Adrian_Park_Placement_Record_R7.json",
+        "sha256": "2990f3c5eaa50dca4f5d321e86b907e8a2461a9202cd47a6a59ecba0a685fbd9",
+        "bytes": 17399
+      },
+      "input_source_id": "1OhUIRNnzn9m1l85ojHCbUHAJB3jvihvM",
+      "input_source_sha256": "bef68042cf323b36b42b8cd4789291c65217f916971f5b0415c15f54fc53eb94"
+    }
+  ],
+  "preservation": {
+    "approved_artwork_bytes_changed": false,
+    "existing_review_labels_retained": true,
+    "reason": "Retain the exact PDF, SVG and PNG bytes reviewed by Adam. Review/pending labels and placement sidecars describe export-time state; this approval record and current register establish present status."
+  },
+  "scope_limits": {
+    "full_character_PPE_sheets_approved_by_this_record": false,
+    "existing_full_character_approvals_changed": false,
+    "measured_3D_or_print_certification": false,
+    "repository_merge_authorized": false
+  },
+  "archive": {
+    "folder": {
+      "success": true,
+      "id": "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG",
+      "url": "https://drive.google.com/drive/folders/1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG",
+      "title": "Superseded - Earlier Hardhat Sources - Archived 2026-11-01",
+      "parent_id": "17J0cREVTUkPV2TlcFZhH3zht5igIaaoU"
+    },
+    "moves": [
+      {
+        "id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf",
+        "name": "Hardhat Source Sheets - All Characters - REVIEW 2026-10-20",
+        "from_parent": "1Mbpw81H15b57na9nhiPXiR8krTDq1Cul",
+        "to_parent": "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG",
+        "result": {
+          "success": true,
+          "accepted_input": null,
+          "id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf",
+          "title": "Hardhat Source Sheets - All Characters - REVIEW 2026-10-20",
+          "mime_type": "application/vnd.google-apps.folder",
+          "url": "https://drive.google.com/drive/folders/1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf",
+          "parent_ids": [
+            "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG"
+          ],
+          "modified_time": null,
+          "size": null
+        },
+        "verified_parent_ids": [
+          "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG"
+        ]
+      },
+      {
+        "id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL",
+        "name": "Hardhat Sources R5 - Logo and Placement Corrections - REVIEW 2026-10-21",
+        "from_parent": "1Mbpw81H15b57na9nhiPXiR8krTDq1Cul",
+        "to_parent": "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG",
+        "result": {
+          "success": true,
+          "accepted_input": null,
+          "id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL",
+          "title": "Hardhat Sources R5 - Logo and Placement Corrections - REVIEW 2026-10-21",
+          "mime_type": "application/vnd.google-apps.folder",
+          "url": "https://drive.google.com/drive/folders/1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL",
+          "parent_ids": [
+            "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG"
+          ],
+          "modified_time": null,
+          "size": null
+        },
+        "verified_parent_ids": [
+          "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG"
+        ]
+      },
+      {
+        "id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW",
+        "name": "Hardhat 3D Sources R6 - MSA Styles - REVIEW",
+        "from_parent": "1Mbpw81H15b57na9nhiPXiR8krTDq1Cul",
+        "to_parent": "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG",
+        "result": {
+          "success": true,
+          "accepted_input": null,
+          "id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW",
+          "title": "Hardhat 3D Sources R6 - MSA Styles - REVIEW",
+          "mime_type": "application/vnd.google-apps.folder",
+          "url": "https://drive.google.com/drive/folders/1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW",
+          "parent_ids": [
+            "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG"
+          ],
+          "modified_time": null,
+          "size": null
+        },
+        "verified_parent_ids": [
+          "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG"
+        ]
+      }
+    ],
+    "descendant_count": 280,
+    "inventory_file": "Archive_Inventory_R7_Approval.json",
+    "inventory_sha256": "e26c7909773b2d611569c7e62c9c0a1ad45ada399253c885d0de2638e910772b",
+    "verification": "All three source folders now have only the verified archive parent. Parent-only moves preserve all descendant IDs and bytes.",
+    "inventory_drive_id": "1eP_rVrSAdYzvTRaN4TThjFG3JIXytLab"
+  },
+  "verification": {
+    "approved_character_count": 26,
+    "current_drive_svg_png_ids_names_sizes_match_manifest": true,
+    "local_reviewed_svg_png_pdf_sha256_match_manifest": true,
+    "placement_records_present": 26,
+    "artwork_mutations_performed": 0,
+    "export_check_status": "PASS_EXPORT_CHECKS_ONLY",
+    "repository_canon_check": {
+      "errors": 0,
+      "warnings": 0,
+      "referenced_assets": 79
+    }
+  },
+  "github": {
+    "branch": "review/hardhat-svg-r7-2026-11-01",
+    "pull_request": "https://github.com/adamwreid82/The-Little-Specs-Club/pull/5",
+    "approval_path": "QA/hardhat-sources/R7/approval-2026-11-01.json",
+    "archive_path": "QA/hardhat-sources/R7/archive-inventory-2026-11-01.json"
+  },
+  "approval_record_drive_id": "1fasyeQo5Zk-H2Wp2CDzT-FioWHMwLTVa"
+}

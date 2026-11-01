@@ -145,3 +145,25 @@ series_wordmark_master:
   replaces: historical_character_sheet_wordmark_crops_for_future_series_wordmark_use
   other_locked_branding_assets_changed: false
   spread_approval: false
+
+hardhat_source_sheet_reference:
+  status: AUTHOR_APPROVED
+  revision: R7
+  approved_by: Adam Reid
+  approved_date: '2026-11-01'
+  approval_evidence: approved
+  character_count: 26
+  scope: Hardhat source artwork and shown logo/sticker placement for the 26 characters
+    enumerated in the R7 manifest.
+  folder_id: 17J0cREVTUkPV2TlcFZhH3zht5igIaaoU
+  pdf_drive_id: 1Ms6pJt5DToOiDZRN4NO4riBb2ZB7utAQ
+  pdf_sha256: 668facf3d3ddc4b5dc21a09e092e71552f7fe4129ea13c2f356c5646254014f0
+  manifest: QA/hardhat-sources/R7/manifest.json
+  approval_record: QA/hardhat-sources/R7/approval-2026-11-01.json
+  archive_inventory: QA/hardhat-sources/R7/archive-inventory-2026-11-01.json
+  earlier_application_references: Retained as historical evidence. R7 is the latest
+    author-approved source for its represented hardhat artwork and placement.
+  full_character_sheet_approval: false
+  measured_3D_certification: false
+  approval_record_drive_id: 1fasyeQo5Zk-H2Wp2CDzT-FioWHMwLTVa
+  archive_inventory_drive_id: 1eP_rVrSAdYzvTRaN4TThjFG3JIXytLab

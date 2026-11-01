@@ -1,0 +1,1339 @@
+{
+  "revision": "R7",
+  "created_on": "2026-11-01",
+  "status": "AUTHOR_APPROVED",
+  "source_folder_id": "1a_M9FhDZNTlgbJxcUw2CRvp7Sai41_ov",
+  "source_parent_folder_id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL",
+  "source_folder": "Hardhat Sources R5 - Logo and Placement Corrections - REVIEW 2026-10-21/Editable Sources and Placement Records",
+  "existing_r6_folder_id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW",
+  "scope": "Export all current source SVGs as a new R7 review set; preserve author edits exactly outside the two review/footer text elements.",
+  "source_count": 26,
+  "pdf": {
+    "filename": "Hardhat_Source_Review_R7_All_Characters.pdf",
+    "sha256": "668facf3d3ddc4b5dc21a09e092e71552f7fe4129ea13c2f356c5646254014f0",
+    "bytes": 59028791,
+    "pages": 27
+  },
+  "characters": [
+    {
+      "character": "Ben",
+      "revision": "R7",
+      "approval": "AUTHOR_APPROVED",
+      "source": {
+        "id": "1y60zoxGXteb7UXg87VsOqvSJv1di0Lzi",
+        "name": "Ben_Hardhat_Source_R5.svg",
+        "mime_type": "image/svg+xml",
+        "size": 5807682,
+        "modified_time": "2026-11-01T21:57:05.942Z",
+        "url": "https://drive.google.com/file/d/1y60zoxGXteb7UXg87VsOqvSJv1di0Lzi/view?usp=drivesdk"
+      },
+      "source_sha256": "10159b01e3df1989f2ddff83bd28857062c712989af5b41d1c8c3130d4cbf9c3",
+      "derived_svg": {
+        "filename": "Ben_Hardhat_Source_R7.svg",
+        "sha256": "8ca5c7168d71a079037ed9e664f8ae93e3e0214029277f6b0e7bb9fad47dc2f0",
+        "bytes": 5805947,
+        "drive_id": "1r5OB5a5AOEG0cO3iPNLnAR_aAUocC38v",
+        "url": "https://drive.google.com/file/d/1r5OB5a5AOEG0cO3iPNLnAR_aAUocC38v/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Ben_Hardhat_Source_R7.png",
+        "sha256": "a701a63b5df294106b71cf067038fb6c6f9756a4df92dcd6447af17450cdf031",
+        "bytes": 1422294,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "18-LbUWGtYnVH3Wg8Bqi84xwvnSV_4QrZ",
+        "url": "https://drive.google.com/file/d/18-LbUWGtYnVH3Wg8Bqi84xwvnSV_4QrZ/view?usp=drivesdk"
+      },
+      "canvas": {
+        "width": "1536",
+        "height": "1024",
+        "viewBox": "0 0 1536 1024"
+      },
+      "artwork_geometry_unchanged": true,
+      "changes": "Only two review/footer text elements updated; all helmet, logo, sticker, shell and image data retained.",
+      "placement_record_type": "authored SVG element snapshot, not new 3D coordinates",
+      "placement_record": {
+        "drive_id": "1wd0tk59TgvSk5I2by_bDrS0eWPQyHFXs",
+        "url": "https://drive.google.com/file/d/1wd0tk59TgvSk5I2by_bDrS0eWPQyHFXs/view?usp=drivesdk"
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
+    },
+    {
+      "character": "Leo",
+      "revision": "R7",
+      "approval": "AUTHOR_APPROVED",
+      "source": {
+        "id": "1_vqWYtvfjEu7ZowocXar3B2UR4xPoOYi",
+        "name": "Leo_Hardhat_Source_R5.svg",
+        "mime_type": "image/svg+xml",
+        "size": 5741376,
+        "modified_time": "2026-10-21T19:16:34.527Z",
+        "url": "https://drive.google.com/file/d/1_vqWYtvfjEu7ZowocXar3B2UR4xPoOYi/view?usp=drivesdk"
+      },
+      "source_sha256": "6990c98700d561b6e5192b20e724023662e40d0e498781912fb8d25a50774ff3",
+      "derived_svg": {
+        "filename": "Leo_Hardhat_Source_R7.svg",
+        "sha256": "86af0635c04a6a20fe628759ce0ae4a71b80122c31eff0fedd93615dd7ad8fa7",
+        "bytes": 5741414,
+        "drive_id": "1hNFKRDBYW2GLvge1EYFBfvaqf111B6vw",
+        "url": "https://drive.google.com/file/d/1hNFKRDBYW2GLvge1EYFBfvaqf111B6vw/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Leo_Hardhat_Source_R7.png",
+        "sha256": "30eb179ad61589c828e980c081cb871ea2399ec73306b01856a371f08f7bd477",
+        "bytes": 1446975,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1EqzQKOaznXhC5HQhAjHOCUXz6TOFqXFH",
+        "url": "https://drive.google.com/file/d/1EqzQKOaznXhC5HQhAjHOCUXz6TOFqXFH/view?usp=drivesdk"
+      },
+      "canvas": {
+        "width": "1536",
+        "height": "1024",
+        "viewBox": "0 0 1536 1024"
+      },
+      "artwork_geometry_unchanged": true,
+      "changes": "Only two review/footer text elements updated; all helmet, logo, sticker, shell and image data retained.",
+      "placement_record_type": "authored SVG element snapshot, not new 3D coordinates",
+      "placement_record": {
+        "drive_id": "1jcICdv0nxzdDBlzCsChbAFg1-zdZ1FJD",
+        "url": "https://drive.google.com/file/d/1jcICdv0nxzdDBlzCsChbAFg1-zdZ1FJD/view?usp=drivesdk"
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
+    },
+    {
+      "character": "Vinny",
+      "revision": "R7",
+      "approval": "AUTHOR_APPROVED",
+      "source": {
+        "id": "12hXRuygJl6WPeXO4zlG1xiL2lxWNH_Kz",
+        "name": "Vinny_Hardhat_Source_R5.svg",
+        "mime_type": "image/svg+xml",
+        "size": 5886750,
+        "modified_time": "2026-11-01T21:55:26.456Z",
+        "url": "https://drive.google.com/file/d/12hXRuygJl6WPeXO4zlG1xiL2lxWNH_Kz/view?usp=drivesdk"
+      },
+      "source_sha256": "5c14ce2e9e03abff7ccbbed51396dda4564154e127f6d5e114231892b2de3e48",
+      "derived_svg": {
+        "filename": "Vinny_Hardhat_Source_R7.svg",
+        "sha256": "376d59e80bb12db387d45a947d1a860eaab2048b7706fe29c4d42a7c2556bb7b",
+        "bytes": 5885015,
+        "drive_id": "1XF7iJ2-Ta6ezoWsL8aqwjdyx3s9Ye_vv",
+        "url": "https://drive.google.com/file/d/1XF7iJ2-Ta6ezoWsL8aqwjdyx3s9Ye_vv/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Vinny_Hardhat_Source_R7.png",
+        "sha256": "c43da2bfb5b0ca9c94139644cb78320686461bd410fa01f8826f9736bab1190a",
+        "bytes": 1524081,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1qNCI6Oa37yBvmCfffOThUUFvF51vupFo",
+        "url": "https://drive.google.com/file/d/1qNCI6Oa37yBvmCfffOThUUFvF51vupFo/view?usp=drivesdk"
+      },
+      "canvas": {
+        "width": "1536",
+        "height": "1024",
+        "viewBox": "0 0 1536 1024"
+      },
+      "artwork_geometry_unchanged": true,
+      "changes": "Only two review/footer text elements updated; all helmet, logo, sticker, shell and image data retained.",
+      "placement_record_type": "authored SVG element snapshot, not new 3D coordinates",
+      "placement_record": {
+        "drive_id": "115V63_CPBn35EbrnZIQDkWFRs6uncfHJ",
+        "url": "https://drive.google.com/file/d/115V63_CPBn35EbrnZIQDkWFRs6uncfHJ/view?usp=drivesdk"
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
+    },
+    {
+      "character": "Steph",
+      "revision": "R7",
+      "approval": "AUTHOR_APPROVED",
+      "source": {
+        "id": "1yEx4vgq8fXzeCJang5gSquFcaJQkBJo_",
+        "name": "Steph_Hardhat_Source_R5.svg",
+        "mime_type": "image/svg+xml",
+        "size": 5723808,
+        "modified_time": "2026-11-01T21:55:46.294Z",
+        "url": "https://drive.google.com/file/d/1yEx4vgq8fXzeCJang5gSquFcaJQkBJo_/view?usp=drivesdk"
+      },
+      "source_sha256": "67fc2697b32697a46719ea18c3b2323b553dabba66d18583098be41b07db62ed",
+      "derived_svg": {
+        "filename": "Steph_Hardhat_Source_R7.svg",
+        "sha256": "39b2b4c3ddb94dde87c9570f8912ab3305b559f70e001b0d07df0f8802ff4e5b",
+        "bytes": 5722074,
+        "drive_id": "1RWMcxM3VeGJlWxJ2nXQfGiuEhtW0oDUf",
+        "url": "https://drive.google.com/file/d/1RWMcxM3VeGJlWxJ2nXQfGiuEhtW0oDUf/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Steph_Hardhat_Source_R7.png",
+        "sha256": "46d2026163251b86b82f5285c64ef7a052bf8152f43fe9b51e42e734a26cba25",
+        "bytes": 1380220,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1pVd0kkLkP3r_cszYtL8pUnEK2BTVcqmz",
+        "url": "https://drive.google.com/file/d/1pVd0kkLkP3r_cszYtL8pUnEK2BTVcqmz/view?usp=drivesdk"
+      },
+      "canvas": {
+        "width": "1536",
+        "height": "1024",
+        "viewBox": "0 0 1536 1024"
+      },
+      "artwork_geometry_unchanged": true,
+      "changes": "Only two review/footer text elements updated; all helmet, logo, sticker, shell and image data retained.",
+      "placement_record_type": "authored SVG element snapshot, not new 3D coordinates",
+      "placement_record": {
+        "drive_id": "1ciHKMc5U4W88JS7_WKuXdtufFXQAk2ja",
+        "url": "https://drive.google.com/file/d/1ciHKMc5U4W88JS7_WKuXdtufFXQAk2ja/view?usp=drivesdk"
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
+    },
+    {
+      "character": "Maya",
+      "revision": "R7",
+      "approval": "AUTHOR_APPROVED",
+      "source": {
+        "id": "1pHwSfT5JQwler1Om7d9XaPcM5iSZghvl",
+        "name": "Maya_Hardhat_Source_R5.svg",
+        "mime_type": "image/svg+xml",
+        "size": 5850933,
+        "modified_time": "2026-10-21T19:20:39.042Z",
+        "url": "https://drive.google.com/file/d/1pHwSfT5JQwler1Om7d9XaPcM5iSZghvl/view?usp=drivesdk"
+      },
+      "source_sha256": "da8a692ea2daf5824daee0c44976fc10034918bb3702733741ef9b236351d177",
+      "derived_svg": {
+        "filename": "Maya_Hardhat_Source_R7.svg",
+        "sha256": "023c6054017864fb50f084e26233d44dbba40ff5fa27cd0b57f7e24ecbf894e6",
+        "bytes": 5850971,
+        "drive_id": "1XXKAvjPeXTqxcA9T65j-S8Ro5FSOP1k5",
+        "url": "https://drive.google.com/file/d/1XXKAvjPeXTqxcA9T65j-S8Ro5FSOP1k5/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Maya_Hardhat_Source_R7.png",
+        "sha256": "30ae249a67b805c6a9157fbc9bd4193d7aab5781bb2f3b20f1e9af0f58812efd",
+        "bytes": 1554696,
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "drive_id": "1FKytzqqSI-_iC20SO9EsUueE-dHQqUxM",
+        "url": "https://drive.google.com/file/d/1FKytzqqSI-_iC20SO9EsUueE-dHQqUxM/view?usp=drivesdk"
+      },
+      "canvas": {
+        "width": "1254",
+        "height": "1254",
+        "viewBox": "0 0 1254 1254"
+      },
+      "artwork_geometry_unchanged": true,
+      "changes": "Only two review/footer text elements updated; all helmet, logo, sticker, shell and image data retained.",
+      "placement_record_type": "authored SVG element snapshot, not new 3D coordinates",
+      "placement_record": {
+        "drive_id": "18youWlsc4OdFxUhXGc_RgOUcg3Y9Pyqc",
+        "url": "https://drive.google.com/file/d/18youWlsc4OdFxUhXGc_RgOUcg3Y9Pyqc/view?usp=drivesdk"
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
+    },
+    {
+      "character": "Mrs Harper",
+      "revision": "R7",
+      "approval": "AUTHOR_APPROVED",
+      "source": {
+        "id": "1gXa1ucaxDxjdLdBX0LhtBLnIQT13E0vt",
+        "name": "Mrs_Harper_Hardhat_Source_R5.svg",
+        "mime_type": "image/svg+xml",
+        "size": 5738403,
+        "modified_time": "2026-10-21T19:17:57.406Z",
+        "url": "https://drive.google.com/file/d/1gXa1ucaxDxjdLdBX0LhtBLnIQT13E0vt/view?usp=drivesdk"
+      },
+      "source_sha256": "87a643a6e416033ed01230cda3ecdf0eb0bf746263d90fccb62d66a2d2506a4e",
+      "derived_svg": {
+        "filename": "Mrs_Harper_Hardhat_Source_R7.svg",
+        "sha256": "340b53b4d28a93f230b2bab033d0292f52f3c653ce26815594c87ee69266bcb2",
+        "bytes": 5738441,
+        "drive_id": "1h2tWmN835ZYMNsXveDYlwcPbpY5iSyMR",
+        "url": "https://drive.google.com/file/d/1h2tWmN835ZYMNsXveDYlwcPbpY5iSyMR/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Mrs_Harper_Hardhat_Source_R7.png",
+        "sha256": "595541d204ada9871ae39cdc6baa648f23e5ad38e0f6159d8d7e940107163fdf",
+        "bytes": 1374440,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1JwQ66X6lFO2xWCC_HpB3RfoAurpuvm_v",
+        "url": "https://drive.google.com/file/d/1JwQ66X6lFO2xWCC_HpB3RfoAurpuvm_v/view?usp=drivesdk"
+      },
+      "canvas": {
+        "width": "1536",
+        "height": "1024",
+        "viewBox": "0 0 1536 1024"
+      },
+      "artwork_geometry_unchanged": true,
+      "changes": "Only two review/footer text elements updated; all helmet, logo, sticker, shell and image data retained.",
+      "placement_record_type": "authored SVG element snapshot, not new 3D coordinates",
+      "placement_record": {
+        "drive_id": "1L7QkA21DcAxAS_4mT2HKgNEmU_3qUrtB",
+        "url": "https://drive.google.com/file/d/1L7QkA21DcAxAS_4mT2HKgNEmU_3qUrtB/view?usp=drivesdk"
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
+    },
+    {
+      "character": "Elena Rivera",
+      "revision": "R7",
+      "approval": "AUTHOR_APPROVED",
+      "source": {
+        "id": "1QdXVf8Cxa20jDQ3qj8t7rdva52KgyO5d",
+        "name": "Elena_Rivera_Hardhat_Source_R5.svg",
+        "mime_type": "image/svg+xml",
+        "size": 5839109,
+        "modified_time": "2026-11-01T21:59:52.461Z",
+        "url": "https://drive.google.com/file/d/1QdXVf8Cxa20jDQ3qj8t7rdva52KgyO5d/view?usp=drivesdk"
+      },
+      "source_sha256": "95f72c74c252433188140e64743e3312f700d773f767a7913a65db3fff06a405",
+      "derived_svg": {
+        "filename": "Elena_Rivera_Hardhat_Source_R7.svg",
+        "sha256": "098c05481b6d072514ffe198d5b80ccde45e8b8594dcf55a60bdb17245c27178",
+        "bytes": 5837629,
+        "drive_id": "1i9APN6PHhLYak8pMHG31WIhYMSBW2ZHF",
+        "url": "https://drive.google.com/file/d/1i9APN6PHhLYak8pMHG31WIhYMSBW2ZHF/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Elena_Rivera_Hardhat_Source_R7.png",
+        "sha256": "4c71201ddb50cbb4b3537ede9cab580c6444633a9f5f57ba8e5ff079479af50d",
+        "bytes": 1386800,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1F75iAh2m3WWFMoqFZWIbBSnXdhTP32ki",
+        "url": "https://drive.google.com/file/d/1F75iAh2m3WWFMoqFZWIbBSnXdhTP32ki/view?usp=drivesdk"
+      },
+      "canvas": {
+        "width": "1536",
+        "height": "1024",
+        "viewBox": "0 0 1536 1024"
+      },
+      "artwork_geometry_unchanged": true,
+      "changes": "Only two review/footer text elements updated; all helmet, logo, sticker, shell and image data retained.",
+      "placement_record_type": "authored SVG element snapshot, not new 3D coordinates",
+      "placement_record": {
+        "drive_id": "1AcZmzNdJQ3XNSmYalGhEMqj6-GeWdX-1",
+        "url": "https://drive.google.com/file/d/1AcZmzNdJQ3XNSmYalGhEMqj6-GeWdX-1/view?usp=drivesdk"
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
+    },
+    {
+      "character": "Marcus Jackson",
+      "revision": "R7",
+      "approval": "AUTHOR_APPROVED",
+      "source": {
+        "id": "1O135cEGMPhc6gkk6lsd6gtSsw9t2QIFU",
+        "name": "Marcus_Jackson_Hardhat_Source_R5.svg",
+        "mime_type": "image/svg+xml",
+        "size": 5011365,
+        "modified_time": "2026-11-01T22:02:27.193Z",
+        "url": "https://drive.google.com/file/d/1O135cEGMPhc6gkk6lsd6gtSsw9t2QIFU/view?usp=drivesdk"
+      },
+      "source_sha256": "1c81133cf918a4ae78e436b481c793eb6443e7ee7536024b0838fb7e06d7a1dc",
+      "derived_svg": {
+        "filename": "Marcus_Jackson_Hardhat_Source_R7.svg",
+        "sha256": "e6a59344376b9385523a4c94c21b2a16173b3e1db2fea517951fdc36a5144d6b",
+        "bytes": 5009630,
+        "drive_id": "1shxS_KrtAQ29yLemJafFT3RqlCKnNnID",
+        "url": "https://drive.google.com/file/d/1shxS_KrtAQ29yLemJafFT3RqlCKnNnID/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Marcus_Jackson_Hardhat_Source_R7.png",
+        "sha256": "f1a17deb6591a53663454cb542328ae3b09888e20a060b53dc47e84624a2c701",
+        "bytes": 1561330,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1WRZT8cCY7RgpikZ_wWyJxpf1DjiVybJU",
+        "url": "https://drive.google.com/file/d/1WRZT8cCY7RgpikZ_wWyJxpf1DjiVybJU/view?usp=drivesdk"
+      },
+      "canvas": {
+        "width": "1536",
+        "height": "1024",
+        "viewBox": "0 0 1536 1024"
+      },
+      "artwork_geometry_unchanged": true,
+      "changes": "Only two review/footer text elements updated; all helmet, logo, sticker, shell and image data retained.",
+      "placement_record_type": "authored SVG element snapshot, not new 3D coordinates",
+      "placement_record": {
+        "drive_id": "1MZc19mOSSwFVVi2DEHguG6EQMG53wfxV",
+        "url": "https://drive.google.com/file/d/1MZc19mOSSwFVVi2DEHguG6EQMG53wfxV/view?usp=drivesdk"
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
+    },
+    {
+      "character": "Priya Patel",
+      "revision": "R7",
+      "approval": "AUTHOR_APPROVED",
+      "source": {
+        "id": "1ydXbls9eMFxtD4zYQxwU-tQvul4sSKV3",
+        "name": "Priya_Patel_Hardhat_Source_R5.svg",
+        "mime_type": "image/svg+xml",
+        "size": 5404914,
+        "modified_time": "2026-11-01T22:04:52.898Z",
+        "url": "https://drive.google.com/file/d/1ydXbls9eMFxtD4zYQxwU-tQvul4sSKV3/view?usp=drivesdk"
+      },
+      "source_sha256": "66c3f1b3f13d3235088b19d2a798c8fd590c7dccba588bdb5ec2b9390ed65161",
+      "derived_svg": {
+        "filename": "Priya_Patel_Hardhat_Source_R7.svg",
+        "sha256": "80662d6e528b3c8774cf8d94e1986397d1eea84b566bec9663ddeeca18207d0c",
+        "bytes": 5403165,
+        "drive_id": "19XwQG7EXgueJUjL3D6U0EAm0qduDsJ0h",
+        "url": "https://drive.google.com/file/d/19XwQG7EXgueJUjL3D6U0EAm0qduDsJ0h/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Priya_Patel_Hardhat_Source_R7.png",
+        "sha256": "40c9fc9e9e19ab0723f0b0e3e51abf261027f0c47c9cc294bc2bdea73f85ab63",
+        "bytes": 1506117,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1yagm0P3nFdGAsC5SHWKUBQ8236DDAsVR",
+        "url": "https://drive.google.com/file/d/1yagm0P3nFdGAsC5SHWKUBQ8236DDAsVR/view?usp=drivesdk"
+      },
+      "canvas": {
+        "width": "1536",
+        "height": "1024",
+        "viewBox": "0 0 1536 1024"
+      },
+      "artwork_geometry_unchanged": true,
+      "changes": "Only two review/footer text elements updated; all helmet, logo, sticker, shell and image data retained.",
+      "placement_record_type": "authored SVG element snapshot, not new 3D coordinates",
+      "placement_record": {
+        "drive_id": "1tBH_mEgo4Dd21ZLOkldoRuIw7jy_LlaK",
+        "url": "https://drive.google.com/file/d/1tBH_mEgo4Dd21ZLOkldoRuIw7jy_LlaK/view?usp=drivesdk"
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
+    },
+    {
+      "character": "Daniel Brooks",
+      "revision": "R7",
+      "approval": "AUTHOR_APPROVED",
+      "source": {
+        "id": "13T6oVJmvrSee97K8h-gry0PIJBHpCC8V",
+        "name": "Daniel_Brooks_Hardhat_Source_R5.svg",
+        "mime_type": "image/svg+xml",
+        "size": 5089500,
+        "modified_time": "2026-11-01T21:57:51.917Z",
+        "url": "https://drive.google.com/file/d/13T6oVJmvrSee97K8h-gry0PIJBHpCC8V/view?usp=drivesdk"
+      },
+      "source_sha256": "8d048a02c0f0292f6a50e9170fcaf979a40e708ff49e9b9feb2a9c2f73245e75",
+      "derived_svg": {
+        "filename": "Daniel_Brooks_Hardhat_Source_R7.svg",
+        "sha256": "b5a41e1bafda42ffe50121cb21c975b70894a2ff51cd37876c23a6890d036f8a",
+        "bytes": 5087765,
+        "drive_id": "1d06g4pCgTuywA18QXKiAXBhn6BtWEO2b",
+        "url": "https://drive.google.com/file/d/1d06g4pCgTuywA18QXKiAXBhn6BtWEO2b/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Daniel_Brooks_Hardhat_Source_R7.png",
+        "sha256": "6aada1a67420b1d16c5067e5601c53af6a571bbbc576274e9c27caef79f9bd5d",
+        "bytes": 1619041,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1dEruTL27Dm3-1GB29vqKMg_O3QgXyszg",
+        "url": "https://drive.google.com/file/d/1dEruTL27Dm3-1GB29vqKMg_O3QgXyszg/view?usp=drivesdk"
+      },
+      "canvas": {
+        "width": "1536",
+        "height": "1024",
+        "viewBox": "0 0 1536 1024"
+      },
+      "artwork_geometry_unchanged": true,
+      "changes": "Only two review/footer text elements updated; all helmet, logo, sticker, shell and image data retained.",
+      "placement_record_type": "authored SVG element snapshot, not new 3D coordinates",
+      "placement_record": {
+        "drive_id": "1Kkjt4ZIFrHJdIb_qtOnm9ObE_7bnvOg0",
+        "url": "https://drive.google.com/file/d/1Kkjt4ZIFrHJdIb_qtOnm9ObE_7bnvOg0/view?usp=drivesdk"
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
+    },
+    {
+      "character": "Tony Marino",
+      "revision": "R7",
+      "approval": "AUTHOR_APPROVED",
+      "source": {
+        "id": "1p6rFd67DdHF7PWGKoN4Uoo0o8r3IsYht",
+        "name": "Tony_Marino_Hardhat_Source_R5.svg",
+        "mime_type": "image/svg+xml",
+        "size": 6545170,
+        "modified_time": "2026-11-01T22:04:34.270Z",
+        "url": "https://drive.google.com/file/d/1p6rFd67DdHF7PWGKoN4Uoo0o8r3IsYht/view?usp=drivesdk"
+      },
+      "source_sha256": "1291793229adc11347dffb2028c92ae07bf70564fa2942368d0d22fd34daf45f",
+      "derived_svg": {
+        "filename": "Tony_Marino_Hardhat_Source_R7.svg",
+        "sha256": "60af6353b89b4cfb6d23d6a4a776506db41ae943ea544c09b32dc4fcac7112a1",
+        "bytes": 6543421,
+        "drive_id": "1kTSqp1U_mfxDP3jeE1c7uc1UdDqOwHUw",
+        "url": "https://drive.google.com/file/d/1kTSqp1U_mfxDP3jeE1c7uc1UdDqOwHUw/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Tony_Marino_Hardhat_Source_R7.png",
+        "sha256": "1de02f8484767d28f8c86a09c927f7d9df6e120c2c7cf02668473c30458b1131",
+        "bytes": 1406307,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1zeHaX3ybb7-bYcbVsqEW-6a2Faq1061b",
+        "url": "https://drive.google.com/file/d/1zeHaX3ybb7-bYcbVsqEW-6a2Faq1061b/view?usp=drivesdk"
+      },
+      "canvas": {
+        "width": "1536",
+        "height": "1024",
+        "viewBox": "0 0 1536 1024"
+      },
+      "artwork_geometry_unchanged": true,
+      "changes": "Only two review/footer text elements updated; all helmet, logo, sticker, shell and image data retained.",
+      "placement_record_type": "authored SVG element snapshot, not new 3D coordinates",
+      "placement_record": {
+        "drive_id": "1tcEmGLqvwqOu1yktAIckVeJjQHY-nwO-",
+        "url": "https://drive.google.com/file/d/1tcEmGLqvwqOu1yktAIckVeJjQHY-nwO-/view?usp=drivesdk"
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
+    },
+    {
+      "character": "Claire Morgan",
+      "revision": "R7",
+      "approval": "AUTHOR_APPROVED",
+      "source": {
+        "id": "1N4QNHvV0dmIhNjdesBAiL_wObiAqTD8o",
+        "name": "Claire_Morgan_Hardhat_Source_R5.svg",
+        "mime_type": "image/svg+xml",
+        "size": 5399299,
+        "modified_time": "2026-11-01T21:57:29.919Z",
+        "url": "https://drive.google.com/file/d/1N4QNHvV0dmIhNjdesBAiL_wObiAqTD8o/view?usp=drivesdk"
+      },
+      "source_sha256": "376c938d549bf5c7b93b052b8b2b4a4287034581fa07005aa973cfb59db49c1d",
+      "derived_svg": {
+        "filename": "Claire_Morgan_Hardhat_Source_R7.svg",
+        "sha256": "58d8f34348cafc763cca8b6097ce221d7b288fe896842f09e6c3b19b667367bd",
+        "bytes": 5397550,
+        "drive_id": "1uMeIPP9R8QyWNc4jOVc6xo7wcOomzr3C",
+        "url": "https://drive.google.com/file/d/1uMeIPP9R8QyWNc4jOVc6xo7wcOomzr3C/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Claire_Morgan_Hardhat_Source_R7.png",
+        "sha256": "ddb33fbf22671d19fec8d0f58049bf306c4ed33ad3cdbc50a4922ff806cac2a7",
+        "bytes": 1409355,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1YdJ-zirE6JB3_4n9vDxap4HFGSdJPAyQ",
+        "url": "https://drive.google.com/file/d/1YdJ-zirE6JB3_4n9vDxap4HFGSdJPAyQ/view?usp=drivesdk"
+      },
+      "canvas": {
+        "width": "1536",
+        "height": "1024",
+        "viewBox": "0 0 1536 1024"
+      },
+      "artwork_geometry_unchanged": true,
+      "changes": "Only two review/footer text elements updated; all helmet, logo, sticker, shell and image data retained.",
+      "placement_record_type": "authored SVG element snapshot, not new 3D coordinates",
+      "placement_record": {
+        "drive_id": "19TM8CiY8Zd8_sLnQ0uh5vgVTVtOCwR7l",
+        "url": "https://drive.google.com/file/d/19TM8CiY8Zd8_sLnQ0uh5vgVTVtOCwR7l/view?usp=drivesdk"
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
+    },
+    {
+      "character": "Omar Haddad",
+      "revision": "R7",
+      "approval": "AUTHOR_APPROVED",
+      "source": {
+        "id": "1sI3Q3vS6klTuh3s5hiByd1DOR9cHqyOL",
+        "name": "Omar_Haddad_Hardhat_Source_R5.svg",
+        "mime_type": "image/svg+xml",
+        "size": 5874903,
+        "modified_time": "2026-11-01T22:05:23.249Z",
+        "url": "https://drive.google.com/file/d/1sI3Q3vS6klTuh3s5hiByd1DOR9cHqyOL/view?usp=drivesdk"
+      },
+      "source_sha256": "6e1337dbb2a714da177cc5d007c4d61955580d685c17fda5f8d9a3721428cadc",
+      "derived_svg": {
+        "filename": "Omar_Haddad_Hardhat_Source_R7.svg",
+        "sha256": "78120abd57bc5a7feb31b64ba2c579899c4b3d4bf773a55d0e99dcfa7d641c23",
+        "bytes": 5873154,
+        "drive_id": "1nzz4b07VHpayvf5X5VcGeLR4MWLiB1aV",
+        "url": "https://drive.google.com/file/d/1nzz4b07VHpayvf5X5VcGeLR4MWLiB1aV/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Omar_Haddad_Hardhat_Source_R7.png",
+        "sha256": "a59acc8633474c4f38f14ec00611f15eae1fc81f54e3cb3b168ece0a91cd4aae",
+        "bytes": 1609192,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1WX9XGa3__0zcZOySIEYKse3sDxYshA1W",
+        "url": "https://drive.google.com/file/d/1WX9XGa3__0zcZOySIEYKse3sDxYshA1W/view?usp=drivesdk"
+      },
+      "canvas": {
+        "width": "1536",
+        "height": "1024",
+        "viewBox": "0 0 1536 1024"
+      },
+      "artwork_geometry_unchanged": true,
+      "changes": "Only two review/footer text elements updated; all helmet, logo, sticker, shell and image data retained.",
+      "placement_record_type": "authored SVG element snapshot, not new 3D coordinates",
+      "placement_record": {
+        "drive_id": "1BpWhYWq-3UTV99JtgOHlUtZjTU9G1iDJ",
+        "url": "https://drive.google.com/file/d/1BpWhYWq-3UTV99JtgOHlUtZjTU9G1iDJ/view?usp=drivesdk"
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
+    },
+    {
+      "character": "Darius Cole",
+      "revision": "R7",
+      "approval": "AUTHOR_APPROVED",
+      "source": {
+        "id": "1LLCafvFO5iGMxrnCDyIuZ0hT71u6Oj6a",
+        "name": "Darius_Cole_Hardhat_Source_R5.svg",
+        "mime_type": "image/svg+xml",
+        "size": 6272948,
+        "modified_time": "2026-11-01T21:59:19.314Z",
+        "url": "https://drive.google.com/file/d/1LLCafvFO5iGMxrnCDyIuZ0hT71u6Oj6a/view?usp=drivesdk"
+      },
+      "source_sha256": "725b7147756f6b69a55632f1ae1e3041ce0636aa3ec28e7dac6abd5275bbce26",
+      "derived_svg": {
+        "filename": "Darius_Cole_Hardhat_Source_R7.svg",
+        "sha256": "cf155f09303967f13b9609af4b7bc7337a7b8349d3f32fc26e473adbd98d6fc7",
+        "bytes": 6271459,
+        "drive_id": "1OuZ4Q6rR4J_tOqIJIcYFBLc3bDLhOHbF",
+        "url": "https://drive.google.com/file/d/1OuZ4Q6rR4J_tOqIJIcYFBLc3bDLhOHbF/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Darius_Cole_Hardhat_Source_R7.png",
+        "sha256": "705ee3f0844de669b795aedcbc3b3f6e9d4e8be83abd1b51363e31ebb6005739",
+        "bytes": 1535604,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1P-dQOxoL9e0aG4BcI0sm-4j0M0DONuGq",
+        "url": "https://drive.google.com/file/d/1P-dQOxoL9e0aG4BcI0sm-4j0M0DONuGq/view?usp=drivesdk"
+      },
+      "canvas": {
+        "width": "1536",
+        "height": "1024",
+        "viewBox": "0 0 1536 1024"
+      },
+      "artwork_geometry_unchanged": true,
+      "changes": "Only two review/footer text elements updated; all helmet, logo, sticker, shell and image data retained.",
+      "placement_record_type": "authored SVG element snapshot, not new 3D coordinates",
+      "placement_record": {
+        "drive_id": "1tC-FFT4HCFm1be_OqD3iNkEHUyKZ-K5b",
+        "url": "https://drive.google.com/file/d/1tC-FFT4HCFm1be_OqD3iNkEHUyKZ-K5b/view?usp=drivesdk"
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
+    },
+    {
+      "character": "Matthias Becker",
+      "revision": "R7",
+      "approval": "AUTHOR_APPROVED",
+      "source": {
+        "id": "1iBo9KFczlNQsThJK6C89qby_mYze-e-d",
+        "name": "Matthias_Becker_Hardhat_Source_R5.svg",
+        "mime_type": "image/svg+xml",
+        "size": 5621076,
+        "modified_time": "2026-11-01T22:06:02.767Z",
+        "url": "https://drive.google.com/file/d/1iBo9KFczlNQsThJK6C89qby_mYze-e-d/view?usp=drivesdk"
+      },
+      "source_sha256": "fb9c1d424152234c0191f407508a3de9953eb9742beec3ab83a84e8f3e6f3bbe",
+      "derived_svg": {
+        "filename": "Matthias_Becker_Hardhat_Source_R7.svg",
+        "sha256": "e53a9f8840d4362ca99f53ece961cd8f624a8e819d25472751e1a7d418863330",
+        "bytes": 5619327,
+        "drive_id": "1sEE3_ZTwhJVAi2gXT3RbqO3-YbwNTi4K",
+        "url": "https://drive.google.com/file/d/1sEE3_ZTwhJVAi2gXT3RbqO3-YbwNTi4K/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Matthias_Becker_Hardhat_Source_R7.png",
+        "sha256": "96f4ab2d98b3d7d464dc20aac99667b816dc16e14d217d8ea2ba736180545d54",
+        "bytes": 1541926,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1E3LXNGX6KLlAmoZgdfybyetry1qZd_Q9",
+        "url": "https://drive.google.com/file/d/1E3LXNGX6KLlAmoZgdfybyetry1qZd_Q9/view?usp=drivesdk"
+      },
+      "canvas": {
+        "width": "1536",
+        "height": "1024",
+        "viewBox": "0 0 1536 1024"
+      },
+      "artwork_geometry_unchanged": true,
+      "changes": "Only two review/footer text elements updated; all helmet, logo, sticker, shell and image data retained.",
+      "placement_record_type": "authored SVG element snapshot, not new 3D coordinates",
+      "placement_record": {
+        "drive_id": "1AaeJR9cgrRxduBsKXrMaHIpfPCfAa4CX",
+        "url": "https://drive.google.com/file/d/1AaeJR9cgrRxduBsKXrMaHIpfPCfAa4CX/view?usp=drivesdk"
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
+    },
+    {
+      "character": "Luis Mendoza",
+      "revision": "R7",
+      "approval": "AUTHOR_APPROVED",
+      "source": {
+        "id": "1terCVW5CIn1o6VERwizsrycpvzsWo2gW",
+        "name": "Luis_Mendoza_Hardhat_Source_R5.svg",
+        "mime_type": "image/svg+xml",
+        "size": 5908854,
+        "modified_time": "2026-11-01T22:02:02.304Z",
+        "url": "https://drive.google.com/file/d/1terCVW5CIn1o6VERwizsrycpvzsWo2gW/view?usp=drivesdk"
+      },
+      "source_sha256": "37a9e67b07105451b6af68116c1abf0acc6fed0fc556bb460984680a41bdf3c5",
+      "derived_svg": {
+        "filename": "Luis_Mendoza_Hardhat_Source_R7.svg",
+        "sha256": "191ce5661f2ce806ffaf1e0244faef261167be3cb6b5ce848bfa48cfdcd2a4b6",
+        "bytes": 5907365,
+        "drive_id": "1iilSjXrlcFSF97p7c-oDT3tkkh8pmZ58",
+        "url": "https://drive.google.com/file/d/1iilSjXrlcFSF97p7c-oDT3tkkh8pmZ58/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Luis_Mendoza_Hardhat_Source_R7.png",
+        "sha256": "6133abce06a5995b797d8df61af9a11b083456aa0d41800aedfb8c41de632614",
+        "bytes": 1536344,
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "drive_id": "1he9IGwLxgBq4L_9QnyC5BaEDRuJMjzOH",
+        "url": "https://drive.google.com/file/d/1he9IGwLxgBq4L_9QnyC5BaEDRuJMjzOH/view?usp=drivesdk"
+      },
+      "canvas": {
+        "width": "1254",
+        "height": "1254",
+        "viewBox": "0 0 1254 1254"
+      },
+      "artwork_geometry_unchanged": true,
+      "changes": "Only two review/footer text elements updated; all helmet, logo, sticker, shell and image data retained.",
+      "placement_record_type": "authored SVG element snapshot, not new 3D coordinates",
+      "placement_record": {
+        "drive_id": "1guq-LjxRQ8a6H-LnaCI_cjLuw4BW6m7i",
+        "url": "https://drive.google.com/file/d/1guq-LjxRQ8a6H-LnaCI_cjLuw4BW6m7i/view?usp=drivesdk"
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
+    },
+    {
+      "character": "Andre Lewis",
+      "revision": "R7",
+      "approval": "AUTHOR_APPROVED",
+      "source": {
+        "id": "1j70h1I63iwjMpWg3ybdYUCgivyp9cTUO",
+        "name": "Andre_Lewis_Hardhat_Source_R5.svg",
+        "mime_type": "image/svg+xml",
+        "size": 5738197,
+        "modified_time": "2026-11-01T21:56:44.406Z",
+        "url": "https://drive.google.com/file/d/1j70h1I63iwjMpWg3ybdYUCgivyp9cTUO/view?usp=drivesdk"
+      },
+      "source_sha256": "a3bd26b5d16bda89016ae8675b67d8c901dd8133643d0d23be0f4837686c42d8",
+      "derived_svg": {
+        "filename": "Andre_Lewis_Hardhat_Source_R7.svg",
+        "sha256": "bd8b964cf757dc9630e259387deb8c22c0c7de65a73032b78ec8394d5608e392",
+        "bytes": 5736448,
+        "drive_id": "10ckWMmwMHgaJV1Hw3m9QRDlTCQGokcUr",
+        "url": "https://drive.google.com/file/d/10ckWMmwMHgaJV1Hw3m9QRDlTCQGokcUr/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Andre_Lewis_Hardhat_Source_R7.png",
+        "sha256": "e4c0c57f1645500fd67dc5869cdbe5de03c544a3b1c5f229d4cfb7eb0949a353",
+        "bytes": 1615089,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "10mmiiiaE8vAFKAojjl1HSyZAP1Q5O7mV",
+        "url": "https://drive.google.com/file/d/10mmiiiaE8vAFKAojjl1HSyZAP1Q5O7mV/view?usp=drivesdk"
+      },
+      "canvas": {
+        "width": "1536",
+        "height": "1024",
+        "viewBox": "0 0 1536 1024"
+      },
+      "artwork_geometry_unchanged": true,
+      "changes": "Only two review/footer text elements updated; all helmet, logo, sticker, shell and image data retained.",
+      "placement_record_type": "authored SVG element snapshot, not new 3D coordinates",
+      "placement_record": {
+        "drive_id": "1CHMsQ1WGUE3p1u7GjTN-iZiHIOlRQr-u",
+        "url": "https://drive.google.com/file/d/1CHMsQ1WGUE3p1u7GjTN-iZiHIOlRQr-u/view?usp=drivesdk"
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
+    },
+    {
+      "character": "Danny Novak",
+      "revision": "R7",
+      "approval": "AUTHOR_APPROVED",
+      "source": {
+        "id": "1j3n5-01CwpU121_VmP0ujCgsp4WTQQPP",
+        "name": "Danny_Novak_Hardhat_Source_R5.svg",
+        "mime_type": "image/svg+xml",
+        "size": 5779000,
+        "modified_time": "2026-11-01T21:58:40.996Z",
+        "url": "https://drive.google.com/file/d/1j3n5-01CwpU121_VmP0ujCgsp4WTQQPP/view?usp=drivesdk"
+      },
+      "source_sha256": "c4aebac8565e8d6e5d9a8acc5e4f687aa81b5767b453d624c5317d4a3a2f02aa",
+      "derived_svg": {
+        "filename": "Danny_Novak_Hardhat_Source_R7.svg",
+        "sha256": "19b0fa0f8391b2f152ee2ddd75113e3fbe32bd862ca4c9383703022119aa976d",
+        "bytes": 5777506,
+        "drive_id": "1MhviebzLUJy08jExUpjgkjeAD3PFBPvi",
+        "url": "https://drive.google.com/file/d/1MhviebzLUJy08jExUpjgkjeAD3PFBPvi/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Danny_Novak_Hardhat_Source_R7.png",
+        "sha256": "6f1a14326744f10a9b5ad738d04a0c55d22949e4318661faf290de70d398f126",
+        "bytes": 1493647,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1ANNI19nypfccvsldEJehoxO3pYAXiwCW",
+        "url": "https://drive.google.com/file/d/1ANNI19nypfccvsldEJehoxO3pYAXiwCW/view?usp=drivesdk"
+      },
+      "canvas": {
+        "width": "1536",
+        "height": "1024",
+        "viewBox": "0 0 1536 1024"
+      },
+      "artwork_geometry_unchanged": true,
+      "changes": "Only two review/footer text elements updated; all helmet, logo, sticker, shell and image data retained.",
+      "placement_record_type": "authored SVG element snapshot, not new 3D coordinates",
+      "placement_record": {
+        "drive_id": "19AkqrAuY-tUknEUB3Xbti7zjAmKqssym",
+        "url": "https://drive.google.com/file/d/19AkqrAuY-tUknEUB3Xbti7zjAmKqssym/view?usp=drivesdk"
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
+    },
+    {
+      "character": "Erik Halvorsen",
+      "revision": "R7",
+      "approval": "AUTHOR_APPROVED",
+      "source": {
+        "id": "1x3Jcyc9Dtz9Qw7aHMtcL1RoU-P-FRYH5",
+        "name": "Erik_Halvorsen_Hardhat_Source_R5.svg",
+        "mime_type": "image/svg+xml",
+        "size": 5735993,
+        "modified_time": "2026-11-01T22:00:27.402Z",
+        "url": "https://drive.google.com/file/d/1x3Jcyc9Dtz9Qw7aHMtcL1RoU-P-FRYH5/view?usp=drivesdk"
+      },
+      "source_sha256": "628ea762e6a8c40257cdac4092f0aeebe36cd8b2e5824e22ed70d98714d6286e",
+      "derived_svg": {
+        "filename": "Erik_Halvorsen_Hardhat_Source_R7.svg",
+        "sha256": "2d96110581ae923651d8fccae46f2b324894505a4a4d24400bcc033eb65cd3b1",
+        "bytes": 5734504,
+        "drive_id": "1Zy0ektu5fWhmo5CIyUHClY9mpQM1B3Br",
+        "url": "https://drive.google.com/file/d/1Zy0ektu5fWhmo5CIyUHClY9mpQM1B3Br/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Erik_Halvorsen_Hardhat_Source_R7.png",
+        "sha256": "5102bb2cad1d9b0d1d6608dc5869ef71b28741c1dc444e46712baf7a4e6bdf25",
+        "bytes": 1737809,
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "drive_id": "1iLOcD7jDwSodkDZKEsG8MCb921XY_EcY",
+        "url": "https://drive.google.com/file/d/1iLOcD7jDwSodkDZKEsG8MCb921XY_EcY/view?usp=drivesdk"
+      },
+      "canvas": {
+        "width": "1254",
+        "height": "1254",
+        "viewBox": "0 0 1254 1254"
+      },
+      "artwork_geometry_unchanged": true,
+      "changes": "Only two review/footer text elements updated; all helmet, logo, sticker, shell and image data retained.",
+      "placement_record_type": "authored SVG element snapshot, not new 3D coordinates",
+      "placement_record": {
+        "drive_id": "1PqcLGp2hv9jp42DpqlmS3K3VNI5CKOBt",
+        "url": "https://drive.google.com/file/d/1PqcLGp2hv9jp42DpqlmS3K3VNI5CKOBt/view?usp=drivesdk"
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
+    },
+    {
+      "character": "Sam Carter",
+      "revision": "R7",
+      "approval": "AUTHOR_APPROVED",
+      "source": {
+        "id": "1ZMDUhQcio6nyhJMXdCM47v6kMOWrFyUW",
+        "name": "Sam_Carter_Hardhat_Source_R5.svg",
+        "mime_type": "image/svg+xml",
+        "size": 5771418,
+        "modified_time": "2026-11-01T22:03:50.567Z",
+        "url": "https://drive.google.com/file/d/1ZMDUhQcio6nyhJMXdCM47v6kMOWrFyUW/view?usp=drivesdk"
+      },
+      "source_sha256": "9728dab847125118f43489424175c09bbefbfc2fc88998f949964bd0c303a108",
+      "derived_svg": {
+        "filename": "Sam_Carter_Hardhat_Source_R7.svg",
+        "sha256": "7125f02803ec43744866832b81f18c1df2aafde905337bcfdd6f83852e19f532",
+        "bytes": 5769669,
+        "drive_id": "1NIO2SXZ6dpR036OK3P44EVVLX74G1yY1",
+        "url": "https://drive.google.com/file/d/1NIO2SXZ6dpR036OK3P44EVVLX74G1yY1/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Sam_Carter_Hardhat_Source_R7.png",
+        "sha256": "6facfce7dbd25b115380759d329659730c93bf15b96db4fc490d4a049253bb95",
+        "bytes": 1582807,
+        "dimensions": [
+          1421,
+          1107
+        ],
+        "drive_id": "1hOCeRhKnHYMfs-lKd78uMumPHscvv7Jv",
+        "url": "https://drive.google.com/file/d/1hOCeRhKnHYMfs-lKd78uMumPHscvv7Jv/view?usp=drivesdk"
+      },
+      "canvas": {
+        "width": "1421",
+        "height": "1107",
+        "viewBox": "0 0 1421 1107"
+      },
+      "artwork_geometry_unchanged": true,
+      "changes": "Only two review/footer text elements updated; all helmet, logo, sticker, shell and image data retained.",
+      "placement_record_type": "authored SVG element snapshot, not new 3D coordinates",
+      "placement_record": {
+        "drive_id": "1DPuOEg4i9haTsPY8GBbVLmWQ55Dat5VZ",
+        "url": "https://drive.google.com/file/d/1DPuOEg4i9haTsPY8GBbVLmWQ55Dat5VZ/view?usp=drivesdk"
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
+    },
+    {
+      "character": "Hannah Kowalski",
+      "revision": "R7",
+      "approval": "AUTHOR_APPROVED",
+      "source": {
+        "id": "1BZK48d_1Nzvpl0dG6g6TNpj7aQlTY9Hw",
+        "name": "Hannah_Kowalski_Hardhat_Source_R5.svg",
+        "mime_type": "image/svg+xml",
+        "size": 6423744,
+        "modified_time": "2026-11-01T22:01:10.971Z",
+        "url": "https://drive.google.com/file/d/1BZK48d_1Nzvpl0dG6g6TNpj7aQlTY9Hw/view?usp=drivesdk"
+      },
+      "source_sha256": "d8167581e300f2ef7f360511870b86621d9ed87d90e9f6ff269a58eb2f907064",
+      "derived_svg": {
+        "filename": "Hannah_Kowalski_Hardhat_Source_R7.svg",
+        "sha256": "956211d09343ef4410b276c78e76f83783da7e2eca71b03cbfa975a556133966",
+        "bytes": 6422255,
+        "drive_id": "1hWyH0Ub-ZmZT7-swQNcT_oN_yHoqEXfB",
+        "url": "https://drive.google.com/file/d/1hWyH0Ub-ZmZT7-swQNcT_oN_yHoqEXfB/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Hannah_Kowalski_Hardhat_Source_R7.png",
+        "sha256": "ea549e82b03500338d6c232bf72cfa641ab26c7fdf47d4dcdd86a5027714ec75",
+        "bytes": 1684096,
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "drive_id": "1laJrhRXlrYwM23QhPOJ2y7ImgAGygpix",
+        "url": "https://drive.google.com/file/d/1laJrhRXlrYwM23QhPOJ2y7ImgAGygpix/view?usp=drivesdk"
+      },
+      "canvas": {
+        "width": "1254",
+        "height": "1254",
+        "viewBox": "0 0 1254 1254"
+      },
+      "artwork_geometry_unchanged": true,
+      "changes": "Only two review/footer text elements updated; all helmet, logo, sticker, shell and image data retained.",
+      "placement_record_type": "authored SVG element snapshot, not new 3D coordinates",
+      "placement_record": {
+        "drive_id": "1mOPZ-T252L0RbfcX8TKfNOJIDqWODfa1",
+        "url": "https://drive.google.com/file/d/1mOPZ-T252L0RbfcX8TKfNOJIDqWODfa1/view?usp=drivesdk"
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
+    },
+    {
+      "character": "Rebecca Foster",
+      "revision": "R7",
+      "approval": "AUTHOR_APPROVED",
+      "source": {
+        "id": "1L-I74qZgEE6mqn4QOdiw7Xe9jCu_kLs3",
+        "name": "Rebecca_Foster_Hardhat_Source_R5.svg",
+        "mime_type": "image/svg+xml",
+        "size": 6026944,
+        "modified_time": "2026-11-01T22:04:17.881Z",
+        "url": "https://drive.google.com/file/d/1L-I74qZgEE6mqn4QOdiw7Xe9jCu_kLs3/view?usp=drivesdk"
+      },
+      "source_sha256": "15fe9d689782788d946316498debfbb7fc46eb9ad30305302833964b85ff6ec6",
+      "derived_svg": {
+        "filename": "Rebecca_Foster_Hardhat_Source_R7.svg",
+        "sha256": "8a59b35ed021a5abbdb6da0f4d56f7724049735ff4c010811f0de246185cc424",
+        "bytes": 6026576,
+        "drive_id": "1Mgy6UubEPoNf_A30WgTpGOFI7VRlN3kx",
+        "url": "https://drive.google.com/file/d/1Mgy6UubEPoNf_A30WgTpGOFI7VRlN3kx/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Rebecca_Foster_Hardhat_Source_R7.png",
+        "sha256": "bdfdc00a903d6e1fb01af52d1a9be5d138e008014f6a9be50cbae5da4f462a6d",
+        "bytes": 1316100,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1KD73c3rvWLnToP-bsJVu5vvBkH5itppz",
+        "url": "https://drive.google.com/file/d/1KD73c3rvWLnToP-bsJVu5vvBkH5itppz/view?usp=drivesdk"
+      },
+      "canvas": {
+        "width": "1536",
+        "height": "1024",
+        "viewBox": "0 0 1536 1024"
+      },
+      "artwork_geometry_unchanged": true,
+      "changes": "Only two review/footer text elements updated; all helmet, logo, sticker, shell and image data retained.",
+      "placement_record_type": "authored SVG element snapshot, not new 3D coordinates",
+      "placement_record": {
+        "drive_id": "1PHGbqCnhXXZ3yOuAWK5Xe_ReziKdBsu6",
+        "url": "https://drive.google.com/file/d/1PHGbqCnhXXZ3yOuAWK5Xe_ReziKdBsu6/view?usp=drivesdk"
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
+    },
+    {
+      "character": "Natalie Chen",
+      "revision": "R7",
+      "approval": "AUTHOR_APPROVED",
+      "source": {
+        "id": "1EKsRfE_4L70V_gB5-ZDcaa7oc9RtWXyk",
+        "name": "Natalie_Chen_Hardhat_Source_R5.svg",
+        "mime_type": "image/svg+xml",
+        "size": 6613251,
+        "modified_time": "2026-11-01T22:05:33.141Z",
+        "url": "https://drive.google.com/file/d/1EKsRfE_4L70V_gB5-ZDcaa7oc9RtWXyk/view?usp=drivesdk"
+      },
+      "source_sha256": "e7cd00e97abc190dfebc84bab0ad50d03e47f1880642dbbaf2d73e5dfd093824",
+      "derived_svg": {
+        "filename": "Natalie_Chen_Hardhat_Source_R7.svg",
+        "sha256": "3d5d68903f69776de9027dcfeeaa33bfdbce35cc77c9ac28d8371b629fb8f267",
+        "bytes": 6611502,
+        "drive_id": "1aqrnACUi_zfMMFwhatCvVq0893WDgyL2",
+        "url": "https://drive.google.com/file/d/1aqrnACUi_zfMMFwhatCvVq0893WDgyL2/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Natalie_Chen_Hardhat_Source_R7.png",
+        "sha256": "1fe1ec397e6a3270918eb6f53ccdcea222da88493c949d6e57d6ad319f7ff99e",
+        "bytes": 1533590,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1KcN1IK4dBOrqAcSFrEVA_WuyDHIwA2Wm",
+        "url": "https://drive.google.com/file/d/1KcN1IK4dBOrqAcSFrEVA_WuyDHIwA2Wm/view?usp=drivesdk"
+      },
+      "canvas": {
+        "width": "1536",
+        "height": "1024",
+        "viewBox": "0 0 1536 1024"
+      },
+      "artwork_geometry_unchanged": true,
+      "changes": "Only two review/footer text elements updated; all helmet, logo, sticker, shell and image data retained.",
+      "placement_record_type": "authored SVG element snapshot, not new 3D coordinates",
+      "placement_record": {
+        "drive_id": "1x5Evv1uYrU2hEFsXL3KvBbBKYDKiPkRh",
+        "url": "https://drive.google.com/file/d/1x5Evv1uYrU2hEFsXL3KvBbBKYDKiPkRh/view?usp=drivesdk"
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
+    },
+    {
+      "character": "Rafael Martinez",
+      "revision": "R7",
+      "approval": "AUTHOR_APPROVED",
+      "source": {
+        "id": "1u0kb98KWu31y_wPf5UkoWmms0wPzzH-H",
+        "name": "Rafael_Martinez_Hardhat_Source_R5.svg",
+        "mime_type": "image/svg+xml",
+        "size": 5759222,
+        "modified_time": "2026-11-01T22:04:05.686Z",
+        "url": "https://drive.google.com/file/d/1u0kb98KWu31y_wPf5UkoWmms0wPzzH-H/view?usp=drivesdk"
+      },
+      "source_sha256": "fcd5935b2d27406eb51d7e47f288664b7061349d288e6771085c9cc5e5827fed",
+      "derived_svg": {
+        "filename": "Rafael_Martinez_Hardhat_Source_R7.svg",
+        "sha256": "9dca981f3ca4359e594df0ff6549293fedc23bf27d92e96a8006ec57fd1d443e",
+        "bytes": 5757473,
+        "drive_id": "1pQMD76hRQMSP30N1WtSHbZn08p3Gln25",
+        "url": "https://drive.google.com/file/d/1pQMD76hRQMSP30N1WtSHbZn08p3Gln25/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Rafael_Martinez_Hardhat_Source_R7.png",
+        "sha256": "40796ccfc2c1fdd3136877f22a0a2ba2195dd7eaf326a59a30119296d6f08f60",
+        "bytes": 1464587,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1ApSLdrKK5NPbZ2E5m4UQH0WLS3Bs0ujo",
+        "url": "https://drive.google.com/file/d/1ApSLdrKK5NPbZ2E5m4UQH0WLS3Bs0ujo/view?usp=drivesdk"
+      },
+      "canvas": {
+        "width": "1536",
+        "height": "1024",
+        "viewBox": "0 0 1536 1024"
+      },
+      "artwork_geometry_unchanged": true,
+      "changes": "Only two review/footer text elements updated; all helmet, logo, sticker, shell and image data retained.",
+      "placement_record_type": "authored SVG element snapshot, not new 3D coordinates",
+      "placement_record": {
+        "drive_id": "1a6g5o84nXmMSf4ukTSXjyYbq8Ig4lyrp",
+        "url": "https://drive.google.com/file/d/1a6g5o84nXmMSf4ukTSXjyYbq8Ig4lyrp/view?usp=drivesdk"
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
+    },
+    {
+      "character": "Marisol Vega",
+      "revision": "R7",
+      "approval": "AUTHOR_APPROVED",
+      "source": {
+        "id": "1jiAs8kZkD7azCTRAQeFZ0kSH6lwEvW7r",
+        "name": "Marisol_Vega_Hardhat_Source_R5.svg",
+        "mime_type": "image/svg+xml",
+        "size": 5660181,
+        "modified_time": "2026-11-01T22:03:35.706Z",
+        "url": "https://drive.google.com/file/d/1jiAs8kZkD7azCTRAQeFZ0kSH6lwEvW7r/view?usp=drivesdk"
+      },
+      "source_sha256": "ed5b8d49208b53ed2badc8b28fda82a5452fabd658d03a386ebf06d044a8c1dd",
+      "derived_svg": {
+        "filename": "Marisol_Vega_Hardhat_Source_R7.svg",
+        "sha256": "c9a43331f9b187e221a35bfd68cd7e3c6f21faf7a9f9135c21299a60ecd5d8bd",
+        "bytes": 5658432,
+        "drive_id": "1tI4qUooIzfb4TQpTJqeoIX2JF8jOfyZC",
+        "url": "https://drive.google.com/file/d/1tI4qUooIzfb4TQpTJqeoIX2JF8jOfyZC/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Marisol_Vega_Hardhat_Source_R7.png",
+        "sha256": "bb277d25ea8f2538cf08998b072b41866666fd29421991844e05db3e5b2d79e6",
+        "bytes": 1432525,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "11Kx4-KvRSEXf84QvIYRABQ7dRNeaZU93",
+        "url": "https://drive.google.com/file/d/11Kx4-KvRSEXf84QvIYRABQ7dRNeaZU93/view?usp=drivesdk"
+      },
+      "canvas": {
+        "width": "1536",
+        "height": "1024",
+        "viewBox": "0 0 1536 1024"
+      },
+      "artwork_geometry_unchanged": true,
+      "changes": "Only two review/footer text elements updated; all helmet, logo, sticker, shell and image data retained.",
+      "placement_record_type": "authored SVG element snapshot, not new 3D coordinates",
+      "placement_record": {
+        "drive_id": "1KCZQbm3_TnoHC7wCD2yLe0g3BmX8yfCK",
+        "url": "https://drive.google.com/file/d/1KCZQbm3_TnoHC7wCD2yLe0g3BmX8yfCK/view?usp=drivesdk"
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
+    },
+    {
+      "character": "Adrian Park",
+      "revision": "R7",
+      "approval": "AUTHOR_APPROVED",
+      "source": {
+        "id": "1OhUIRNnzn9m1l85ojHCbUHAJB3jvihvM",
+        "name": "Adrian_Park_Hardhat_Source_R5.svg",
+        "mime_type": "image/svg+xml",
+        "size": 5857150,
+        "modified_time": "2026-11-01T21:56:20.477Z",
+        "url": "https://drive.google.com/file/d/1OhUIRNnzn9m1l85ojHCbUHAJB3jvihvM/view?usp=drivesdk"
+      },
+      "source_sha256": "bef68042cf323b36b42b8cd4789291c65217f916971f5b0415c15f54fc53eb94",
+      "derived_svg": {
+        "filename": "Adrian_Park_Hardhat_Source_R7.svg",
+        "sha256": "6ad3cf01d30bb55a9726a503f7006f2f21235290fef7f332c19be9ff8731e15e",
+        "bytes": 5855396,
+        "drive_id": "1iBaOAwigNy0F3cd39petfoftKnZ95Iw5",
+        "url": "https://drive.google.com/file/d/1iBaOAwigNy0F3cd39petfoftKnZ95Iw5/view?usp=drivesdk"
+      },
+      "png": {
+        "filename": "Adrian_Park_Hardhat_Source_R7.png",
+        "sha256": "14b1f8f2ced3c66d1a8e30afc69d3ce29d69deeb92739387d62c404c5daa2e17",
+        "bytes": 1593034,
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "drive_id": "1st4xW-oEu94CEultdwRQxi5KcS5t1qAp",
+        "url": "https://drive.google.com/file/d/1st4xW-oEu94CEultdwRQxi5KcS5t1qAp/view?usp=drivesdk"
+      },
+      "canvas": {
+        "width": "1536",
+        "height": "1024",
+        "viewBox": "0 0 1536 1024"
+      },
+      "artwork_geometry_unchanged": true,
+      "changes": "Only two review/footer text elements updated; all helmet, logo, sticker, shell and image data retained.",
+      "placement_record_type": "authored SVG element snapshot, not new 3D coordinates",
+      "placement_record": {
+        "drive_id": "1O-ofaxIldbnPoeBl0TXdrLMc_6fA5N_v",
+        "url": "https://drive.google.com/file/d/1O-ofaxIldbnPoeBl0TXdrLMc_6fA5N_v/view?usp=drivesdk"
+      },
+      "approval_record": "QA/hardhat-sources/R7/approval-2026-11-01.json"
+    }
+  ],
+  "limitations": [
+    "Author approval pending.",
+    "No new measured 3D model or physical cross-view validation.",
+    "Old R5 JSON coordinates were not used to reposition any SVG content.",
+    "R7 placement records store actual authored SVG transforms, including independent per-view edits.",
+    "Existing character-sheet approvals and artwork are unchanged."
+  ],
+  "delivery": {
+    "revision": "R7",
+    "status": "PENDING_AUTHOR_REVIEW",
+    "folder": {
+      "success": true,
+      "id": "17J0cREVTUkPV2TlcFZhH3zht5igIaaoU",
+      "url": "https://drive.google.com/drive/folders/17J0cREVTUkPV2TlcFZhH3zht5igIaaoU",
+      "title": "Hardhat Sources R7 - APPROVED - 2026-11-01",
+      "parent_id": "1Mbpw81H15b57na9nhiPXiR8krTDq1Cul"
+    },
+    "pdf": {
+      "accepted_input": "file_uri",
+      "success": true,
+      "id": "1Ms6pJt5DToOiDZRN4NO4riBb2ZB7utAQ",
+      "title": "Hardhat_Source_Review_R7_All_Characters.pdf",
+      "file_name": "Hardhat_Source_Review_R7_All_Characters.pdf",
+      "mime_type": "application/pdf",
+      "url": "https://drive.google.com/file/d/1Ms6pJt5DToOiDZRN4NO4riBb2ZB7utAQ/view?usp=drivesdk",
+      "parent_id": "17J0cREVTUkPV2TlcFZhH3zht5igIaaoU",
+      "structuredContent": {
+        "accepted_input": "file_uri",
+        "success": true,
+        "id": "1Ms6pJt5DToOiDZRN4NO4riBb2ZB7utAQ",
+        "title": "Hardhat_Source_Review_R7_All_Characters.pdf",
+        "file_name": "Hardhat_Source_Review_R7_All_Characters.pdf",
+        "mime_type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1Ms6pJt5DToOiDZRN4NO4riBb2ZB7utAQ/view?usp=drivesdk",
+        "parent_id": "17J0cREVTUkPV2TlcFZhH3zht5igIaaoU"
+      }
+    },
+    "individual_png_folder": {
+      "success": true,
+      "id": "1ablLOJRuYFsoVljRITqpKDP-H5eaWKYE",
+      "url": "https://drive.google.com/drive/folders/1ablLOJRuYFsoVljRITqpKDP-H5eaWKYE",
+      "title": "Individual PNG Approved Sheets",
+      "parent_id": "17J0cREVTUkPV2TlcFZhH3zht5igIaaoU"
+    },
+    "editable_folder": {
+      "success": true,
+      "id": "1NiSDpQET7B1qKineOxuIUHUWSEAxWgsf",
+      "url": "https://drive.google.com/drive/folders/1NiSDpQET7B1qKineOxuIUHUWSEAxWgsf",
+      "title": "Editable Sources and Placement Records",
+      "parent_id": "17J0cREVTUkPV2TlcFZhH3zht5igIaaoU"
+    },
+    "audit_drive_id": "1BB0yHr4mcflkaIgoJprqSErJ9bCGH0CE",
+    "upload_readback_counts": {
+      "png": 26,
+      "svg": 26,
+      "placement_json": 26
+    }
+  },
+  "author_approval": {
+    "status": "AUTHOR_APPROVED",
+    "approved_by": "Adam Reid",
+    "approved_on": "2026-11-01",
+    "approval_quote": "approved",
+    "scope": "All 26 R7 hardhat source sheets and their shown helmet artwork, colors, logo placement and project sticker placement. The exact SVG and PNG versions are identified below.",
+    "record_path": "QA/hardhat-sources/R7/approval-2026-11-01.json",
+    "pdf_sha256": "668facf3d3ddc4b5dc21a09e092e71552f7fe4129ea13c2f356c5646254014f0"
+  },
+  "archive": {
+    "folder": {
+      "success": true,
+      "id": "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG",
+      "url": "https://drive.google.com/drive/folders/1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG",
+      "title": "Superseded - Earlier Hardhat Sources - Archived 2026-11-01",
+      "parent_id": "17J0cREVTUkPV2TlcFZhH3zht5igIaaoU"
+    },
+    "moves": [
+      {
+        "id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf",
+        "name": "Hardhat Source Sheets - All Characters - REVIEW 2026-10-20",
+        "from_parent": "1Mbpw81H15b57na9nhiPXiR8krTDq1Cul",
+        "to_parent": "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG",
+        "result": {
+          "success": true,
+          "accepted_input": null,
+          "id": "1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf",
+          "title": "Hardhat Source Sheets - All Characters - REVIEW 2026-10-20",
+          "mime_type": "application/vnd.google-apps.folder",
+          "url": "https://drive.google.com/drive/folders/1rixXcW5iZKqdZ1bZOQgVM5eAP3SyyQyf",
+          "parent_ids": [
+            "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG"
+          ],
+          "modified_time": null,
+          "size": null
+        },
+        "verified_parent_ids": [
+          "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG"
+        ]
+      },
+      {
+        "id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL",
+        "name": "Hardhat Sources R5 - Logo and Placement Corrections - REVIEW 2026-10-21",
+        "from_parent": "1Mbpw81H15b57na9nhiPXiR8krTDq1Cul",
+        "to_parent": "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG",
+        "result": {
+          "success": true,
+          "accepted_input": null,
+          "id": "1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL",
+          "title": "Hardhat Sources R5 - Logo and Placement Corrections - REVIEW 2026-10-21",
+          "mime_type": "application/vnd.google-apps.folder",
+          "url": "https://drive.google.com/drive/folders/1K_eAuaSVVqKkBeb8fSBUQ80pmPpmD2mL",
+          "parent_ids": [
+            "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG"
+          ],
+          "modified_time": null,
+          "size": null
+        },
+        "verified_parent_ids": [
+          "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG"
+        ]
+      },
+      {
+        "id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW",
+        "name": "Hardhat 3D Sources R6 - MSA Styles - REVIEW",
+        "from_parent": "1Mbpw81H15b57na9nhiPXiR8krTDq1Cul",
+        "to_parent": "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG",
+        "result": {
+          "success": true,
+          "accepted_input": null,
+          "id": "1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW",
+          "title": "Hardhat 3D Sources R6 - MSA Styles - REVIEW",
+          "mime_type": "application/vnd.google-apps.folder",
+          "url": "https://drive.google.com/drive/folders/1qUS-LlAMDgpSOXA_IkA9GITKlPD-MjiW",
+          "parent_ids": [
+            "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG"
+          ],
+          "modified_time": null,
+          "size": null
+        },
+        "verified_parent_ids": [
+          "1xVOIbpiBR1CeEyeuejyvvr2lWjECnYhG"
+        ]
+      }
+    ],
+    "descendant_count": 280,
+    "inventory_file": "Archive_Inventory_R7_Approval.json",
+    "inventory_sha256": "e26c7909773b2d611569c7e62c9c0a1ad45ada399253c885d0de2638e910772b",
+    "verification": "All three source folders now have only the verified archive parent. Parent-only moves preserve all descendant IDs and bytes.",
+    "inventory_drive_id": "1eP_rVrSAdYzvTRaN4TThjFG3JIXytLab"
+  },
+  "approval_record_drive_id": "1fasyeQo5Zk-H2Wp2CDzT-FioWHMwLTVa"
+}
