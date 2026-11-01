@@ -1,0 +1,752 @@
+{
+  "mechanical_status": "PASS",
+  "visual_review_status": "UNVERIFIED",
+  "byte_verification_status": "PASS",
+  "approval_authenticated_by_script": false,
+  "result": "VALID_LEDGER_NOT_VISUAL_CERTIFICATION",
+  "summary": {
+    "character_reports": {
+      "Adrian-Park": {
+        "sheet_registered": false,
+        "mechanical_status": "PASS",
+        "visual_review_status": "UNVERIFIED",
+        "angles": {
+          "front": "UNVERIFIED",
+          "front_right": "UNVERIFIED",
+          "right": "UNVERIFIED",
+          "back_right": "UNVERIFIED",
+          "back": "UNVERIFIED",
+          "back_left": "UNVERIFIED",
+          "left": "UNVERIFIED",
+          "front_left": "UNVERIFIED"
+        },
+        "checks_without_visible_pass": [
+          "face",
+          "hair",
+          "hard_hat_and_color",
+          "identity",
+          "job_stickers",
+          "logos",
+          "outfit",
+          "proportions",
+          "skin"
+        ],
+        "approval_record_present": false
+      },
+      "Andre-Lewis": {
+        "sheet_registered": false,
+        "mechanical_status": "PASS",
+        "visual_review_status": "UNVERIFIED",
+        "angles": {
+          "front": "UNVERIFIED",
+          "front_right": "UNVERIFIED",
+          "right": "UNVERIFIED",
+          "back_right": "UNVERIFIED",
+          "back": "UNVERIFIED",
+          "back_left": "UNVERIFIED",
+          "left": "UNVERIFIED",
+          "front_left": "UNVERIFIED"
+        },
+        "checks_without_visible_pass": [
+          "face",
+          "hair",
+          "hard_hat_and_color",
+          "identity",
+          "job_stickers",
+          "logos",
+          "outfit",
+          "proportions",
+          "skin"
+        ],
+        "approval_record_present": false
+      },
+      "Ben": {
+        "sheet_registered": false,
+        "mechanical_status": "PASS",
+        "visual_review_status": "UNVERIFIED",
+        "angles": {
+          "front": "UNVERIFIED",
+          "front_right": "UNVERIFIED",
+          "right": "UNVERIFIED",
+          "back_right": "UNVERIFIED",
+          "back": "UNVERIFIED",
+          "back_left": "UNVERIFIED",
+          "left": "UNVERIFIED",
+          "front_left": "UNVERIFIED"
+        },
+        "checks_without_visible_pass": [
+          "face",
+          "hair",
+          "hard_hat_and_color",
+          "identity",
+          "job_stickers",
+          "logos",
+          "outfit",
+          "proportions",
+          "skin"
+        ],
+        "approval_record_present": false
+      },
+      "Claire-Morgan": {
+        "sheet_registered": false,
+        "mechanical_status": "PASS",
+        "visual_review_status": "UNVERIFIED",
+        "angles": {
+          "front": "UNVERIFIED",
+          "front_right": "UNVERIFIED",
+          "right": "UNVERIFIED",
+          "back_right": "UNVERIFIED",
+          "back": "UNVERIFIED",
+          "back_left": "UNVERIFIED",
+          "left": "UNVERIFIED",
+          "front_left": "UNVERIFIED"
+        },
+        "checks_without_visible_pass": [
+          "face",
+          "hair",
+          "hard_hat_and_color",
+          "identity",
+          "job_stickers",
+          "logos",
+          "outfit",
+          "proportions",
+          "skin"
+        ],
+        "approval_record_present": false
+      },
+      "Daniel-Brooks": {
+        "sheet_registered": false,
+        "mechanical_status": "PASS",
+        "visual_review_status": "UNVERIFIED",
+        "angles": {
+          "front": "UNVERIFIED",
+          "front_right": "UNVERIFIED",
+          "right": "UNVERIFIED",
+          "back_right": "UNVERIFIED",
+          "back": "UNVERIFIED",
+          "back_left": "UNVERIFIED",
+          "left": "UNVERIFIED",
+          "front_left": "UNVERIFIED"
+        },
+        "checks_without_visible_pass": [
+          "face",
+          "hair",
+          "hard_hat_and_color",
+          "identity",
+          "job_stickers",
+          "logos",
+          "outfit",
+          "proportions",
+          "skin"
+        ],
+        "approval_record_present": false
+      },
+      "Danny-Novak": {
+        "sheet_registered": false,
+        "mechanical_status": "PASS",
+        "visual_review_status": "UNVERIFIED",
+        "angles": {
+          "front": "UNVERIFIED",
+          "front_right": "UNVERIFIED",
+          "right": "UNVERIFIED",
+          "back_right": "UNVERIFIED",
+          "back": "UNVERIFIED",
+          "back_left": "UNVERIFIED",
+          "left": "UNVERIFIED",
+          "front_left": "UNVERIFIED"
+        },
+        "checks_without_visible_pass": [
+          "face",
+          "hair",
+          "hard_hat_and_color",
+          "identity",
+          "job_stickers",
+          "logos",
+          "outfit",
+          "proportions",
+          "skin"
+        ],
+        "approval_record_present": false
+      },
+      "Darius-Cole": {
+        "sheet_registered": false,
+        "mechanical_status": "PASS",
+        "visual_review_status": "UNVERIFIED",
+        "angles": {
+          "front": "UNVERIFIED",
+          "front_right": "UNVERIFIED",
+          "right": "UNVERIFIED",
+          "back_right": "UNVERIFIED",
+          "back": "UNVERIFIED",
+          "back_left": "UNVERIFIED",
+          "left": "UNVERIFIED",
+          "front_left": "UNVERIFIED"
+        },
+        "checks_without_visible_pass": [
+          "face",
+          "hair",
+          "hard_hat_and_color",
+          "identity",
+          "job_stickers",
+          "logos",
+          "outfit",
+          "proportions",
+          "skin"
+        ],
+        "approval_record_present": false
+      },
+      "Elena-Rivera": {
+        "sheet_registered": false,
+        "mechanical_status": "PASS",
+        "visual_review_status": "UNVERIFIED",
+        "angles": {
+          "front": "UNVERIFIED",
+          "front_right": "UNVERIFIED",
+          "right": "UNVERIFIED",
+          "back_right": "UNVERIFIED",
+          "back": "UNVERIFIED",
+          "back_left": "UNVERIFIED",
+          "left": "UNVERIFIED",
+          "front_left": "UNVERIFIED"
+        },
+        "checks_without_visible_pass": [
+          "face",
+          "hair",
+          "hard_hat_and_color",
+          "identity",
+          "job_stickers",
+          "logos",
+          "outfit",
+          "proportions",
+          "skin"
+        ],
+        "approval_record_present": false
+      },
+      "Erik-Halvorsen": {
+        "sheet_registered": false,
+        "mechanical_status": "PASS",
+        "visual_review_status": "UNVERIFIED",
+        "angles": {
+          "front": "UNVERIFIED",
+          "front_right": "UNVERIFIED",
+          "right": "UNVERIFIED",
+          "back_right": "UNVERIFIED",
+          "back": "UNVERIFIED",
+          "back_left": "UNVERIFIED",
+          "left": "UNVERIFIED",
+          "front_left": "UNVERIFIED"
+        },
+        "checks_without_visible_pass": [
+          "face",
+          "hair",
+          "hard_hat_and_color",
+          "identity",
+          "job_stickers",
+          "logos",
+          "outfit",
+          "proportions",
+          "skin"
+        ],
+        "approval_record_present": false
+      },
+      "Hannah-Kowalski": {
+        "sheet_registered": false,
+        "mechanical_status": "PASS",
+        "visual_review_status": "UNVERIFIED",
+        "angles": {
+          "front": "UNVERIFIED",
+          "front_right": "UNVERIFIED",
+          "right": "UNVERIFIED",
+          "back_right": "UNVERIFIED",
+          "back": "UNVERIFIED",
+          "back_left": "UNVERIFIED",
+          "left": "UNVERIFIED",
+          "front_left": "UNVERIFIED"
+        },
+        "checks_without_visible_pass": [
+          "face",
+          "hair",
+          "hard_hat_and_color",
+          "identity",
+          "job_stickers",
+          "logos",
+          "outfit",
+          "proportions",
+          "skin"
+        ],
+        "approval_record_present": false
+      },
+      "Leo": {
+        "sheet_registered": false,
+        "mechanical_status": "PASS",
+        "visual_review_status": "UNVERIFIED",
+        "angles": {
+          "front": "UNVERIFIED",
+          "front_right": "UNVERIFIED",
+          "right": "UNVERIFIED",
+          "back_right": "UNVERIFIED",
+          "back": "UNVERIFIED",
+          "back_left": "UNVERIFIED",
+          "left": "UNVERIFIED",
+          "front_left": "UNVERIFIED"
+        },
+        "checks_without_visible_pass": [
+          "face",
+          "hair",
+          "hard_hat_and_color",
+          "identity",
+          "job_stickers",
+          "logos",
+          "outfit",
+          "proportions",
+          "skin"
+        ],
+        "approval_record_present": false
+      },
+      "Luis-Mendoza": {
+        "sheet_registered": false,
+        "mechanical_status": "PASS",
+        "visual_review_status": "UNVERIFIED",
+        "angles": {
+          "front": "UNVERIFIED",
+          "front_right": "UNVERIFIED",
+          "right": "UNVERIFIED",
+          "back_right": "UNVERIFIED",
+          "back": "UNVERIFIED",
+          "back_left": "UNVERIFIED",
+          "left": "UNVERIFIED",
+          "front_left": "UNVERIFIED"
+        },
+        "checks_without_visible_pass": [
+          "face",
+          "hair",
+          "hard_hat_and_color",
+          "identity",
+          "job_stickers",
+          "logos",
+          "outfit",
+          "proportions",
+          "skin"
+        ],
+        "approval_record_present": false
+      },
+      "Marcus-Jackson": {
+        "sheet_registered": false,
+        "mechanical_status": "PASS",
+        "visual_review_status": "UNVERIFIED",
+        "angles": {
+          "front": "UNVERIFIED",
+          "front_right": "UNVERIFIED",
+          "right": "UNVERIFIED",
+          "back_right": "UNVERIFIED",
+          "back": "UNVERIFIED",
+          "back_left": "UNVERIFIED",
+          "left": "UNVERIFIED",
+          "front_left": "UNVERIFIED"
+        },
+        "checks_without_visible_pass": [
+          "face",
+          "hair",
+          "hard_hat_and_color",
+          "identity",
+          "job_stickers",
+          "logos",
+          "outfit",
+          "proportions",
+          "skin"
+        ],
+        "approval_record_present": false
+      },
+      "Marisol-Vega": {
+        "sheet_registered": false,
+        "mechanical_status": "PASS",
+        "visual_review_status": "UNVERIFIED",
+        "angles": {
+          "front": "UNVERIFIED",
+          "front_right": "UNVERIFIED",
+          "right": "UNVERIFIED",
+          "back_right": "UNVERIFIED",
+          "back": "UNVERIFIED",
+          "back_left": "UNVERIFIED",
+          "left": "UNVERIFIED",
+          "front_left": "UNVERIFIED"
+        },
+        "checks_without_visible_pass": [
+          "face",
+          "hair",
+          "hard_hat_and_color",
+          "identity",
+          "job_stickers",
+          "logos",
+          "outfit",
+          "proportions",
+          "skin"
+        ],
+        "approval_record_present": false
+      },
+      "Matthias-Becker": {
+        "sheet_registered": false,
+        "mechanical_status": "PASS",
+        "visual_review_status": "UNVERIFIED",
+        "angles": {
+          "front": "UNVERIFIED",
+          "front_right": "UNVERIFIED",
+          "right": "UNVERIFIED",
+          "back_right": "UNVERIFIED",
+          "back": "UNVERIFIED",
+          "back_left": "UNVERIFIED",
+          "left": "UNVERIFIED",
+          "front_left": "UNVERIFIED"
+        },
+        "checks_without_visible_pass": [
+          "face",
+          "hair",
+          "hard_hat_and_color",
+          "identity",
+          "job_stickers",
+          "logos",
+          "outfit",
+          "proportions",
+          "skin"
+        ],
+        "approval_record_present": false
+      },
+      "Maya": {
+        "sheet_registered": true,
+        "mechanical_status": "PASS",
+        "visual_review_status": "UNVERIFIED",
+        "angles": {
+          "front": "UNVERIFIED",
+          "front_right": "UNVERIFIED",
+          "right": "UNVERIFIED",
+          "back_right": "UNVERIFIED",
+          "back": "UNVERIFIED",
+          "back_left": "UNVERIFIED",
+          "left": "UNVERIFIED",
+          "front_left": "UNVERIFIED"
+        },
+        "checks_without_visible_pass": [
+          "face",
+          "hair",
+          "hard_hat_and_color",
+          "identity",
+          "job_stickers",
+          "logos",
+          "outfit",
+          "proportions",
+          "skin"
+        ],
+        "approval_record_present": false
+      },
+      "Mayor-Thomas-Whitaker": {
+        "sheet_registered": false,
+        "mechanical_status": "PASS",
+        "visual_review_status": "UNVERIFIED",
+        "angles": {
+          "front": "UNVERIFIED",
+          "front_right": "UNVERIFIED",
+          "right": "UNVERIFIED",
+          "back_right": "UNVERIFIED",
+          "back": "UNVERIFIED",
+          "back_left": "UNVERIFIED",
+          "left": "UNVERIFIED",
+          "front_left": "UNVERIFIED"
+        },
+        "checks_without_visible_pass": [
+          "face",
+          "hair",
+          "hard_hat_and_color",
+          "identity",
+          "job_stickers",
+          "logos",
+          "outfit",
+          "proportions",
+          "skin"
+        ],
+        "approval_record_present": false
+      },
+      "Mrs-Harper": {
+        "sheet_registered": false,
+        "mechanical_status": "PASS",
+        "visual_review_status": "UNVERIFIED",
+        "angles": {
+          "front": "UNVERIFIED",
+          "front_right": "UNVERIFIED",
+          "right": "UNVERIFIED",
+          "back_right": "UNVERIFIED",
+          "back": "UNVERIFIED",
+          "back_left": "UNVERIFIED",
+          "left": "UNVERIFIED",
+          "front_left": "UNVERIFIED"
+        },
+        "checks_without_visible_pass": [
+          "face",
+          "hair",
+          "hard_hat_and_color",
+          "identity",
+          "job_stickers",
+          "logos",
+          "outfit",
+          "proportions",
+          "skin"
+        ],
+        "approval_record_present": false
+      },
+      "Natalie-Chen": {
+        "sheet_registered": false,
+        "mechanical_status": "PASS",
+        "visual_review_status": "UNVERIFIED",
+        "angles": {
+          "front": "UNVERIFIED",
+          "front_right": "UNVERIFIED",
+          "right": "UNVERIFIED",
+          "back_right": "UNVERIFIED",
+          "back": "UNVERIFIED",
+          "back_left": "UNVERIFIED",
+          "left": "UNVERIFIED",
+          "front_left": "UNVERIFIED"
+        },
+        "checks_without_visible_pass": [
+          "face",
+          "hair",
+          "hard_hat_and_color",
+          "identity",
+          "job_stickers",
+          "logos",
+          "outfit",
+          "proportions",
+          "skin"
+        ],
+        "approval_record_present": false
+      },
+      "Omar-Haddad": {
+        "sheet_registered": false,
+        "mechanical_status": "PASS",
+        "visual_review_status": "UNVERIFIED",
+        "angles": {
+          "front": "UNVERIFIED",
+          "front_right": "UNVERIFIED",
+          "right": "UNVERIFIED",
+          "back_right": "UNVERIFIED",
+          "back": "UNVERIFIED",
+          "back_left": "UNVERIFIED",
+          "left": "UNVERIFIED",
+          "front_left": "UNVERIFIED"
+        },
+        "checks_without_visible_pass": [
+          "face",
+          "hair",
+          "hard_hat_and_color",
+          "identity",
+          "job_stickers",
+          "logos",
+          "outfit",
+          "proportions",
+          "skin"
+        ],
+        "approval_record_present": false
+      },
+      "Priya-Patel": {
+        "sheet_registered": false,
+        "mechanical_status": "PASS",
+        "visual_review_status": "UNVERIFIED",
+        "angles": {
+          "front": "UNVERIFIED",
+          "front_right": "UNVERIFIED",
+          "right": "UNVERIFIED",
+          "back_right": "UNVERIFIED",
+          "back": "UNVERIFIED",
+          "back_left": "UNVERIFIED",
+          "left": "UNVERIFIED",
+          "front_left": "UNVERIFIED"
+        },
+        "checks_without_visible_pass": [
+          "face",
+          "hair",
+          "hard_hat_and_color",
+          "identity",
+          "job_stickers",
+          "logos",
+          "outfit",
+          "proportions",
+          "skin"
+        ],
+        "approval_record_present": false
+      },
+      "Rafael-Martinez": {
+        "sheet_registered": false,
+        "mechanical_status": "PASS",
+        "visual_review_status": "UNVERIFIED",
+        "angles": {
+          "front": "UNVERIFIED",
+          "front_right": "UNVERIFIED",
+          "right": "UNVERIFIED",
+          "back_right": "UNVERIFIED",
+          "back": "UNVERIFIED",
+          "back_left": "UNVERIFIED",
+          "left": "UNVERIFIED",
+          "front_left": "UNVERIFIED"
+        },
+        "checks_without_visible_pass": [
+          "face",
+          "hair",
+          "hard_hat_and_color",
+          "identity",
+          "job_stickers",
+          "logos",
+          "outfit",
+          "proportions",
+          "skin"
+        ],
+        "approval_record_present": false
+      },
+      "Rebecca-Foster": {
+        "sheet_registered": false,
+        "mechanical_status": "PASS",
+        "visual_review_status": "UNVERIFIED",
+        "angles": {
+          "front": "UNVERIFIED",
+          "front_right": "UNVERIFIED",
+          "right": "UNVERIFIED",
+          "back_right": "UNVERIFIED",
+          "back": "UNVERIFIED",
+          "back_left": "UNVERIFIED",
+          "left": "UNVERIFIED",
+          "front_left": "UNVERIFIED"
+        },
+        "checks_without_visible_pass": [
+          "face",
+          "hair",
+          "hard_hat_and_color",
+          "identity",
+          "job_stickers",
+          "logos",
+          "outfit",
+          "proportions",
+          "skin"
+        ],
+        "approval_record_present": false
+      },
+      "Sam-Carter": {
+        "sheet_registered": false,
+        "mechanical_status": "PASS",
+        "visual_review_status": "UNVERIFIED",
+        "angles": {
+          "front": "UNVERIFIED",
+          "front_right": "UNVERIFIED",
+          "right": "UNVERIFIED",
+          "back_right": "UNVERIFIED",
+          "back": "UNVERIFIED",
+          "back_left": "UNVERIFIED",
+          "left": "UNVERIFIED",
+          "front_left": "UNVERIFIED"
+        },
+        "checks_without_visible_pass": [
+          "face",
+          "hair",
+          "hard_hat_and_color",
+          "identity",
+          "job_stickers",
+          "logos",
+          "outfit",
+          "proportions",
+          "skin"
+        ],
+        "approval_record_present": false
+      },
+      "Steph": {
+        "sheet_registered": true,
+        "mechanical_status": "PASS",
+        "visual_review_status": "UNVERIFIED",
+        "angles": {
+          "front": "UNVERIFIED",
+          "front_right": "UNVERIFIED",
+          "right": "UNVERIFIED",
+          "back_right": "UNVERIFIED",
+          "back": "UNVERIFIED",
+          "back_left": "UNVERIFIED",
+          "left": "UNVERIFIED",
+          "front_left": "UNVERIFIED"
+        },
+        "checks_without_visible_pass": [
+          "face",
+          "hair",
+          "hard_hat_and_color",
+          "identity",
+          "job_stickers",
+          "logos",
+          "outfit",
+          "proportions",
+          "skin"
+        ],
+        "approval_record_present": false
+      },
+      "Tony-Marino": {
+        "sheet_registered": false,
+        "mechanical_status": "PASS",
+        "visual_review_status": "UNVERIFIED",
+        "angles": {
+          "front": "UNVERIFIED",
+          "front_right": "UNVERIFIED",
+          "right": "UNVERIFIED",
+          "back_right": "UNVERIFIED",
+          "back": "UNVERIFIED",
+          "back_left": "UNVERIFIED",
+          "left": "UNVERIFIED",
+          "front_left": "UNVERIFIED"
+        },
+        "checks_without_visible_pass": [
+          "face",
+          "hair",
+          "hard_hat_and_color",
+          "identity",
+          "job_stickers",
+          "logos",
+          "outfit",
+          "proportions",
+          "skin"
+        ],
+        "approval_record_present": false
+      },
+      "Vinny": {
+        "sheet_registered": true,
+        "mechanical_status": "PASS",
+        "visual_review_status": "UNVERIFIED",
+        "angles": {
+          "front": "UNVERIFIED",
+          "front_right": "UNVERIFIED",
+          "right": "UNVERIFIED",
+          "back_right": "UNVERIFIED",
+          "back": "UNVERIFIED",
+          "back_left": "UNVERIFIED",
+          "left": "UNVERIFIED",
+          "front_left": "UNVERIFIED"
+        },
+        "checks_without_visible_pass": [
+          "face",
+          "hair",
+          "hard_hat_and_color",
+          "identity",
+          "job_stickers",
+          "logos",
+          "outfit",
+          "proportions",
+          "skin"
+        ],
+        "approval_record_present": false
+      }
+    },
+    "characters": 27,
+    "angles_required": 216,
+    "angles_pass_recorded": 0,
+    "angles_fail": 0,
+    "angles_unverified": 24,
+    "angles_missing": 192,
+    "sheets_registered": 3,
+    "sheets_with_approval_records": 0,
+    "visual_comparison_performed_by_script": false,
+    "raw_image_verification_performed": true,
+    "raw_sheet_files_verified": 3
+  },
+  "errors": []
+}

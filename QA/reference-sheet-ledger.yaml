@@ -1,7 +1,3 @@
-# Inventory-only records. Missing angles are PENDING, never automatic PASS.
-# All sheets and their eight view audits must be registered from the approved Drive
-# source/profile authority before any approval is recorded.
-# Ben/Leo reference_standard = comparison benchmark, NOT eight-angle approval.
 schema_version: 1
 characters:
   Ben:
@@ -16,19 +12,234 @@ characters:
     approval: null
   Vinny:
     reference_standard: false
-    sheet: null
-    angles: {}
+    sheet:
+      drive_id: 1OeCQ4niPlHy7G4Zzon3pwx95ulcpXkkh
+      sha256: 24818af75c422de477a1409fa3f442b864d600603e0d65eed258c692afa07067
+      revision: PPE R15
+    angles:
+      front:
+        status: UNVERIFIED
+        notes: Targeted placement correction inspected in QA/audits/2026-10-28-kids-logo-placement-repair.md.
+          Oct 24 Ben PPE R5 lock used for Vinny front badge placement; own PNG/profile vest-panel
+          registration used for both children. Original hood/hair occlusion preserved. Prior R14/R7
+          placement rejected by Adam. Whole-sheet canon, hidden/profile decal extents and exact 3D
+          projection remain unverified. Adam approved this exact artwork on 2026-11-01; see author_artwork_approval.
+          Technical checks remain unverified.
+      front_right:
+        status: UNVERIFIED
+        notes: Targeted placement correction inspected in QA/audits/2026-10-28-kids-logo-placement-repair.md.
+          Oct 24 Ben PPE R5 lock used for Vinny front badge placement; own PNG/profile vest-panel
+          registration used for both children. Original hood/hair occlusion preserved. Prior R14/R7
+          placement rejected by Adam. Whole-sheet canon, hidden/profile decal extents and exact 3D
+          projection remain unverified. Adam approved this exact artwork on 2026-11-01; see author_artwork_approval.
+          Technical checks remain unverified.
+      right:
+        status: UNVERIFIED
+        notes: Targeted placement correction inspected in QA/audits/2026-10-28-kids-logo-placement-repair.md.
+          Oct 24 Ben PPE R5 lock used for Vinny front badge placement; own PNG/profile vest-panel
+          registration used for both children. Original hood/hair occlusion preserved. Prior R14/R7
+          placement rejected by Adam. Whole-sheet canon, hidden/profile decal extents and exact 3D
+          projection remain unverified. Adam approved this exact artwork on 2026-11-01; see author_artwork_approval.
+          Technical checks remain unverified.
+      back_right:
+        status: UNVERIFIED
+        notes: Targeted placement correction inspected in QA/audits/2026-10-28-kids-logo-placement-repair.md.
+          Oct 24 Ben PPE R5 lock used for Vinny front badge placement; own PNG/profile vest-panel
+          registration used for both children. Original hood/hair occlusion preserved. Prior R14/R7
+          placement rejected by Adam. Whole-sheet canon, hidden/profile decal extents and exact 3D
+          projection remain unverified. Adam approved this exact artwork on 2026-11-01; see author_artwork_approval.
+          Technical checks remain unverified.
+      back:
+        status: UNVERIFIED
+        notes: Targeted placement correction inspected in QA/audits/2026-10-28-kids-logo-placement-repair.md.
+          Oct 24 Ben PPE R5 lock used for Vinny front badge placement; own PNG/profile vest-panel
+          registration used for both children. Original hood/hair occlusion preserved. Prior R14/R7
+          placement rejected by Adam. Whole-sheet canon, hidden/profile decal extents and exact 3D
+          projection remain unverified. Adam approved this exact artwork on 2026-11-01; see author_artwork_approval.
+          Technical checks remain unverified.
+      back_left:
+        status: UNVERIFIED
+        notes: Targeted placement correction inspected in QA/audits/2026-10-28-kids-logo-placement-repair.md.
+          Oct 24 Ben PPE R5 lock used for Vinny front badge placement; own PNG/profile vest-panel
+          registration used for both children. Original hood/hair occlusion preserved. Prior R14/R7
+          placement rejected by Adam. Whole-sheet canon, hidden/profile decal extents and exact 3D
+          projection remain unverified. Adam approved this exact artwork on 2026-11-01; see author_artwork_approval.
+          Technical checks remain unverified.
+      left:
+        status: UNVERIFIED
+        notes: Targeted placement correction inspected in QA/audits/2026-10-28-kids-logo-placement-repair.md.
+          Oct 24 Ben PPE R5 lock used for Vinny front badge placement; own PNG/profile vest-panel
+          registration used for both children. Original hood/hair occlusion preserved. Prior R14/R7
+          placement rejected by Adam. Whole-sheet canon, hidden/profile decal extents and exact 3D
+          projection remain unverified. Adam approved this exact artwork on 2026-11-01; see author_artwork_approval.
+          Technical checks remain unverified.
+      front_left:
+        status: UNVERIFIED
+        notes: Targeted placement correction inspected in QA/audits/2026-10-28-kids-logo-placement-repair.md.
+          Oct 24 Ben PPE R5 lock used for Vinny front badge placement; own PNG/profile vest-panel
+          registration used for both children. Original hood/hair occlusion preserved. Prior R14/R7
+          placement rejected by Adam. Whole-sheet canon, hidden/profile decal extents and exact 3D
+          projection remain unverified. Adam approved this exact artwork on 2026-11-01; see author_artwork_approval.
+          Technical checks remain unverified.
     approval: null
+    author_artwork_approval:
+      status: APPROVED
+      approved_by: Adam Reid
+      approved_on: '2026-11-01'
+      sheet_drive_id: 1OeCQ4niPlHy7G4Zzon3pwx95ulcpXkkh
+      sheet_revision: PPE R15
+      sheet_sha256: 24818af75c422de477a1409fa3f442b864d600603e0d65eed258c692afa07067
+      approval_quote: I think these are good
+      evidence: QA/approvals/2026-11-01-vinny-r15-maya-r8.md
+      scope: Exact PPE sheet artwork, including the repaired logo placements; technical review states
+        remain separate.
   Steph:
     reference_standard: false
-    sheet: null
-    angles: {}
+    sheet:
+      drive_id: 1RzQn7GGlNnUYR8K6C-zxvM9qPSlvUWTO
+      sha256: 78d19a8adf859dbcc6a3f9e07fcb18c8ff5046cfcd8ca775fba12c759cf49a30
+      revision: PPE R13
+    angles:
+      front:
+        status: UNVERIFIED
+        notes: Steph R13 targeted helmet correction inspected in QA/audits/2026-11-01-steph-helmet-repair.md.
+          Exact LS badge centered to front panel under Oct 24 Ben R5 placement lock; exact front-right
+          job sticker projected along local shell curvature. Original face, freckles, hair, glasses,
+          clothing and vest preserved. Full canon, exact 3D registration and hidden/profile decal
+          extents remain unverified. No author approval.
+      front_right:
+        status: UNVERIFIED
+        notes: Steph R13 targeted helmet correction inspected in QA/audits/2026-11-01-steph-helmet-repair.md.
+          Exact LS badge centered to front panel under Oct 24 Ben R5 placement lock; exact front-right
+          job sticker projected along local shell curvature. Original face, freckles, hair, glasses,
+          clothing and vest preserved. Full canon, exact 3D registration and hidden/profile decal
+          extents remain unverified. No author approval.
+      right:
+        status: UNVERIFIED
+        notes: Steph R13 targeted helmet correction inspected in QA/audits/2026-11-01-steph-helmet-repair.md.
+          Exact LS badge centered to front panel under Oct 24 Ben R5 placement lock; exact front-right
+          job sticker projected along local shell curvature. Original face, freckles, hair, glasses,
+          clothing and vest preserved. Full canon, exact 3D registration and hidden/profile decal
+          extents remain unverified. No author approval.
+      back_right:
+        status: UNVERIFIED
+        notes: Steph R13 targeted helmet correction inspected in QA/audits/2026-11-01-steph-helmet-repair.md.
+          Exact LS badge centered to front panel under Oct 24 Ben R5 placement lock; exact front-right
+          job sticker projected along local shell curvature. Original face, freckles, hair, glasses,
+          clothing and vest preserved. Full canon, exact 3D registration and hidden/profile decal
+          extents remain unverified. No author approval.
+      back:
+        status: UNVERIFIED
+        notes: Steph R13 targeted helmet correction inspected in QA/audits/2026-11-01-steph-helmet-repair.md.
+          Exact LS badge centered to front panel under Oct 24 Ben R5 placement lock; exact front-right
+          job sticker projected along local shell curvature. Original face, freckles, hair, glasses,
+          clothing and vest preserved. Full canon, exact 3D registration and hidden/profile decal
+          extents remain unverified. No author approval.
+      back_left:
+        status: UNVERIFIED
+        notes: Steph R13 targeted helmet correction inspected in QA/audits/2026-11-01-steph-helmet-repair.md.
+          Exact LS badge centered to front panel under Oct 24 Ben R5 placement lock; exact front-right
+          job sticker projected along local shell curvature. Original face, freckles, hair, glasses,
+          clothing and vest preserved. Full canon, exact 3D registration and hidden/profile decal
+          extents remain unverified. No author approval.
+      left:
+        status: UNVERIFIED
+        notes: Steph R13 targeted helmet correction inspected in QA/audits/2026-11-01-steph-helmet-repair.md.
+          Exact LS badge centered to front panel under Oct 24 Ben R5 placement lock; exact front-right
+          job sticker projected along local shell curvature. Original face, freckles, hair, glasses,
+          clothing and vest preserved. Full canon, exact 3D registration and hidden/profile decal
+          extents remain unverified. No author approval.
+      front_left:
+        status: UNVERIFIED
+        notes: Steph R13 targeted helmet correction inspected in QA/audits/2026-11-01-steph-helmet-repair.md.
+          Exact LS badge centered to front panel under Oct 24 Ben R5 placement lock; exact front-right
+          job sticker projected along local shell curvature. Original face, freckles, hair, glasses,
+          clothing and vest preserved. Full canon, exact 3D registration and hidden/profile decal
+          extents remain unverified. No author approval.
     approval: null
   Maya:
     reference_standard: false
-    sheet: null
-    angles: {}
+    sheet:
+      drive_id: 159Bxa9jvwYUw6O6ojFA_5lgZfHQiskNu
+      sha256: ae2f98c37d68cd40ff6cdfc4900426006341ca5c24e6fa8ba0ad72b1381d6c06
+      revision: PPE R8
+    angles:
+      front:
+        status: UNVERIFIED
+        notes: Targeted placement correction inspected in QA/audits/2026-10-28-kids-logo-placement-repair.md.
+          Oct 24 Ben PPE R5 lock used for Vinny front badge placement; own PNG/profile vest-panel
+          registration used for both children. Original hood/hair occlusion preserved. Prior R14/R7
+          placement rejected by Adam. Whole-sheet canon, hidden/profile decal extents and exact 3D
+          projection remain unverified. Adam approved this exact artwork on 2026-11-01; see author_artwork_approval.
+          Technical checks remain unverified.
+      front_right:
+        status: UNVERIFIED
+        notes: Targeted placement correction inspected in QA/audits/2026-10-28-kids-logo-placement-repair.md.
+          Oct 24 Ben PPE R5 lock used for Vinny front badge placement; own PNG/profile vest-panel
+          registration used for both children. Original hood/hair occlusion preserved. Prior R14/R7
+          placement rejected by Adam. Whole-sheet canon, hidden/profile decal extents and exact 3D
+          projection remain unverified. Adam approved this exact artwork on 2026-11-01; see author_artwork_approval.
+          Technical checks remain unverified.
+      right:
+        status: UNVERIFIED
+        notes: Targeted placement correction inspected in QA/audits/2026-10-28-kids-logo-placement-repair.md.
+          Oct 24 Ben PPE R5 lock used for Vinny front badge placement; own PNG/profile vest-panel
+          registration used for both children. Original hood/hair occlusion preserved. Prior R14/R7
+          placement rejected by Adam. Whole-sheet canon, hidden/profile decal extents and exact 3D
+          projection remain unverified. Adam approved this exact artwork on 2026-11-01; see author_artwork_approval.
+          Technical checks remain unverified.
+      back_right:
+        status: UNVERIFIED
+        notes: Targeted placement correction inspected in QA/audits/2026-10-28-kids-logo-placement-repair.md.
+          Oct 24 Ben PPE R5 lock used for Vinny front badge placement; own PNG/profile vest-panel
+          registration used for both children. Original hood/hair occlusion preserved. Prior R14/R7
+          placement rejected by Adam. Whole-sheet canon, hidden/profile decal extents and exact 3D
+          projection remain unverified. Adam approved this exact artwork on 2026-11-01; see author_artwork_approval.
+          Technical checks remain unverified.
+      back:
+        status: UNVERIFIED
+        notes: Targeted placement correction inspected in QA/audits/2026-10-28-kids-logo-placement-repair.md.
+          Oct 24 Ben PPE R5 lock used for Vinny front badge placement; own PNG/profile vest-panel
+          registration used for both children. Original hood/hair occlusion preserved. Prior R14/R7
+          placement rejected by Adam. Whole-sheet canon, hidden/profile decal extents and exact 3D
+          projection remain unverified. Adam approved this exact artwork on 2026-11-01; see author_artwork_approval.
+          Technical checks remain unverified.
+      back_left:
+        status: UNVERIFIED
+        notes: Targeted placement correction inspected in QA/audits/2026-10-28-kids-logo-placement-repair.md.
+          Oct 24 Ben PPE R5 lock used for Vinny front badge placement; own PNG/profile vest-panel
+          registration used for both children. Original hood/hair occlusion preserved. Prior R14/R7
+          placement rejected by Adam. Whole-sheet canon, hidden/profile decal extents and exact 3D
+          projection remain unverified. Adam approved this exact artwork on 2026-11-01; see author_artwork_approval.
+          Technical checks remain unverified.
+      left:
+        status: UNVERIFIED
+        notes: Targeted placement correction inspected in QA/audits/2026-10-28-kids-logo-placement-repair.md.
+          Oct 24 Ben PPE R5 lock used for Vinny front badge placement; own PNG/profile vest-panel
+          registration used for both children. Original hood/hair occlusion preserved. Prior R14/R7
+          placement rejected by Adam. Whole-sheet canon, hidden/profile decal extents and exact 3D
+          projection remain unverified. Adam approved this exact artwork on 2026-11-01; see author_artwork_approval.
+          Technical checks remain unverified.
+      front_left:
+        status: UNVERIFIED
+        notes: Targeted placement correction inspected in QA/audits/2026-10-28-kids-logo-placement-repair.md.
+          Oct 24 Ben PPE R5 lock used for Vinny front badge placement; own PNG/profile vest-panel
+          registration used for both children. Original hood/hair occlusion preserved. Prior R14/R7
+          placement rejected by Adam. Whole-sheet canon, hidden/profile decal extents and exact 3D
+          projection remain unverified. Adam approved this exact artwork on 2026-11-01; see author_artwork_approval.
+          Technical checks remain unverified.
     approval: null
+    author_artwork_approval:
+      status: APPROVED
+      approved_by: Adam Reid
+      approved_on: '2026-11-01'
+      sheet_drive_id: 159Bxa9jvwYUw6O6ojFA_5lgZfHQiskNu
+      sheet_revision: PPE R8
+      sheet_sha256: ae2f98c37d68cd40ff6cdfc4900426006341ca5c24e6fa8ba0ad72b1381d6c06
+      approval_quote: I think these are good
+      evidence: QA/approvals/2026-11-01-vinny-r15-maya-r8.md
+      scope: Exact PPE sheet artwork, including the repaired logo placements; technical review states
+        remain separate.
   Mrs-Harper:
     reference_standard: false
     sheet: null

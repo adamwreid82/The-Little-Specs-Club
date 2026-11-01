@@ -165,3 +165,9 @@ audit with old/new IDs, hashes, exact failed checks, repair notes and unresolved
 items. Re-run mechanical and raw-byte checks and obtain fresh visual evidence.
 Git history preserves prior ledger states; this validator does not enforce Drive
 immutability, authenticate evidence, or automatically migrate revision records.
+
+## Artwork acceptance before complete technical review
+
+An author may accept the exact artwork while technical checks remain UNVERIFIED. Record that decision in `author_artwork_approval`, with status APPROVED, approved_by, approved_on, exact sheet_drive_id/sheet_revision/sheet_sha256, approval_quote, evidence and scope. Bind it to the existing sheet and preserve the original wording. This is an artwork approval record, not a visual PASS or a complete-production approval.
+
+Keep the existing `approval` field null until its established eight-PASS-angle gate is satisfied. The validator and `--require-complete` requirements remain unchanged; its approval count refers to that complete QA gate. Do not convert unverified evidence into PASS to fit an author decision into the gate. Example: QA/approvals/2026-11-01-vinny-r15-maya-r8.md.

@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Vinny",
+    "filename": "Vinny_PPE_8_Angles_REVIEW_R15.png",
+    "previous_revision": 14,
+    "revision": 15,
+    "sha256": "24818af75c422de477a1409fa3f442b864d600603e0d65eed258c692afa07067",
+    "bytes": 3781451,
+    "dimensions": [
+      3072,
+      2048
+    ],
+    "changed_pixels": 49362,
+    "outside_footprints": 0,
+    "hood_hair_changes_in_vest_crops": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "Maya",
+    "filename": "Maya_PPE_8_Angles_REVIEW_R8.png",
+    "previous_revision": 7,
+    "revision": 8,
+    "sha256": "ae2f98c37d68cd40ff6cdfc4900426006341ca5c24e6fa8ba0ad72b1381d6c06",
+    "bytes": 3789210,
+    "dimensions": [
+      3072,
+      2048
+    ],
+    "changed_pixels": 29388,
+    "outside_footprints": 0,
+    "hood_hair_changes_in_vest_crops": [
+      0,
+      0,
+      0
+    ]
+  }
+]

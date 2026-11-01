@@ -1,0 +1,189 @@
+{
+  "input": "/workspace/scratch/063bec37fc2d/repair_2026_10_28/candidates/Steph_PPE_8_Angles_REVIEW_R12.png",
+  "input_sha256": "56202643bb7ef262613ca676c1fa620307649f728762262dfc569867afb00619",
+  "filename": "Steph_PPE_8_Angles_REVIEW_R13.png",
+  "sha256": "78d19a8adf859dbcc6a3f9e07fcb18c8ff5046cfcd8ca775fba12c759cf49a30",
+  "bytes": 3596137,
+  "dimensions": [
+    3072,
+    2048
+  ],
+  "changed_pixels": 18825,
+  "changed_pixels_outside_authorized_footprints": 0,
+  "face_hair_glasses_outfit_vest_and_other_kids": "unchanged",
+  "approval": "PENDING_AUTHOR_REVIEW",
+  "surface_geometry": "visual fit to existing helmet; not measured 3D geometry",
+  "projections": [
+    {
+      "cell": 0,
+      "old_footprint_pixels": 5262,
+      "projection": {
+        "badge": [
+          [
+            [
+              185,
+              70
+            ],
+            [
+              252,
+              73
+            ],
+            [
+              248,
+              134
+            ],
+            [
+              181,
+              132
+            ]
+          ],
+          0.7
+        ],
+        "sticker": [
+          [
+            [
+              110,
+              91
+            ],
+            [
+              133,
+              85
+            ],
+            [
+              131,
+              124
+            ],
+            [
+              102,
+              129
+            ]
+          ],
+          1.0
+        ]
+      }
+    },
+    {
+      "cell": 1,
+      "old_footprint_pixels": 5270,
+      "projection": {
+        "badge": [
+          [
+            [
+              228,
+              86
+            ],
+            [
+              281,
+              90
+            ],
+            [
+              290,
+              149
+            ],
+            [
+              227,
+              146
+            ]
+          ],
+          0.6
+        ],
+        "sticker": [
+          [
+            [
+              159,
+              103
+            ],
+            [
+              197,
+              98
+            ],
+            [
+              199,
+              139
+            ],
+            [
+              159,
+              143
+            ]
+          ],
+          0.8
+        ]
+      }
+    },
+    {
+      "cell": 2,
+      "old_footprint_pixels": 1563,
+      "projection": {
+        "sticker": [
+          [
+            [
+              279,
+              119
+            ],
+            [
+              302,
+              111
+            ],
+            [
+              311,
+              149
+            ],
+            [
+              282,
+              157
+            ]
+          ],
+          0.8
+        ]
+      }
+    },
+    {
+      "cell": 7,
+      "old_footprint_pixels": 4167,
+      "projection": {
+        "badge": [
+          [
+            [
+              168,
+              39
+            ],
+            [
+              227,
+              36
+            ],
+            [
+              224,
+              99
+            ],
+            [
+              164,
+              102
+            ]
+          ],
+          0.5
+        ],
+        "sticker": [
+          [
+            [
+              110,
+              68
+            ],
+            [
+              118,
+              66
+            ],
+            [
+              117,
+              103
+            ],
+            [
+              102,
+              108
+            ]
+          ],
+          0.7
+        ]
+      }
+    }
+  ]
+}
