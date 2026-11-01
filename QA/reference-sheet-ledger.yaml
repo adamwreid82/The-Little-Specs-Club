@@ -1,7 +1,3 @@
-# Inventory-only records. Missing angles are PENDING, never automatic PASS.
-# All sheets and their eight view audits must be registered from the approved Drive
-# source/profile authority before any approval is recorded.
-# Ben/Leo reference_standard = comparison benchmark, NOT eight-angle approval.
 schema_version: 1
 characters:
   Ben:
@@ -16,98 +12,1219 @@ characters:
     approval: null
   Vinny:
     reference_standard: false
-    sheet: null
-    angles: {}
+    sheet:
+      drive_id: 16gjYnmlneZMIb3NA5hqHiifUJjSX6wl7
+      sha256: 414bd1bf7fc794c769b4ab3b258d3c12b1a39e172540c4f4eb0e7d901c6856f1
+      revision: PPE R16
+    angles:
+      front:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
     approval: null
   Steph:
     reference_standard: false
-    sheet: null
-    angles: {}
+    sheet:
+      drive_id: 1cCWdcn7K0xNeLbqYa8oGBZii5ZkR07jk
+      sha256: 5ad1553bdfacbebf3fc679f207268a2869a0ea07fb6d0c42865bb0d9f4fa7e98
+      revision: PPE R14
+    angles:
+      front:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
     approval: null
   Maya:
     reference_standard: false
-    sheet: null
-    angles: {}
+    sheet:
+      drive_id: 10LwizzRxzXLIQpSsZsIaC-dL_klEyABJ
+      sha256: c8b7892b89e5fd445c10d5169f8faa03529fe3a452fe0a271fbe2dc123354c09
+      revision: PPE R9
+    angles:
+      front:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
     approval: null
   Mrs-Harper:
     reference_standard: false
-    sheet: null
-    angles: {}
+    sheet:
+      drive_id: 1NSfVNRbsEOhLKLywNlBiSUZXOEXMscCu
+      sha256: 98ce0ca298ac735094914902daa18c044a43156d5c15680af46ed9b966f1083b
+      revision: PPE R5
+    angles:
+      front:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
     approval: null
   Elena-Rivera:
     reference_standard: false
-    sheet: null
-    angles: {}
+    sheet:
+      drive_id: 1Jd5ULSyC9dV2hYvxq4b_RRxhuFiE20ml
+      sha256: e6f9ac672ef22f9ff0829ba58db0dac702bceca5400b8841bc19e52c79c426e1
+      revision: PPE R5
+    angles:
+      front:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
     approval: null
   Marcus-Jackson:
     reference_standard: false
-    sheet: null
-    angles: {}
+    sheet:
+      drive_id: 17DCRFDxKdvY7FKDbrxSQRxARaYnVcZ8S
+      sha256: 30242f7935f0bd192683cf55e84e05ebdc57b9172477746576ec6b4e8d3d8fee
+      revision: PPE R5
+    angles:
+      front:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
     approval: null
   Omar-Haddad:
     reference_standard: false
-    sheet: null
-    angles: {}
+    sheet:
+      drive_id: 10kXFJFTbc1cJgm5NwKjH7vzpQI_-aZjB
+      sha256: 26713a2219e928b362b521df9bf687e2bca0f98b2cb1ca09ad178b63345afc34
+      revision: PPE R10
+    angles:
+      front:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
     approval: null
   Darius-Cole:
     reference_standard: false
-    sheet: null
-    angles: {}
+    sheet:
+      drive_id: 1sKBFuG6mW2d5QLgJbIh7LPUjT2BU7aF9
+      sha256: e5139950a9236aa404a12b5dd8889af4cfcda6de1177562c3e2d60fcda660810
+      revision: PPE R5
+    angles:
+      front:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
     approval: null
   Matthias-Becker:
     reference_standard: false
-    sheet: null
-    angles: {}
+    sheet:
+      drive_id: 1ClSOOsPq90DFr-YFTY9xPMaNUeqx5sbv
+      sha256: 925de898f85f03ca6ab8bed94a2b1a03724477c347599013da9176cec79b897e
+      revision: PPE R11
+    angles:
+      front:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
     approval: null
   Luis-Mendoza:
     reference_standard: false
-    sheet: null
-    angles: {}
+    sheet:
+      drive_id: 1xOwdTIg048P1AVtJFuc36_eW2ICV48m5
+      sha256: 95cff9845aba9452805a36b4008b41bb73a15ae91f312623601bade0abd3ce3b
+      revision: PPE R7
+    angles:
+      front:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
     approval: null
   Priya-Patel:
     reference_standard: false
-    sheet: null
-    angles: {}
+    sheet:
+      drive_id: 1WT54apXjV4H2Nydrl575VpLWFL164T-8
+      sha256: 959fec91b584045fc7586af9edaac3bfb3f61e4bfe74a76db170148bfbf53296
+      revision: PPE R4
+    angles:
+      front:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
     approval: null
   Daniel-Brooks:
     reference_standard: false
-    sheet: null
-    angles: {}
+    sheet:
+      drive_id: 1j_kgtOf1Vq_Yng0AyeW_-3Ra4uaJZujW
+      sha256: 166b4b88eb27cd92ef28b87d2747fa921b34e7911040b79209de14e685c25c69
+      revision: PPE R4
+    angles:
+      front:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
     approval: null
   Tony-Marino:
     reference_standard: false
-    sheet: null
-    angles: {}
+    sheet:
+      drive_id: 12-8pi_nFypSJ0XXlfS5VQ5n8-Ia1bI3b
+      sha256: 3a30e4108edc58f351d27755eef28172b418d6ac52741dbad5349c6d84a4a834
+      revision: PPE R4
+    angles:
+      front:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
     approval: null
   Claire-Morgan:
     reference_standard: false
-    sheet: null
-    angles: {}
+    sheet:
+      drive_id: 1lYQiDLmG8RzucuqBFguYkwz7lH73SLbx
+      sha256: 215528d380d72d5b459013c9d1706401226338eda1500ac4ecb69240d5250374
+      revision: PPE R5
+    angles:
+      front:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
     approval: null
   Andre-Lewis:
     reference_standard: false
-    sheet: null
-    angles: {}
+    sheet:
+      drive_id: 1zgQkpZlYIMkiGpqbW7W7BfAQWsjcrinW
+      sha256: eb8646fd964abb45d6b4ebad4a6d9896436e772d7d185213f7b7fb180a4e3d48
+      revision: PPE R8
+    angles:
+      front:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
     approval: null
   Danny-Novak:
     reference_standard: false
-    sheet: null
-    angles: {}
+    sheet:
+      drive_id: 1JB_EcbZ0Y3LMV0lbv8rhO-WU34JM1e85
+      sha256: 5e659b0a6ddc338fbe1cd93ce08952dc9774626fea540c68bd88e91fe1b4264e
+      revision: PPE R5
+    angles:
+      front:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
     approval: null
   Erik-Halvorsen:
     reference_standard: false
-    sheet: null
-    angles: {}
+    sheet:
+      drive_id: 1e32NVhY6QeYdhTqy97RKPPYjP5UAqlrM
+      sha256: 8a57fe18237e917fa41777f0d3bc8c97c6a05edf2b69a83a6891ac3a057ebca5
+      revision: PPE R5
+    angles:
+      front:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
     approval: null
   Sam-Carter:
     reference_standard: false
-    sheet: null
-    angles: {}
+    sheet:
+      drive_id: 1Eugxpa6EZhBB8H-wumakDrR5I4YnzeWL
+      sha256: abf8d8500a138c09f5bd5d9b654030be896dcef73b963e0cee2ccbd874918d65
+      revision: PPE R7
+    angles:
+      front:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
     approval: null
   Hannah-Kowalski:
     reference_standard: false
-    sheet: null
-    angles: {}
+    sheet:
+      drive_id: 1ijvG8VJ-1-nJNQWvgGU5Imbd7vfdAP5f
+      sha256: 24cb526e90a4430f15f3ef9015ea0fe2984c207f748562d1b0a28eb73530d084
+      revision: PPE R5
+    angles:
+      front:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
     approval: null
   Rebecca-Foster:
     reference_standard: false
@@ -116,23 +1233,259 @@ characters:
     approval: null
   Natalie-Chen:
     reference_standard: false
-    sheet: null
-    angles: {}
+    sheet:
+      drive_id: 1ijbIPS7qf2SFeOe51vhON2-Mt1OnCY98
+      sha256: 147e82a6700a41113f4a712824551818a318d365a7102d18ca875e048101d02c
+      revision: PPE R3
+    angles:
+      front:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
     approval: null
   Rafael-Martinez:
     reference_standard: false
-    sheet: null
-    angles: {}
+    sheet:
+      drive_id: 1rkWoGW8JL4XFedx0iPooUZzlrapUbFrR
+      sha256: 3ee5e04dd3311e9c6a5637db86fc58b6f8d735341036bb9802baaeba149a6f84
+      revision: PPE R6
+    angles:
+      front:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
     approval: null
   Marisol-Vega:
     reference_standard: false
-    sheet: null
-    angles: {}
+    sheet:
+      drive_id: 19HFjJcRJmfRwfC8xH11IXAnBmUVIrtsK
+      sha256: db614791d3172450cbc965fc1563793043447c3fa1d71193bf69fbfa31034b09
+      revision: PPE R5
+    angles:
+      front:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
     approval: null
   Adrian-Park:
     reference_standard: false
-    sheet: null
-    angles: {}
+    sheet:
+      drive_id: 10YGcnOmg5FxIBAAdjrsbajBWwfcIM4f0
+      sha256: 77dcc931c3fffcaf797f0d421ebd7a6745263c5ef069d0413cab3de1bc4a9bf6
+      revision: PPE R5
+    angles:
+      front:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_right:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      back_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
+      front_left:
+        status: UNVERIFIED
+        notes: Sticker size matched to approved Ben PPE R10 / Leo PPE R8 eight-view
+          references. Targeted visual inspection and protected-pixel checks are recorded
+          in QA/sticker-size-review/2026-11-01/audit.md. Whole-character source/profile
+          compliance, exact 3D registration and hidden details remain unverified.
+          Pending author approval.
     approval: null
   Mayor-Thomas-Whitaker:
     reference_standard: false
