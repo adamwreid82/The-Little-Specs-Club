@@ -1,0 +1,13 @@
+{
+  "status": "PASS_EXPORT_CHECKS_ONLY",
+  "author_approval": "PENDING",
+  "svg_count": 26,
+  "png_count": 26,
+  "pdf_pages": 27,
+  "pdf_bookmarks": 27,
+  "all_page_revision_labels_R7": true,
+  "all_internal_svg_references_resolve": true,
+  "all_26_non_text_SVG_trees_unchanged": true,
+  "visual_export_inspection": "All 27 final PDF pages inspected via rendered contact sheets; cover and representative full page also inspected. All four views visible for each character. No missing graphics or new clipping found.",
+  "canon_or_3D_certification": false
+}
