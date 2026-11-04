@@ -728,7 +728,7 @@ source_detail_regression_checks:
 
 hard_hat_badge_application_lock:
   current_source_reference: CANON/source-registry.yaml#hardhat_source_sheet_reference
-  current_source_approval_record: QA/hardhat-sources/R7/approval-2026-11-01.json
+  current_source_approval_record: QA/sticker-size-review/2026-11-01/approval-2026-11-04.json
   status: AUTHOR_APPROVED_WORKING_BASELINE
   author: Adam
   recorded_date: '2026-10-05'
@@ -753,7 +753,7 @@ hard_hat_badge_application_lock:
     origin: Pages_9_10_REV2_proportional_helmet_fit
     other_artwork_in_reference_approved: false
   rule:
-    - Use the latest author-approved R7 hardhat source sheets identified in CANON/source-registry.yaml#hardhat_source_sheet_reference for the represented logo size and position; the six REV2 applications are retained as historical evidence.
+    - Use the latest author-approved R8 hardhat source sheets identified in CANON/source-registry.yaml#hardhat_source_sheet_reference for the represented logo size and position; the six REV2 applications are retained as historical evidence.
     - Fit each LS badge proportionately to its helmet, retaining the approved character-specific reference relationship.
     - Center on the facial centerline and face in the direction of the nose.
     - Preserve raised front-panel placement and brim clearance.
