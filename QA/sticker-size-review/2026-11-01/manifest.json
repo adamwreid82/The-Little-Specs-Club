@@ -1,6 +1,6 @@
 {
   "date": "2026-11-01",
-  "status": "PENDING_AUTHOR_REVIEW",
+  "status": "AUTHOR_APPROVED",
   "request": "Match everyone's jobsite sticker size to Ben and Leo's approved eight-view sheets, for both eight-view and helmet-only sheets.",
   "reference_eight_view_ids": {
     "Ben_R10": "1VvOWIEDBI9ClDR7k6JAivN9c-06gUpJs",
@@ -10,7 +10,7 @@
   "hardhat_r8_folder_id": "1v2skKzvDCwnLLxQmGhOVyaKcElBBJef9",
   "github_pr": "https://github.com/adamwreid82/The-Little-Specs-Club/pull/6",
   "eight_view": {
-    "status": "PENDING_AUTHOR_REVIEW",
+    "status": "AUTHOR_APPROVED",
     "reference_ratio": 0.19,
     "reference_measurements": {
       "Ben": {
@@ -117,8 +117,15 @@
         "sha256": "77dcc931c3fffcaf797f0d421ebd7a6745263c5ef069d0413cab3de1bc4a9bf6",
         "changed_pixels": 20711,
         "changed_pixels_outside_stickers_and_footer": 0,
-        "approval": "PENDING_AUTHOR_REVIEW",
-        "drive_id": "10YGcnOmg5FxIBAAdjrsbajBWwfcIM4f0"
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "10YGcnOmg5FxIBAAdjrsbajBWwfcIM4f0",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Andre_Lewis",
@@ -212,8 +219,15 @@
         "sha256": "eb8646fd964abb45d6b4ebad4a6d9896436e772d7d185213f7b7fb180a4e3d48",
         "changed_pixels": 21594,
         "changed_pixels_outside_stickers_and_footer": 0,
-        "approval": "PENDING_AUTHOR_REVIEW",
-        "drive_id": "1zgQkpZlYIMkiGpqbW7W7BfAQWsjcrinW"
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "1zgQkpZlYIMkiGpqbW7W7BfAQWsjcrinW",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Claire_Morgan",
@@ -307,8 +321,15 @@
         "sha256": "215528d380d72d5b459013c9d1706401226338eda1500ac4ecb69240d5250374",
         "changed_pixels": 21168,
         "changed_pixels_outside_stickers_and_footer": 0,
-        "approval": "PENDING_AUTHOR_REVIEW",
-        "drive_id": "1lYQiDLmG8RzucuqBFguYkwz7lH73SLbx"
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "1lYQiDLmG8RzucuqBFguYkwz7lH73SLbx",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Daniel_Brooks",
@@ -402,8 +423,15 @@
         "sha256": "166b4b88eb27cd92ef28b87d2747fa921b34e7911040b79209de14e685c25c69",
         "changed_pixels": 21272,
         "changed_pixels_outside_stickers_and_footer": 0,
-        "approval": "PENDING_AUTHOR_REVIEW",
-        "drive_id": "1j_kgtOf1Vq_Yng0AyeW_-3Ra4uaJZujW"
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "1j_kgtOf1Vq_Yng0AyeW_-3Ra4uaJZujW",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Danny_Novak",
@@ -497,8 +525,15 @@
         "sha256": "5e659b0a6ddc338fbe1cd93ce08952dc9774626fea540c68bd88e91fe1b4264e",
         "changed_pixels": 21238,
         "changed_pixels_outside_stickers_and_footer": 0,
-        "approval": "PENDING_AUTHOR_REVIEW",
-        "drive_id": "1JB_EcbZ0Y3LMV0lbv8rhO-WU34JM1e85"
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "1JB_EcbZ0Y3LMV0lbv8rhO-WU34JM1e85",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Darius_Cole",
@@ -592,8 +627,15 @@
         "sha256": "e5139950a9236aa404a12b5dd8889af4cfcda6de1177562c3e2d60fcda660810",
         "changed_pixels": 21297,
         "changed_pixels_outside_stickers_and_footer": 0,
-        "approval": "PENDING_AUTHOR_REVIEW",
-        "drive_id": "1sKBFuG6mW2d5QLgJbIh7LPUjT2BU7aF9"
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "1sKBFuG6mW2d5QLgJbIh7LPUjT2BU7aF9",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Elena_Rivera",
@@ -687,8 +729,15 @@
         "sha256": "e6f9ac672ef22f9ff0829ba58db0dac702bceca5400b8841bc19e52c79c426e1",
         "changed_pixels": 21952,
         "changed_pixels_outside_stickers_and_footer": 0,
-        "approval": "PENDING_AUTHOR_REVIEW",
-        "drive_id": "1Jd5ULSyC9dV2hYvxq4b_RRxhuFiE20ml"
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "1Jd5ULSyC9dV2hYvxq4b_RRxhuFiE20ml",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Erik_Halvorsen",
@@ -782,8 +831,15 @@
         "sha256": "8a57fe18237e917fa41777f0d3bc8c97c6a05edf2b69a83a6891ac3a057ebca5",
         "changed_pixels": 21268,
         "changed_pixels_outside_stickers_and_footer": 0,
-        "approval": "PENDING_AUTHOR_REVIEW",
-        "drive_id": "1e32NVhY6QeYdhTqy97RKPPYjP5UAqlrM"
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "1e32NVhY6QeYdhTqy97RKPPYjP5UAqlrM",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Hannah_Kowalski",
@@ -877,8 +933,15 @@
         "sha256": "24cb526e90a4430f15f3ef9015ea0fe2984c207f748562d1b0a28eb73530d084",
         "changed_pixels": 21083,
         "changed_pixels_outside_stickers_and_footer": 0,
-        "approval": "PENDING_AUTHOR_REVIEW",
-        "drive_id": "1ijvG8VJ-1-nJNQWvgGU5Imbd7vfdAP5f"
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "1ijvG8VJ-1-nJNQWvgGU5Imbd7vfdAP5f",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Luis_Mendoza",
@@ -972,8 +1035,15 @@
         "sha256": "95cff9845aba9452805a36b4008b41bb73a15ae91f312623601bade0abd3ce3b",
         "changed_pixels": 22158,
         "changed_pixels_outside_stickers_and_footer": 0,
-        "approval": "PENDING_AUTHOR_REVIEW",
-        "drive_id": "1xOwdTIg048P1AVtJFuc36_eW2ICV48m5"
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "1xOwdTIg048P1AVtJFuc36_eW2ICV48m5",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Marcus_Jackson",
@@ -1067,8 +1137,15 @@
         "sha256": "30242f7935f0bd192683cf55e84e05ebdc57b9172477746576ec6b4e8d3d8fee",
         "changed_pixels": 20978,
         "changed_pixels_outside_stickers_and_footer": 0,
-        "approval": "PENDING_AUTHOR_REVIEW",
-        "drive_id": "17DCRFDxKdvY7FKDbrxSQRxARaYnVcZ8S"
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "17DCRFDxKdvY7FKDbrxSQRxARaYnVcZ8S",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Marisol_Vega",
@@ -1162,8 +1239,15 @@
         "sha256": "db614791d3172450cbc965fc1563793043447c3fa1d71193bf69fbfa31034b09",
         "changed_pixels": 20732,
         "changed_pixels_outside_stickers_and_footer": 0,
-        "approval": "PENDING_AUTHOR_REVIEW",
-        "drive_id": "19HFjJcRJmfRwfC8xH11IXAnBmUVIrtsK"
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "19HFjJcRJmfRwfC8xH11IXAnBmUVIrtsK",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Matthias_Becker",
@@ -1257,8 +1341,15 @@
         "sha256": "925de898f85f03ca6ab8bed94a2b1a03724477c347599013da9176cec79b897e",
         "changed_pixels": 21405,
         "changed_pixels_outside_stickers_and_footer": 0,
-        "approval": "PENDING_AUTHOR_REVIEW",
-        "drive_id": "1ClSOOsPq90DFr-YFTY9xPMaNUeqx5sbv"
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "1ClSOOsPq90DFr-YFTY9xPMaNUeqx5sbv",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Maya",
@@ -1352,8 +1443,15 @@
         "sha256": "c8b7892b89e5fd445c10d5169f8faa03529fe3a452fe0a271fbe2dc123354c09",
         "changed_pixels": 21941,
         "changed_pixels_outside_stickers_and_footer": 0,
-        "approval": "PENDING_AUTHOR_REVIEW",
-        "drive_id": "10LwizzRxzXLIQpSsZsIaC-dL_klEyABJ"
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "10LwizzRxzXLIQpSsZsIaC-dL_klEyABJ",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Mrs_Harper",
@@ -1447,8 +1545,15 @@
         "sha256": "98ce0ca298ac735094914902daa18c044a43156d5c15680af46ed9b966f1083b",
         "changed_pixels": 22413,
         "changed_pixels_outside_stickers_and_footer": 0,
-        "approval": "PENDING_AUTHOR_REVIEW",
-        "drive_id": "1NSfVNRbsEOhLKLywNlBiSUZXOEXMscCu"
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "1NSfVNRbsEOhLKLywNlBiSUZXOEXMscCu",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Natalie_Chen",
@@ -1542,8 +1647,15 @@
         "sha256": "147e82a6700a41113f4a712824551818a318d365a7102d18ca875e048101d02c",
         "changed_pixels": 21253,
         "changed_pixels_outside_stickers_and_footer": 0,
-        "approval": "PENDING_AUTHOR_REVIEW",
-        "drive_id": "1ijbIPS7qf2SFeOe51vhON2-Mt1OnCY98"
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "1ijbIPS7qf2SFeOe51vhON2-Mt1OnCY98",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Omar_Haddad",
@@ -1637,8 +1749,15 @@
         "sha256": "26713a2219e928b362b521df9bf687e2bca0f98b2cb1ca09ad178b63345afc34",
         "changed_pixels": 20761,
         "changed_pixels_outside_stickers_and_footer": 0,
-        "approval": "PENDING_AUTHOR_REVIEW",
-        "drive_id": "10kXFJFTbc1cJgm5NwKjH7vzpQI_-aZjB"
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "10kXFJFTbc1cJgm5NwKjH7vzpQI_-aZjB",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Priya_Patel",
@@ -1732,8 +1851,15 @@
         "sha256": "959fec91b584045fc7586af9edaac3bfb3f61e4bfe74a76db170148bfbf53296",
         "changed_pixels": 22022,
         "changed_pixels_outside_stickers_and_footer": 0,
-        "approval": "PENDING_AUTHOR_REVIEW",
-        "drive_id": "1WT54apXjV4H2Nydrl575VpLWFL164T-8"
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "1WT54apXjV4H2Nydrl575VpLWFL164T-8",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Rafael_Martinez",
@@ -1827,8 +1953,15 @@
         "sha256": "3ee5e04dd3311e9c6a5637db86fc58b6f8d735341036bb9802baaeba149a6f84",
         "changed_pixels": 21249,
         "changed_pixels_outside_stickers_and_footer": 0,
-        "approval": "PENDING_AUTHOR_REVIEW",
-        "drive_id": "1rkWoGW8JL4XFedx0iPooUZzlrapUbFrR"
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "1rkWoGW8JL4XFedx0iPooUZzlrapUbFrR",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Sam_Carter",
@@ -1922,8 +2055,15 @@
         "sha256": "abf8d8500a138c09f5bd5d9b654030be896dcef73b963e0cee2ccbd874918d65",
         "changed_pixels": 21621,
         "changed_pixels_outside_stickers_and_footer": 0,
-        "approval": "PENDING_AUTHOR_REVIEW",
-        "drive_id": "1Eugxpa6EZhBB8H-wumakDrR5I4YnzeWL"
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "1Eugxpa6EZhBB8H-wumakDrR5I4YnzeWL",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Steph",
@@ -2043,8 +2183,15 @@
         "sha256": "5ad1553bdfacbebf3fc679f207268a2869a0ea07fb6d0c42865bb0d9f4fa7e98",
         "changed_pixels": 23793,
         "changed_pixels_outside_stickers_and_footer": 0,
-        "approval": "PENDING_AUTHOR_REVIEW",
-        "drive_id": "1cCWdcn7K0xNeLbqYa8oGBZii5ZkR07jk"
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "1cCWdcn7K0xNeLbqYa8oGBZii5ZkR07jk",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Tony_Marino",
@@ -2138,8 +2285,15 @@
         "sha256": "3a30e4108edc58f351d27755eef28172b418d6ac52741dbad5349c6d84a4a834",
         "changed_pixels": 20805,
         "changed_pixels_outside_stickers_and_footer": 0,
-        "approval": "PENDING_AUTHOR_REVIEW",
-        "drive_id": "12-8pi_nFypSJ0XXlfS5VQ5n8-Ia1bI3b"
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "12-8pi_nFypSJ0XXlfS5VQ5n8-Ia1bI3b",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Vinny",
@@ -2233,8 +2387,15 @@
         "sha256": "414bd1bf7fc794c769b4ab3b258d3c12b1a39e172540c4f4eb0e7d901c6856f1",
         "changed_pixels": 22560,
         "changed_pixels_outside_stickers_and_footer": 0,
-        "approval": "PENDING_AUTHOR_REVIEW",
-        "drive_id": "16gjYnmlneZMIb3NA5hqHiifUJjSX6wl7"
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "16gjYnmlneZMIb3NA5hqHiifUJjSX6wl7",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Ben",
@@ -2243,7 +2404,14 @@
         "unchanged": true,
         "sha256": "e19736d0df48559412a3a6b1578e6b4bdd7a1bf3e70ffb21cd1ecaecc67d45ef",
         "reason": "Approved eight-view size reference",
-        "drive_id": "1f-5jc6V8LtI3FmUsv7YUfQbk8iuSBc-W"
+        "drive_id": "1f-5jc6V8LtI3FmUsv7YUfQbk8iuSBc-W",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Leo",
@@ -2252,7 +2420,14 @@
         "unchanged": true,
         "sha256": "b20e5aa363e0a54d51e322d1fc138830239b9e2adbaeea83f4b4bfc97ff61010",
         "reason": "Approved eight-view size reference",
-        "drive_id": "15XT3C5z7LIdlFWZy98NbCSMFcGtbZvyj"
+        "drive_id": "15XT3C5z7LIdlFWZy98NbCSMFcGtbZvyj",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Rebecca_Foster",
@@ -2261,20 +2436,27 @@
         "unchanged": true,
         "sha256": "e42613b458365b9542756b19dff2f100d8f9ee5d1c0e049023df5a47caac7ebc",
         "reason": "Canon no-jobsite-sticker exception",
-        "drive_id": "17D5_BZcqCMRcI81pEUFLcH_DItk09cX8"
+        "drive_id": "17D5_BZcqCMRcI81pEUFLcH_DItk09cX8",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       }
     ]
   },
   "hardhat": {
     "revision": "R8",
-    "status": "PENDING_AUTHOR_REVIEW",
+    "status": "AUTHOR_APPROVED",
     "reference_ratio": 0.19,
     "reference": "Ben approved eight-view PPE R10 and Leo approved eight-view PPE R8. Not R7 helmet-only approval.",
     "characters": [
       {
         "character": "Ben",
         "revision": "R8",
-        "status": "PENDING_AUTHOR_REVIEW",
+        "status": "AUTHOR_APPROVED",
         "source_revision": "R7_APPROVED",
         "source_sha256": "8ca5c7168d71a079037ed9e664f8ae93e3e0214029277f6b0e7bb9fad47dc2f0",
         "svg_sha256": "a9dff4680289cc394c117d763230ce30199443e97e69d3f875b26486362e847c",
@@ -2338,12 +2520,19 @@
         "new_scaling_wrappers_only": true,
         "svg_drive_id": "1QJdI271yiyhGr8OvCp8ojNzm_w4cmaKa",
         "png_drive_id": "1KheF8T1L-JGplgLRp7sKAUKMY4l4F4by",
-        "placement_record_drive_id": "1_pCBfZGzucH-KWcZ2iluw5lLrFNZXByT"
+        "placement_record_drive_id": "1_pCBfZGzucH-KWcZ2iluw5lLrFNZXByT",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Leo",
         "revision": "R8",
-        "status": "PENDING_AUTHOR_REVIEW",
+        "status": "AUTHOR_APPROVED",
         "source_revision": "R7_APPROVED",
         "source_sha256": "86af0635c04a6a20fe628759ce0ae4a71b80122c31eff0fedd93615dd7ad8fa7",
         "svg_sha256": "e2b85e92d6dacd8dc9044416431f1bf8fe8b9e211e30f212e8b5fd9227551345",
@@ -2407,12 +2596,19 @@
         "new_scaling_wrappers_only": true,
         "svg_drive_id": "1YLYZEq5Jj-f02awdlJCGwC1f1T0RAvKo",
         "png_drive_id": "1fcSeoZf6VV8JssjHJFrJA0B00lMES_DO",
-        "placement_record_drive_id": "1KfjbY1_LHy8G8Udjq_Nf9OEhWLZpsqA_"
+        "placement_record_drive_id": "1KfjbY1_LHy8G8Udjq_Nf9OEhWLZpsqA_",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Vinny",
         "revision": "R8",
-        "status": "PENDING_AUTHOR_REVIEW",
+        "status": "AUTHOR_APPROVED",
         "source_revision": "R7_APPROVED",
         "source_sha256": "376d59e80bb12db387d45a947d1a860eaab2048b7706fe29c4d42a7c2556bb7b",
         "svg_sha256": "9a884183b9f8894cb9dcd58f95125223a1f9ad32103d2adcd2d9bd82e863689e",
@@ -2476,12 +2672,19 @@
         "new_scaling_wrappers_only": true,
         "svg_drive_id": "1izFk2HUb11IsShiRIu4oo5zR2kvjwNWJ",
         "png_drive_id": "1PsRVybo-3S2oiH4loGO9r066vOXixNmS",
-        "placement_record_drive_id": "1HHxWbljtXuiqxq9oyqIpnUzf26at3byJ"
+        "placement_record_drive_id": "1HHxWbljtXuiqxq9oyqIpnUzf26at3byJ",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Steph",
         "revision": "R8",
-        "status": "PENDING_AUTHOR_REVIEW",
+        "status": "AUTHOR_APPROVED",
         "source_revision": "R7_APPROVED",
         "source_sha256": "39b2b4c3ddb94dde87c9570f8912ab3305b559f70e001b0d07df0f8802ff4e5b",
         "svg_sha256": "dcccc57373ea6085523d3dc0d809a25a48ef0daa4eb89cad5d59faaae796347e",
@@ -2545,12 +2748,19 @@
         "new_scaling_wrappers_only": true,
         "svg_drive_id": "1AKGpL5g3NGEwMmBK9VV_8oVMXlW7G2IC",
         "png_drive_id": "1WOusRNhdIMJaArdclVPGID16vmEIaQii",
-        "placement_record_drive_id": "1YTJhxPa_0SrYXTCR3KiK-4T5m0bNDBWR"
+        "placement_record_drive_id": "1YTJhxPa_0SrYXTCR3KiK-4T5m0bNDBWR",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Maya",
         "revision": "R8",
-        "status": "PENDING_AUTHOR_REVIEW",
+        "status": "AUTHOR_APPROVED",
         "source_revision": "R7_APPROVED",
         "source_sha256": "023c6054017864fb50f084e26233d44dbba40ff5fa27cd0b57f7e24ecbf894e6",
         "svg_sha256": "7fd6a264a3060832feca9662b86cc6a22e4a3e6aaeaaa4623c5431e77a04d199",
@@ -2614,12 +2824,19 @@
         "new_scaling_wrappers_only": true,
         "svg_drive_id": "1Czpr1NpsPcuqcg4-jgbhfPSxjrH4gDRn",
         "png_drive_id": "1imb0ZRtQCR32Xe6Ebgm6rQEsZHks4gpc",
-        "placement_record_drive_id": "1gt84qOVB9rfWfkxL26DFN1BuLmGlHkk6"
+        "placement_record_drive_id": "1gt84qOVB9rfWfkxL26DFN1BuLmGlHkk6",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Mrs_Harper",
         "revision": "R8",
-        "status": "PENDING_AUTHOR_REVIEW",
+        "status": "AUTHOR_APPROVED",
         "source_revision": "R7_APPROVED",
         "source_sha256": "340b53b4d28a93f230b2bab033d0292f52f3c653ce26815594c87ee69266bcb2",
         "svg_sha256": "291333e21f3cf32ac1fd915436840868ba27d8fbee92a6c9ed2bfd0cd53fd6e5",
@@ -2683,12 +2900,19 @@
         "new_scaling_wrappers_only": true,
         "svg_drive_id": "1Hqx9XL5Yx86FfoysCNURGNpKjjyA3Oji",
         "png_drive_id": "1-E-cNoNJdJ_sR90sRoItiZlGKq_F8mSj",
-        "placement_record_drive_id": "1JkiwBE8T6OCsgay3fwiWdBn2suIVVa9K"
+        "placement_record_drive_id": "1JkiwBE8T6OCsgay3fwiWdBn2suIVVa9K",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Elena_Rivera",
         "revision": "R8",
-        "status": "PENDING_AUTHOR_REVIEW",
+        "status": "AUTHOR_APPROVED",
         "source_revision": "R7_APPROVED",
         "source_sha256": "098c05481b6d072514ffe198d5b80ccde45e8b8594dcf55a60bdb17245c27178",
         "svg_sha256": "2da87d80e23e8732d6023f035759917ad3d0d9efef8ff93b95e713fad2d376c6",
@@ -2752,12 +2976,19 @@
         "new_scaling_wrappers_only": true,
         "svg_drive_id": "1aIlBSMCULVOK8hHgDQxH_ISYRXr2erCG",
         "png_drive_id": "1NlEwL5VWul3raRST4P8ZKrDXHM0mT4uk",
-        "placement_record_drive_id": "1jf1Z5RqZTTmsbF_5gmWqGri1qQ-2jzUM"
+        "placement_record_drive_id": "1jf1Z5RqZTTmsbF_5gmWqGri1qQ-2jzUM",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Marcus_Jackson",
         "revision": "R8",
-        "status": "PENDING_AUTHOR_REVIEW",
+        "status": "AUTHOR_APPROVED",
         "source_revision": "R7_APPROVED",
         "source_sha256": "e6a59344376b9385523a4c94c21b2a16173b3e1db2fea517951fdc36a5144d6b",
         "svg_sha256": "8e5e6c1ca5853d8837a527497c5b7e1b2a24e6ace0302469a3460154aa36a104",
@@ -2821,12 +3052,19 @@
         "new_scaling_wrappers_only": true,
         "svg_drive_id": "1UA35K-ov5aA2KlS-Fyg4Nd1wYiv-uBxC",
         "png_drive_id": "1y8iBoLZ10Xyxu1xv4Csn6IIIMxX23u38",
-        "placement_record_drive_id": "1dZiUVFQ1xlayLcO-AiThMoZhS9j-lvCl"
+        "placement_record_drive_id": "1dZiUVFQ1xlayLcO-AiThMoZhS9j-lvCl",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Priya_Patel",
         "revision": "R8",
-        "status": "PENDING_AUTHOR_REVIEW",
+        "status": "AUTHOR_APPROVED",
         "source_revision": "R7_APPROVED",
         "source_sha256": "80662d6e528b3c8774cf8d94e1986397d1eea84b566bec9663ddeeca18207d0c",
         "svg_sha256": "7cbd1480318fbd83c4b298d39440ca411aedf37355b59e9d9755b3a54c6fee7f",
@@ -2890,12 +3128,19 @@
         "new_scaling_wrappers_only": true,
         "svg_drive_id": "1IBd2qd9LOGpE49WBicuy16KKDVqad5ZK",
         "png_drive_id": "1GwLW4rrCqIVmAKr7DQxZHiowZGG7t-t-",
-        "placement_record_drive_id": "1KH_RwtmfeB733Og5bXv5UKHJo1KtQUpH"
+        "placement_record_drive_id": "1KH_RwtmfeB733Og5bXv5UKHJo1KtQUpH",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Daniel_Brooks",
         "revision": "R8",
-        "status": "PENDING_AUTHOR_REVIEW",
+        "status": "AUTHOR_APPROVED",
         "source_revision": "R7_APPROVED",
         "source_sha256": "b5a41e1bafda42ffe50121cb21c975b70894a2ff51cd37876c23a6890d036f8a",
         "svg_sha256": "8f06967a54deff0dbf18634cf51250a52ef66b709b67f59d4e1270132df9d695",
@@ -2959,12 +3204,19 @@
         "new_scaling_wrappers_only": true,
         "svg_drive_id": "19iVgW8q-U57hLpxa6ic1m3BwzeXXzC3b",
         "png_drive_id": "12MlhM2Kg_WvPOk7Df_f4ITkedznPYKO8",
-        "placement_record_drive_id": "14Hn-IGEkOAqp84ndB8jiT8STGJVviz1L"
+        "placement_record_drive_id": "14Hn-IGEkOAqp84ndB8jiT8STGJVviz1L",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Tony_Marino",
         "revision": "R8",
-        "status": "PENDING_AUTHOR_REVIEW",
+        "status": "AUTHOR_APPROVED",
         "source_revision": "R7_APPROVED",
         "source_sha256": "60af6353b89b4cfb6d23d6a4a776506db41ae943ea544c09b32dc4fcac7112a1",
         "svg_sha256": "c2d8f78e1daa7a096d37dff3987c054c93eb95c8e2f43e522e2f8b3691098ea5",
@@ -3028,12 +3280,19 @@
         "new_scaling_wrappers_only": true,
         "svg_drive_id": "1cZBV_I2nVsR8GoGTUbWUhefoDPkS3kTv",
         "png_drive_id": "18N_vfEzOwN-RRDExAQ8xHp23iBgvGJOc",
-        "placement_record_drive_id": "1vrK7c5AyVvo7Ppc7WFiMGIG8L0nMVY4F"
+        "placement_record_drive_id": "1vrK7c5AyVvo7Ppc7WFiMGIG8L0nMVY4F",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Claire_Morgan",
         "revision": "R8",
-        "status": "PENDING_AUTHOR_REVIEW",
+        "status": "AUTHOR_APPROVED",
         "source_revision": "R7_APPROVED",
         "source_sha256": "58d8f34348cafc763cca8b6097ce221d7b288fe896842f09e6c3b19b667367bd",
         "svg_sha256": "836ffce6a2f1d74992772023ae77cfd0533f79eab58cdc5886ae1309532e6807",
@@ -3097,12 +3356,19 @@
         "new_scaling_wrappers_only": true,
         "svg_drive_id": "1I9ASs8zFQOw0D3q3e-PkJVZCaD2IYnqM",
         "png_drive_id": "1TrRZIb0jhKb3wSt68wZNH0ZZsGN1lz_2",
-        "placement_record_drive_id": "1qagYAt8OtAhldmQYJnRKa9I5pMX3e8SL"
+        "placement_record_drive_id": "1qagYAt8OtAhldmQYJnRKa9I5pMX3e8SL",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Omar_Haddad",
         "revision": "R8",
-        "status": "PENDING_AUTHOR_REVIEW",
+        "status": "AUTHOR_APPROVED",
         "source_revision": "R7_APPROVED",
         "source_sha256": "78120abd57bc5a7feb31b64ba2c579899c4b3d4bf773a55d0e99dcfa7d641c23",
         "svg_sha256": "f1934a5fa2f55c880880bb4566526786edbf20b6a353f64b663b47dc574e36b1",
@@ -3166,12 +3432,19 @@
         "new_scaling_wrappers_only": true,
         "svg_drive_id": "1mwVBNtmhC-6g1u_M500chSEKCNT9XRgY",
         "png_drive_id": "15tJ36aP0UGaK6TNfJeXBatWypeMRdHrB",
-        "placement_record_drive_id": "1FBbwksc_Y-mJZ2ntp6XjnAVearTsq_Cg"
+        "placement_record_drive_id": "1FBbwksc_Y-mJZ2ntp6XjnAVearTsq_Cg",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Darius_Cole",
         "revision": "R8",
-        "status": "PENDING_AUTHOR_REVIEW",
+        "status": "AUTHOR_APPROVED",
         "source_revision": "R7_APPROVED",
         "source_sha256": "cf155f09303967f13b9609af4b7bc7337a7b8349d3f32fc26e473adbd98d6fc7",
         "svg_sha256": "ffe6fb192dd320ebb8dcbfd38ee79327610fea23eefdfc573896cb5a855e6e16",
@@ -3235,12 +3508,19 @@
         "new_scaling_wrappers_only": true,
         "svg_drive_id": "1h5r9pt8208lBXqZxhu7WQq3SqNrKMVX4",
         "png_drive_id": "1izGxcLhKXFDmzjMhIqlLNNrVTAH7dsO3",
-        "placement_record_drive_id": "1NHhqKfFWfdVfibsUHqOEipORwql-dwn8"
+        "placement_record_drive_id": "1NHhqKfFWfdVfibsUHqOEipORwql-dwn8",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Matthias_Becker",
         "revision": "R8",
-        "status": "PENDING_AUTHOR_REVIEW",
+        "status": "AUTHOR_APPROVED",
         "source_revision": "R7_APPROVED",
         "source_sha256": "e53a9f8840d4362ca99f53ece961cd8f624a8e819d25472751e1a7d418863330",
         "svg_sha256": "7cfd72919c3945ff06aa55ef05e03ff6838ecfcca80f88041df07180f00dcf52",
@@ -3304,12 +3584,19 @@
         "new_scaling_wrappers_only": true,
         "svg_drive_id": "1Xbys8K2CPurNxPMk-sJeDNGu_DAby6d1",
         "png_drive_id": "1Spn7erPXYLjX5dZiuQxNNwwsk2tSpsy6",
-        "placement_record_drive_id": "1MJsR2ssjsrWxgEAqN7yDx3-7b-Z_LSv9"
+        "placement_record_drive_id": "1MJsR2ssjsrWxgEAqN7yDx3-7b-Z_LSv9",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Luis_Mendoza",
         "revision": "R8",
-        "status": "PENDING_AUTHOR_REVIEW",
+        "status": "AUTHOR_APPROVED",
         "source_revision": "R7_APPROVED",
         "source_sha256": "191ce5661f2ce806ffaf1e0244faef261167be3cb6b5ce848bfa48cfdcd2a4b6",
         "svg_sha256": "73122fbd43d6a65a1ca7f56a06373ea30faf219b2178adf4a1e8b60ffc859dfb",
@@ -3373,12 +3660,19 @@
         "new_scaling_wrappers_only": true,
         "svg_drive_id": "1zYh7NMLR7mOwZN_RIXnetV42NsfowsEu",
         "png_drive_id": "1kYDFNWwhZifOBTNkiL3H52wZJLX02V7L",
-        "placement_record_drive_id": "1ck6Gk3SyWxH-eIG3mb2AadnMkUl0uMcD"
+        "placement_record_drive_id": "1ck6Gk3SyWxH-eIG3mb2AadnMkUl0uMcD",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Andre_Lewis",
         "revision": "R8",
-        "status": "PENDING_AUTHOR_REVIEW",
+        "status": "AUTHOR_APPROVED",
         "source_revision": "R7_APPROVED",
         "source_sha256": "bd8b964cf757dc9630e259387deb8c22c0c7de65a73032b78ec8394d5608e392",
         "svg_sha256": "f1fee712024edb2be624863b287df8921b19baaa331f72e12dfb9eca015f0fdc",
@@ -3442,12 +3736,19 @@
         "new_scaling_wrappers_only": true,
         "svg_drive_id": "12mlxc7Vm-CkojehPnsRBw3--yejEnzG5",
         "png_drive_id": "1Y5ewi04Q0I0Yhkp08rs8XNuyLmbbaXGG",
-        "placement_record_drive_id": "18dmyhGf0YW-fXpmG0BRwpE6V5K5znQFm"
+        "placement_record_drive_id": "18dmyhGf0YW-fXpmG0BRwpE6V5K5znQFm",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Danny_Novak",
         "revision": "R8",
-        "status": "PENDING_AUTHOR_REVIEW",
+        "status": "AUTHOR_APPROVED",
         "source_revision": "R7_APPROVED",
         "source_sha256": "19b0fa0f8391b2f152ee2ddd75113e3fbe32bd862ca4c9383703022119aa976d",
         "svg_sha256": "d0f2ef85ab5d280d010cd4a14c2018e0976cabd26c6353eb6f7f4be3081cd009",
@@ -3511,12 +3812,19 @@
         "new_scaling_wrappers_only": true,
         "svg_drive_id": "1HStowUkR2DNO8pT4EIKfgNXeM1aD0sS8",
         "png_drive_id": "1c3iEZOtAWSONcPdj2blXyNwzzi1W729e",
-        "placement_record_drive_id": "1TersaooPY6cwqyRsyXASppMrCbdkyHLc"
+        "placement_record_drive_id": "1TersaooPY6cwqyRsyXASppMrCbdkyHLc",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Erik_Halvorsen",
         "revision": "R8",
-        "status": "PENDING_AUTHOR_REVIEW",
+        "status": "AUTHOR_APPROVED",
         "source_revision": "R7_APPROVED",
         "source_sha256": "2d96110581ae923651d8fccae46f2b324894505a4a4d24400bcc033eb65cd3b1",
         "svg_sha256": "9e1954a74e3d42e935bd8e6c490047dab99e5485bfd94c7ad5776db0b9a06abb",
@@ -3580,12 +3888,19 @@
         "new_scaling_wrappers_only": true,
         "svg_drive_id": "138gJd_GbSOwjwJaRR77lEhBiN6bJchpL",
         "png_drive_id": "1TeqFjZiPQQuiTp0mGya592B2uXqtE6Ix",
-        "placement_record_drive_id": "19rskvAM5v2mP64dxhPwb10gtfEp1ts1S"
+        "placement_record_drive_id": "19rskvAM5v2mP64dxhPwb10gtfEp1ts1S",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Sam_Carter",
         "revision": "R8",
-        "status": "PENDING_AUTHOR_REVIEW",
+        "status": "AUTHOR_APPROVED",
         "source_revision": "R7_APPROVED",
         "source_sha256": "7125f02803ec43744866832b81f18c1df2aafde905337bcfdd6f83852e19f532",
         "svg_sha256": "ef30da5e63af9f86641a327df96c0e2b7c32a09427aaf331db71ca6ba411f204",
@@ -3649,12 +3964,19 @@
         "new_scaling_wrappers_only": true,
         "svg_drive_id": "1bUvMI1BTj-X8QwYuqLJaK1wYvI2B2NF0",
         "png_drive_id": "1fBrIdhJpYBCRzPj92bS3Rmuc6Ph-0QS8",
-        "placement_record_drive_id": "17IPCBo4BLoZnkEcexpAkTQkFHBlN0a9k"
+        "placement_record_drive_id": "17IPCBo4BLoZnkEcexpAkTQkFHBlN0a9k",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Hannah_Kowalski",
         "revision": "R8",
-        "status": "PENDING_AUTHOR_REVIEW",
+        "status": "AUTHOR_APPROVED",
         "source_revision": "R7_APPROVED",
         "source_sha256": "956211d09343ef4410b276c78e76f83783da7e2eca71b03cbfa975a556133966",
         "svg_sha256": "bc46040f54dfdbc0d5651b1a8b5f6ea4e35bbe9605190a6d58d8e14fcd510a20",
@@ -3718,12 +4040,19 @@
         "new_scaling_wrappers_only": true,
         "svg_drive_id": "1H_j0_rzEeWrTDVtsXsC9sCIoX-U-7Thl",
         "png_drive_id": "1OjrmET4giiuNVweJ_HHrQ-_kCOo95Xe2",
-        "placement_record_drive_id": "1PbrAeBMdduaWDa_HOXgMoSpXOcIFu48Z"
+        "placement_record_drive_id": "1PbrAeBMdduaWDa_HOXgMoSpXOcIFu48Z",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Rebecca_Foster",
         "revision": "R8",
-        "status": "PENDING_AUTHOR_REVIEW",
+        "status": "AUTHOR_APPROVED",
         "source_revision": "R7_APPROVED",
         "source_sha256": "8a59b35ed021a5abbdb6da0f4d56f7724049735ff4c010811f0de246185cc424",
         "svg_sha256": "7572f131e6c9ae24cc46d05335b0bc06f12e3d8c49a632e3a9e84ae1c8045f78",
@@ -3736,12 +4065,19 @@
         "new_scaling_wrappers_only": true,
         "svg_drive_id": "1jwt6j5hJz_TK7J7zo1l46cdbVVeLyKSd",
         "png_drive_id": "1_NbupH8eRnJtTv9Jsmw-zeKFpev1qkU0",
-        "placement_record_drive_id": "1mvavzzzT4fJ91DNA7wVMgAK45F7vgZhV"
+        "placement_record_drive_id": "1mvavzzzT4fJ91DNA7wVMgAK45F7vgZhV",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Natalie_Chen",
         "revision": "R8",
-        "status": "PENDING_AUTHOR_REVIEW",
+        "status": "AUTHOR_APPROVED",
         "source_revision": "R7_APPROVED",
         "source_sha256": "3d5d68903f69776de9027dcfeeaa33bfdbce35cc77c9ac28d8371b629fb8f267",
         "svg_sha256": "3d9557627a8c70af2bf41ee4286c272bf2647237a5d2ff34e4628236d9d2ce0f",
@@ -3805,12 +4141,19 @@
         "new_scaling_wrappers_only": true,
         "svg_drive_id": "1Jhvezhl4tFPlf0ytvCjtklKoiJy4rHgX",
         "png_drive_id": "1s73zAsAJukomiqEeq988sXWvl7zu6fnZ",
-        "placement_record_drive_id": "1gKG80D2KQ_4Ib48inSnVM1g-KnVXK7kW"
+        "placement_record_drive_id": "1gKG80D2KQ_4Ib48inSnVM1g-KnVXK7kW",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Rafael_Martinez",
         "revision": "R8",
-        "status": "PENDING_AUTHOR_REVIEW",
+        "status": "AUTHOR_APPROVED",
         "source_revision": "R7_APPROVED",
         "source_sha256": "9dca981f3ca4359e594df0ff6549293fedc23bf27d92e96a8006ec57fd1d443e",
         "svg_sha256": "e6cabfc126a717a8c3203beac93026789d8897b242a0969e242d98136ed8eed6",
@@ -3874,12 +4217,19 @@
         "new_scaling_wrappers_only": true,
         "svg_drive_id": "1zus6pm-mDx7od4rvDW-fkMuwsf-of46w",
         "png_drive_id": "1lnvX8PkDxj0Cso8SIAMzr-MCdXXFhq5S",
-        "placement_record_drive_id": "1McACjhHU2dq3HBl-4ial1TqvjCT27Chk"
+        "placement_record_drive_id": "1McACjhHU2dq3HBl-4ial1TqvjCT27Chk",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Marisol_Vega",
         "revision": "R8",
-        "status": "PENDING_AUTHOR_REVIEW",
+        "status": "AUTHOR_APPROVED",
         "source_revision": "R7_APPROVED",
         "source_sha256": "c9a43331f9b187e221a35bfd68cd7e3c6f21faf7a9f9135c21299a60ecd5d8bd",
         "svg_sha256": "1444795151ecc5cd235c9cc964745240f085aefef6e88a4cfe4f9b4d1742f83f",
@@ -3943,12 +4293,19 @@
         "new_scaling_wrappers_only": true,
         "svg_drive_id": "1ECX9VLB3LQhh1qYJoZ4bca-BN9ALsBia",
         "png_drive_id": "1jUe1ExhQ36Ce358_4fn3DyXb_ptoLjVP",
-        "placement_record_drive_id": "1shmFDEzY8i-XUxBolzAi1-nICT1_-ODd"
+        "placement_record_drive_id": "1shmFDEzY8i-XUxBolzAi1-nICT1_-ODd",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       },
       {
         "character": "Adrian_Park",
         "revision": "R8",
-        "status": "PENDING_AUTHOR_REVIEW",
+        "status": "AUTHOR_APPROVED",
         "source_revision": "R7_APPROVED",
         "source_sha256": "6ad3cf01d30bb55a9726a503f7006f2f21235290fef7f332c19be9ff8731e15e",
         "svg_sha256": "ed78c510a6f9cd3af0f02d6840a039b8298bf5b91d2f6f2a567988d9cdbc6133",
@@ -4012,7 +4369,14 @@
         "new_scaling_wrappers_only": true,
         "svg_drive_id": "1S7bYxFWruI05gs2ogJDR0El3mS1U8e-y",
         "png_drive_id": "13V6L3DM55XCuaN2BdSKaT8kZlSBs60Ye",
-        "placement_record_drive_id": "1IdzfTj9yFgUEN4x8E8Hmr0QoSn_FK8Ll"
+        "placement_record_drive_id": "1IdzfTj9yFgUEN4x8E8Hmr0QoSn_FK8Ll",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
       }
     ]
   },
@@ -4824,6 +5188,19 @@
     "sticker_closeups_inspected": 70,
     "reference_sheet_structure_and_raw_bytes": "PASS",
     "whole_character_visual_qa": "UNVERIFIED",
-    "author_approval": "PENDING"
-  }
+    "author_approval": "APPROVED",
+    "approval_recorded_on": "2026-11-04"
+  },
+  "author_artwork_approval": {
+    "status": "AUTHOR_APPROVED",
+    "approved_for_now": true,
+    "approved_by": "Adam Reid",
+    "approved_on": "2026-11-04",
+    "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+    "scope": "The exact delivered 26-character eight-view PPE review set and all 26 Hardhat R8 source sheets, including their represented jobsite-sticker sizes. The eight-view set contains 23 resized candidates plus unchanged Ben R10, Leo R8 and Rebecca Foster R3.",
+    "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+  },
+  "archive_inventory": "QA/sticker-size-review/2026-11-01/archive-inventory-2026-11-04.json",
+  "approval_record_drive_id": "11mFlXE3CBvYwBGqeJ953e5wrqOUbIgfX",
+  "archive_inventory_drive_id": "1tiFB2WNMKdeXC2DsBNrqey-q713PRq_y"
 }
