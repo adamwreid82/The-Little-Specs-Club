@@ -1,0 +1,214 @@
+{
+  "status": "PASS",
+  "scope": "Pixel preservation outside sticker old/new clip bounds and footer, compared with approved R7 exports.",
+  "characters": [
+    {
+      "character": "Ben",
+      "changed_pixels_outside_stickers_and_footer": 0,
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "character": "Leo",
+      "changed_pixels_outside_stickers_and_footer": 0,
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "character": "Vinny",
+      "changed_pixels_outside_stickers_and_footer": 0,
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "character": "Steph",
+      "changed_pixels_outside_stickers_and_footer": 0,
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "character": "Maya",
+      "changed_pixels_outside_stickers_and_footer": 0,
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "character": "Mrs_Harper",
+      "changed_pixels_outside_stickers_and_footer": 0,
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "character": "Elena_Rivera",
+      "changed_pixels_outside_stickers_and_footer": 0,
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "character": "Marcus_Jackson",
+      "changed_pixels_outside_stickers_and_footer": 0,
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "character": "Priya_Patel",
+      "changed_pixels_outside_stickers_and_footer": 0,
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "character": "Daniel_Brooks",
+      "changed_pixels_outside_stickers_and_footer": 0,
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "character": "Tony_Marino",
+      "changed_pixels_outside_stickers_and_footer": 0,
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "character": "Claire_Morgan",
+      "changed_pixels_outside_stickers_and_footer": 0,
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "character": "Omar_Haddad",
+      "changed_pixels_outside_stickers_and_footer": 0,
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "character": "Darius_Cole",
+      "changed_pixels_outside_stickers_and_footer": 0,
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "character": "Matthias_Becker",
+      "changed_pixels_outside_stickers_and_footer": 0,
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "character": "Luis_Mendoza",
+      "changed_pixels_outside_stickers_and_footer": 0,
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "character": "Andre_Lewis",
+      "changed_pixels_outside_stickers_and_footer": 0,
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "character": "Danny_Novak",
+      "changed_pixels_outside_stickers_and_footer": 0,
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "character": "Erik_Halvorsen",
+      "changed_pixels_outside_stickers_and_footer": 0,
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "character": "Sam_Carter",
+      "changed_pixels_outside_stickers_and_footer": 0,
+      "dimensions": [
+        1421,
+        1107
+      ]
+    },
+    {
+      "character": "Hannah_Kowalski",
+      "changed_pixels_outside_stickers_and_footer": 0,
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "character": "Rebecca_Foster",
+      "changed_pixels_outside_stickers_and_footer": 0,
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "character": "Natalie_Chen",
+      "changed_pixels_outside_stickers_and_footer": 0,
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "character": "Rafael_Martinez",
+      "changed_pixels_outside_stickers_and_footer": 0,
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "character": "Marisol_Vega",
+      "changed_pixels_outside_stickers_and_footer": 0,
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "character": "Adrian_Park",
+      "changed_pixels_outside_stickers_and_footer": 0,
+      "dimensions": [
+        1536,
+        1024
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "scope": "source registry and character-rule reference consistency; not visual approval",
+  "registered_assets": 79,
+  "errors": [],
+  "warnings": []
+}

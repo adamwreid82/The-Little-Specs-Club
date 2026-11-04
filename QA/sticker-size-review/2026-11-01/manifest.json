@@ -1,0 +1,5206 @@
+{
+  "date": "2026-11-01",
+  "status": "AUTHOR_APPROVED",
+  "request": "Match everyone's jobsite sticker size to Ben and Leo's approved eight-view sheets, for both eight-view and helmet-only sheets.",
+  "reference_eight_view_ids": {
+    "Ben_R10": "1VvOWIEDBI9ClDR7k6JAivN9c-06gUpJs",
+    "Leo_R8": "1nfLsZ3KaxWNReU7ywD8VaGkG-u0KVtfP"
+  },
+  "eight_view_folder_id": "1XGYEslC91ODbIkgWwS5gfjxASoZB17Z_",
+  "hardhat_r8_folder_id": "1v2skKzvDCwnLLxQmGhOVyaKcElBBJef9",
+  "github_pr": "https://github.com/adamwreid82/The-Little-Specs-Club/pull/6",
+  "eight_view": {
+    "status": "AUTHOR_APPROVED",
+    "reference_ratio": 0.19,
+    "reference_measurements": {
+      "Ben": {
+        "profile_width": 298,
+        "sticker_height": 58,
+        "revision": "approved eight-view PPE R10"
+      },
+      "Leo": {
+        "profile_width": 292,
+        "sticker_height": 54,
+        "revision": "approved eight-view PPE R8"
+      }
+    },
+    "characters": [
+      {
+        "character": "Adrian_Park",
+        "filename": "Adrian_Park_PPE_8_Angles_REVIEW_R4.png",
+        "profile_width": 234,
+        "target_profile_sticker_height": 44.46,
+        "scale": 0.8083636363636364,
+        "marks": [
+          {
+            "view": 4,
+            "center": [
+              383.5,
+              1114.0
+            ],
+            "old_ellipse": [
+              25,
+              46,
+              0
+            ],
+            "scale": 0.8083636363636364,
+            "atlas": {
+              "file": 1,
+              "cell": 0,
+              "origin": [
+                320,
+                1050
+              ]
+            },
+            "new_ellipse": [
+              20.20909090909091,
+              37.18472727272727,
+              0
+            ]
+          },
+          {
+            "view": 5,
+            "center": [
+              1249.0,
+              1125.0
+            ],
+            "old_ellipse": [
+              44,
+              52,
+              -8
+            ],
+            "scale": 0.8083636363636364,
+            "atlas": {
+              "file": 1,
+              "cell": 1,
+              "origin": [
+                1185,
+                1061
+              ]
+            },
+            "new_ellipse": [
+              35.568,
+              42.034909090909096,
+              -8
+            ]
+          },
+          {
+            "view": 6,
+            "center": [
+              1917.5,
+              1125.5
+            ],
+            "old_ellipse": [
+              47,
+              55,
+              -8
+            ],
+            "scale": 0.8083636363636364,
+            "atlas": {
+              "file": 1,
+              "cell": 2,
+              "origin": [
+                1854,
+                1062
+              ]
+            },
+            "new_ellipse": [
+              37.99309090909091,
+              44.46,
+              -8
+            ]
+          }
+        ],
+        "new_revision": 5,
+        "new_filename": "Adrian_Park_PPE_8_Angles_REVIEW_R5.png",
+        "source_sha256": "5f17b99a1502baeea9e4bcca63cec8b8e8087c9e14c61971e23b7a8aeb086f93",
+        "sha256": "77dcc931c3fffcaf797f0d421ebd7a6745263c5ef069d0413cab3de1bc4a9bf6",
+        "changed_pixels": 20711,
+        "changed_pixels_outside_stickers_and_footer": 0,
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "10YGcnOmg5FxIBAAdjrsbajBWwfcIM4f0",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Andre_Lewis",
+        "filename": "Andre_Lewis_PPE_8_Angles_REVIEW_R7.png",
+        "profile_width": 240,
+        "target_profile_sticker_height": 45.6,
+        "scale": 0.8290909090909091,
+        "marks": [
+          {
+            "view": 2,
+            "center": [
+              1863.5,
+              173.5
+            ],
+            "old_ellipse": [
+              47,
+              55,
+              8
+            ],
+            "scale": 0.8290909090909091,
+            "atlas": {
+              "file": 1,
+              "cell": 3,
+              "origin": [
+                1800,
+                110
+              ]
+            },
+            "new_ellipse": [
+              38.96727272727273,
+              45.6,
+              8
+            ]
+          },
+          {
+            "view": 3,
+            "center": [
+              2586.5,
+              166.0
+            ],
+            "old_ellipse": [
+              49,
+              58,
+              8
+            ],
+            "scale": 0.8290909090909091,
+            "atlas": {
+              "file": 1,
+              "cell": 4,
+              "origin": [
+                2522,
+                102
+              ]
+            },
+            "new_ellipse": [
+              40.625454545454545,
+              48.087272727272726,
+              8
+            ]
+          },
+          {
+            "view": 4,
+            "center": [
+              510.5,
+              1110.0
+            ],
+            "old_ellipse": [
+              29,
+              52,
+              0
+            ],
+            "scale": 0.8290909090909091,
+            "atlas": {
+              "file": 1,
+              "cell": 5,
+              "origin": [
+                446,
+                1046
+              ]
+            },
+            "new_ellipse": [
+              24.043636363636363,
+              43.11272727272727,
+              0
+            ]
+          }
+        ],
+        "new_revision": 8,
+        "new_filename": "Andre_Lewis_PPE_8_Angles_REVIEW_R8.png",
+        "source_sha256": "b46a23dc91d7d41d56fa266ab7f72ce0faf984f735ca5ec75c77521bfa9b9244",
+        "sha256": "eb8646fd964abb45d6b4ebad4a6d9896436e772d7d185213f7b7fb180a4e3d48",
+        "changed_pixels": 21594,
+        "changed_pixels_outside_stickers_and_footer": 0,
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "1zgQkpZlYIMkiGpqbW7W7BfAQWsjcrinW",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Claire_Morgan",
+        "filename": "Claire_Morgan_PPE_8_Angles_REVIEW_R4.png",
+        "profile_width": 233,
+        "target_profile_sticker_height": 44.27,
+        "scale": 0.8513461538461539,
+        "marks": [
+          {
+            "view": 2,
+            "center": [
+              1856,
+              187
+            ],
+            "old_ellipse": [
+              43,
+              52,
+              10
+            ],
+            "scale": 0.8513461538461539,
+            "atlas": {
+              "file": 1,
+              "cell": 6,
+              "origin": [
+                1792,
+                123
+              ]
+            },
+            "new_ellipse": [
+              36.60788461538461,
+              44.27,
+              10
+            ]
+          },
+          {
+            "view": 3,
+            "center": [
+              2587,
+              188
+            ],
+            "old_ellipse": [
+              48,
+              54,
+              8
+            ],
+            "scale": 0.8513461538461539,
+            "atlas": {
+              "file": 1,
+              "cell": 7,
+              "origin": [
+                2523,
+                124
+              ]
+            },
+            "new_ellipse": [
+              40.864615384615384,
+              45.972692307692306,
+              8
+            ]
+          },
+          {
+            "view": 4,
+            "center": [
+              490,
+              1156
+            ],
+            "old_ellipse": [
+              33,
+              49,
+              0
+            ],
+            "scale": 0.8513461538461539,
+            "atlas": {
+              "file": 1,
+              "cell": 8,
+              "origin": [
+                426,
+                1092
+              ]
+            },
+            "new_ellipse": [
+              28.09442307692308,
+              41.71596153846154,
+              0
+            ]
+          }
+        ],
+        "new_revision": 5,
+        "new_filename": "Claire_Morgan_PPE_8_Angles_REVIEW_R5.png",
+        "source_sha256": "012dc7ad6a2cc3ca12420cc19b345a0103fe6688f3e9cb7da22392a88200574a",
+        "sha256": "215528d380d72d5b459013c9d1706401226338eda1500ac4ecb69240d5250374",
+        "changed_pixels": 21168,
+        "changed_pixels_outside_stickers_and_footer": 0,
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "1lYQiDLmG8RzucuqBFguYkwz7lH73SLbx",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Daniel_Brooks",
+        "filename": "Daniel_Brooks_PPE_8_Angles_REVIEW_R3.png",
+        "profile_width": 234,
+        "target_profile_sticker_height": 44.46,
+        "scale": 0.855,
+        "marks": [
+          {
+            "view": 4,
+            "center": [
+              353.0,
+              1170.5
+            ],
+            "old_ellipse": [
+              34,
+              49,
+              -8
+            ],
+            "scale": 0.855,
+            "atlas": {
+              "file": 1,
+              "cell": 9,
+              "origin": [
+                289,
+                1106
+              ]
+            },
+            "new_ellipse": [
+              29.07,
+              41.894999999999996,
+              -8
+            ]
+          },
+          {
+            "view": 5,
+            "center": [
+              1207.5,
+              1175.5
+            ],
+            "old_ellipse": [
+              49,
+              49,
+              -8
+            ],
+            "scale": 0.855,
+            "atlas": {
+              "file": 1,
+              "cell": 10,
+              "origin": [
+                1144,
+                1112
+              ]
+            },
+            "new_ellipse": [
+              41.894999999999996,
+              41.894999999999996,
+              -8
+            ]
+          },
+          {
+            "view": 6,
+            "center": [
+              1954.0,
+              1173.0
+            ],
+            "old_ellipse": [
+              44,
+              52,
+              -16
+            ],
+            "scale": 0.855,
+            "atlas": {
+              "file": 1,
+              "cell": 11,
+              "origin": [
+                1890,
+                1109
+              ]
+            },
+            "new_ellipse": [
+              37.62,
+              44.46,
+              -16
+            ]
+          }
+        ],
+        "new_revision": 4,
+        "new_filename": "Daniel_Brooks_PPE_8_Angles_REVIEW_R4.png",
+        "source_sha256": "e3ac3e75f2a130b80c28ea99a2f995e44a24fca392327b9dae2d09076e74f279",
+        "sha256": "166b4b88eb27cd92ef28b87d2747fa921b34e7911040b79209de14e685c25c69",
+        "changed_pixels": 21272,
+        "changed_pixels_outside_stickers_and_footer": 0,
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "1j_kgtOf1Vq_Yng0AyeW_-3Ra4uaJZujW",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Danny_Novak",
+        "filename": "Danny_Novak_PPE_8_Angles_REVIEW_R4.png",
+        "profile_width": 216,
+        "target_profile_sticker_height": 41.04,
+        "scale": 0.7461818181818182,
+        "marks": [
+          {
+            "view": 2,
+            "center": [
+              1869.5,
+              147.5
+            ],
+            "old_ellipse": [
+              47,
+              55,
+              8
+            ],
+            "scale": 0.7461818181818182,
+            "atlas": {
+              "file": 1,
+              "cell": 12,
+              "origin": [
+                1806,
+                84
+              ]
+            },
+            "new_ellipse": [
+              35.07054545454545,
+              41.04,
+              8
+            ]
+          },
+          {
+            "view": 3,
+            "center": [
+              2588.5,
+              144.0
+            ],
+            "old_ellipse": [
+              49,
+              58,
+              8
+            ],
+            "scale": 0.7461818181818182,
+            "atlas": {
+              "file": 1,
+              "cell": 13,
+              "origin": [
+                2524,
+                80
+              ]
+            },
+            "new_ellipse": [
+              36.56290909090909,
+              43.27854545454545,
+              8
+            ]
+          },
+          {
+            "view": 4,
+            "center": [
+              487.5,
+              1092.0
+            ],
+            "old_ellipse": [
+              25,
+              46,
+              0
+            ],
+            "scale": 0.7461818181818182,
+            "atlas": {
+              "file": 1,
+              "cell": 14,
+              "origin": [
+                424,
+                1028
+              ]
+            },
+            "new_ellipse": [
+              18.654545454545453,
+              34.324363636363636,
+              0
+            ]
+          }
+        ],
+        "new_revision": 5,
+        "new_filename": "Danny_Novak_PPE_8_Angles_REVIEW_R5.png",
+        "source_sha256": "9aa18490d94e9cd0065708cfcd06132c933c2eca35f7dd32e82fccf6554a3c32",
+        "sha256": "5e659b0a6ddc338fbe1cd93ce08952dc9774626fea540c68bd88e91fe1b4264e",
+        "changed_pixels": 21238,
+        "changed_pixels_outside_stickers_and_footer": 0,
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "1JB_EcbZ0Y3LMV0lbv8rhO-WU34JM1e85",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Darius_Cole",
+        "filename": "Darius_Cole_PPE_8_Angles_REVIEW_R4.png",
+        "profile_width": 224,
+        "target_profile_sticker_height": 42.56,
+        "scale": 0.8184615384615385,
+        "marks": [
+          {
+            "view": 4,
+            "center": [
+              370.0,
+              1097.5
+            ],
+            "old_ellipse": [
+              34,
+              49,
+              0
+            ],
+            "scale": 0.8184615384615385,
+            "atlas": {
+              "file": 1,
+              "cell": 15,
+              "origin": [
+                306,
+                1034
+              ]
+            },
+            "new_ellipse": [
+              27.827692307692306,
+              40.104615384615386,
+              0
+            ]
+          },
+          {
+            "view": 5,
+            "center": [
+              1221.5,
+              1111.5
+            ],
+            "old_ellipse": [
+              47,
+              55,
+              -8
+            ],
+            "scale": 0.8184615384615385,
+            "atlas": {
+              "file": 1,
+              "cell": 16,
+              "origin": [
+                1158,
+                1048
+              ]
+            },
+            "new_ellipse": [
+              38.46769230769231,
+              45.01538461538462,
+              -8
+            ]
+          },
+          {
+            "view": 6,
+            "center": [
+              1968.0,
+              1108.0
+            ],
+            "old_ellipse": [
+              44,
+              52,
+              -8
+            ],
+            "scale": 0.8184615384615385,
+            "atlas": {
+              "file": 1,
+              "cell": 17,
+              "origin": [
+                1904,
+                1044
+              ]
+            },
+            "new_ellipse": [
+              36.012307692307694,
+              42.56,
+              -8
+            ]
+          }
+        ],
+        "new_revision": 5,
+        "new_filename": "Darius_Cole_PPE_8_Angles_REVIEW_R5.png",
+        "source_sha256": "4adbba7e0c50fa10b4a10eeed8a843b3eba39728bc4aa9673d63c2332173ab70",
+        "sha256": "e5139950a9236aa404a12b5dd8889af4cfcda6de1177562c3e2d60fcda660810",
+        "changed_pixels": 21297,
+        "changed_pixels_outside_stickers_and_footer": 0,
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "1sKBFuG6mW2d5QLgJbIh7LPUjT2BU7aF9",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Elena_Rivera",
+        "filename": "Elena_Rivera_PPE_8_Angles_REVIEW_R4.png",
+        "profile_width": 279,
+        "target_profile_sticker_height": 53.01,
+        "scale": 0.9139655172413793,
+        "marks": [
+          {
+            "view": 4,
+            "center": [
+              360,
+              1190
+            ],
+            "old_ellipse": [
+              43,
+              54,
+              0
+            ],
+            "scale": 0.9139655172413793,
+            "atlas": {
+              "file": 1,
+              "cell": 18,
+              "origin": [
+                296,
+                1126
+              ]
+            },
+            "new_ellipse": [
+              39.30051724137931,
+              49.35413793103448,
+              0
+            ]
+          },
+          {
+            "view": 5,
+            "center": [
+              1178,
+              1185
+            ],
+            "old_ellipse": [
+              53,
+              56,
+              -8
+            ],
+            "scale": 0.9139655172413793,
+            "atlas": {
+              "file": 1,
+              "cell": 19,
+              "origin": [
+                1114,
+                1121
+              ]
+            },
+            "new_ellipse": [
+              48.44017241379311,
+              51.18206896551724,
+              -8
+            ]
+          },
+          {
+            "view": 6,
+            "center": [
+              1960.5,
+              1194.0
+            ],
+            "old_ellipse": [
+              41,
+              58,
+              -8
+            ],
+            "scale": 0.9139655172413793,
+            "atlas": {
+              "file": 1,
+              "cell": 20,
+              "origin": [
+                1896,
+                1130
+              ]
+            },
+            "new_ellipse": [
+              37.47258620689655,
+              53.01,
+              -8
+            ]
+          }
+        ],
+        "new_revision": 5,
+        "new_filename": "Elena_Rivera_PPE_8_Angles_REVIEW_R5.png",
+        "source_sha256": "3b173ecea52826d9f1bf29694f104e6eca8f8e1adb23d3ed8eab9cd378be1301",
+        "sha256": "e6f9ac672ef22f9ff0829ba58db0dac702bceca5400b8841bc19e52c79c426e1",
+        "changed_pixels": 21952,
+        "changed_pixels_outside_stickers_and_footer": 0,
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "1Jd5ULSyC9dV2hYvxq4b_RRxhuFiE20ml",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Erik_Halvorsen",
+        "filename": "Erik_Halvorsen_PPE_8_Angles_REVIEW_R4.png",
+        "profile_width": 222,
+        "target_profile_sticker_height": 42.18,
+        "scale": 0.7669090909090909,
+        "marks": [
+          {
+            "view": 4,
+            "center": [
+              394.5,
+              1117.5
+            ],
+            "old_ellipse": [
+              27,
+              49,
+              0
+            ],
+            "scale": 0.7669090909090909,
+            "atlas": {
+              "file": 1,
+              "cell": 21,
+              "origin": [
+                330,
+                1054
+              ]
+            },
+            "new_ellipse": [
+              20.706545454545452,
+              37.578545454545456,
+              0
+            ]
+          },
+          {
+            "view": 5,
+            "center": [
+              1211.5,
+              1134.5
+            ],
+            "old_ellipse": [
+              47,
+              55,
+              -8
+            ],
+            "scale": 0.7669090909090909,
+            "atlas": {
+              "file": 1,
+              "cell": 22,
+              "origin": [
+                1148,
+                1070
+              ]
+            },
+            "new_ellipse": [
+              36.04472727272727,
+              42.18,
+              -8
+            ]
+          },
+          {
+            "view": 6,
+            "center": [
+              1955.5,
+              1124.5
+            ],
+            "old_ellipse": [
+              47,
+              55,
+              -8
+            ],
+            "scale": 0.7669090909090909,
+            "atlas": {
+              "file": 1,
+              "cell": 23,
+              "origin": [
+                1892,
+                1060
+              ]
+            },
+            "new_ellipse": [
+              36.04472727272727,
+              42.18,
+              -8
+            ]
+          }
+        ],
+        "new_revision": 5,
+        "new_filename": "Erik_Halvorsen_PPE_8_Angles_REVIEW_R5.png",
+        "source_sha256": "abfa859e5e63f26d2825d41e49deda4d1ba271dcd7626239470f5ba9d5fce4fb",
+        "sha256": "8a57fe18237e917fa41777f0d3bc8c97c6a05edf2b69a83a6891ac3a057ebca5",
+        "changed_pixels": 21268,
+        "changed_pixels_outside_stickers_and_footer": 0,
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "1e32NVhY6QeYdhTqy97RKPPYjP5UAqlrM",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Hannah_Kowalski",
+        "filename": "Hannah_Kowalski_PPE_8_Angles_REVIEW_R4.png",
+        "profile_width": 261,
+        "target_profile_sticker_height": 49.59,
+        "scale": 0.9356603773584906,
+        "marks": [
+          {
+            "view": 2,
+            "center": [
+              1826,
+              187
+            ],
+            "old_ellipse": [
+              43,
+              53,
+              8
+            ],
+            "scale": 0.9356603773584906,
+            "atlas": {
+              "file": 1,
+              "cell": 24,
+              "origin": [
+                1762,
+                123
+              ]
+            },
+            "new_ellipse": [
+              40.233396226415095,
+              49.59,
+              8
+            ]
+          },
+          {
+            "view": 3,
+            "center": [
+              2521.5,
+              177.5
+            ],
+            "old_ellipse": [
+              47,
+              55,
+              8
+            ],
+            "scale": 0.9356603773584906,
+            "atlas": {
+              "file": 1,
+              "cell": 25,
+              "origin": [
+                2458,
+                114
+              ]
+            },
+            "new_ellipse": [
+              43.97603773584906,
+              51.461320754716986,
+              8
+            ]
+          },
+          {
+            "view": 4,
+            "center": [
+              547.5,
+              1115.5
+            ],
+            "old_ellipse": [
+              27,
+              49,
+              0
+            ],
+            "scale": 0.9356603773584906,
+            "atlas": {
+              "file": 1,
+              "cell": 26,
+              "origin": [
+                484,
+                1052
+              ]
+            },
+            "new_ellipse": [
+              25.262830188679246,
+              45.84735849056604,
+              0
+            ]
+          }
+        ],
+        "new_revision": 5,
+        "new_filename": "Hannah_Kowalski_PPE_8_Angles_REVIEW_R5.png",
+        "source_sha256": "f3dafadb4ac6fa956d49d1f4a8b6eec033be939ed1ed3ab6b986b69e9bcf60a3",
+        "sha256": "24cb526e90a4430f15f3ef9015ea0fe2984c207f748562d1b0a28eb73530d084",
+        "changed_pixels": 21083,
+        "changed_pixels_outside_stickers_and_footer": 0,
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "1ijvG8VJ-1-nJNQWvgGU5Imbd7vfdAP5f",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Luis_Mendoza",
+        "filename": "Luis_Mendoza_PPE_8_Angles_REVIEW_R6.png",
+        "profile_width": 255,
+        "target_profile_sticker_height": 48.45,
+        "scale": 0.835344827586207,
+        "marks": [
+          {
+            "view": 4,
+            "center": [
+              361.0,
+              1111.0
+            ],
+            "old_ellipse": [
+              36,
+              52,
+              0
+            ],
+            "scale": 0.835344827586207,
+            "atlas": {
+              "file": 1,
+              "cell": 27,
+              "origin": [
+                297,
+                1047
+              ]
+            },
+            "new_ellipse": [
+              30.07241379310345,
+              43.437931034482766,
+              0
+            ]
+          },
+          {
+            "view": 5,
+            "center": [
+              1212.5,
+              1124.0
+            ],
+            "old_ellipse": [
+              49,
+              58,
+              -8
+            ],
+            "scale": 0.835344827586207,
+            "atlas": {
+              "file": 1,
+              "cell": 28,
+              "origin": [
+                1148,
+                1060
+              ]
+            },
+            "new_ellipse": [
+              40.931896551724144,
+              48.45,
+              -8
+            ]
+          },
+          {
+            "view": 6,
+            "center": [
+              1958.5,
+              1122.0
+            ],
+            "old_ellipse": [
+              49,
+              58,
+              -8
+            ],
+            "scale": 0.835344827586207,
+            "atlas": {
+              "file": 1,
+              "cell": 29,
+              "origin": [
+                1894,
+                1058
+              ]
+            },
+            "new_ellipse": [
+              40.931896551724144,
+              48.45,
+              -8
+            ]
+          }
+        ],
+        "new_revision": 7,
+        "new_filename": "Luis_Mendoza_PPE_8_Angles_REVIEW_R7.png",
+        "source_sha256": "0f60fc46b36c69c7c6180c452241af267bc806c82370fbf451a7377ab1c19f56",
+        "sha256": "95cff9845aba9452805a36b4008b41bb73a15ae91f312623601bade0abd3ce3b",
+        "changed_pixels": 22158,
+        "changed_pixels_outside_stickers_and_footer": 0,
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "1xOwdTIg048P1AVtJFuc36_eW2ICV48m5",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Marcus_Jackson",
+        "filename": "Marcus_Jackson_PPE_8_Angles_REVIEW_R4.png",
+        "profile_width": 285,
+        "target_profile_sticker_height": 54.15,
+        "scale": 1.021698113207547,
+        "marks": [
+          {
+            "view": 2,
+            "center": [
+              1826,
+              185
+            ],
+            "old_ellipse": [
+              40,
+              53,
+              14
+            ],
+            "scale": 1.021698113207547,
+            "atlas": {
+              "file": 1,
+              "cell": 30,
+              "origin": [
+                1762,
+                121
+              ]
+            },
+            "new_ellipse": [
+              40.867924528301884,
+              54.15,
+              14
+            ]
+          },
+          {
+            "view": 3,
+            "center": [
+              2608.5,
+              184.5
+            ],
+            "old_ellipse": [
+              55,
+              55,
+              8
+            ],
+            "scale": 1.021698113207547,
+            "atlas": {
+              "file": 1,
+              "cell": 31,
+              "origin": [
+                2544,
+                120
+              ]
+            },
+            "new_ellipse": [
+              56.19339622641509,
+              56.19339622641509,
+              8
+            ]
+          },
+          {
+            "view": 4,
+            "center": [
+              504,
+              1196
+            ],
+            "old_ellipse": [
+              34,
+              52,
+              0
+            ],
+            "scale": 1.021698113207547,
+            "atlas": {
+              "file": 1,
+              "cell": 32,
+              "origin": [
+                440,
+                1132
+              ]
+            },
+            "new_ellipse": [
+              34.737735849056605,
+              53.12830188679245,
+              0
+            ]
+          }
+        ],
+        "new_revision": 5,
+        "new_filename": "Marcus_Jackson_PPE_8_Angles_REVIEW_R5.png",
+        "source_sha256": "1c52ea15e83c85640340ae0537473715eadc65ac1783c9909dc34e453b7f4bbe",
+        "sha256": "30242f7935f0bd192683cf55e84e05ebdc57b9172477746576ec6b4e8d3d8fee",
+        "changed_pixels": 20978,
+        "changed_pixels_outside_stickers_and_footer": 0,
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "17DCRFDxKdvY7FKDbrxSQRxARaYnVcZ8S",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Marisol_Vega",
+        "filename": "Marisol_Vega_PPE_8_Angles_REVIEW_R4.png",
+        "profile_width": 238,
+        "target_profile_sticker_height": 45.22,
+        "scale": 0.8221818181818181,
+        "marks": [
+          {
+            "view": 2,
+            "center": [
+              1861.5,
+              175.5
+            ],
+            "old_ellipse": [
+              47,
+              55,
+              8
+            ],
+            "scale": 0.8221818181818181,
+            "atlas": {
+              "file": 1,
+              "cell": 33,
+              "origin": [
+                1798,
+                112
+              ]
+            },
+            "new_ellipse": [
+              38.64254545454545,
+              45.22,
+              8
+            ]
+          },
+          {
+            "view": 3,
+            "center": [
+              2593.0,
+              174.0
+            ],
+            "old_ellipse": [
+              44,
+              52,
+              8
+            ],
+            "scale": 0.8221818181818181,
+            "atlas": {
+              "file": 1,
+              "cell": 34,
+              "origin": [
+                2529,
+                110
+              ]
+            },
+            "new_ellipse": [
+              36.175999999999995,
+              42.753454545454545,
+              8
+            ]
+          },
+          {
+            "view": 4,
+            "center": [
+              491.0,
+              1088.5
+            ],
+            "old_ellipse": [
+              20,
+              49,
+              0
+            ],
+            "scale": 0.8221818181818181,
+            "atlas": {
+              "file": 1,
+              "cell": 35,
+              "origin": [
+                427,
+                1024
+              ]
+            },
+            "new_ellipse": [
+              16.44363636363636,
+              40.28690909090909,
+              0
+            ]
+          }
+        ],
+        "new_revision": 5,
+        "new_filename": "Marisol_Vega_PPE_8_Angles_REVIEW_R5.png",
+        "source_sha256": "670fed5230a39e6cab8d9b0b75ca12ef310c03515360f82faebae4840a8d9089",
+        "sha256": "db614791d3172450cbc965fc1563793043447c3fa1d71193bf69fbfa31034b09",
+        "changed_pixels": 20732,
+        "changed_pixels_outside_stickers_and_footer": 0,
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "19HFjJcRJmfRwfC8xH11IXAnBmUVIrtsK",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Matthias_Becker",
+        "filename": "Matthias_Becker_PPE_8_Angles_REVIEW_R10.png",
+        "profile_width": 194,
+        "target_profile_sticker_height": 36.86,
+        "scale": 0.6954716981132075,
+        "marks": [
+          {
+            "view": 2,
+            "center": [
+              1869,
+              158
+            ],
+            "old_ellipse": [
+              42,
+              53,
+              8
+            ],
+            "scale": 0.6954716981132075,
+            "atlas": {
+              "file": 2,
+              "cell": 0,
+              "origin": [
+                1805,
+                94
+              ]
+            },
+            "new_ellipse": [
+              29.209811320754717,
+              36.86,
+              8
+            ]
+          },
+          {
+            "view": 3,
+            "center": [
+              2591.0,
+              151.0
+            ],
+            "old_ellipse": [
+              52,
+              52,
+              8
+            ],
+            "scale": 0.6954716981132075,
+            "atlas": {
+              "file": 2,
+              "cell": 1,
+              "origin": [
+                2527,
+                87
+              ]
+            },
+            "new_ellipse": [
+              36.16452830188679,
+              36.16452830188679,
+              8
+            ]
+          },
+          {
+            "view": 4,
+            "center": [
+              501,
+              1094
+            ],
+            "old_ellipse": [
+              28,
+              49,
+              0
+            ],
+            "scale": 0.6954716981132075,
+            "atlas": {
+              "file": 2,
+              "cell": 2,
+              "origin": [
+                437,
+                1030
+              ]
+            },
+            "new_ellipse": [
+              19.47320754716981,
+              34.07811320754717,
+              0
+            ]
+          }
+        ],
+        "new_revision": 11,
+        "new_filename": "Matthias_Becker_PPE_8_Angles_REVIEW_R11.png",
+        "source_sha256": "d2117030a8e0a0d8261fd5f17ce1d5c54a8ee3b5bf8ce2cee5a12182f01172a5",
+        "sha256": "925de898f85f03ca6ab8bed94a2b1a03724477c347599013da9176cec79b897e",
+        "changed_pixels": 21405,
+        "changed_pixels_outside_stickers_and_footer": 0,
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "1ClSOOsPq90DFr-YFTY9xPMaNUeqx5sbv",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Maya",
+        "filename": "Maya_PPE_8_Angles_APPROVED_R8.png",
+        "profile_width": 300,
+        "target_profile_sticker_height": 57.0,
+        "scale": 1.3255813953488371,
+        "marks": [
+          {
+            "view": 0,
+            "center": [
+              545.0,
+              151.0
+            ],
+            "old_ellipse": [
+              28,
+              40,
+              0
+            ],
+            "scale": 1.3255813953488371,
+            "atlas": {
+              "file": 2,
+              "cell": 3,
+              "origin": [
+                481,
+                87
+              ]
+            },
+            "new_ellipse": [
+              37.11627906976744,
+              53.02325581395348,
+              0
+            ]
+          },
+          {
+            "view": 6,
+            "center": [
+              1833.0,
+              1107.5
+            ],
+            "old_ellipse": [
+              30,
+              43,
+              -8
+            ],
+            "scale": 1.3255813953488371,
+            "atlas": {
+              "file": 2,
+              "cell": 4,
+              "origin": [
+                1769,
+                1044
+              ]
+            },
+            "new_ellipse": [
+              39.76744186046511,
+              56.99999999999999,
+              -8
+            ]
+          },
+          {
+            "view": 7,
+            "center": [
+              2687.5,
+              1116.5
+            ],
+            "old_ellipse": [
+              43,
+              43,
+              -8
+            ],
+            "scale": 1.3255813953488371,
+            "atlas": {
+              "file": 2,
+              "cell": 5,
+              "origin": [
+                2624,
+                1052
+              ]
+            },
+            "new_ellipse": [
+              56.99999999999999,
+              56.99999999999999,
+              -8
+            ]
+          }
+        ],
+        "new_revision": 9,
+        "new_filename": "Maya_PPE_8_Angles_REVIEW_R9.png",
+        "source_sha256": "ae2f98c37d68cd40ff6cdfc4900426006341ca5c24e6fa8ba0ad72b1381d6c06",
+        "sha256": "c8b7892b89e5fd445c10d5169f8faa03529fe3a452fe0a271fbe2dc123354c09",
+        "changed_pixels": 21941,
+        "changed_pixels_outside_stickers_and_footer": 0,
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "10LwizzRxzXLIQpSsZsIaC-dL_klEyABJ",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Mrs_Harper",
+        "filename": "Mrs_Harper_PPE_8_Angles_REVIEW_R4.png",
+        "profile_width": 270,
+        "target_profile_sticker_height": 51.3,
+        "scale": 0.9865384615384615,
+        "marks": [
+          {
+            "view": 2,
+            "center": [
+              1829.0,
+              171.0
+            ],
+            "old_ellipse": [
+              44,
+              52,
+              16
+            ],
+            "scale": 0.9865384615384615,
+            "atlas": {
+              "file": 2,
+              "cell": 6,
+              "origin": [
+                1765,
+                107
+              ]
+            },
+            "new_ellipse": [
+              43.40769230769231,
+              51.3,
+              16
+            ]
+          },
+          {
+            "view": 3,
+            "center": [
+              2610,
+              158
+            ],
+            "old_ellipse": [
+              54,
+              56,
+              8
+            ],
+            "scale": 0.9865384615384615,
+            "atlas": {
+              "file": 2,
+              "cell": 7,
+              "origin": [
+                2546,
+                94
+              ]
+            },
+            "new_ellipse": [
+              53.27307692307692,
+              55.246153846153845,
+              8
+            ]
+          },
+          {
+            "view": 4,
+            "center": [
+              512.0,
+              1167.0
+            ],
+            "old_ellipse": [
+              36,
+              52,
+              8
+            ],
+            "scale": 0.9865384615384615,
+            "atlas": {
+              "file": 2,
+              "cell": 8,
+              "origin": [
+                448,
+                1103
+              ]
+            },
+            "new_ellipse": [
+              35.51538461538461,
+              51.3,
+              8
+            ]
+          }
+        ],
+        "new_revision": 5,
+        "new_filename": "Mrs_Harper_PPE_8_Angles_REVIEW_R5.png",
+        "source_sha256": "7f911052dfcf522b7c6b442779b1817aa228e8c4981d17376fa3146fdca99a36",
+        "sha256": "98ce0ca298ac735094914902daa18c044a43156d5c15680af46ed9b966f1083b",
+        "changed_pixels": 22413,
+        "changed_pixels_outside_stickers_and_footer": 0,
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "1NSfVNRbsEOhLKLywNlBiSUZXOEXMscCu",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Natalie_Chen",
+        "filename": "Natalie_Chen_PPE_8_Angles_REVIEW_R2.png",
+        "profile_width": 239,
+        "target_profile_sticker_height": 45.41,
+        "scale": 0.8256363636363636,
+        "marks": [
+          {
+            "view": 4,
+            "center": [
+              368.5,
+              1130.5
+            ],
+            "old_ellipse": [
+              27,
+              49,
+              0
+            ],
+            "scale": 0.8256363636363636,
+            "atlas": {
+              "file": 2,
+              "cell": 9,
+              "origin": [
+                304,
+                1066
+              ]
+            },
+            "new_ellipse": [
+              22.292181818181817,
+              40.45618181818182,
+              0
+            ]
+          },
+          {
+            "view": 5,
+            "center": [
+              1192.5,
+              1135.5
+            ],
+            "old_ellipse": [
+              47,
+              55,
+              -8
+            ],
+            "scale": 0.8256363636363636,
+            "atlas": {
+              "file": 2,
+              "cell": 10,
+              "origin": [
+                1128,
+                1072
+              ]
+            },
+            "new_ellipse": [
+              38.80490909090909,
+              45.41,
+              -8
+            ]
+          },
+          {
+            "view": 6,
+            "center": [
+              1959.5,
+              1130.5
+            ],
+            "old_ellipse": [
+              47,
+              55,
+              -8
+            ],
+            "scale": 0.8256363636363636,
+            "atlas": {
+              "file": 2,
+              "cell": 11,
+              "origin": [
+                1896,
+                1066
+              ]
+            },
+            "new_ellipse": [
+              38.80490909090909,
+              45.41,
+              -8
+            ]
+          }
+        ],
+        "new_revision": 3,
+        "new_filename": "Natalie_Chen_PPE_8_Angles_REVIEW_R3.png",
+        "source_sha256": "eae5a01bdc9830c967dd5043cf1392ee72740eb7c36a1e7ca450f33535bd3b2a",
+        "sha256": "147e82a6700a41113f4a712824551818a318d365a7102d18ca875e048101d02c",
+        "changed_pixels": 21253,
+        "changed_pixels_outside_stickers_and_footer": 0,
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "1ijbIPS7qf2SFeOe51vhON2-Mt1OnCY98",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Omar_Haddad",
+        "filename": "Omar_Haddad_PPE_8_Angles_REVIEW_R9.png",
+        "profile_width": 226,
+        "target_profile_sticker_height": 42.94,
+        "scale": 0.8763265306122449,
+        "marks": [
+          {
+            "view": 2,
+            "center": [
+              1856,
+              166
+            ],
+            "old_ellipse": [
+              42,
+              49,
+              8
+            ],
+            "scale": 0.8763265306122449,
+            "atlas": {
+              "file": 2,
+              "cell": 12,
+              "origin": [
+                1792,
+                102
+              ]
+            },
+            "new_ellipse": [
+              36.80571428571428,
+              42.94,
+              8
+            ]
+          },
+          {
+            "view": 3,
+            "center": [
+              2535,
+              170
+            ],
+            "old_ellipse": [
+              45,
+              48,
+              8
+            ],
+            "scale": 0.8763265306122449,
+            "atlas": {
+              "file": 2,
+              "cell": 13,
+              "origin": [
+                2471,
+                106
+              ]
+            },
+            "new_ellipse": [
+              39.43469387755102,
+              42.06367346938775,
+              8
+            ]
+          },
+          {
+            "view": 4,
+            "center": [
+              554,
+              1107
+            ],
+            "old_ellipse": [
+              32,
+              48,
+              0
+            ],
+            "scale": 0.8763265306122449,
+            "atlas": {
+              "file": 2,
+              "cell": 14,
+              "origin": [
+                490,
+                1043
+              ]
+            },
+            "new_ellipse": [
+              28.042448979591835,
+              42.06367346938775,
+              0
+            ]
+          }
+        ],
+        "new_revision": 10,
+        "new_filename": "Omar_Haddad_PPE_8_Angles_REVIEW_R10.png",
+        "source_sha256": "36b7a3f0c2916c31d6c6fabbe5bdaf2892bec9fd316ca701b2ea6508737d4b97",
+        "sha256": "26713a2219e928b362b521df9bf687e2bca0f98b2cb1ca09ad178b63345afc34",
+        "changed_pixels": 20761,
+        "changed_pixels_outside_stickers_and_footer": 0,
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "10kXFJFTbc1cJgm5NwKjH7vzpQI_-aZjB",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Priya_Patel",
+        "filename": "Priya_Patel_PPE_8_Angles_REVIEW_R3.png",
+        "profile_width": 254,
+        "target_profile_sticker_height": 48.26,
+        "scale": 0.928076923076923,
+        "marks": [
+          {
+            "view": 4,
+            "center": [
+              371.0,
+              1169.5
+            ],
+            "old_ellipse": [
+              38,
+              55,
+              0
+            ],
+            "scale": 0.928076923076923,
+            "atlas": {
+              "file": 2,
+              "cell": 15,
+              "origin": [
+                307,
+                1106
+              ]
+            },
+            "new_ellipse": [
+              35.26692307692308,
+              51.044230769230765,
+              0
+            ]
+          },
+          {
+            "view": 5,
+            "center": [
+              1215.5,
+              1168.5
+            ],
+            "old_ellipse": [
+              55,
+              55,
+              -8
+            ],
+            "scale": 0.928076923076923,
+            "atlas": {
+              "file": 2,
+              "cell": 16,
+              "origin": [
+                1152,
+                1104
+              ]
+            },
+            "new_ellipse": [
+              51.044230769230765,
+              51.044230769230765,
+              -8
+            ]
+          },
+          {
+            "view": 6,
+            "center": [
+              1963.0,
+              1171.0
+            ],
+            "old_ellipse": [
+              44,
+              52,
+              -16
+            ],
+            "scale": 0.928076923076923,
+            "atlas": {
+              "file": 2,
+              "cell": 17,
+              "origin": [
+                1899,
+                1107
+              ]
+            },
+            "new_ellipse": [
+              40.83538461538461,
+              48.26,
+              -16
+            ]
+          }
+        ],
+        "new_revision": 4,
+        "new_filename": "Priya_Patel_PPE_8_Angles_REVIEW_R4.png",
+        "source_sha256": "bb52075efe3b377aa168930da6cd1b0cb48c32d777af615cab18084b60dbb8d0",
+        "sha256": "959fec91b584045fc7586af9edaac3bfb3f61e4bfe74a76db170148bfbf53296",
+        "changed_pixels": 22022,
+        "changed_pixels_outside_stickers_and_footer": 0,
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "1WT54apXjV4H2Nydrl575VpLWFL164T-8",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Rafael_Martinez",
+        "filename": "Rafael_Martinez_PPE_8_Angles_REVIEW_R5.png",
+        "profile_width": 257,
+        "target_profile_sticker_height": 48.83,
+        "scale": 0.8418965517241379,
+        "marks": [
+          {
+            "view": 2,
+            "center": [
+              1868.5,
+              184.0
+            ],
+            "old_ellipse": [
+              49,
+              58,
+              8
+            ],
+            "scale": 0.8418965517241379,
+            "atlas": {
+              "file": 2,
+              "cell": 18,
+              "origin": [
+                1804,
+                120
+              ]
+            },
+            "new_ellipse": [
+              41.252931034482756,
+              48.83,
+              8
+            ]
+          },
+          {
+            "view": 3,
+            "center": [
+              2571.0,
+              183.0
+            ],
+            "old_ellipse": [
+              44,
+              52,
+              8
+            ],
+            "scale": 0.8418965517241379,
+            "atlas": {
+              "file": 2,
+              "cell": 19,
+              "origin": [
+                2507,
+                119
+              ]
+            },
+            "new_ellipse": [
+              37.04344827586207,
+              43.77862068965517,
+              8
+            ]
+          },
+          {
+            "view": 4,
+            "center": [
+              496.0,
+              1132.5
+            ],
+            "old_ellipse": [
+              24,
+              50,
+              0
+            ],
+            "scale": 0.8418965517241379,
+            "atlas": {
+              "file": 2,
+              "cell": 20,
+              "origin": [
+                432,
+                1066
+              ]
+            },
+            "new_ellipse": [
+              20.20551724137931,
+              42.0948275862069,
+              0
+            ]
+          }
+        ],
+        "new_revision": 6,
+        "new_filename": "Rafael_Martinez_PPE_8_Angles_REVIEW_R6.png",
+        "source_sha256": "16dc2650fa0ba09e5a7e8b4b36ea8669818886a211bba78a0868f72df3b2a1cb",
+        "sha256": "3ee5e04dd3311e9c6a5637db86fc58b6f8d735341036bb9802baaeba149a6f84",
+        "changed_pixels": 21249,
+        "changed_pixels_outside_stickers_and_footer": 0,
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "1rkWoGW8JL4XFedx0iPooUZzlrapUbFrR",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Sam_Carter",
+        "filename": "Sam_Carter_PPE_8_Angles_REVIEW_R6.png",
+        "profile_width": 241,
+        "target_profile_sticker_height": 45.79,
+        "scale": 0.7894827586206896,
+        "marks": [
+          {
+            "view": 4,
+            "center": [
+              382.5,
+              1127.5
+            ],
+            "old_ellipse": [
+              27,
+              49,
+              0
+            ],
+            "scale": 0.7894827586206896,
+            "atlas": {
+              "file": 2,
+              "cell": 21,
+              "origin": [
+                318,
+                1064
+              ]
+            },
+            "new_ellipse": [
+              21.31603448275862,
+              38.68465517241379,
+              0
+            ]
+          },
+          {
+            "view": 5,
+            "center": [
+              1198.5,
+              1144.0
+            ],
+            "old_ellipse": [
+              49,
+              58,
+              -8
+            ],
+            "scale": 0.7894827586206896,
+            "atlas": {
+              "file": 2,
+              "cell": 22,
+              "origin": [
+                1134,
+                1080
+              ]
+            },
+            "new_ellipse": [
+              38.68465517241379,
+              45.79,
+              -8
+            ]
+          },
+          {
+            "view": 6,
+            "center": [
+              1948.5,
+              1140.0
+            ],
+            "old_ellipse": [
+              49,
+              58,
+              -8
+            ],
+            "scale": 0.7894827586206896,
+            "atlas": {
+              "file": 2,
+              "cell": 23,
+              "origin": [
+                1884,
+                1076
+              ]
+            },
+            "new_ellipse": [
+              38.68465517241379,
+              45.79,
+              -8
+            ]
+          }
+        ],
+        "new_revision": 7,
+        "new_filename": "Sam_Carter_PPE_8_Angles_REVIEW_R7.png",
+        "source_sha256": "5aac30cdc67ee18b11620b1c8e19ee4294d50b75028dfba88d47b8134c549b83",
+        "sha256": "abf8d8500a138c09f5bd5d9b654030be896dcef73b963e0cee2ccbd874918d65",
+        "changed_pixels": 21621,
+        "changed_pixels_outside_stickers_and_footer": 0,
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "1Eugxpa6EZhBB8H-wumakDrR5I4YnzeWL",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Steph",
+        "filename": "Steph_PPE_8_Angles_REVIEW_R13.png",
+        "profile_width": 298,
+        "target_profile_sticker_height": 56.62,
+        "scale": 1.49,
+        "marks": [
+          {
+            "view": 0,
+            "center": [
+              358,
+              147
+            ],
+            "old_ellipse": [
+              25,
+              39,
+              -9
+            ],
+            "scale": 1.49,
+            "atlas": {
+              "file": 2,
+              "cell": 24,
+              "origin": [
+                294,
+                83
+              ]
+            },
+            "new_ellipse": [
+              37.25,
+              58.11,
+              -9
+            ]
+          },
+          {
+            "view": 1,
+            "center": [
+              1148,
+              161
+            ],
+            "old_ellipse": [
+              39,
+              41,
+              6
+            ],
+            "scale": 1.49,
+            "atlas": {
+              "file": 2,
+              "cell": 25,
+              "origin": [
+                1084,
+                97
+              ]
+            },
+            "new_ellipse": [
+              58.11,
+              61.089999999999996,
+              6
+            ]
+          },
+          {
+            "view": 2,
+            "center": [
+              1984,
+              172
+            ],
+            "old_ellipse": [
+              25,
+              38,
+              10
+            ],
+            "scale": 1.49,
+            "atlas": {
+              "file": 2,
+              "cell": 26,
+              "origin": [
+                1920,
+                108
+              ]
+            },
+            "new_ellipse": [
+              37.25,
+              56.62,
+              10
+            ]
+          },
+          {
+            "view": 7,
+            "center": [
+              2520,
+              1117
+            ],
+            "old_ellipse": [
+              10,
+              38,
+              -10
+            ],
+            "scale": 1.49,
+            "atlas": {
+              "file": 2,
+              "cell": 27,
+              "origin": [
+                2456,
+                1053
+              ]
+            },
+            "new_ellipse": [
+              14.9,
+              56.62,
+              -10
+            ]
+          }
+        ],
+        "new_revision": 14,
+        "new_filename": "Steph_PPE_8_Angles_REVIEW_R14.png",
+        "source_sha256": "78d19a8adf859dbcc6a3f9e07fcb18c8ff5046cfcd8ca775fba12c759cf49a30",
+        "sha256": "5ad1553bdfacbebf3fc679f207268a2869a0ea07fb6d0c42865bb0d9f4fa7e98",
+        "changed_pixels": 23793,
+        "changed_pixels_outside_stickers_and_footer": 0,
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "1cCWdcn7K0xNeLbqYa8oGBZii5ZkR07jk",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Tony_Marino",
+        "filename": "Tony_Marino_PPE_8_Angles_REVIEW_R3.png",
+        "profile_width": 245,
+        "target_profile_sticker_height": 46.55,
+        "scale": 0.95,
+        "marks": [
+          {
+            "view": 2,
+            "center": [
+              1831.0,
+              179.5
+            ],
+            "old_ellipse": [
+              34,
+              49,
+              8
+            ],
+            "scale": 0.95,
+            "atlas": {
+              "file": 2,
+              "cell": 28,
+              "origin": [
+                1767,
+                116
+              ]
+            },
+            "new_ellipse": [
+              32.3,
+              46.55,
+              8
+            ]
+          },
+          {
+            "view": 3,
+            "center": [
+              2593.0,
+              173.0
+            ],
+            "old_ellipse": [
+              52,
+              52,
+              8
+            ],
+            "scale": 0.95,
+            "atlas": {
+              "file": 2,
+              "cell": 29,
+              "origin": [
+                2529,
+                109
+              ]
+            },
+            "new_ellipse": [
+              49.4,
+              49.4,
+              8
+            ]
+          },
+          {
+            "view": 4,
+            "center": [
+              483.0,
+              1116.0
+            ],
+            "old_ellipse": [
+              36,
+              52,
+              0
+            ],
+            "scale": 0.95,
+            "atlas": {
+              "file": 2,
+              "cell": 30,
+              "origin": [
+                419,
+                1052
+              ]
+            },
+            "new_ellipse": [
+              34.199999999999996,
+              49.4,
+              0
+            ]
+          }
+        ],
+        "new_revision": 4,
+        "new_filename": "Tony_Marino_PPE_8_Angles_REVIEW_R4.png",
+        "source_sha256": "b62975b38651178e6731a93153baa6c3c0a35881e1d015aa7639a068277fb512",
+        "sha256": "3a30e4108edc58f351d27755eef28172b418d6ac52741dbad5349c6d84a4a834",
+        "changed_pixels": 20805,
+        "changed_pixels_outside_stickers_and_footer": 0,
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "12-8pi_nFypSJ0XXlfS5VQ5n8-Ia1bI3b",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Vinny",
+        "filename": "Vinny_PPE_8_Angles_APPROVED_R15.png",
+        "profile_width": 310,
+        "target_profile_sticker_height": 58.9,
+        "scale": 1.2804347826086957,
+        "marks": [
+          {
+            "view": 4,
+            "center": [
+              359.0,
+              1162.0
+            ],
+            "old_ellipse": [
+              32,
+              46,
+              0
+            ],
+            "scale": 1.2804347826086957,
+            "atlas": {
+              "file": 2,
+              "cell": 31,
+              "origin": [
+                295,
+                1098
+              ]
+            },
+            "new_ellipse": [
+              40.97391304347826,
+              58.900000000000006,
+              0
+            ]
+          },
+          {
+            "view": 5,
+            "center": [
+              1200.0,
+              1161.0
+            ],
+            "old_ellipse": [
+              46,
+              46,
+              -8
+            ],
+            "scale": 1.2804347826086957,
+            "atlas": {
+              "file": 2,
+              "cell": 32,
+              "origin": [
+                1136,
+                1097
+              ]
+            },
+            "new_ellipse": [
+              58.900000000000006,
+              58.900000000000006,
+              -8
+            ]
+          },
+          {
+            "view": 6,
+            "center": [
+              1964.0,
+              1163.0
+            ],
+            "old_ellipse": [
+              32,
+              46,
+              -8
+            ],
+            "scale": 1.2804347826086957,
+            "atlas": {
+              "file": 2,
+              "cell": 33,
+              "origin": [
+                1900,
+                1099
+              ]
+            },
+            "new_ellipse": [
+              40.97391304347826,
+              58.900000000000006,
+              -8
+            ]
+          }
+        ],
+        "new_revision": 16,
+        "new_filename": "Vinny_PPE_8_Angles_REVIEW_R16.png",
+        "source_sha256": "24818af75c422de477a1409fa3f442b864d600603e0d65eed258c692afa07067",
+        "sha256": "414bd1bf7fc794c769b4ab3b258d3c12b1a39e172540c4f4eb0e7d901c6856f1",
+        "changed_pixels": 22560,
+        "changed_pixels_outside_stickers_and_footer": 0,
+        "approval": "AUTHOR_APPROVED",
+        "drive_id": "16gjYnmlneZMIb3NA5hqHiifUJjSX6wl7",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Ben",
+        "source_filename": "ben_approved.png",
+        "new_filename": "Ben_PPE_8_Angles_APPROVED_R10_UNCHANGED.png",
+        "unchanged": true,
+        "sha256": "e19736d0df48559412a3a6b1578e6b4bdd7a1bf3e70ffb21cd1ecaecc67d45ef",
+        "reason": "Approved eight-view size reference",
+        "drive_id": "1f-5jc6V8LtI3FmUsv7YUfQbk8iuSBc-W",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Leo",
+        "source_filename": "leo_approved.png",
+        "new_filename": "Leo_PPE_8_Angles_APPROVED_R8_UNCHANGED.png",
+        "unchanged": true,
+        "sha256": "b20e5aa363e0a54d51e322d1fc138830239b9e2adbaeea83f4b4bfc97ff61010",
+        "reason": "Approved eight-view size reference",
+        "drive_id": "15XT3C5z7LIdlFWZy98NbCSMFcGtbZvyj",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Rebecca_Foster",
+        "source_filename": "Rebecca_Foster_PPE_8_Angles_REVIEW_R3.png",
+        "new_filename": "Rebecca_Foster_PPE_8_Angles_REVIEW_R3_UNCHANGED.png",
+        "unchanged": true,
+        "sha256": "e42613b458365b9542756b19dff2f100d8f9ee5d1c0e049023df5a47caac7ebc",
+        "reason": "Canon no-jobsite-sticker exception",
+        "drive_id": "17D5_BZcqCMRcI81pEUFLcH_DItk09cX8",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      }
+    ]
+  },
+  "hardhat": {
+    "revision": "R8",
+    "status": "AUTHOR_APPROVED",
+    "reference_ratio": 0.19,
+    "reference": "Ben approved eight-view PPE R10 and Leo approved eight-view PPE R8. Not R7 helmet-only approval.",
+    "characters": [
+      {
+        "character": "Ben",
+        "revision": "R8",
+        "status": "AUTHOR_APPROVED",
+        "source_revision": "R7_APPROVED",
+        "source_sha256": "8ca5c7168d71a079037ed9e664f8ae93e3e0214029277f6b0e7bb9fad47dc2f0",
+        "svg_sha256": "a9dff4680289cc394c117d763230ce30199443e97e69d3f875b26486362e847c",
+        "png_sha256": "c925c1482b8ba78e1c15b5d6d1b6bb47bfbdf4c0868fd23094168e6e5efd42d6",
+        "reference": {
+          "original_visible_profile_bounds": [
+            461,
+            685,
+            533,
+            755
+          ],
+          "profile_width": 699,
+          "target_profile_sticker_height": 132.81,
+          "scale": 1.8972857142857142
+        },
+        "changes": [
+          {
+            "view": "fire_station_back",
+            "scale": 1.8972857142857142,
+            "local_center": [
+              920.3015,
+              275.5785
+            ],
+            "old_clip_bbox": [
+              901.898,
+              232.924,
+              938.705,
+              318.233
+            ],
+            "new_clip_bbox": [
+              885.3848023571429,
+              194.6507265,
+              955.2181976428571,
+              356.5062735
+            ],
+            "existing_view_transform": null
+          },
+          {
+            "view": "fire_station_wearer_left",
+            "scale": 1.8972857142857142,
+            "local_center": [
+              497.81050000000005,
+              719.8465000000001
+            ],
+            "old_clip_bbox": [
+              458.536,
+              682.599,
+              537.085,
+              757.094
+            ],
+            "new_clip_bbox": [
+              423.2955522142857,
+              649.1773503571428,
+              572.3254477857143,
+              790.5156496428572
+            ],
+            "existing_view_transform": null
+          }
+        ],
+        "all_original_svg_nodes_and_transforms_preserved": true,
+        "new_scaling_wrappers_only": true,
+        "svg_drive_id": "1QJdI271yiyhGr8OvCp8ojNzm_w4cmaKa",
+        "png_drive_id": "1KheF8T1L-JGplgLRp7sKAUKMY4l4F4by",
+        "placement_record_drive_id": "1_pCBfZGzucH-KWcZ2iluw5lLrFNZXByT",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Leo",
+        "revision": "R8",
+        "status": "AUTHOR_APPROVED",
+        "source_revision": "R7_APPROVED",
+        "source_sha256": "86af0635c04a6a20fe628759ce0ae4a71b80122c31eff0fedd93615dd7ad8fa7",
+        "svg_sha256": "e2b85e92d6dacd8dc9044416431f1bf8fe8b9e211e30f212e8b5fd9227551345",
+        "png_sha256": "f05e23e856fd276abf32a8e3b7b0fad23d3a147d202f8d1ce49e495a7d7f8409",
+        "reference": {
+          "original_visible_profile_bounds": [
+            1002,
+            694,
+            1071,
+            770
+          ],
+          "profile_width": 672,
+          "target_profile_sticker_height": 127.68,
+          "scale": 1.6800000000000002
+        },
+        "changes": [
+          {
+            "view": "fire_station_back",
+            "scale": 1.6800000000000002,
+            "local_center": [
+              1307.05,
+              279.5485
+            ],
+            "old_clip_bbox": [
+              1287.442,
+              235.22,
+              1326.658,
+              323.877
+            ],
+            "new_clip_bbox": [
+              1274.1085600000001,
+              205.07662,
+              1339.9914399999998,
+              354.02038000000005
+            ],
+            "existing_view_transform": null
+          },
+          {
+            "view": "fire_station_wearer_right",
+            "scale": 1.6800000000000002,
+            "local_center": [
+              1036.1055000000001,
+              731.928
+            ],
+            "old_clip_bbox": [
+              998.348,
+              691.257,
+              1073.863,
+              772.599
+            ],
+            "new_clip_bbox": [
+              972.6728999999998,
+              663.6007199999999,
+              1099.5381,
+              800.2552800000001
+            ],
+            "existing_view_transform": null
+          }
+        ],
+        "all_original_svg_nodes_and_transforms_preserved": true,
+        "new_scaling_wrappers_only": true,
+        "svg_drive_id": "1YLYZEq5Jj-f02awdlJCGwC1f1T0RAvKo",
+        "png_drive_id": "1fcSeoZf6VV8JssjHJFrJA0B00lMES_DO",
+        "placement_record_drive_id": "1KfjbY1_LHy8G8Udjq_Nf9OEhWLZpsqA_",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Vinny",
+        "revision": "R8",
+        "status": "AUTHOR_APPROVED",
+        "source_revision": "R7_APPROVED",
+        "source_sha256": "376d59e80bb12db387d45a947d1a860eaab2048b7706fe29c4d42a7c2556bb7b",
+        "svg_sha256": "9a884183b9f8894cb9dcd58f95125223a1f9ad32103d2adcd2d9bd82e863689e",
+        "png_sha256": "d1e422c53805116ee0e49cc73a266e55996425e432099df7182e56bc47ca979d",
+        "reference": {
+          "original_visible_profile_bounds": [
+            560,
+            687,
+            616,
+            762
+          ],
+          "profile_width": 699,
+          "target_profile_sticker_height": 132.81,
+          "scale": 1.7708
+        },
+        "changes": [
+          {
+            "view": "fire_station_back",
+            "scale": 1.7708,
+            "local_center": [
+              987.279,
+              300.5665
+            ],
+            "old_clip_bbox": [
+              958.824,
+              260.186,
+              1015.734,
+              340.947
+            ],
+            "new_clip_bbox": [
+              936.8908859999999,
+              229.06071059999994,
+              1037.667114,
+              372.0722894
+            ],
+            "existing_view_transform": null
+          },
+          {
+            "view": "fire_station_wearer_left",
+            "scale": 1.7708,
+            "local_center": [
+              588.012,
+              724.7729999999999
+            ],
+            "old_clip_bbox": [
+              553.772,
+              683.034,
+              622.252,
+              766.512
+            ],
+            "new_clip_bbox": [
+              527.3798080000001,
+              650.8615788000001,
+              648.644192,
+              798.6844212
+            ],
+            "existing_view_transform": null
+          }
+        ],
+        "all_original_svg_nodes_and_transforms_preserved": true,
+        "new_scaling_wrappers_only": true,
+        "svg_drive_id": "1izFk2HUb11IsShiRIu4oo5zR2kvjwNWJ",
+        "png_drive_id": "1PsRVybo-3S2oiH4loGO9r066vOXixNmS",
+        "placement_record_drive_id": "1HHxWbljtXuiqxq9oyqIpnUzf26at3byJ",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Steph",
+        "revision": "R8",
+        "status": "AUTHOR_APPROVED",
+        "source_revision": "R7_APPROVED",
+        "source_sha256": "39b2b4c3ddb94dde87c9570f8912ab3305b559f70e001b0d07df0f8802ff4e5b",
+        "svg_sha256": "dcccc57373ea6085523d3dc0d809a25a48ef0daa4eb89cad5d59faaae796347e",
+        "png_sha256": "579e7a9ba3a0da92b4d471529735ebea053831a5528ab5b512af752e9a9d1da7",
+        "reference": {
+          "original_visible_profile_bounds": [
+            1271,
+            707,
+            1323,
+            777
+          ],
+          "profile_width": 648,
+          "target_profile_sticker_height": 123.12,
+          "scale": 1.758857142857143
+        },
+        "changes": [
+          {
+            "view": "fire_station_front",
+            "scale": 1.758857142857143,
+            "local_center": [
+              243.02049999999997,
+              296.686
+            ],
+            "old_clip_bbox": [
+              213.158,
+              257.592,
+              272.883,
+              335.78
+            ],
+            "new_clip_bbox": [
+              190.49662857142857,
+              227.92523885714286,
+              295.5443714285714,
+              365.4467611428571
+            ],
+            "existing_view_transform": null
+          },
+          {
+            "view": "fire_station_wearer_right",
+            "scale": 1.758857142857143,
+            "local_center": [
+              1296.75,
+              742.0129999999999
+            ],
+            "old_clip_bbox": [
+              1265.008,
+              702.847,
+              1328.492,
+              781.179
+            ],
+            "new_clip_bbox": [
+              1240.9203565714286,
+              673.1256011428571,
+              1352.5796434285714,
+              810.9003988571428
+            ],
+            "existing_view_transform": null
+          }
+        ],
+        "all_original_svg_nodes_and_transforms_preserved": true,
+        "new_scaling_wrappers_only": true,
+        "svg_drive_id": "1AKGpL5g3NGEwMmBK9VV_8oVMXlW7G2IC",
+        "png_drive_id": "1WOusRNhdIMJaArdclVPGID16vmEIaQii",
+        "placement_record_drive_id": "1YTJhxPa_0SrYXTCR3KiK-4T5m0bNDBWR",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Maya",
+        "revision": "R8",
+        "status": "AUTHOR_APPROVED",
+        "source_revision": "R7_APPROVED",
+        "source_sha256": "023c6054017864fb50f084e26233d44dbba40ff5fa27cd0b57f7e24ecbf894e6",
+        "svg_sha256": "7fd6a264a3060832feca9662b86cc6a22e4a3e6aaeaaa4623c5431e77a04d199",
+        "png_sha256": "ed34b1ff92b464ef6279a9de88833a5258f4e9d2e46782608c2bc2852a00fe17",
+        "reference": {
+          "original_visible_profile_bounds": [
+            169,
+            842,
+            215,
+            924
+          ],
+          "profile_width": 568,
+          "target_profile_sticker_height": 107.92,
+          "scale": 1.3160975609756098
+        },
+        "changes": [
+          {
+            "view": "fire_station_front",
+            "scale": 1.3160975609756098,
+            "local_center": [
+              460.2395,
+              360.826
+            ],
+            "old_clip_bbox": [
+              431.684,
+              312.512,
+              488.795,
+              409.14
+            ],
+            "new_clip_bbox": [
+              422.657676097561,
+              297.24006243902437,
+              497.821323902439,
+              424.4119375609756
+            ],
+            "existing_view_transform": null
+          },
+          {
+            "view": "fire_station_wearer_left",
+            "scale": 1.3160975609756098,
+            "local_center": [
+              192.256,
+              883.0865
+            ],
+            "old_clip_bbox": [
+              164.433,
+              837.56,
+              220.079,
+              928.613
+            ],
+            "new_clip_bbox": [
+              155.6382175609756,
+              823.1691843902438,
+              228.8737824390244,
+              943.0038156097562
+            ],
+            "existing_view_transform": null
+          }
+        ],
+        "all_original_svg_nodes_and_transforms_preserved": true,
+        "new_scaling_wrappers_only": true,
+        "svg_drive_id": "1Czpr1NpsPcuqcg4-jgbhfPSxjrH4gDRn",
+        "png_drive_id": "1imb0ZRtQCR32Xe6Ebgm6rQEsZHks4gpc",
+        "placement_record_drive_id": "1gt84qOVB9rfWfkxL26DFN1BuLmGlHkk6",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Mrs_Harper",
+        "revision": "R8",
+        "status": "AUTHOR_APPROVED",
+        "source_revision": "R7_APPROVED",
+        "source_sha256": "340b53b4d28a93f230b2bab033d0292f52f3c653ce26815594c87ee69266bcb2",
+        "svg_sha256": "291333e21f3cf32ac1fd915436840868ba27d8fbee92a6c9ed2bfd0cd53fd6e5",
+        "png_sha256": "d39c9dc6e62eea1a0818a57db780e8f229b446e5d745a5a7b810557f868b2ca4",
+        "reference": {
+          "original_visible_profile_bounds": [
+            919,
+            689,
+            975,
+            766
+          ],
+          "profile_width": 699,
+          "target_profile_sticker_height": 132.81,
+          "scale": 1.7248051948051948
+        },
+        "changes": [
+          {
+            "view": "fire_station_back",
+            "scale": 1.7248051948051948,
+            "local_center": [
+              1293.424,
+              298.54600000000005
+            ],
+            "old_clip_bbox": [
+              1263.863,
+              257.951,
+              1322.985,
+              339.141
+            ],
+            "new_clip_bbox": [
+              1242.4370336363638,
+              228.52753311688312,
+              1344.4109663636361,
+              368.5644668831169
+            ],
+            "existing_view_transform": null
+          },
+          {
+            "view": "fire_station_wearer_right",
+            "scale": 1.7248051948051948,
+            "local_center": [
+              946.988,
+              727.0
+            ],
+            "old_clip_bbox": [
+              912.748,
+              684.118,
+              981.228,
+              769.882
+            ],
+            "new_clip_bbox": [
+              887.9306701298701,
+              653.0369036363637,
+              1006.0453298701298,
+              800.9630963636363
+            ],
+            "existing_view_transform": null
+          }
+        ],
+        "all_original_svg_nodes_and_transforms_preserved": true,
+        "new_scaling_wrappers_only": true,
+        "svg_drive_id": "1Hqx9XL5Yx86FfoysCNURGNpKjjyA3Oji",
+        "png_drive_id": "1-E-cNoNJdJ_sR90sRoItiZlGKq_F8mSj",
+        "placement_record_drive_id": "1JkiwBE8T6OCsgay3fwiWdBn2suIVVa9K",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Elena_Rivera",
+        "revision": "R8",
+        "status": "AUTHOR_APPROVED",
+        "source_revision": "R7_APPROVED",
+        "source_sha256": "098c05481b6d072514ffe198d5b80ccde45e8b8594dcf55a60bdb17245c27178",
+        "svg_sha256": "2da87d80e23e8732d6023f035759917ad3d0d9efef8ff93b95e713fad2d376c6",
+        "png_sha256": "384e7549b4f076f2e85d2f34c69896125e0314cb5cc879a6e5c38f2ccb40a474",
+        "reference": {
+          "original_visible_profile_bounds": [
+            553,
+            677,
+            609,
+            748
+          ],
+          "profile_width": 699,
+          "target_profile_sticker_height": 132.81,
+          "scale": 1.8705633802816901
+        },
+        "changes": [
+          {
+            "view": "fire_station_back",
+            "scale": 1.8705633802816901,
+            "local_center": [
+              992.7585,
+              296.746
+            ],
+            "old_clip_bbox": [
+              966.918,
+              258.295,
+              1018.599,
+              335.197
+            ],
+            "new_clip_bbox": [
+              944.422206971831,
+              224.8209674647888,
+              1041.094793028169,
+              368.6710325352113
+            ],
+            "existing_view_transform": "translate(-26.64684)"
+          },
+          {
+            "view": "fire_station_wearer_left",
+            "scale": 1.8705633802816901,
+            "local_center": [
+              588.012,
+              718.973
+            ],
+            "old_clip_bbox": [
+              553.772,
+              679.379,
+              622.252,
+              758.567
+            ],
+            "new_clip_bbox": [
+              523.963909859155,
+              644.9099135211268,
+              652.060090140845,
+              793.0360864788732
+            ],
+            "existing_view_transform": "translate(-7.6133829,-6.3444857)"
+          }
+        ],
+        "all_original_svg_nodes_and_transforms_preserved": true,
+        "new_scaling_wrappers_only": true,
+        "svg_drive_id": "1aIlBSMCULVOK8hHgDQxH_ISYRXr2erCG",
+        "png_drive_id": "1NlEwL5VWul3raRST4P8ZKrDXHM0mT4uk",
+        "placement_record_drive_id": "1jf1Z5RqZTTmsbF_5gmWqGri1qQ-2jzUM",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Marcus_Jackson",
+        "revision": "R8",
+        "status": "AUTHOR_APPROVED",
+        "source_revision": "R7_APPROVED",
+        "source_sha256": "e6a59344376b9385523a4c94c21b2a16173b3e1db2fea517951fdc36a5144d6b",
+        "svg_sha256": "8e5e6c1ca5853d8837a527497c5b7e1b2a24e6ace0302469a3460154aa36a104",
+        "png_sha256": "8f763cb167e9cafd3001aa05c305b0152d8a77b138ab2637761f6badacc4d3e5",
+        "reference": {
+          "original_visible_profile_bounds": [
+            927,
+            696,
+            979,
+            770
+          ],
+          "profile_width": 652,
+          "target_profile_sticker_height": 123.88,
+          "scale": 1.674054054054054
+        },
+        "changes": [
+          {
+            "view": "fire_station_back",
+            "scale": 1.674054054054054,
+            "local_center": [
+              1289.3870000000002,
+              297.0795
+            ],
+            "old_clip_bbox": [
+              1260.027,
+              255.055,
+              1318.747,
+              339.104
+            ],
+            "new_clip_bbox": [
+              1240.2367729729729,
+              226.72821540540542,
+              1338.537227027027,
+              367.43078459459457
+            ],
+            "existing_view_transform": null
+          },
+          {
+            "view": "fire_station_wearer_right",
+            "scale": 1.674054054054054,
+            "local_center": [
+              953.2395,
+              733.1595
+            ],
+            "old_clip_bbox": [
+              921.302,
+              691.993,
+              985.177,
+              774.326
+            ],
+            "new_clip_bbox": [
+              899.7743986486487,
+              664.2445537837839,
+              1006.7046013513514,
+              802.0744462162163
+            ],
+            "existing_view_transform": null
+          }
+        ],
+        "all_original_svg_nodes_and_transforms_preserved": true,
+        "new_scaling_wrappers_only": true,
+        "svg_drive_id": "1UA35K-ov5aA2KlS-Fyg4Nd1wYiv-uBxC",
+        "png_drive_id": "1y8iBoLZ10Xyxu1xv4Csn6IIIMxX23u38",
+        "placement_record_drive_id": "1dZiUVFQ1xlayLcO-AiThMoZhS9j-lvCl",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Priya_Patel",
+        "revision": "R8",
+        "status": "AUTHOR_APPROVED",
+        "source_revision": "R7_APPROVED",
+        "source_sha256": "80662d6e528b3c8774cf8d94e1986397d1eea84b566bec9663ddeeca18207d0c",
+        "svg_sha256": "7cbd1480318fbd83c4b298d39440ca411aedf37355b59e9d9755b3a54c6fee7f",
+        "png_sha256": "4d823e8a2e967a7f3b5f72c8d789a4f0777bb4b197e4b6450bf069ea7d091f58",
+        "reference": {
+          "original_visible_profile_bounds": [
+            538,
+            682,
+            589,
+            756
+          ],
+          "profile_width": 637,
+          "target_profile_sticker_height": 121.03,
+          "scale": 1.6355405405405405
+        },
+        "changes": [
+          {
+            "view": "fire_station_back",
+            "scale": 1.6355405405405405,
+            "local_center": [
+              990.279,
+              285.653
+            ],
+            "old_clip_bbox": [
+              961.824,
+              242.628,
+              1018.734,
+              328.678
+            ],
+            "new_clip_bbox": [
+              943.7396939189189,
+              215.2838682432432,
+              1036.8183060810811,
+              356.0221317567567
+            ],
+            "existing_view_transform": null
+          },
+          {
+            "view": "fire_station_wearer_left",
+            "scale": 1.6355405405405405,
+            "local_center": [
+              562.8720000000001,
+              718.8530000000001
+            ],
+            "old_clip_bbox": [
+              531.669,
+              677.972,
+              594.075,
+              759.734
+            ],
+            "new_clip_bbox": [
+              511.83822851351346,
+              651.9904671621621,
+              613.9057714864865,
+              785.7155328378378
+            ],
+            "existing_view_transform": null
+          }
+        ],
+        "all_original_svg_nodes_and_transforms_preserved": true,
+        "new_scaling_wrappers_only": true,
+        "svg_drive_id": "1IBd2qd9LOGpE49WBicuy16KKDVqad5ZK",
+        "png_drive_id": "1GwLW4rrCqIVmAKr7DQxZHiowZGG7t-t-",
+        "placement_record_drive_id": "1KH_RwtmfeB733Og5bXv5UKHJo1KtQUpH",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Daniel_Brooks",
+        "revision": "R8",
+        "status": "AUTHOR_APPROVED",
+        "source_revision": "R7_APPROVED",
+        "source_sha256": "b5a41e1bafda42ffe50121cb21c975b70894a2ff51cd37876c23a6890d036f8a",
+        "svg_sha256": "8f06967a54deff0dbf18634cf51250a52ef66b709b67f59d4e1270132df9d695",
+        "png_sha256": "303ce4903d16cca515e5b7ff2e32c5d3313c28c230ba4bb443722cdb42297c05",
+        "reference": {
+          "original_visible_profile_bounds": [
+            461,
+            669,
+            533,
+            735
+          ],
+          "profile_width": 699,
+          "target_profile_sticker_height": 132.81,
+          "scale": 2.012272727272727
+        },
+        "changes": [
+          {
+            "view": "fire_station_back",
+            "scale": 2.012272727272727,
+            "local_center": [
+              959.3405,
+              278.2455
+            ],
+            "old_clip_bbox": [
+              940.502,
+              236.392,
+              978.179,
+              320.099
+            ],
+            "new_clip_bbox": [
+              921.4323002272727,
+              194.02484340909092,
+              997.2486997727272,
+              362.46615659090907
+            ],
+            "existing_view_transform": null
+          },
+          {
+            "view": "fire_station_wearer_left",
+            "scale": 2.012272727272727,
+            "local_center": [
+              497.81050000000005,
+              701.9395
+            ],
+            "old_clip_bbox": [
+              458.536,
+              666.677,
+              537.085,
+              737.202
+            ],
+            "new_clip_bbox": [
+              418.7794947727272,
+              630.9817329545456,
+              576.8415052272727,
+              772.8972670454546
+            ],
+            "existing_view_transform": null
+          }
+        ],
+        "all_original_svg_nodes_and_transforms_preserved": true,
+        "new_scaling_wrappers_only": true,
+        "svg_drive_id": "19iVgW8q-U57hLpxa6ic1m3BwzeXXzC3b",
+        "png_drive_id": "12MlhM2Kg_WvPOk7Df_f4ITkedznPYKO8",
+        "placement_record_drive_id": "14Hn-IGEkOAqp84ndB8jiT8STGJVviz1L",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Tony_Marino",
+        "revision": "R8",
+        "status": "AUTHOR_APPROVED",
+        "source_revision": "R7_APPROVED",
+        "source_sha256": "60af6353b89b4cfb6d23d6a4a776506db41ae943ea544c09b32dc4fcac7112a1",
+        "svg_sha256": "c2d8f78e1daa7a096d37dff3987c054c93eb95c8e2f43e522e2f8b3691098ea5",
+        "png_sha256": "48e9ce8b49f38c2fe34d3ae53ea24752eeaf240920facdd6fe95416e3ce1699a",
+        "reference": {
+          "original_visible_profile_bounds": [
+            886,
+            679,
+            918,
+            753
+          ],
+          "profile_width": 684,
+          "target_profile_sticker_height": 129.96,
+          "scale": 1.7562162162162163
+        },
+        "changes": [
+          {
+            "view": "fire_station_back",
+            "scale": 1.7562162162162163,
+            "local_center": [
+              1222.0565000000001,
+              299.7355
+            ],
+            "old_clip_bbox": [
+              1187.919,
+              257.9,
+              1256.194,
+              341.571
+            ],
+            "new_clip_bbox": [
+              1162.103668918919,
+              226.26331648648645,
+              1282.009331081081,
+              373.20768351351353
+            ],
+            "existing_view_transform": null
+          },
+          {
+            "view": "fire_station_wearer_right",
+            "scale": 1.7562162162162163,
+            "local_center": [
+              902.9845,
+              716.185
+            ],
+            "old_clip_bbox": [
+              880.684,
+              673.385,
+              925.285,
+              758.985
+            ],
+            "new_clip_bbox": [
+              863.8200002702702,
+              641.0189459459459,
+              942.1489997297297,
+              791.3510540540541
+            ],
+            "existing_view_transform": null
+          }
+        ],
+        "all_original_svg_nodes_and_transforms_preserved": true,
+        "new_scaling_wrappers_only": true,
+        "svg_drive_id": "1cZBV_I2nVsR8GoGTUbWUhefoDPkS3kTv",
+        "png_drive_id": "18N_vfEzOwN-RRDExAQ8xHp23iBgvGJOc",
+        "placement_record_drive_id": "1vrK7c5AyVvo7Ppc7WFiMGIG8L0nMVY4F",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Claire_Morgan",
+        "revision": "R8",
+        "status": "AUTHOR_APPROVED",
+        "source_revision": "R7_APPROVED",
+        "source_sha256": "58d8f34348cafc763cca8b6097ce221d7b288fe896842f09e6c3b19b667367bd",
+        "svg_sha256": "836ffce6a2f1d74992772023ae77cfd0533f79eab58cdc5886ae1309532e6807",
+        "png_sha256": "85d8a8463a489dcf23758fd5fa73695272ec0548173e59111279c8a1c8cf9216",
+        "reference": {
+          "original_visible_profile_bounds": [
+            939,
+            698,
+            992,
+            772
+          ],
+          "profile_width": 670,
+          "target_profile_sticker_height": 127.3,
+          "scale": 1.7202702702702701
+        },
+        "changes": [
+          {
+            "view": "fire_station_back",
+            "scale": 1.7202702702702701,
+            "local_center": [
+              1282.48,
+              287.3265
+            ],
+            "old_clip_bbox": [
+              1253.975,
+              244.373,
+              1310.985,
+              330.28
+            ],
+            "new_clip_bbox": [
+              1233.4436959459458,
+              213.43487094594593,
+              1331.5163040540538,
+              361.218129054054
+            ],
+            "existing_view_transform": null
+          },
+          {
+            "view": "fire_station_wearer_right",
+            "scale": 1.7202702702702701,
+            "local_center": [
+              965.9735000000001,
+              735.1595
+            ],
+            "old_clip_bbox": [
+              933.154,
+              693.993,
+              998.793,
+              776.326
+            ],
+            "new_clip_bbox": [
+              909.5150898648649,
+              664.341993918919,
+              1022.4319101351351,
+              805.9770060810811
+            ],
+            "existing_view_transform": null
+          }
+        ],
+        "all_original_svg_nodes_and_transforms_preserved": true,
+        "new_scaling_wrappers_only": true,
+        "svg_drive_id": "1I9ASs8zFQOw0D3q3e-PkJVZCaD2IYnqM",
+        "png_drive_id": "1TrRZIb0jhKb3wSt68wZNH0ZZsGN1lz_2",
+        "placement_record_drive_id": "1qagYAt8OtAhldmQYJnRKa9I5pMX3e8SL",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Omar_Haddad",
+        "revision": "R8",
+        "status": "AUTHOR_APPROVED",
+        "source_revision": "R7_APPROVED",
+        "source_sha256": "78120abd57bc5a7feb31b64ba2c579899c4b3d4bf773a55d0e99dcfa7d641c23",
+        "svg_sha256": "f1934a5fa2f55c880880bb4566526786edbf20b6a353f64b663b47dc574e36b1",
+        "png_sha256": "8a6f0046b729fddf7faa890f725085c2959f36726ea8d3f50f4bc1772b55940e",
+        "reference": {
+          "original_visible_profile_bounds": [
+            996,
+            696,
+            1064,
+            775
+          ],
+          "profile_width": 664,
+          "target_profile_sticker_height": 126.16,
+          "scale": 1.5969620253164556
+        },
+        "changes": [
+          {
+            "view": "fire_station_back",
+            "scale": 1.5969620253164556,
+            "local_center": [
+              1339.4995,
+              276.2755
+            ],
+            "old_clip_bbox": [
+              1318.921,
+              231.292,
+              1360.078,
+              321.259
+            ],
+            "new_clip_bbox": [
+              1306.6364169620254,
+              204.4385587341772,
+              1372.3625830379747,
+              348.1124412658228
+            ],
+            "existing_view_transform": null
+          },
+          {
+            "view": "fire_station_wearer_right",
+            "scale": 1.5969620253164556,
+            "local_center": [
+              1029.4135,
+              735.419
+            ],
+            "old_clip_bbox": [
+              992.105,
+              693.447,
+              1066.722,
+              777.391
+            ],
+            "new_clip_bbox": [
+              969.833242278481,
+              668.3913098734178,
+              1088.993757721519,
+              802.4466901265822
+            ],
+            "existing_view_transform": null
+          }
+        ],
+        "all_original_svg_nodes_and_transforms_preserved": true,
+        "new_scaling_wrappers_only": true,
+        "svg_drive_id": "1mwVBNtmhC-6g1u_M500chSEKCNT9XRgY",
+        "png_drive_id": "15tJ36aP0UGaK6TNfJeXBatWypeMRdHrB",
+        "placement_record_drive_id": "1FBbwksc_Y-mJZ2ntp6XjnAVearTsq_Cg",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Darius_Cole",
+        "revision": "R8",
+        "status": "AUTHOR_APPROVED",
+        "source_revision": "R7_APPROVED",
+        "source_sha256": "cf155f09303967f13b9609af4b7bc7337a7b8349d3f32fc26e473adbd98d6fc7",
+        "svg_sha256": "ffe6fb192dd320ebb8dcbfd38ee79327610fea23eefdfc573896cb5a855e6e16",
+        "png_sha256": "bc29aa1415add4c75661b6bf1fc9c7d20b4bc4ecfe70263aa1e675d24ba0ea63",
+        "reference": {
+          "original_visible_profile_bounds": [
+            511,
+            699,
+            582,
+            776
+          ],
+          "profile_width": 691,
+          "target_profile_sticker_height": 131.29,
+          "scale": 1.705064935064935
+        },
+        "changes": [
+          {
+            "view": "fire_station_back",
+            "scale": 1.705064935064935,
+            "local_center": [
+              933.4205,
+              274.7605
+            ],
+            "old_clip_bbox": [
+              913.712,
+              230.141,
+              953.129,
+              319.38
+            ],
+            "new_clip_bbox": [
+              899.8162277272727,
+              198.68135512987016,
+              967.0247722727273,
+              350.83964487012986
+            ],
+            "existing_view_transform": null
+          },
+          {
+            "view": "fire_station_wearer_left",
+            "scale": 1.705064935064935,
+            "local_center": [
+              492.502,
+              739.953
+            ],
+            "old_clip_bbox": [
+              453.677,
+              699.076,
+              531.327,
+              780.83
+            ],
+            "new_clip_bbox": [
+              426.3028538961039,
+              670.2550606493508,
+              558.7011461038961,
+              809.6509393506494
+            ],
+            "existing_view_transform": "translate(54.562577,-2.5377943)"
+          }
+        ],
+        "all_original_svg_nodes_and_transforms_preserved": true,
+        "new_scaling_wrappers_only": true,
+        "svg_drive_id": "1h5r9pt8208lBXqZxhu7WQq3SqNrKMVX4",
+        "png_drive_id": "1izGxcLhKXFDmzjMhIqlLNNrVTAH7dsO3",
+        "placement_record_drive_id": "1NHhqKfFWfdVfibsUHqOEipORwql-dwn8",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Matthias_Becker",
+        "revision": "R8",
+        "status": "AUTHOR_APPROVED",
+        "source_revision": "R7_APPROVED",
+        "source_sha256": "e53a9f8840d4362ca99f53ece961cd8f624a8e819d25472751e1a7d418863330",
+        "svg_sha256": "7cfd72919c3945ff06aa55ef05e03ff6838ecfcca80f88041df07180f00dcf52",
+        "png_sha256": "57b445fb8e0221f336f8e71b7d1316d50b283259a8cdd0e69f86c56bb565d9da",
+        "reference": {
+          "original_visible_profile_bounds": [
+            1012,
+            694,
+            1082,
+            773
+          ],
+          "profile_width": 678,
+          "target_profile_sticker_height": 128.82,
+          "scale": 1.630632911392405
+        },
+        "changes": [
+          {
+            "view": "fire_station_back",
+            "scale": 1.630632911392405,
+            "local_center": [
+              1357.755,
+              275.3665
+            ],
+            "old_clip_bbox": [
+              1337.444,
+              230.601,
+              1378.066,
+              320.132
+            ],
+            "new_clip_bbox": [
+              1324.6352149367087,
+              202.37040240506332,
+              1390.874785063291,
+              348.36259759493674
+            ],
+            "existing_view_transform": null
+          },
+          {
+            "view": "fire_station_wearer_right",
+            "scale": 1.630632911392405,
+            "local_center": [
+              1046.124,
+              733.394
+            ],
+            "old_clip_bbox": [
+              1008.029,
+              691.627,
+              1084.219,
+              775.161
+            ],
+            "new_clip_bbox": [
+              984.0050392405063,
+              665.2873551898733,
+              1108.2429607594938,
+              801.5006448101265
+            ],
+            "existing_view_transform": null
+          }
+        ],
+        "all_original_svg_nodes_and_transforms_preserved": true,
+        "new_scaling_wrappers_only": true,
+        "svg_drive_id": "1Xbys8K2CPurNxPMk-sJeDNGu_DAby6d1",
+        "png_drive_id": "1Spn7erPXYLjX5dZiuQxNNwwsk2tSpsy6",
+        "placement_record_drive_id": "1MJsR2ssjsrWxgEAqN7yDx3-7b-Z_LSv9",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Luis_Mendoza",
+        "revision": "R8",
+        "status": "AUTHOR_APPROVED",
+        "source_revision": "R7_APPROVED",
+        "source_sha256": "191ce5661f2ce806ffaf1e0244faef261167be3cb6b5ce848bfa48cfdcd2a4b6",
+        "svg_sha256": "73122fbd43d6a65a1ca7f56a06373ea30faf219b2178adf4a1e8b60ffc859dfb",
+        "png_sha256": "965bd830720e68be1078a11f2a2ac63647b60bd52709d46ce2c7e24da599bd0f",
+        "reference": {
+          "original_visible_profile_bounds": [
+            376,
+            821,
+            435,
+            905
+          ],
+          "profile_width": 568,
+          "target_profile_sticker_height": 107.92,
+          "scale": 1.2847619047619048
+        },
+        "changes": [
+          {
+            "view": "fire_station_back",
+            "scale": 1.2847619047619048,
+            "local_center": [
+              744.498,
+              318.8515
+            ],
+            "old_clip_bbox": [
+              725.626,
+              269.646,
+              763.37,
+              368.057
+            ],
+            "new_clip_bbox": [
+              720.2519733333332,
+              255.63414809523812,
+              768.7440266666666,
+              382.0688519047619
+            ],
+            "existing_view_transform": "translate(-17.092937,1.5539033)"
+          },
+          {
+            "view": "fire_station_wearer_left",
+            "scale": 1.2847619047619048,
+            "local_center": [
+              405.887,
+              862.718
+            ],
+            "old_clip_bbox": [
+              373.973,
+              818.281,
+              437.801,
+              907.155
+            ],
+            "new_clip_bbox": [
+              364.8851085714286,
+              805.6270352380952,
+              446.8888914285714,
+              919.8089647619047
+            ],
+            "existing_view_transform": null
+          }
+        ],
+        "all_original_svg_nodes_and_transforms_preserved": true,
+        "new_scaling_wrappers_only": true,
+        "svg_drive_id": "1zYh7NMLR7mOwZN_RIXnetV42NsfowsEu",
+        "png_drive_id": "1kYDFNWwhZifOBTNkiL3H52wZJLX02V7L",
+        "placement_record_drive_id": "1ck6Gk3SyWxH-eIG3mb2AadnMkUl0uMcD",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Andre_Lewis",
+        "revision": "R8",
+        "status": "AUTHOR_APPROVED",
+        "source_revision": "R7_APPROVED",
+        "source_sha256": "bd8b964cf757dc9630e259387deb8c22c0c7de65a73032b78ec8394d5608e392",
+        "svg_sha256": "f1fee712024edb2be624863b287df8921b19baaa331f72e12dfb9eca015f0fdc",
+        "png_sha256": "3227849819c87bd8e8a66db56dc5c79dbc6d20258b5248a1ed626deb886e6f15",
+        "reference": {
+          "original_visible_profile_bounds": [
+            1002,
+            693,
+            1074,
+            771
+          ],
+          "profile_width": 699,
+          "target_profile_sticker_height": 132.81,
+          "scale": 1.7026923076923077
+        },
+        "changes": [
+          {
+            "view": "fire_station_back",
+            "scale": 1.7026923076923077,
+            "local_center": [
+              1307.3854999999999,
+              261.427
+            ],
+            "old_clip_bbox": [
+              1288.915,
+              220.01,
+              1325.856,
+              302.844
+            ],
+            "new_clip_bbox": [
+              1275.9359217307692,
+              190.90659269230764,
+              1338.835078269231,
+              331.9474073076923
+            ],
+            "existing_view_transform": null
+          },
+          {
+            "view": "fire_station_wearer_right",
+            "scale": 1.7026923076923077,
+            "local_center": [
+              1037.1895,
+              731.344
+            ],
+            "old_clip_bbox": [
+              997.915,
+              689.988,
+              1076.464,
+              772.7
+            ],
+            "new_clip_bbox": [
+              970.3171109615384,
+              660.927456923077,
+              1104.0618890384615,
+              801.7605430769231
+            ],
+            "existing_view_transform": null
+          }
+        ],
+        "all_original_svg_nodes_and_transforms_preserved": true,
+        "new_scaling_wrappers_only": true,
+        "svg_drive_id": "12mlxc7Vm-CkojehPnsRBw3--yejEnzG5",
+        "png_drive_id": "1Y5ewi04Q0I0Yhkp08rs8XNuyLmbbaXGG",
+        "placement_record_drive_id": "18dmyhGf0YW-fXpmG0BRwpE6V5K5znQFm",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Danny_Novak",
+        "revision": "R8",
+        "status": "AUTHOR_APPROVED",
+        "source_revision": "R7_APPROVED",
+        "source_sha256": "19b0fa0f8391b2f152ee2ddd75113e3fbe32bd862ca4c9383703022119aa976d",
+        "svg_sha256": "d0f2ef85ab5d280d010cd4a14c2018e0976cabd26c6353eb6f7f4be3081cd009",
+        "png_sha256": "820e067bef10a55093e63bb1b2b248a0ee2938c08e890e24f175445d6f936ae6",
+        "reference": {
+          "original_visible_profile_bounds": [
+            922,
+            681,
+            975,
+            749
+          ],
+          "profile_width": 669,
+          "target_profile_sticker_height": 127.11,
+          "scale": 1.8692647058823528
+        },
+        "changes": [
+          {
+            "view": "fire_station_back",
+            "scale": 1.8692647058823528,
+            "local_center": [
+              1291.9795,
+              285.3265
+            ],
+            "old_clip_bbox": [
+              1262.117,
+              242.373,
+              1321.842,
+              328.28
+            ],
+            "new_clip_bbox": [
+              1236.1585827205881,
+              205.03503845588233,
+              1347.800417279412,
+              365.6179615441176
+            ],
+            "existing_view_transform": "translate(10.151177,-16)"
+          },
+          {
+            "view": "fire_station_wearer_right",
+            "scale": 1.8692647058823528,
+            "local_center": [
+              948.7655,
+              713.153
+            ],
+            "old_clip_bbox": [
+              915.995,
+              675.488,
+              981.536,
+              750.818
+            ],
+            "new_clip_bbox": [
+              887.5087609558824,
+              642.7471448529412,
+              1010.0222390441176,
+              783.5588551470588
+            ],
+            "existing_view_transform": "translate(0,2)"
+          }
+        ],
+        "all_original_svg_nodes_and_transforms_preserved": true,
+        "new_scaling_wrappers_only": true,
+        "svg_drive_id": "1HStowUkR2DNO8pT4EIKfgNXeM1aD0sS8",
+        "png_drive_id": "1c3iEZOtAWSONcPdj2blXyNwzzi1W729e",
+        "placement_record_drive_id": "1TersaooPY6cwqyRsyXASppMrCbdkyHLc",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Erik_Halvorsen",
+        "revision": "R8",
+        "status": "AUTHOR_APPROVED",
+        "source_revision": "R7_APPROVED",
+        "source_sha256": "2d96110581ae923651d8fccae46f2b324894505a4a4d24400bcc033eb65cd3b1",
+        "svg_sha256": "9e1954a74e3d42e935bd8e6c490047dab99e5485bfd94c7ad5776db0b9a06abb",
+        "png_sha256": "ead594afb60e8eac3cd4b0e3bfd841c032897d5635dfdd21aa8f74796e3871b7",
+        "reference": {
+          "original_visible_profile_bounds": [
+            474,
+            814,
+            519,
+            890
+          ],
+          "profile_width": 568,
+          "target_profile_sticker_height": 107.92,
+          "scale": 1.42
+        },
+        "changes": [
+          {
+            "view": "fire_station_back",
+            "scale": 1.42,
+            "local_center": [
+              788.6675,
+              337.55949999999996
+            ],
+            "old_clip_bbox": [
+              760.967,
+              289.96,
+              816.368,
+              385.159
+            ],
+            "new_clip_bbox": [
+              749.3327899999999,
+              269.96821,
+              828.0022100000001,
+              405.15079000000003
+            ],
+            "existing_view_transform": "translate(-29.524163,3.1078067)"
+          },
+          {
+            "view": "fire_station_wearer_left",
+            "scale": 1.42,
+            "local_center": [
+              479.18399999999997,
+              852.3865000000001
+            ],
+            "old_clip_bbox": [
+              451.361,
+              810.076,
+              507.007,
+              894.697
+            ],
+            "new_clip_bbox": [
+              439.67534,
+              792.30559,
+              518.69266,
+              912.46741
+            ],
+            "existing_view_transform": "translate(17.092937)"
+          }
+        ],
+        "all_original_svg_nodes_and_transforms_preserved": true,
+        "new_scaling_wrappers_only": true,
+        "svg_drive_id": "138gJd_GbSOwjwJaRR77lEhBiN6bJchpL",
+        "png_drive_id": "1TeqFjZiPQQuiTp0mGya592B2uXqtE6Ix",
+        "placement_record_drive_id": "19rskvAM5v2mP64dxhPwb10gtfEp1ts1S",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Sam_Carter",
+        "revision": "R8",
+        "status": "AUTHOR_APPROVED",
+        "source_revision": "R7_APPROVED",
+        "source_sha256": "7125f02803ec43744866832b81f18c1df2aafde905337bcfdd6f83852e19f532",
+        "svg_sha256": "ef30da5e63af9f86641a327df96c0e2b7c32a09427aaf331db71ca6ba411f204",
+        "png_sha256": "f9b3909aaa39853dfc3df4bb0c85a1643a2ced422799a4062ddaa5c1ec2b871c",
+        "reference": {
+          "original_visible_profile_bounds": [
+            422,
+            744,
+            488,
+            824
+          ],
+          "profile_width": 639,
+          "target_profile_sticker_height": 121.41,
+          "scale": 1.517625
+        },
+        "changes": [
+          {
+            "view": "fire_station_back",
+            "scale": 1.517625,
+            "local_center": [
+              848.854,
+              293.882
+            ],
+            "old_clip_bbox": [
+              827.774,
+              246.351,
+              869.934,
+              341.413
+            ],
+            "new_clip_bbox": [
+              816.8624649999999,
+              221.747766125,
+              880.8455349999999,
+              366.016233875
+            ],
+            "existing_view_transform": null
+          },
+          {
+            "view": "fire_station_wearer_left",
+            "scale": 1.517625,
+            "local_center": [
+              455.99800000000005,
+              783.7855
+            ],
+            "old_clip_bbox": [
+              420.095,
+              741.539,
+              491.901,
+              826.032
+            ],
+            "new_clip_bbox": [
+              401.510709625,
+              719.6711554375,
+              510.485290375,
+              847.8998445625001
+            ],
+            "existing_view_transform": null
+          }
+        ],
+        "all_original_svg_nodes_and_transforms_preserved": true,
+        "new_scaling_wrappers_only": true,
+        "svg_drive_id": "1bUvMI1BTj-X8QwYuqLJaK1wYvI2B2NF0",
+        "png_drive_id": "1fBrIdhJpYBCRzPj92bS3Rmuc6Ph-0QS8",
+        "placement_record_drive_id": "17IPCBo4BLoZnkEcexpAkTQkFHBlN0a9k",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Hannah_Kowalski",
+        "revision": "R8",
+        "status": "AUTHOR_APPROVED",
+        "source_revision": "R7_APPROVED",
+        "source_sha256": "956211d09343ef4410b276c78e76f83783da7e2eca71b03cbfa975a556133966",
+        "svg_sha256": "bc46040f54dfdbc0d5651b1a8b5f6ea4e35bbe9605190a6d58d8e14fcd510a20",
+        "png_sha256": "73bbdf6a5ec976d62c40addca6313ed64f3de7360e7c94139d75d3085eb4a0ba",
+        "reference": {
+          "original_visible_profile_bounds": [
+            757,
+            825,
+            802,
+            899
+          ],
+          "profile_width": 568,
+          "target_profile_sticker_height": 107.92,
+          "scale": 1.4583783783783784
+        },
+        "changes": [
+          {
+            "view": "fire_station_back",
+            "scale": 1.4583783783783784,
+            "local_center": [
+              1087.2395000000001,
+              315.106
+            ],
+            "old_clip_bbox": [
+              1058.684,
+              269.794,
+              1115.795,
+              360.418
+            ],
+            "new_clip_bbox": [
+              1045.5947762162161,
+              249.02395891891888,
+              1128.884223783784,
+              381.1880410810811
+            ],
+            "existing_view_transform": "translate(-3.1078066,6.2156133)"
+          },
+          {
+            "view": "fire_station_wearer_right",
+            "scale": 1.4583783783783784,
+            "local_center": [
+              773.816,
+              860.4865
+            ],
+            "old_clip_bbox": [
+              745.993,
+              819.248,
+              801.639,
+              901.725
+            ],
+            "new_clip_bbox": [
+              733.2395383783785,
+              800.3451632432433,
+              814.3924616216216,
+              920.6278367567568
+            ],
+            "existing_view_transform": "translate(6.2156138,1.5539033)"
+          }
+        ],
+        "all_original_svg_nodes_and_transforms_preserved": true,
+        "new_scaling_wrappers_only": true,
+        "svg_drive_id": "1H_j0_rzEeWrTDVtsXsC9sCIoX-U-7Thl",
+        "png_drive_id": "1OjrmET4giiuNVweJ_HHrQ-_kCOo95Xe2",
+        "placement_record_drive_id": "1PbrAeBMdduaWDa_HOXgMoSpXOcIFu48Z",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Rebecca_Foster",
+        "revision": "R8",
+        "status": "AUTHOR_APPROVED",
+        "source_revision": "R7_APPROVED",
+        "source_sha256": "8a59b35ed021a5abbdb6da0f4d56f7724049735ff4c010811f0de246185cc424",
+        "svg_sha256": "7572f131e6c9ae24cc46d05335b0bc06f12e3d8c49a632e3a9e84ae1c8045f78",
+        "png_sha256": "69fd28fa6a326567fa1973f4694e9474ffa2efd7b4bd86266102c98671cd6947",
+        "reference": {
+          "exception": "Rebecca Foster has no project stickers"
+        },
+        "changes": [],
+        "all_original_svg_nodes_and_transforms_preserved": true,
+        "new_scaling_wrappers_only": true,
+        "svg_drive_id": "1jwt6j5hJz_TK7J7zo1l46cdbVVeLyKSd",
+        "png_drive_id": "1_NbupH8eRnJtTv9Jsmw-zeKFpev1qkU0",
+        "placement_record_drive_id": "1mvavzzzT4fJ91DNA7wVMgAK45F7vgZhV",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Natalie_Chen",
+        "revision": "R8",
+        "status": "AUTHOR_APPROVED",
+        "source_revision": "R7_APPROVED",
+        "source_sha256": "3d5d68903f69776de9027dcfeeaa33bfdbce35cc77c9ac28d8371b629fb8f267",
+        "svg_sha256": "3d9557627a8c70af2bf41ee4286c272bf2647237a5d2ff34e4628236d9d2ce0f",
+        "png_sha256": "c88f4ffdfd49cfb8bcdbc0bb17be0e7c211461d652222dafd9a268a4f708334b",
+        "reference": {
+          "original_visible_profile_bounds": [
+            525,
+            665,
+            573,
+            733
+          ],
+          "profile_width": 596,
+          "target_profile_sticker_height": 113.24,
+          "scale": 1.6652941176470588
+        },
+        "changes": [
+          {
+            "view": "fire_station_back",
+            "scale": 1.6652941176470588,
+            "local_center": [
+              1002.4075,
+              264.746
+            ],
+            "old_clip_bbox": [
+              976.014,
+              226.295,
+              1028.801,
+              303.197
+            ],
+            "new_clip_bbox": [
+              958.4545597058824,
+              200.71377588235293,
+              1046.3604402941176,
+              328.7782241176471
+            ],
+            "existing_view_transform": null
+          },
+          {
+            "view": "fire_station_wearer_left",
+            "scale": 1.6652941176470588,
+            "local_center": [
+              548.3765000000001,
+              698.7860000000001
+            ],
+            "old_clip_bbox": [
+              519.182,
+              660.764,
+              577.571,
+              736.808
+            ],
+            "new_clip_bbox": [
+              499.75907088235294,
+              635.4681870588236,
+              596.9939291176471,
+              762.1038129411764
+            ],
+            "existing_view_transform": null
+          }
+        ],
+        "all_original_svg_nodes_and_transforms_preserved": true,
+        "new_scaling_wrappers_only": true,
+        "svg_drive_id": "1Jhvezhl4tFPlf0ytvCjtklKoiJy4rHgX",
+        "png_drive_id": "1s73zAsAJukomiqEeq988sXWvl7zu6fnZ",
+        "placement_record_drive_id": "1gKG80D2KQ_4Ib48inSnVM1g-KnVXK7kW",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Rafael_Martinez",
+        "revision": "R8",
+        "status": "AUTHOR_APPROVED",
+        "source_revision": "R7_APPROVED",
+        "source_sha256": "9dca981f3ca4359e594df0ff6549293fedc23bf27d92e96a8006ec57fd1d443e",
+        "svg_sha256": "e6cabfc126a717a8c3203beac93026789d8897b242a0969e242d98136ed8eed6",
+        "png_sha256": "56deb6cbbfea54adfd737cf9384d229730fc8416b1aa2cda517b42c5e1329cd0",
+        "reference": {
+          "original_visible_profile_bounds": [
+            1008,
+            691,
+            1078,
+            768
+          ],
+          "profile_width": 681,
+          "target_profile_sticker_height": 129.39000000000001,
+          "scale": 1.6803896103896105
+        },
+        "changes": [
+          {
+            "view": "fire_station_back",
+            "scale": 1.6803896103896105,
+            "local_center": [
+              1324.3055,
+              273.8515
+            ],
+            "old_clip_bbox": [
+              1304.965,
+              229.45,
+              1343.646,
+              318.253
+            ],
+            "new_clip_bbox": [
+              1291.8059247402596,
+              199.2396807142857,
+              1356.8050752597403,
+              348.4633192857143
+            ],
+            "existing_view_transform": null
+          },
+          {
+            "view": "fire_station_wearer_right",
+            "scale": 1.6803896103896105,
+            "local_center": [
+              1042.1335,
+              729.2945
+            ],
+            "old_clip_bbox": [
+              1003.87,
+              688.349,
+              1080.397,
+              770.24
+            ],
+            "new_clip_bbox": [
+              977.8359121428572,
+              660.4901072077923,
+              1106.4310878571428,
+              798.0988927922078
+            ],
+            "existing_view_transform": null
+          }
+        ],
+        "all_original_svg_nodes_and_transforms_preserved": true,
+        "new_scaling_wrappers_only": true,
+        "svg_drive_id": "1zus6pm-mDx7od4rvDW-fkMuwsf-of46w",
+        "png_drive_id": "1lnvX8PkDxj0Cso8SIAMzr-MCdXXFhq5S",
+        "placement_record_drive_id": "1McACjhHU2dq3HBl-4ial1TqvjCT27Chk",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Marisol_Vega",
+        "revision": "R8",
+        "status": "AUTHOR_APPROVED",
+        "source_revision": "R7_APPROVED",
+        "source_sha256": "c9a43331f9b187e221a35bfd68cd7e3c6f21faf7a9f9135c21299a60ecd5d8bd",
+        "svg_sha256": "1444795151ecc5cd235c9cc964745240f085aefef6e88a4cfe4f9b4d1742f83f",
+        "png_sha256": "286f8e742ace41b8a06efef61feb83d45010fe5f1286fa1229810278e8679731",
+        "reference": {
+          "original_visible_profile_bounds": [
+            1051,
+            695,
+            1121,
+            771
+          ],
+          "profile_width": 649,
+          "target_profile_sticker_height": 123.31,
+          "scale": 1.6225
+        },
+        "changes": [
+          {
+            "view": "fire_station_back",
+            "scale": 1.6225,
+            "local_center": [
+              1327.816,
+              271.301
+            ],
+            "old_clip_bbox": [
+              1314.076,
+              228.871,
+              1341.556,
+              313.731
+            ],
+            "new_clip_bbox": [
+              1305.52285,
+              202.458325,
+              1350.10915,
+              340.14367500000003
+            ],
+            "existing_view_transform": null
+          },
+          {
+            "view": "fire_station_wearer_right",
+            "scale": 1.6225,
+            "local_center": [
+              1085.0819999999999,
+              732.5945
+            ],
+            "old_clip_bbox": [
+              1048.654,
+              693.046,
+              1121.51,
+              772.143
+            ],
+            "new_clip_bbox": [
+              1025.97757,
+              668.42705875,
+              1144.18643,
+              796.7619412500001
+            ],
+            "existing_view_transform": null
+          }
+        ],
+        "all_original_svg_nodes_and_transforms_preserved": true,
+        "new_scaling_wrappers_only": true,
+        "svg_drive_id": "1ECX9VLB3LQhh1qYJoZ4bca-BN9ALsBia",
+        "png_drive_id": "1jUe1ExhQ36Ce358_4fn3DyXb_ptoLjVP",
+        "placement_record_drive_id": "1shmFDEzY8i-XUxBolzAi1-nICT1_-ODd",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      },
+      {
+        "character": "Adrian_Park",
+        "revision": "R8",
+        "status": "AUTHOR_APPROVED",
+        "source_revision": "R7_APPROVED",
+        "source_sha256": "6ad3cf01d30bb55a9726a503f7006f2f21235290fef7f332c19be9ff8731e15e",
+        "svg_sha256": "ed78c510a6f9cd3af0f02d6840a039b8298bf5b91d2f6f2a567988d9cdbc6133",
+        "png_sha256": "2f7ed64c7d2331c0b0bcf026b642e26c89640ea513809539348347aa304e2c59",
+        "reference": {
+          "original_visible_profile_bounds": [
+            464,
+            675,
+            528,
+            747
+          ],
+          "profile_width": 619,
+          "target_profile_sticker_height": 117.61,
+          "scale": 1.6334722222222222
+        },
+        "changes": [
+          {
+            "view": "fire_station_back",
+            "scale": 1.6334722222222222,
+            "local_center": [
+              933.6334999999999,
+              253.245
+            ],
+            "old_clip_bbox": [
+              915.799,
+              213.793,
+              951.468,
+              292.697
+            ],
+            "new_clip_bbox": [
+              904.5013396527778,
+              188.80125388888888,
+              962.7656603472223,
+              317.68874611111113
+            ],
+            "existing_view_transform": null
+          },
+          {
+            "view": "fire_station_wearer_left",
+            "scale": 1.6334722222222222,
+            "local_center": [
+              490.72749999999996,
+              720.9465
+            ],
+            "old_clip_bbox": [
+              455.948,
+              682.877,
+              525.507,
+              759.016
+            ],
+            "new_clip_bbox": [
+              433.91615284722224,
+              658.761029236111,
+              547.5388471527777,
+              783.1319707638888
+            ],
+            "existing_view_transform": null
+          }
+        ],
+        "all_original_svg_nodes_and_transforms_preserved": true,
+        "new_scaling_wrappers_only": true,
+        "svg_drive_id": "1S7bYxFWruI05gs2ogJDR0El3mS1U8e-y",
+        "png_drive_id": "13V6L3DM55XCuaN2BdSKaT8kZlSBs60Ye",
+        "placement_record_drive_id": "1IdzfTj9yFgUEN4x8E8Hmr0QoSn_FK8Ll",
+        "author_artwork_approval": {
+          "status": "APPROVED",
+          "approved_by": "Adam Reid",
+          "approved_on": "2026-11-04",
+          "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+          "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+        }
+      }
+    ]
+  },
+  "files": [
+    {
+      "filename": "Adrian_Park_PPE_8_Angles_REVIEW_R5.png",
+      "relative_path": "Eight_View_PNGs/Adrian_Park_PPE_8_Angles_REVIEW_R5.png",
+      "drive_id": "10YGcnOmg5FxIBAAdjrsbajBWwfcIM4f0",
+      "bytes": 2829815,
+      "sha256": "77dcc931c3fffcaf797f0d421ebd7a6745263c5ef069d0413cab3de1bc4a9bf6"
+    },
+    {
+      "filename": "Andre_Lewis_PPE_8_Angles_REVIEW_R8.png",
+      "relative_path": "Eight_View_PNGs/Andre_Lewis_PPE_8_Angles_REVIEW_R8.png",
+      "drive_id": "1zgQkpZlYIMkiGpqbW7W7BfAQWsjcrinW",
+      "bytes": 3456832,
+      "sha256": "eb8646fd964abb45d6b4ebad4a6d9896436e772d7d185213f7b7fb180a4e3d48"
+    },
+    {
+      "filename": "Ben_PPE_8_Angles_APPROVED_R10_UNCHANGED.png",
+      "relative_path": "Eight_View_PNGs/Ben_PPE_8_Angles_APPROVED_R10_UNCHANGED.png",
+      "drive_id": "1f-5jc6V8LtI3FmUsv7YUfQbk8iuSBc-W",
+      "bytes": 3086415,
+      "sha256": "e19736d0df48559412a3a6b1578e6b4bdd7a1bf3e70ffb21cd1ecaecc67d45ef"
+    },
+    {
+      "filename": "Claire_Morgan_PPE_8_Angles_REVIEW_R5.png",
+      "relative_path": "Eight_View_PNGs/Claire_Morgan_PPE_8_Angles_REVIEW_R5.png",
+      "drive_id": "1lYQiDLmG8RzucuqBFguYkwz7lH73SLbx",
+      "bytes": 2920796,
+      "sha256": "215528d380d72d5b459013c9d1706401226338eda1500ac4ecb69240d5250374"
+    },
+    {
+      "filename": "Daniel_Brooks_PPE_8_Angles_REVIEW_R4.png",
+      "relative_path": "Eight_View_PNGs/Daniel_Brooks_PPE_8_Angles_REVIEW_R4.png",
+      "drive_id": "1j_kgtOf1Vq_Yng0AyeW_-3Ra4uaJZujW",
+      "bytes": 3378185,
+      "sha256": "166b4b88eb27cd92ef28b87d2747fa921b34e7911040b79209de14e685c25c69"
+    },
+    {
+      "filename": "Danny_Novak_PPE_8_Angles_REVIEW_R5.png",
+      "relative_path": "Eight_View_PNGs/Danny_Novak_PPE_8_Angles_REVIEW_R5.png",
+      "drive_id": "1JB_EcbZ0Y3LMV0lbv8rhO-WU34JM1e85",
+      "bytes": 3909205,
+      "sha256": "5e659b0a6ddc338fbe1cd93ce08952dc9774626fea540c68bd88e91fe1b4264e"
+    },
+    {
+      "filename": "Darius_Cole_PPE_8_Angles_REVIEW_R5.png",
+      "relative_path": "Eight_View_PNGs/Darius_Cole_PPE_8_Angles_REVIEW_R5.png",
+      "drive_id": "1sKBFuG6mW2d5QLgJbIh7LPUjT2BU7aF9",
+      "bytes": 3442562,
+      "sha256": "e5139950a9236aa404a12b5dd8889af4cfcda6de1177562c3e2d60fcda660810"
+    },
+    {
+      "filename": "Elena_Rivera_PPE_8_Angles_REVIEW_R5.png",
+      "relative_path": "Eight_View_PNGs/Elena_Rivera_PPE_8_Angles_REVIEW_R5.png",
+      "drive_id": "1Jd5ULSyC9dV2hYvxq4b_RRxhuFiE20ml",
+      "bytes": 3603987,
+      "sha256": "e6f9ac672ef22f9ff0829ba58db0dac702bceca5400b8841bc19e52c79c426e1"
+    },
+    {
+      "filename": "Erik_Halvorsen_PPE_8_Angles_REVIEW_R5.png",
+      "relative_path": "Eight_View_PNGs/Erik_Halvorsen_PPE_8_Angles_REVIEW_R5.png",
+      "drive_id": "1e32NVhY6QeYdhTqy97RKPPYjP5UAqlrM",
+      "bytes": 3678479,
+      "sha256": "8a57fe18237e917fa41777f0d3bc8c97c6a05edf2b69a83a6891ac3a057ebca5"
+    },
+    {
+      "filename": "Hannah_Kowalski_PPE_8_Angles_REVIEW_R5.png",
+      "relative_path": "Eight_View_PNGs/Hannah_Kowalski_PPE_8_Angles_REVIEW_R5.png",
+      "drive_id": "1ijvG8VJ-1-nJNQWvgGU5Imbd7vfdAP5f",
+      "bytes": 3194788,
+      "sha256": "24cb526e90a4430f15f3ef9015ea0fe2984c207f748562d1b0a28eb73530d084"
+    },
+    {
+      "filename": "Leo_PPE_8_Angles_APPROVED_R8_UNCHANGED.png",
+      "relative_path": "Eight_View_PNGs/Leo_PPE_8_Angles_APPROVED_R8_UNCHANGED.png",
+      "drive_id": "15XT3C5z7LIdlFWZy98NbCSMFcGtbZvyj",
+      "bytes": 8928195,
+      "sha256": "b20e5aa363e0a54d51e322d1fc138830239b9e2adbaeea83f4b4bfc97ff61010"
+    },
+    {
+      "filename": "Luis_Mendoza_PPE_8_Angles_REVIEW_R7.png",
+      "relative_path": "Eight_View_PNGs/Luis_Mendoza_PPE_8_Angles_REVIEW_R7.png",
+      "drive_id": "1xOwdTIg048P1AVtJFuc36_eW2ICV48m5",
+      "bytes": 3668109,
+      "sha256": "95cff9845aba9452805a36b4008b41bb73a15ae91f312623601bade0abd3ce3b"
+    },
+    {
+      "filename": "Marcus_Jackson_PPE_8_Angles_REVIEW_R5.png",
+      "relative_path": "Eight_View_PNGs/Marcus_Jackson_PPE_8_Angles_REVIEW_R5.png",
+      "drive_id": "17DCRFDxKdvY7FKDbrxSQRxARaYnVcZ8S",
+      "bytes": 3642347,
+      "sha256": "30242f7935f0bd192683cf55e84e05ebdc57b9172477746576ec6b4e8d3d8fee"
+    },
+    {
+      "filename": "Marisol_Vega_PPE_8_Angles_REVIEW_R5.png",
+      "relative_path": "Eight_View_PNGs/Marisol_Vega_PPE_8_Angles_REVIEW_R5.png",
+      "drive_id": "19HFjJcRJmfRwfC8xH11IXAnBmUVIrtsK",
+      "bytes": 3247688,
+      "sha256": "db614791d3172450cbc965fc1563793043447c3fa1d71193bf69fbfa31034b09"
+    },
+    {
+      "filename": "Matthias_Becker_PPE_8_Angles_REVIEW_R11.png",
+      "relative_path": "Eight_View_PNGs/Matthias_Becker_PPE_8_Angles_REVIEW_R11.png",
+      "drive_id": "1ClSOOsPq90DFr-YFTY9xPMaNUeqx5sbv",
+      "bytes": 2837936,
+      "sha256": "925de898f85f03ca6ab8bed94a2b1a03724477c347599013da9176cec79b897e"
+    },
+    {
+      "filename": "Maya_PPE_8_Angles_REVIEW_R9.png",
+      "relative_path": "Eight_View_PNGs/Maya_PPE_8_Angles_REVIEW_R9.png",
+      "drive_id": "10LwizzRxzXLIQpSsZsIaC-dL_klEyABJ",
+      "bytes": 3798805,
+      "sha256": "c8b7892b89e5fd445c10d5169f8faa03529fe3a452fe0a271fbe2dc123354c09"
+    },
+    {
+      "filename": "Mrs_Harper_PPE_8_Angles_REVIEW_R5.png",
+      "relative_path": "Eight_View_PNGs/Mrs_Harper_PPE_8_Angles_REVIEW_R5.png",
+      "drive_id": "1NSfVNRbsEOhLKLywNlBiSUZXOEXMscCu",
+      "bytes": 3133723,
+      "sha256": "98ce0ca298ac735094914902daa18c044a43156d5c15680af46ed9b966f1083b"
+    },
+    {
+      "filename": "Natalie_Chen_PPE_8_Angles_REVIEW_R3.png",
+      "relative_path": "Eight_View_PNGs/Natalie_Chen_PPE_8_Angles_REVIEW_R3.png",
+      "drive_id": "1ijbIPS7qf2SFeOe51vhON2-Mt1OnCY98",
+      "bytes": 2849050,
+      "sha256": "147e82a6700a41113f4a712824551818a318d365a7102d18ca875e048101d02c"
+    },
+    {
+      "filename": "Omar_Haddad_PPE_8_Angles_REVIEW_R10.png",
+      "relative_path": "Eight_View_PNGs/Omar_Haddad_PPE_8_Angles_REVIEW_R10.png",
+      "drive_id": "10kXFJFTbc1cJgm5NwKjH7vzpQI_-aZjB",
+      "bytes": 2928149,
+      "sha256": "26713a2219e928b362b521df9bf687e2bca0f98b2cb1ca09ad178b63345afc34"
+    },
+    {
+      "filename": "Priya_Patel_PPE_8_Angles_REVIEW_R4.png",
+      "relative_path": "Eight_View_PNGs/Priya_Patel_PPE_8_Angles_REVIEW_R4.png",
+      "drive_id": "1WT54apXjV4H2Nydrl575VpLWFL164T-8",
+      "bytes": 3409905,
+      "sha256": "959fec91b584045fc7586af9edaac3bfb3f61e4bfe74a76db170148bfbf53296"
+    },
+    {
+      "filename": "Rafael_Martinez_PPE_8_Angles_REVIEW_R6.png",
+      "relative_path": "Eight_View_PNGs/Rafael_Martinez_PPE_8_Angles_REVIEW_R6.png",
+      "drive_id": "1rkWoGW8JL4XFedx0iPooUZzlrapUbFrR",
+      "bytes": 3665070,
+      "sha256": "3ee5e04dd3311e9c6a5637db86fc58b6f8d735341036bb9802baaeba149a6f84"
+    },
+    {
+      "filename": "Rebecca_Foster_PPE_8_Angles_REVIEW_R3_UNCHANGED.png",
+      "relative_path": "Eight_View_PNGs/Rebecca_Foster_PPE_8_Angles_REVIEW_R3_UNCHANGED.png",
+      "drive_id": "17D5_BZcqCMRcI81pEUFLcH_DItk09cX8",
+      "bytes": 3518889,
+      "sha256": "e42613b458365b9542756b19dff2f100d8f9ee5d1c0e049023df5a47caac7ebc"
+    },
+    {
+      "filename": "Sam_Carter_PPE_8_Angles_REVIEW_R7.png",
+      "relative_path": "Eight_View_PNGs/Sam_Carter_PPE_8_Angles_REVIEW_R7.png",
+      "drive_id": "1Eugxpa6EZhBB8H-wumakDrR5I4YnzeWL",
+      "bytes": 3736071,
+      "sha256": "abf8d8500a138c09f5bd5d9b654030be896dcef73b963e0cee2ccbd874918d65"
+    },
+    {
+      "filename": "Steph_PPE_8_Angles_REVIEW_R14.png",
+      "relative_path": "Eight_View_PNGs/Steph_PPE_8_Angles_REVIEW_R14.png",
+      "drive_id": "1cCWdcn7K0xNeLbqYa8oGBZii5ZkR07jk",
+      "bytes": 3605582,
+      "sha256": "5ad1553bdfacbebf3fc679f207268a2869a0ea07fb6d0c42865bb0d9f4fa7e98"
+    },
+    {
+      "filename": "Tony_Marino_PPE_8_Angles_REVIEW_R4.png",
+      "relative_path": "Eight_View_PNGs/Tony_Marino_PPE_8_Angles_REVIEW_R4.png",
+      "drive_id": "12-8pi_nFypSJ0XXlfS5VQ5n8-Ia1bI3b",
+      "bytes": 3554743,
+      "sha256": "3a30e4108edc58f351d27755eef28172b418d6ac52741dbad5349c6d84a4a834"
+    },
+    {
+      "filename": "Vinny_PPE_8_Angles_REVIEW_R16.png",
+      "relative_path": "Eight_View_PNGs/Vinny_PPE_8_Angles_REVIEW_R16.png",
+      "drive_id": "16gjYnmlneZMIb3NA5hqHiifUJjSX6wl7",
+      "bytes": 3790910,
+      "sha256": "414bd1bf7fc794c769b4ab3b258d3c12b1a39e172540c4f4eb0e7d901c6856f1"
+    },
+    {
+      "filename": "Adrian_Park_Hardhat_Source_R8.png",
+      "relative_path": "Hardhat_R8_PNGs/Adrian_Park_Hardhat_Source_R8.png",
+      "drive_id": "13V6L3DM55XCuaN2BdSKaT8kZlSBs60Ye",
+      "bytes": 1615888,
+      "sha256": "2f7ed64c7d2331c0b0bcf026b642e26c89640ea513809539348347aa304e2c59"
+    },
+    {
+      "filename": "Andre_Lewis_Hardhat_Source_R8.png",
+      "relative_path": "Hardhat_R8_PNGs/Andre_Lewis_Hardhat_Source_R8.png",
+      "drive_id": "1Y5ewi04Q0I0Yhkp08rs8XNuyLmbbaXGG",
+      "bytes": 1644573,
+      "sha256": "3227849819c87bd8e8a66db56dc5c79dbc6d20258b5248a1ed626deb886e6f15"
+    },
+    {
+      "filename": "Ben_Hardhat_Source_R8.png",
+      "relative_path": "Hardhat_R8_PNGs/Ben_Hardhat_Source_R8.png",
+      "drive_id": "1KheF8T1L-JGplgLRp7sKAUKMY4l4F4by",
+      "bytes": 1460431,
+      "sha256": "c925c1482b8ba78e1c15b5d6d1b6bb47bfbdf4c0868fd23094168e6e5efd42d6"
+    },
+    {
+      "filename": "Claire_Morgan_Hardhat_Source_R8.png",
+      "relative_path": "Hardhat_R8_PNGs/Claire_Morgan_Hardhat_Source_R8.png",
+      "drive_id": "1TrRZIb0jhKb3wSt68wZNH0ZZsGN1lz_2",
+      "bytes": 1444894,
+      "sha256": "85d8a8463a489dcf23758fd5fa73695272ec0548173e59111279c8a1c8cf9216"
+    },
+    {
+      "filename": "Daniel_Brooks_Hardhat_Source_R8.png",
+      "relative_path": "Hardhat_R8_PNGs/Daniel_Brooks_Hardhat_Source_R8.png",
+      "drive_id": "12MlhM2Kg_WvPOk7Df_f4ITkedznPYKO8",
+      "bytes": 1651789,
+      "sha256": "303ce4903d16cca515e5b7ff2e32c5d3313c28c230ba4bb443722cdb42297c05"
+    },
+    {
+      "filename": "Danny_Novak_Hardhat_Source_R8.png",
+      "relative_path": "Hardhat_R8_PNGs/Danny_Novak_Hardhat_Source_R8.png",
+      "drive_id": "1c3iEZOtAWSONcPdj2blXyNwzzi1W729e",
+      "bytes": 1533218,
+      "sha256": "820e067bef10a55093e63bb1b2b248a0ee2938c08e890e24f175445d6f936ae6"
+    },
+    {
+      "filename": "Darius_Cole_Hardhat_Source_R8.png",
+      "relative_path": "Hardhat_R8_PNGs/Darius_Cole_Hardhat_Source_R8.png",
+      "drive_id": "1izGxcLhKXFDmzjMhIqlLNNrVTAH7dsO3",
+      "bytes": 1566104,
+      "sha256": "bc29aa1415add4c75661b6bf1fc9c7d20b4bc4ecfe70263aa1e675d24ba0ea63"
+    },
+    {
+      "filename": "Elena_Rivera_Hardhat_Source_R8.png",
+      "relative_path": "Hardhat_R8_PNGs/Elena_Rivera_Hardhat_Source_R8.png",
+      "drive_id": "1NlEwL5VWul3raRST4P8ZKrDXHM0mT4uk",
+      "bytes": 1424370,
+      "sha256": "384e7549b4f076f2e85d2f34c69896125e0314cb5cc879a6e5c38f2ccb40a474"
+    },
+    {
+      "filename": "Erik_Halvorsen_Hardhat_Source_R8.png",
+      "relative_path": "Hardhat_R8_PNGs/Erik_Halvorsen_Hardhat_Source_R8.png",
+      "drive_id": "1TeqFjZiPQQuiTp0mGya592B2uXqtE6Ix",
+      "bytes": 1758651,
+      "sha256": "ead594afb60e8eac3cd4b0e3bfd841c032897d5635dfdd21aa8f74796e3871b7"
+    },
+    {
+      "filename": "Hannah_Kowalski_Hardhat_Source_R8.png",
+      "relative_path": "Hardhat_R8_PNGs/Hannah_Kowalski_Hardhat_Source_R8.png",
+      "drive_id": "1OjrmET4giiuNVweJ_HHrQ-_kCOo95Xe2",
+      "bytes": 1704499,
+      "sha256": "73bbdf6a5ec976d62c40addca6313ed64f3de7360e7c94139d75d3085eb4a0ba"
+    },
+    {
+      "filename": "Leo_Hardhat_Source_R8.png",
+      "relative_path": "Hardhat_R8_PNGs/Leo_Hardhat_Source_R8.png",
+      "drive_id": "1fcSeoZf6VV8JssjHJFrJA0B00lMES_DO",
+      "bytes": 1477981,
+      "sha256": "f05e23e856fd276abf32a8e3b7b0fad23d3a147d202f8d1ce49e495a7d7f8409"
+    },
+    {
+      "filename": "Luis_Mendoza_Hardhat_Source_R8.png",
+      "relative_path": "Hardhat_R8_PNGs/Luis_Mendoza_Hardhat_Source_R8.png",
+      "drive_id": "1kYDFNWwhZifOBTNkiL3H52wZJLX02V7L",
+      "bytes": 1551409,
+      "sha256": "965bd830720e68be1078a11f2a2ac63647b60bd52709d46ce2c7e24da599bd0f"
+    },
+    {
+      "filename": "Marcus_Jackson_Hardhat_Source_R8.png",
+      "relative_path": "Hardhat_R8_PNGs/Marcus_Jackson_Hardhat_Source_R8.png",
+      "drive_id": "1y8iBoLZ10Xyxu1xv4Csn6IIIMxX23u38",
+      "bytes": 1591868,
+      "sha256": "8f763cb167e9cafd3001aa05c305b0152d8a77b138ab2637761f6badacc4d3e5"
+    },
+    {
+      "filename": "Marisol_Vega_Hardhat_Source_R8.png",
+      "relative_path": "Hardhat_R8_PNGs/Marisol_Vega_Hardhat_Source_R8.png",
+      "drive_id": "1jUe1ExhQ36Ce358_4fn3DyXb_ptoLjVP",
+      "bytes": 1457716,
+      "sha256": "286f8e742ace41b8a06efef61feb83d45010fe5f1286fa1229810278e8679731"
+    },
+    {
+      "filename": "Matthias_Becker_Hardhat_Source_R8.png",
+      "relative_path": "Hardhat_R8_PNGs/Matthias_Becker_Hardhat_Source_R8.png",
+      "drive_id": "1Spn7erPXYLjX5dZiuQxNNwwsk2tSpsy6",
+      "bytes": 1571258,
+      "sha256": "57b445fb8e0221f336f8e71b7d1316d50b283259a8cdd0e69f86c56bb565d9da"
+    },
+    {
+      "filename": "Maya_Hardhat_Source_R8.png",
+      "relative_path": "Hardhat_R8_PNGs/Maya_Hardhat_Source_R8.png",
+      "drive_id": "1imb0ZRtQCR32Xe6Ebgm6rQEsZHks4gpc",
+      "bytes": 1571758,
+      "sha256": "ed34b1ff92b464ef6279a9de88833a5258f4e9d2e46782608c2bc2852a00fe17"
+    },
+    {
+      "filename": "Mrs_Harper_Hardhat_Source_R8.png",
+      "relative_path": "Hardhat_R8_PNGs/Mrs_Harper_Hardhat_Source_R8.png",
+      "drive_id": "1-E-cNoNJdJ_sR90sRoItiZlGKq_F8mSj",
+      "bytes": 1411335,
+      "sha256": "d39c9dc6e62eea1a0818a57db780e8f229b446e5d745a5a7b810557f868b2ca4"
+    },
+    {
+      "filename": "Natalie_Chen_Hardhat_Source_R8.png",
+      "relative_path": "Hardhat_R8_PNGs/Natalie_Chen_Hardhat_Source_R8.png",
+      "drive_id": "1s73zAsAJukomiqEeq988sXWvl7zu6fnZ",
+      "bytes": 1560598,
+      "sha256": "c88f4ffdfd49cfb8bcdbc0bb17be0e7c211461d652222dafd9a268a4f708334b"
+    },
+    {
+      "filename": "Omar_Haddad_Hardhat_Source_R8.png",
+      "relative_path": "Hardhat_R8_PNGs/Omar_Haddad_Hardhat_Source_R8.png",
+      "drive_id": "15tJ36aP0UGaK6TNfJeXBatWypeMRdHrB",
+      "bytes": 1632997,
+      "sha256": "8a6f0046b729fddf7faa890f725085c2959f36726ea8d3f50f4bc1772b55940e"
+    },
+    {
+      "filename": "Priya_Patel_Hardhat_Source_R8.png",
+      "relative_path": "Hardhat_R8_PNGs/Priya_Patel_Hardhat_Source_R8.png",
+      "drive_id": "1GwLW4rrCqIVmAKr7DQxZHiowZGG7t-t-",
+      "bytes": 1534124,
+      "sha256": "4d823e8a2e967a7f3b5f72c8d789a4f0777bb4b197e4b6450bf069ea7d091f58"
+    },
+    {
+      "filename": "Rafael_Martinez_Hardhat_Source_R8.png",
+      "relative_path": "Hardhat_R8_PNGs/Rafael_Martinez_Hardhat_Source_R8.png",
+      "drive_id": "1lnvX8PkDxj0Cso8SIAMzr-MCdXXFhq5S",
+      "bytes": 1495044,
+      "sha256": "56deb6cbbfea54adfd737cf9384d229730fc8416b1aa2cda517b42c5e1329cd0"
+    },
+    {
+      "filename": "Rebecca_Foster_Hardhat_Source_R8.png",
+      "relative_path": "Hardhat_R8_PNGs/Rebecca_Foster_Hardhat_Source_R8.png",
+      "drive_id": "1_NbupH8eRnJtTv9Jsmw-zeKFpev1qkU0",
+      "bytes": 1319607,
+      "sha256": "69fd28fa6a326567fa1973f4694e9474ffa2efd7b4bd86266102c98671cd6947"
+    },
+    {
+      "filename": "Sam_Carter_Hardhat_Source_R8.png",
+      "relative_path": "Hardhat_R8_PNGs/Sam_Carter_Hardhat_Source_R8.png",
+      "drive_id": "1fBrIdhJpYBCRzPj92bS3Rmuc6Ph-0QS8",
+      "bytes": 1606868,
+      "sha256": "f9b3909aaa39853dfc3df4bb0c85a1643a2ced422799a4062ddaa5c1ec2b871c"
+    },
+    {
+      "filename": "Steph_Hardhat_Source_R8.png",
+      "relative_path": "Hardhat_R8_PNGs/Steph_Hardhat_Source_R8.png",
+      "drive_id": "1WOusRNhdIMJaArdclVPGID16vmEIaQii",
+      "bytes": 1414664,
+      "sha256": "579e7a9ba3a0da92b4d471529735ebea053831a5528ab5b512af752e9a9d1da7"
+    },
+    {
+      "filename": "Tony_Marino_Hardhat_Source_R8.png",
+      "relative_path": "Hardhat_R8_PNGs/Tony_Marino_Hardhat_Source_R8.png",
+      "drive_id": "18N_vfEzOwN-RRDExAQ8xHp23iBgvGJOc",
+      "bytes": 1436871,
+      "sha256": "48e9ce8b49f38c2fe34d3ae53ea24752eeaf240920facdd6fe95416e3ce1699a"
+    },
+    {
+      "filename": "Vinny_Hardhat_Source_R8.png",
+      "relative_path": "Hardhat_R8_PNGs/Vinny_Hardhat_Source_R8.png",
+      "drive_id": "1PsRVybo-3S2oiH4loGO9r066vOXixNmS",
+      "bytes": 1560019,
+      "sha256": "d1e422c53805116ee0e49cc73a266e55996425e432099df7182e56bc47ca979d"
+    },
+    {
+      "filename": "Adrian_Park_Hardhat_Source_R8.svg",
+      "relative_path": "Editable_Sources_and_Placement_Records/Adrian_Park_Hardhat_Source_R8.svg",
+      "drive_id": "1S7bYxFWruI05gs2ogJDR0El3mS1U8e-y",
+      "bytes": 5855721,
+      "sha256": "ed78c510a6f9cd3af0f02d6840a039b8298bf5b91d2f6f2a567988d9cdbc6133"
+    },
+    {
+      "filename": "Adrian_Park_Placement_Record_R8.json",
+      "relative_path": "Editable_Sources_and_Placement_Records/Adrian_Park_Placement_Record_R8.json",
+      "drive_id": "1IdzfTj9yFgUEN4x8E8Hmr0QoSn_FK8Ll",
+      "bytes": 1600,
+      "sha256": "dfc94f2dfca50e5939af3b60d3eb55eae837e5dae137c4bf1667680a4206204b"
+    },
+    {
+      "filename": "Andre_Lewis_Hardhat_Source_R8.svg",
+      "relative_path": "Editable_Sources_and_Placement_Records/Andre_Lewis_Hardhat_Source_R8.svg",
+      "drive_id": "12mlxc7Vm-CkojehPnsRBw3--yejEnzG5",
+      "bytes": 5736778,
+      "sha256": "f1fee712024edb2be624863b287df8921b19baaa331f72e12dfb9eca015f0fdc"
+    },
+    {
+      "filename": "Andre_Lewis_Placement_Record_R8.json",
+      "relative_path": "Editable_Sources_and_Placement_Records/Andre_Lewis_Placement_Record_R8.json",
+      "drive_id": "18dmyhGf0YW-fXpmG0BRwpE6V5K5znQFm",
+      "bytes": 1594,
+      "sha256": "4199b6815e4c2cc23bffc97dff6f539ac0086bbd98af0b4d6c9dc80b8b10ef7f"
+    },
+    {
+      "filename": "Ben_Hardhat_Source_R8.svg",
+      "relative_path": "Editable_Sources_and_Placement_Records/Ben_Hardhat_Source_R8.svg",
+      "drive_id": "1QJdI271yiyhGr8OvCp8ojNzm_w4cmaKa",
+      "bytes": 5806272,
+      "sha256": "a9dff4680289cc394c117d763230ce30199443e97e69d3f875b26486362e847c"
+    },
+    {
+      "filename": "Ben_Placement_Record_R8.json",
+      "relative_path": "Editable_Sources_and_Placement_Records/Ben_Placement_Record_R8.json",
+      "drive_id": "1_pCBfZGzucH-KWcZ2iluw5lLrFNZXByT",
+      "bytes": 1579,
+      "sha256": "6b18a93735b01414618192c3d81685dad884ad7c3560a2dc6695038fae15def2"
+    },
+    {
+      "filename": "Claire_Morgan_Hardhat_Source_R8.svg",
+      "relative_path": "Editable_Sources_and_Placement_Records/Claire_Morgan_Hardhat_Source_R8.svg",
+      "drive_id": "1I9ASs8zFQOw0D3q3e-PkJVZCaD2IYnqM",
+      "bytes": 5397878,
+      "sha256": "836ffce6a2f1d74992772023ae77cfd0533f79eab58cdc5886ae1309532e6807"
+    },
+    {
+      "filename": "Claire_Morgan_Placement_Record_R8.json",
+      "relative_path": "Editable_Sources_and_Placement_Records/Claire_Morgan_Placement_Record_R8.json",
+      "drive_id": "1qagYAt8OtAhldmQYJnRKa9I5pMX3e8SL",
+      "bytes": 1593,
+      "sha256": "66ba9e9502a659cf18417f4b890e8b64547332581a7a9ab5d2e0792008c09e67"
+    },
+    {
+      "filename": "Daniel_Brooks_Hardhat_Source_R8.svg",
+      "relative_path": "Editable_Sources_and_Placement_Records/Daniel_Brooks_Hardhat_Source_R8.svg",
+      "drive_id": "19iVgW8q-U57hLpxa6ic1m3BwzeXXzC3b",
+      "bytes": 5088090,
+      "sha256": "8f06967a54deff0dbf18634cf51250a52ef66b709b67f59d4e1270132df9d695"
+    },
+    {
+      "filename": "Daniel_Brooks_Placement_Record_R8.json",
+      "relative_path": "Editable_Sources_and_Placement_Records/Daniel_Brooks_Placement_Record_R8.json",
+      "drive_id": "14Hn-IGEkOAqp84ndB8jiT8STGJVviz1L",
+      "bytes": 1591,
+      "sha256": "bc4c2e2cd0f1b59d1c45d42ababa49eb37a10c957d709e8990d121c6d7834804"
+    },
+    {
+      "filename": "Danny_Novak_Hardhat_Source_R8.svg",
+      "relative_path": "Editable_Sources_and_Placement_Records/Danny_Novak_Hardhat_Source_R8.svg",
+      "drive_id": "1HStowUkR2DNO8pT4EIKfgNXeM1aD0sS8",
+      "bytes": 5777834,
+      "sha256": "d0f2ef85ab5d280d010cd4a14c2018e0976cabd26c6353eb6f7f4be3081cd009"
+    },
+    {
+      "filename": "Danny_Novak_Placement_Record_R8.json",
+      "relative_path": "Editable_Sources_and_Placement_Records/Danny_Novak_Placement_Record_R8.json",
+      "drive_id": "1TersaooPY6cwqyRsyXASppMrCbdkyHLc",
+      "bytes": 1619,
+      "sha256": "d3005f826b122ad99669ac2593f080b7f379fd94ebc900801f76752b6a0a2800"
+    },
+    {
+      "filename": "Darius_Cole_Hardhat_Source_R8.svg",
+      "relative_path": "Editable_Sources_and_Placement_Records/Darius_Cole_Hardhat_Source_R8.svg",
+      "drive_id": "1h5r9pt8208lBXqZxhu7WQq3SqNrKMVX4",
+      "bytes": 6271784,
+      "sha256": "ffe6fb192dd320ebb8dcbfd38ee79327610fea23eefdfc573896cb5a855e6e16"
+    },
+    {
+      "filename": "Darius_Cole_Placement_Record_R8.json",
+      "relative_path": "Editable_Sources_and_Placement_Records/Darius_Cole_Placement_Record_R8.json",
+      "drive_id": "1NHhqKfFWfdVfibsUHqOEipORwql-dwn8",
+      "bytes": 1604,
+      "sha256": "7037f96a8551ac8dd2b1d0bbeb514f48e7b1bcc1f646ee142fb5a8116c4f550a"
+    },
+    {
+      "filename": "Elena_Rivera_Hardhat_Source_R8.svg",
+      "relative_path": "Editable_Sources_and_Placement_Records/Elena_Rivera_Hardhat_Source_R8.svg",
+      "drive_id": "1aIlBSMCULVOK8hHgDQxH_ISYRXr2erCG",
+      "bytes": 5837954,
+      "sha256": "2da87d80e23e8732d6023f035759917ad3d0d9efef8ff93b95e713fad2d376c6"
+    },
+    {
+      "filename": "Elena_Rivera_Placement_Record_R8.json",
+      "relative_path": "Editable_Sources_and_Placement_Records/Elena_Rivera_Placement_Record_R8.json",
+      "drive_id": "1jf1Z5RqZTTmsbF_5gmWqGri1qQ-2jzUM",
+      "bytes": 1624,
+      "sha256": "7982104f7344f7bc59dbf0155ea69548abcbd5da8d76ac1cf9d04c08de4b67ae"
+    },
+    {
+      "filename": "Erik_Halvorsen_Hardhat_Source_R8.svg",
+      "relative_path": "Editable_Sources_and_Placement_Records/Erik_Halvorsen_Hardhat_Source_R8.svg",
+      "drive_id": "138gJd_GbSOwjwJaRR77lEhBiN6bJchpL",
+      "bytes": 5734829,
+      "sha256": "9e1954a74e3d42e935bd8e6c490047dab99e5485bfd94c7ad5776db0b9a06abb"
+    },
+    {
+      "filename": "Erik_Halvorsen_Placement_Record_R8.json",
+      "relative_path": "Editable_Sources_and_Placement_Records/Erik_Halvorsen_Placement_Record_R8.json",
+      "drive_id": "19rskvAM5v2mP64dxhPwb10gtfEp1ts1S",
+      "bytes": 1577,
+      "sha256": "a055a2455093a7bac288bf6c981b855512b8879c18c8adef3e65d500bb866820"
+    },
+    {
+      "filename": "Hannah_Kowalski_Hardhat_Source_R8.svg",
+      "relative_path": "Editable_Sources_and_Placement_Records/Hannah_Kowalski_Hardhat_Source_R8.svg",
+      "drive_id": "1H_j0_rzEeWrTDVtsXsC9sCIoX-U-7Thl",
+      "bytes": 6422583,
+      "sha256": "bc46040f54dfdbc0d5651b1a8b5f6ea4e35bbe9605190a6d58d8e14fcd510a20"
+    },
+    {
+      "filename": "Hannah_Kowalski_Placement_Record_R8.json",
+      "relative_path": "Editable_Sources_and_Placement_Records/Hannah_Kowalski_Placement_Record_R8.json",
+      "drive_id": "1PbrAeBMdduaWDa_HOXgMoSpXOcIFu48Z",
+      "bytes": 1654,
+      "sha256": "39090a9d611dd6476c2ac6ef5af04f4aa5a144c1306e911bca72acbffe4276fa"
+    },
+    {
+      "filename": "Leo_Hardhat_Source_R8.svg",
+      "relative_path": "Editable_Sources_and_Placement_Records/Leo_Hardhat_Source_R8.svg",
+      "drive_id": "1YLYZEq5Jj-f02awdlJCGwC1f1T0RAvKo",
+      "bytes": 5741744,
+      "sha256": "e2b85e92d6dacd8dc9044416431f1bf8fe8b9e211e30f212e8b5fd9227551345"
+    },
+    {
+      "filename": "Leo_Placement_Record_R8.json",
+      "relative_path": "Editable_Sources_and_Placement_Records/Leo_Placement_Record_R8.json",
+      "drive_id": "1KfjbY1_LHy8G8Udjq_Nf9OEhWLZpsqA_",
+      "bytes": 1572,
+      "sha256": "840476406f07a413d49fe8969234d491e80d9c4d8ade8f78889c5a91b17b0d29"
+    },
+    {
+      "filename": "Luis_Mendoza_Hardhat_Source_R8.svg",
+      "relative_path": "Editable_Sources_and_Placement_Records/Luis_Mendoza_Hardhat_Source_R8.svg",
+      "drive_id": "1zYh7NMLR7mOwZN_RIXnetV42NsfowsEu",
+      "bytes": 5907690,
+      "sha256": "73122fbd43d6a65a1ca7f56a06373ea30faf219b2178adf4a1e8b60ffc859dfb"
+    },
+    {
+      "filename": "Luis_Mendoza_Placement_Record_R8.json",
+      "relative_path": "Editable_Sources_and_Placement_Records/Luis_Mendoza_Placement_Record_R8.json",
+      "drive_id": "1ck6Gk3SyWxH-eIG3mb2AadnMkUl0uMcD",
+      "bytes": 1607,
+      "sha256": "fa13997a135be9d64fe50a59fd154e3922b9cb12828a5529a13fa46351d7e86e"
+    },
+    {
+      "filename": "Marcus_Jackson_Hardhat_Source_R8.svg",
+      "relative_path": "Editable_Sources_and_Placement_Records/Marcus_Jackson_Hardhat_Source_R8.svg",
+      "drive_id": "1UA35K-ov5aA2KlS-Fyg4Nd1wYiv-uBxC",
+      "bytes": 5009958,
+      "sha256": "8e5e6c1ca5853d8837a527497c5b7e1b2a24e6ace0302469a3460154aa36a104"
+    },
+    {
+      "filename": "Marcus_Jackson_Placement_Record_R8.json",
+      "relative_path": "Editable_Sources_and_Placement_Records/Marcus_Jackson_Placement_Record_R8.json",
+      "drive_id": "1dZiUVFQ1xlayLcO-AiThMoZhS9j-lvCl",
+      "bytes": 1597,
+      "sha256": "450feea4e983995049e429a71cfbdf6de2ef24aa244354f25adff304b2902bb6"
+    },
+    {
+      "filename": "Marisol_Vega_Hardhat_Source_R8.svg",
+      "relative_path": "Editable_Sources_and_Placement_Records/Marisol_Vega_Hardhat_Source_R8.svg",
+      "drive_id": "1ECX9VLB3LQhh1qYJoZ4bca-BN9ALsBia",
+      "bytes": 5658762,
+      "sha256": "1444795151ecc5cd235c9cc964745240f085aefef6e88a4cfe4f9b4d1742f83f"
+    },
+    {
+      "filename": "Marisol_Vega_Placement_Record_R8.json",
+      "relative_path": "Editable_Sources_and_Placement_Records/Marisol_Vega_Placement_Record_R8.json",
+      "drive_id": "1shmFDEzY8i-XUxBolzAi1-nICT1_-ODd",
+      "bytes": 1521,
+      "sha256": "7dcecb02a94d7fd120f9568ad319a74248e94b6a8cb61e889d1ceb717272b9a9"
+    },
+    {
+      "filename": "Matthias_Becker_Hardhat_Source_R8.svg",
+      "relative_path": "Editable_Sources_and_Placement_Records/Matthias_Becker_Hardhat_Source_R8.svg",
+      "drive_id": "1Xbys8K2CPurNxPMk-sJeDNGu_DAby6d1",
+      "bytes": 5619657,
+      "sha256": "7cfd72919c3945ff06aa55ef05e03ff6838ecfcca80f88041df07180f00dcf52"
+    },
+    {
+      "filename": "Matthias_Becker_Placement_Record_R8.json",
+      "relative_path": "Editable_Sources_and_Placement_Records/Matthias_Becker_Placement_Record_R8.json",
+      "drive_id": "1MJsR2ssjsrWxgEAqN7yDx3-7b-Z_LSv9",
+      "bytes": 1591,
+      "sha256": "5adb044b53fb4fb7439e225cf38d0b7a99d61b03b802532058619a79d46aab0d"
+    },
+    {
+      "filename": "Maya_Hardhat_Source_R8.svg",
+      "relative_path": "Editable_Sources_and_Placement_Records/Maya_Hardhat_Source_R8.svg",
+      "drive_id": "1Czpr1NpsPcuqcg4-jgbhfPSxjrH4gDRn",
+      "bytes": 5851297,
+      "sha256": "7fd6a264a3060832feca9662b86cc6a22e4a3e6aaeaaa4623c5431e77a04d199"
+    },
+    {
+      "filename": "Maya_Placement_Record_R8.json",
+      "relative_path": "Editable_Sources_and_Placement_Records/Maya_Placement_Record_R8.json",
+      "drive_id": "1gt84qOVB9rfWfkxL26DFN1BuLmGlHkk6",
+      "bytes": 1569,
+      "sha256": "c996d13c3debc61d40af7c6cb7320bb0ac6ac105a29dd166cf1cf786a1da2e68"
+    },
+    {
+      "filename": "Mrs_Harper_Hardhat_Source_R8.svg",
+      "relative_path": "Editable_Sources_and_Placement_Records/Mrs_Harper_Hardhat_Source_R8.svg",
+      "drive_id": "1Hqx9XL5Yx86FfoysCNURGNpKjjyA3Oji",
+      "bytes": 5738769,
+      "sha256": "291333e21f3cf32ac1fd915436840868ba27d8fbee92a6c9ed2bfd0cd53fd6e5"
+    },
+    {
+      "filename": "Mrs_Harper_Placement_Record_R8.json",
+      "relative_path": "Editable_Sources_and_Placement_Records/Mrs_Harper_Placement_Record_R8.json",
+      "drive_id": "1JkiwBE8T6OCsgay3fwiWdBn2suIVVa9K",
+      "bytes": 1592,
+      "sha256": "223270736854955acd9896232beb2887d76bf03d5d073ee2dc2cc100e076d3a6"
+    },
+    {
+      "filename": "Natalie_Chen_Hardhat_Source_R8.svg",
+      "relative_path": "Editable_Sources_and_Placement_Records/Natalie_Chen_Hardhat_Source_R8.svg",
+      "drive_id": "1Jhvezhl4tFPlf0ytvCjtklKoiJy4rHgX",
+      "bytes": 6611829,
+      "sha256": "3d9557627a8c70af2bf41ee4286c272bf2647237a5d2ff34e4628236d9d2ce0f"
+    },
+    {
+      "filename": "Natalie_Chen_Placement_Record_R8.json",
+      "relative_path": "Editable_Sources_and_Placement_Records/Natalie_Chen_Placement_Record_R8.json",
+      "drive_id": "1gKG80D2KQ_4Ib48inSnVM1g-KnVXK7kW",
+      "bytes": 1603,
+      "sha256": "6c2b46bd5a183431f9cc5186f7c199d768a5c3bab501c699fa056a3cd025ad9d"
+    },
+    {
+      "filename": "Omar_Haddad_Hardhat_Source_R8.svg",
+      "relative_path": "Editable_Sources_and_Placement_Records/Omar_Haddad_Hardhat_Source_R8.svg",
+      "drive_id": "1mwVBNtmhC-6g1u_M500chSEKCNT9XRgY",
+      "bytes": 5873484,
+      "sha256": "f1934a5fa2f55c880880bb4566526786edbf20b6a353f64b663b47dc574e36b1"
+    },
+    {
+      "filename": "Omar_Haddad_Placement_Record_R8.json",
+      "relative_path": "Editable_Sources_and_Placement_Records/Omar_Haddad_Placement_Record_R8.json",
+      "drive_id": "1FBbwksc_Y-mJZ2ntp6XjnAVearTsq_Cg",
+      "bytes": 1587,
+      "sha256": "3d558163e33a85a8bbe5b6032383eae1e6ac08c6a50570a683670d14b62bf4fb"
+    },
+    {
+      "filename": "Priya_Patel_Hardhat_Source_R8.svg",
+      "relative_path": "Editable_Sources_and_Placement_Records/Priya_Patel_Hardhat_Source_R8.svg",
+      "drive_id": "1IBd2qd9LOGpE49WBicuy16KKDVqad5ZK",
+      "bytes": 5403490,
+      "sha256": "7cbd1480318fbd83c4b298d39440ca411aedf37355b59e9d9755b3a54c6fee7f"
+    },
+    {
+      "filename": "Priya_Patel_Placement_Record_R8.json",
+      "relative_path": "Editable_Sources_and_Placement_Records/Priya_Patel_Placement_Record_R8.json",
+      "drive_id": "1KH_RwtmfeB733Og5bXv5UKHJo1KtQUpH",
+      "bytes": 1599,
+      "sha256": "5df0a57f6626b12501508aaafaef6eef0db355b4b432fde1c9ceb593807228ce"
+    },
+    {
+      "filename": "Rafael_Martinez_Hardhat_Source_R8.svg",
+      "relative_path": "Editable_Sources_and_Placement_Records/Rafael_Martinez_Hardhat_Source_R8.svg",
+      "drive_id": "1zus6pm-mDx7od4rvDW-fkMuwsf-of46w",
+      "bytes": 5757803,
+      "sha256": "e6cabfc126a717a8c3203beac93026789d8897b242a0969e242d98136ed8eed6"
+    },
+    {
+      "filename": "Rafael_Martinez_Placement_Record_R8.json",
+      "relative_path": "Editable_Sources_and_Placement_Records/Rafael_Martinez_Placement_Record_R8.json",
+      "drive_id": "1McACjhHU2dq3HBl-4ial1TqvjCT27Chk",
+      "bytes": 1605,
+      "sha256": "224e8b654b6f00ed0e62b8f8210ab8feaaae0b174b9b19ba2707d397034ce8e9"
+    },
+    {
+      "filename": "Rebecca_Foster_Hardhat_Source_R8.svg",
+      "relative_path": "Editable_Sources_and_Placement_Records/Rebecca_Foster_Hardhat_Source_R8.svg",
+      "drive_id": "1jwt6j5hJz_TK7J7zo1l46cdbVVeLyKSd",
+      "bytes": 6026602,
+      "sha256": "7572f131e6c9ae24cc46d05335b0bc06f12e3d8c49a632e3a9e84ae1c8045f78"
+    },
+    {
+      "filename": "Rebecca_Foster_Placement_Record_R8.json",
+      "relative_path": "Editable_Sources_and_Placement_Records/Rebecca_Foster_Placement_Record_R8.json",
+      "drive_id": "1mvavzzzT4fJ91DNA7wVMgAK45F7vgZhV",
+      "bytes": 576,
+      "sha256": "c890a8ecaa392cc5698a672f0289ef243b8f9e5d3852f88370b01d22d0c39ed4"
+    },
+    {
+      "filename": "Sam_Carter_Hardhat_Source_R8.svg",
+      "relative_path": "Editable_Sources_and_Placement_Records/Sam_Carter_Hardhat_Source_R8.svg",
+      "drive_id": "1bUvMI1BTj-X8QwYuqLJaK1wYvI2B2NF0",
+      "bytes": 5769994,
+      "sha256": "ef30da5e63af9f86641a327df96c0e2b7c32a09427aaf331db71ca6ba411f204"
+    },
+    {
+      "filename": "Sam_Carter_Placement_Record_R8.json",
+      "relative_path": "Editable_Sources_and_Placement_Records/Sam_Carter_Placement_Record_R8.json",
+      "drive_id": "17IPCBo4BLoZnkEcexpAkTQkFHBlN0a9k",
+      "bytes": 1538,
+      "sha256": "aadd15070f00917f93638fade3a091edf32a83d88096ec926e8e43cae5fc1ddb"
+    },
+    {
+      "filename": "Steph_Hardhat_Source_R8.svg",
+      "relative_path": "Editable_Sources_and_Placement_Records/Steph_Hardhat_Source_R8.svg",
+      "drive_id": "1AKGpL5g3NGEwMmBK9VV_8oVMXlW7G2IC",
+      "bytes": 5722403,
+      "sha256": "dcccc57373ea6085523d3dc0d809a25a48ef0daa4eb89cad5d59faaae796347e"
+    },
+    {
+      "filename": "Steph_Placement_Record_R8.json",
+      "relative_path": "Editable_Sources_and_Placement_Records/Steph_Placement_Record_R8.json",
+      "drive_id": "1YTJhxPa_0SrYXTCR3KiK-4T5m0bNDBWR",
+      "bytes": 1597,
+      "sha256": "3d1907f6c3851bb6cff89b7fe16938a935ed9e5a753d49f1e73fe078c767e70f"
+    },
+    {
+      "filename": "Tony_Marino_Hardhat_Source_R8.svg",
+      "relative_path": "Editable_Sources_and_Placement_Records/Tony_Marino_Hardhat_Source_R8.svg",
+      "drive_id": "1cZBV_I2nVsR8GoGTUbWUhefoDPkS3kTv",
+      "bytes": 6543749,
+      "sha256": "c2d8f78e1daa7a096d37dff3987c054c93eb95c8e2f43e522e2f8b3691098ea5"
+    },
+    {
+      "filename": "Tony_Marino_Placement_Record_R8.json",
+      "relative_path": "Editable_Sources_and_Placement_Records/Tony_Marino_Placement_Record_R8.json",
+      "drive_id": "1vrK7c5AyVvo7Ppc7WFiMGIG8L0nMVY4F",
+      "bytes": 1592,
+      "sha256": "69b903cb97c64775c3152ba7e1f549a650e91aca5f2b0c82d452945c46838cbb"
+    },
+    {
+      "filename": "Vinny_Hardhat_Source_R8.svg",
+      "relative_path": "Editable_Sources_and_Placement_Records/Vinny_Hardhat_Source_R8.svg",
+      "drive_id": "1izFk2HUb11IsShiRIu4oo5zR2kvjwNWJ",
+      "bytes": 5885340,
+      "sha256": "9a884183b9f8894cb9dcd58f95125223a1f9ad32103d2adcd2d9bd82e863689e"
+    },
+    {
+      "filename": "Vinny_Placement_Record_R8.json",
+      "relative_path": "Editable_Sources_and_Placement_Records/Vinny_Placement_Record_R8.json",
+      "drive_id": "1HHxWbljtXuiqxq9oyqIpnUzf26at3byJ",
+      "bytes": 1522,
+      "sha256": "a43d5acf71b1d14092d612d91613e74477e7ee536b8992291605a26724747a40"
+    },
+    {
+      "filename": "Eight_View_Jobsite_Sticker_Size_Review.pdf",
+      "bytes": 45371122,
+      "sha256": "b4deeb65855f293eb5e8c3304231336ddbf569af97f86aa92b53770f6bc0238f",
+      "drive_id": "1-32YinlOewnOfrrr1GTJa3WkQFVWG6Ii"
+    },
+    {
+      "filename": "Hardhat_Source_Review_R8_All_Characters.pdf",
+      "bytes": 59030256,
+      "sha256": "3adbe2c50b858bdb025a7974a1e6fdb9bcba12fd7d9b47055fc0b45050e65ada",
+      "drive_id": "1tUo2waeYIFQXzluzjj4BJP-k91DcaVH7"
+    }
+  ],
+  "root_files": [
+    {
+      "filename": "Eight_View_Jobsite_Sticker_Size_Review.pdf",
+      "parent_id": "1XGYEslC91ODbIkgWwS5gfjxASoZB17Z_",
+      "id": "1-32YinlOewnOfrrr1GTJa3WkQFVWG6Ii",
+      "url": "https://drive.google.com/file/d/1-32YinlOewnOfrrr1GTJa3WkQFVWG6Ii/view?usp=drivesdk"
+    },
+    {
+      "filename": "Hardhat_Source_Review_R8_All_Characters.pdf",
+      "parent_id": "1v2skKzvDCwnLLxQmGhOVyaKcElBBJef9",
+      "id": "1tUo2waeYIFQXzluzjj4BJP-k91DcaVH7",
+      "url": "https://drive.google.com/file/d/1tUo2waeYIFQXzluzjj4BJP-k91DcaVH7/view?usp=drivesdk"
+    },
+    {
+      "filename": "Jobsite_Sticker_Size_Comparison.png",
+      "parent_id": "1XGYEslC91ODbIkgWwS5gfjxASoZB17Z_",
+      "id": "1XbCWYrfoR0sMOboqnuOxogxQjQZ_m6VB",
+      "url": "https://drive.google.com/file/d/1XbCWYrfoR0sMOboqnuOxogxQjQZ_m6VB/view?usp=drivesdk"
+    },
+    {
+      "filename": "Eight_View_Sticker_Size_Record.json",
+      "parent_id": "1XGYEslC91ODbIkgWwS5gfjxASoZB17Z_",
+      "id": "14RCQlFsqhMWiPrHv3WdUvbB5HpnVcS-z",
+      "url": "https://drive.google.com/file/d/14RCQlFsqhMWiPrHv3WdUvbB5HpnVcS-z/view?usp=drivesdk"
+    },
+    {
+      "filename": "Hardhat_Source_Register_R8.json",
+      "parent_id": "1v2skKzvDCwnLLxQmGhOVyaKcElBBJef9",
+      "id": "1Fu2nhYziZt8SUb0RAJ5o5GXPoiRv3r1D",
+      "url": "https://drive.google.com/file/d/1Fu2nhYziZt8SUb0RAJ5o5GXPoiRv3r1D/view?usp=drivesdk"
+    },
+    {
+      "filename": "Hardhat_Render_Preservation_Check.json",
+      "parent_id": "1v2skKzvDCwnLLxQmGhOVyaKcElBBJef9",
+      "id": "1xg_rwAx9ChD5sQ_mmu-y_Mk-8le3OVW9",
+      "url": "https://drive.google.com/file/d/1xg_rwAx9ChD5sQ_mmu-y_Mk-8le3OVW9/view?usp=drivesdk"
+    },
+    {
+      "filename": "QA_Audit.txt",
+      "parent_id": "1XGYEslC91ODbIkgWwS5gfjxASoZB17Z_",
+      "id": "1gahazPeKgz2InNoaJigqfDYxzEw90AYK",
+      "url": "https://drive.google.com/file/d/1gahazPeKgz2InNoaJigqfDYxzEw90AYK/view?usp=drivesdk"
+    },
+    {
+      "filename": "README.txt",
+      "parent_id": "1XGYEslC91ODbIkgWwS5gfjxASoZB17Z_",
+      "id": "15gk-VsouYR2b1lerMsFHytlhECTMWxTp",
+      "url": "https://drive.google.com/file/d/15gk-VsouYR2b1lerMsFHytlhECTMWxTp/view?usp=drivesdk"
+    },
+    {
+      "filename": "README.txt",
+      "parent_id": "1v2skKzvDCwnLLxQmGhOVyaKcElBBJef9",
+      "id": "1UPAK6H-drCQi8Uc-muvoHBbQ1wOfxCTZ",
+      "url": "https://drive.google.com/file/d/1UPAK6H-drCQi8Uc-muvoHBbQ1wOfxCTZ/view?usp=drivesdk"
+    }
+  ],
+  "verification": {
+    "drive_inventory_count": 104,
+    "drive_names_and_sizes_match": true,
+    "eight_view_protected_pixels": "PASS - 23/23",
+    "hardhat_protected_pixels": "PASS - 26/26",
+    "approved_R7_input_hashes": "PASS - 26/26",
+    "pdf_pages_visually_inspected": 55,
+    "sticker_closeups_inspected": 70,
+    "reference_sheet_structure_and_raw_bytes": "PASS",
+    "whole_character_visual_qa": "UNVERIFIED",
+    "author_approval": "APPROVED",
+    "approval_recorded_on": "2026-11-04"
+  },
+  "author_artwork_approval": {
+    "status": "AUTHOR_APPROVED",
+    "approved_for_now": true,
+    "approved_by": "Adam Reid",
+    "approved_on": "2026-11-04",
+    "approval_quote": "The look good... let's approve for now as I dont currently see issues",
+    "scope": "The exact delivered 26-character eight-view PPE review set and all 26 Hardhat R8 source sheets, including their represented jobsite-sticker sizes. The eight-view set contains 23 resized candidates plus unchanged Ben R10, Leo R8 and Rebecca Foster R3.",
+    "evidence": "QA/sticker-size-review/2026-11-01/approval-2026-11-04.json"
+  },
+  "archive_inventory": "QA/sticker-size-review/2026-11-01/archive-inventory-2026-11-04.json",
+  "approval_record_drive_id": "11mFlXE3CBvYwBGqeJ953e5wrqOUbIgfX",
+  "archive_inventory_drive_id": "1tiFB2WNMKdeXC2DsBNrqey-q713PRq_y"
+}

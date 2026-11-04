@@ -146,7 +146,7 @@ series_wordmark_master:
   other_locked_branding_assets_changed: false
   spread_approval: false
 
-hardhat_source_sheet_reference:
+historical_hardhat_source_sheet_reference_R7:
   status: AUTHOR_APPROVED
   revision: R7
   approved_by: Adam Reid
@@ -167,3 +167,26 @@ hardhat_source_sheet_reference:
   measured_3D_certification: false
   approval_record_drive_id: 1fasyeQo5Zk-H2Wp2CDzT-FioWHMwLTVa
   archive_inventory_drive_id: 1eP_rVrSAdYzvTRaN4TThjFG3JIXytLab
+hardhat_source_sheet_reference:
+  status: AUTHOR_APPROVED
+  revision: R8
+  approved_by: Adam Reid
+  approved_date: '2026-11-04'
+  approval_evidence: The look good... let's approve for now as I dont currently see
+    issues
+  character_count: 26
+  scope: Hardhat source artwork and shown logo/sticker placement and size for the
+    26 characters enumerated in the R8 portion of the sticker-size manifest.
+  folder_id: 1v2skKzvDCwnLLxQmGhOVyaKcElBBJef9
+  pdf_drive_id: 1tUo2waeYIFQXzluzjj4BJP-k91DcaVH7
+  pdf_sha256: 3adbe2c50b858bdb025a7974a1e6fdb9bcba12fd7d9b47055fc0b45050e65ada
+  manifest: QA/sticker-size-review/2026-11-01/manifest.json
+  approval_record: QA/sticker-size-review/2026-11-01/approval-2026-11-04.json
+  archive_inventory: QA/sticker-size-review/2026-11-01/archive-inventory-2026-11-04.json
+  earlier_application_references: R7 and earlier approved references remain preserved
+    as historical evidence. R8 is current for the represented hardhat artwork, placement
+    and jobsite sticker size.
+  full_character_sheet_approval: false
+  measured_3D_certification: false
+  approval_record_drive_id: 11mFlXE3CBvYwBGqeJ953e5wrqOUbIgfX
+  archive_inventory_drive_id: 1tiFB2WNMKdeXC2DsBNrqey-q713PRq_y

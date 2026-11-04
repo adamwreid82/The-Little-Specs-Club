@@ -1,0 +1,1095 @@
+{
+  "archived_on": "2026-11-04",
+  "reason": "Explicit author approval of the delivered eight-view sticker-size set and Hardhat R8.",
+  "eight_view_superseded_folder_id": "1KdZy-aAqjckTLt0teFto6sEwu0btjNPU",
+  "hardhat_superseded_folder_id": "1plBJijvzwtXSOFosQWJN2sNjrVi9kZrq",
+  "direct_moves_verified": 34,
+  "moves": [
+    {
+      "id": "13tRQAT0zWL9luaEb1rrjXDNFrQOsBZ1r",
+      "name": "Steph_Helmet_Repair_Audit_2026-11-01.md",
+      "type": "text/markdown",
+      "bytes": "6551",
+      "old_parents": [
+        "1RWEbXGRrmcCR0Y87nisUsj6OZFXe4vU9"
+      ],
+      "destination": "1sei3DmuW9flE8GlLrdyqHc1MmfrxmZ3M",
+      "version_folder": "2026-11-01 - Steph R13",
+      "after": {
+        "id": "13tRQAT0zWL9luaEb1rrjXDNFrQOsBZ1r",
+        "title": "Steph_Helmet_Repair_Audit_2026-11-01.md",
+        "mime_type": "text/markdown",
+        "size": "6551",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1sei3DmuW9flE8GlLrdyqHc1MmfrxmZ3M"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "1RzQn7GGlNnUYR8K6C-zxvM9qPSlvUWTO",
+      "name": "Steph_PPE_8_Angles_REVIEW_R13.png",
+      "type": "image/png",
+      "bytes": "3596137",
+      "old_parents": [
+        "1RWEbXGRrmcCR0Y87nisUsj6OZFXe4vU9"
+      ],
+      "destination": "1sei3DmuW9flE8GlLrdyqHc1MmfrxmZ3M",
+      "version_folder": "2026-11-01 - Steph R13",
+      "after": {
+        "id": "1RzQn7GGlNnUYR8K6C-zxvM9qPSlvUWTO",
+        "title": "Steph_PPE_8_Angles_REVIEW_R13.png",
+        "mime_type": "image/png",
+        "size": "3596137",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1sei3DmuW9flE8GlLrdyqHc1MmfrxmZ3M"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "1UP8kx6OtzATNHYPoNESH3xd0KnjXQJ6x",
+      "name": "Vinny_R15_Maya_R8_Approval_2026-11-01.md",
+      "type": "text/markdown",
+      "bytes": "3931",
+      "old_parents": [
+        "1RWEbXGRrmcCR0Y87nisUsj6OZFXe4vU9"
+      ],
+      "destination": "1xFw9-YwLY6RY14EFYROXcjVnIwlEHjgM",
+      "version_folder": "2026-11-01 - Vinny R15 and Maya R8",
+      "after": {
+        "id": "1UP8kx6OtzATNHYPoNESH3xd0KnjXQJ6x",
+        "title": "Vinny_R15_Maya_R8_Approval_2026-11-01.md",
+        "mime_type": "text/markdown",
+        "size": "3931",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1xFw9-YwLY6RY14EFYROXcjVnIwlEHjgM"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "159Bxa9jvwYUw6O6ojFA_5lgZfHQiskNu",
+      "name": "Maya_PPE_8_Angles_APPROVED_R8.png",
+      "type": "image/png",
+      "bytes": "3789210",
+      "old_parents": [
+        "1RWEbXGRrmcCR0Y87nisUsj6OZFXe4vU9"
+      ],
+      "destination": "1xFw9-YwLY6RY14EFYROXcjVnIwlEHjgM",
+      "version_folder": "2026-11-01 - Vinny R15 and Maya R8",
+      "after": {
+        "id": "159Bxa9jvwYUw6O6ojFA_5lgZfHQiskNu",
+        "title": "Maya_PPE_8_Angles_APPROVED_R8.png",
+        "mime_type": "image/png",
+        "size": "3789210",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1xFw9-YwLY6RY14EFYROXcjVnIwlEHjgM"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "1OeCQ4niPlHy7G4Zzon3pwx95ulcpXkkh",
+      "name": "Vinny_PPE_8_Angles_APPROVED_R15.png",
+      "type": "image/png",
+      "bytes": "3781451",
+      "old_parents": [
+        "1RWEbXGRrmcCR0Y87nisUsj6OZFXe4vU9"
+      ],
+      "destination": "1xFw9-YwLY6RY14EFYROXcjVnIwlEHjgM",
+      "version_folder": "2026-11-01 - Vinny R15 and Maya R8",
+      "after": {
+        "id": "1OeCQ4niPlHy7G4Zzon3pwx95ulcpXkkh",
+        "title": "Vinny_PPE_8_Angles_APPROVED_R15.png",
+        "mime_type": "image/png",
+        "size": "3781451",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1xFw9-YwLY6RY14EFYROXcjVnIwlEHjgM"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "1mGBBts2DUJo8TQEwudk5KxJeYi83CTz3",
+      "name": "Logo_Placement_Repair_Audit_2026-10-28.md",
+      "type": "text/markdown",
+      "bytes": "5251",
+      "old_parents": [
+        "1RWEbXGRrmcCR0Y87nisUsj6OZFXe4vU9"
+      ],
+      "destination": "1qlycfiPS1XFp_iweraHwpxYXwmnNCEC_",
+      "version_folder": "2026-10-28 - Steph R12 and Kids PPE Repair Audits",
+      "after": {
+        "id": "1mGBBts2DUJo8TQEwudk5KxJeYi83CTz3",
+        "title": "Logo_Placement_Repair_Audit_2026-10-28.md",
+        "mime_type": "text/markdown",
+        "size": "5251",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1qlycfiPS1XFp_iweraHwpxYXwmnNCEC_"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "1srlVoGd6MiSiGdRCROACRYio18a6dCq3",
+      "name": "Kids_PPE_Repair_Audit_2026-10-28.md",
+      "type": "text/markdown",
+      "bytes": "6947",
+      "old_parents": [
+        "1RWEbXGRrmcCR0Y87nisUsj6OZFXe4vU9"
+      ],
+      "destination": "1qlycfiPS1XFp_iweraHwpxYXwmnNCEC_",
+      "version_folder": "2026-10-28 - Steph R12 and Kids PPE Repair Audits",
+      "after": {
+        "id": "1srlVoGd6MiSiGdRCROACRYio18a6dCq3",
+        "title": "Kids_PPE_Repair_Audit_2026-10-28.md",
+        "mime_type": "text/markdown",
+        "size": "6947",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1qlycfiPS1XFp_iweraHwpxYXwmnNCEC_"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "1lt05e84WTpywOsGdEj_W4PXxiofSIWE7",
+      "name": "Steph_PPE_8_Angles_REVIEW_R12.png",
+      "type": "image/png",
+      "bytes": "3594158",
+      "old_parents": [
+        "1RWEbXGRrmcCR0Y87nisUsj6OZFXe4vU9"
+      ],
+      "destination": "1qlycfiPS1XFp_iweraHwpxYXwmnNCEC_",
+      "version_folder": "2026-10-28 - Steph R12 and Kids PPE Repair Audits",
+      "after": {
+        "id": "1lt05e84WTpywOsGdEj_W4PXxiofSIWE7",
+        "title": "Steph_PPE_8_Angles_REVIEW_R12.png",
+        "mime_type": "image/png",
+        "size": "3594158",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1qlycfiPS1XFp_iweraHwpxYXwmnNCEC_"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "1g4hm5KIwR1NqNA0fIpscthVrxJ6yQyIp",
+      "name": "Kids_PPE_Repair_Audit_2026-10-27.md",
+      "type": "text/markdown",
+      "bytes": "4656",
+      "old_parents": [
+        "1RWEbXGRrmcCR0Y87nisUsj6OZFXe4vU9"
+      ],
+      "destination": "1RT4my7ipJnFB3aj5HTQIp0u9IN3Xu-4o",
+      "version_folder": "2026-10-27 - Steph R11 and Kids PPE Repair Audit",
+      "after": {
+        "id": "1g4hm5KIwR1NqNA0fIpscthVrxJ6yQyIp",
+        "title": "Kids_PPE_Repair_Audit_2026-10-27.md",
+        "mime_type": "text/markdown",
+        "size": "4656",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1RT4my7ipJnFB3aj5HTQIp0u9IN3Xu-4o"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "1XVjxaJjLCM53hVeZHrX1R5yUrQUHWD4A",
+      "name": "Steph_PPE_8_Angles_REVIEW_R11.png",
+      "type": "image/png",
+      "bytes": "3597454",
+      "old_parents": [
+        "1RWEbXGRrmcCR0Y87nisUsj6OZFXe4vU9"
+      ],
+      "destination": "1RT4my7ipJnFB3aj5HTQIp0u9IN3Xu-4o",
+      "version_folder": "2026-10-27 - Steph R11 and Kids PPE Repair Audit",
+      "after": {
+        "id": "1XVjxaJjLCM53hVeZHrX1R5yUrQUHWD4A",
+        "title": "Steph_PPE_8_Angles_REVIEW_R11.png",
+        "mime_type": "image/png",
+        "size": "3597454",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1RT4my7ipJnFB3aj5HTQIp0u9IN3Xu-4o"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "1d3BlS_o4g-5xA7s6bkQ8ycd-r2kQd30q",
+      "name": "Matthias_Becker_PPE_8_Angles_REVIEW_R10.png",
+      "type": "image/png",
+      "bytes": "2890959",
+      "old_parents": [
+        "1RWEbXGRrmcCR0Y87nisUsj6OZFXe4vU9"
+      ],
+      "destination": "1IxnA8K6uhjjRyzrlUtTzGm_J1-HbvM7-",
+      "version_folder": "2026-10-25 - Matthias Becker R10",
+      "after": {
+        "id": "1d3BlS_o4g-5xA7s6bkQ8ycd-r2kQd30q",
+        "title": "Matthias_Becker_PPE_8_Angles_REVIEW_R10.png",
+        "mime_type": "image/png",
+        "size": "2890959",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1IxnA8K6uhjjRyzrlUtTzGm_J1-HbvM7-"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "1yPhv69CLoBN3UaEOr_zpOL_zMZHEYKne",
+      "name": "Omar_Haddad_PPE_8_Angles_REVIEW_R9.png",
+      "type": "image/png",
+      "bytes": "2985741",
+      "old_parents": [
+        "1RWEbXGRrmcCR0Y87nisUsj6OZFXe4vU9"
+      ],
+      "destination": "1JFts5v-jI2u4gLeoCbC0Zes7lpt63vYT",
+      "version_folder": "2026-10-25 - Omar Haddad R9",
+      "after": {
+        "id": "1yPhv69CLoBN3UaEOr_zpOL_zMZHEYKne",
+        "title": "Omar_Haddad_PPE_8_Angles_REVIEW_R9.png",
+        "mime_type": "image/png",
+        "size": "2985741",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1JFts5v-jI2u4gLeoCbC0Zes7lpt63vYT"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "1X-n-OCvrhS3098I1wiPBKkeSGK3iy8EJ",
+      "name": "Adrian_Park_PPE_8_Angles_REVIEW_R4.png",
+      "type": "image/png",
+      "bytes": "2855652",
+      "old_parents": [
+        "1RWEbXGRrmcCR0Y87nisUsj6OZFXe4vU9"
+      ],
+      "destination": "1SVJ-ZXwYhsL5Om0kBELfy--Uot-UTE1m",
+      "version_folder": "2026-10-25 - Adrian Park R4",
+      "after": {
+        "id": "1X-n-OCvrhS3098I1wiPBKkeSGK3iy8EJ",
+        "title": "Adrian_Park_PPE_8_Angles_REVIEW_R4.png",
+        "mime_type": "image/png",
+        "size": "2855652",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1SVJ-ZXwYhsL5Om0kBELfy--Uot-UTE1m"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "1yU-Urb_5525xwjZ5Bb3U9j2yfzOih3_-",
+      "name": "Marisol_Vega_PPE_8_Angles_REVIEW_R4.png",
+      "type": "image/png",
+      "bytes": "3299285",
+      "old_parents": [
+        "1RWEbXGRrmcCR0Y87nisUsj6OZFXe4vU9"
+      ],
+      "destination": "1rIeQG_6jFroX_jr9FFk293XiaMR2BD8y",
+      "version_folder": "2026-10-25 - Marisol Vega R4",
+      "after": {
+        "id": "1yU-Urb_5525xwjZ5Bb3U9j2yfzOih3_-",
+        "title": "Marisol_Vega_PPE_8_Angles_REVIEW_R4.png",
+        "mime_type": "image/png",
+        "size": "3299285",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1rIeQG_6jFroX_jr9FFk293XiaMR2BD8y"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "1Stx1QjE3r1492DlxS3mgfIC2uorMyDsB",
+      "name": "Rafael_Martinez_PPE_8_Angles_REVIEW_R5.png",
+      "type": "image/png",
+      "bytes": "3736625",
+      "old_parents": [
+        "1RWEbXGRrmcCR0Y87nisUsj6OZFXe4vU9"
+      ],
+      "destination": "1OLzXghsAutEkoBoemZyqYYCxIgczxGxf",
+      "version_folder": "2026-10-25 - Rafael Martinez R5",
+      "after": {
+        "id": "1Stx1QjE3r1492DlxS3mgfIC2uorMyDsB",
+        "title": "Rafael_Martinez_PPE_8_Angles_REVIEW_R5.png",
+        "mime_type": "image/png",
+        "size": "3736625",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1OLzXghsAutEkoBoemZyqYYCxIgczxGxf"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "1n4z5SrPuOW94xBWyouFhKzZnWwwxTvnI",
+      "name": "Natalie_Chen_PPE_8_Angles_REVIEW_R2.png",
+      "type": "image/png",
+      "bytes": "2896518",
+      "old_parents": [
+        "1RWEbXGRrmcCR0Y87nisUsj6OZFXe4vU9"
+      ],
+      "destination": "1w7o90NajyYE-iiKXWtf6uDUznXAtvaO_",
+      "version_folder": "2026-10-25 - Natalie Chen R2",
+      "after": {
+        "id": "1n4z5SrPuOW94xBWyouFhKzZnWwwxTvnI",
+        "title": "Natalie_Chen_PPE_8_Angles_REVIEW_R2.png",
+        "mime_type": "image/png",
+        "size": "2896518",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1w7o90NajyYE-iiKXWtf6uDUznXAtvaO_"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "1X58mBS9JPTHIelqQ723wbiE0LTkVjv1i",
+      "name": "Hannah_Kowalski_PPE_8_Angles_REVIEW_R4.png",
+      "type": "image/png",
+      "bytes": "3247815",
+      "old_parents": [
+        "1RWEbXGRrmcCR0Y87nisUsj6OZFXe4vU9"
+      ],
+      "destination": "19zeibcuYoDbsQQHxgITED3FrTWykoKTF",
+      "version_folder": "2026-10-25 - Hannah Kowalski R4",
+      "after": {
+        "id": "1X58mBS9JPTHIelqQ723wbiE0LTkVjv1i",
+        "title": "Hannah_Kowalski_PPE_8_Angles_REVIEW_R4.png",
+        "mime_type": "image/png",
+        "size": "3247815",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "19zeibcuYoDbsQQHxgITED3FrTWykoKTF"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "1QnchuCSWJw_-wLr1dA3Rw7eWl3R7Oavj",
+      "name": "Sam_Carter_PPE_8_Angles_REVIEW_R6.png",
+      "type": "image/png",
+      "bytes": "3799391",
+      "old_parents": [
+        "1RWEbXGRrmcCR0Y87nisUsj6OZFXe4vU9"
+      ],
+      "destination": "193eCB-DKJGr_NrpliWRlKQovLc3d1IHD",
+      "version_folder": "2026-10-25 - Sam Carter R6",
+      "after": {
+        "id": "1QnchuCSWJw_-wLr1dA3Rw7eWl3R7Oavj",
+        "title": "Sam_Carter_PPE_8_Angles_REVIEW_R6.png",
+        "mime_type": "image/png",
+        "size": "3799391",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "193eCB-DKJGr_NrpliWRlKQovLc3d1IHD"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "1SM-aMkL7dtDhQolm-QfbK1dWAwGVBHw3",
+      "name": "Erik_Halvorsen_PPE_8_Angles_REVIEW_R4.png",
+      "type": "image/png",
+      "bytes": "3743646",
+      "old_parents": [
+        "1RWEbXGRrmcCR0Y87nisUsj6OZFXe4vU9"
+      ],
+      "destination": "1Af3qamRi4SIAFhrN-K5zJ8kSFcASPj86",
+      "version_folder": "2026-10-25 - Erik Halvorsen R4",
+      "after": {
+        "id": "1SM-aMkL7dtDhQolm-QfbK1dWAwGVBHw3",
+        "title": "Erik_Halvorsen_PPE_8_Angles_REVIEW_R4.png",
+        "mime_type": "image/png",
+        "size": "3743646",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1Af3qamRi4SIAFhrN-K5zJ8kSFcASPj86"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "1p5GILSotZLq6aQ9J_6VLx5spDBl-fN8v",
+      "name": "Danny_Novak_PPE_8_Angles_REVIEW_R4.png",
+      "type": "image/png",
+      "bytes": "3976035",
+      "old_parents": [
+        "1RWEbXGRrmcCR0Y87nisUsj6OZFXe4vU9"
+      ],
+      "destination": "1Q473IaKg5LodlZRpcpcGcAZR0GwZ1qZb",
+      "version_folder": "2026-10-25 - Danny Novak R4",
+      "after": {
+        "id": "1p5GILSotZLq6aQ9J_6VLx5spDBl-fN8v",
+        "title": "Danny_Novak_PPE_8_Angles_REVIEW_R4.png",
+        "mime_type": "image/png",
+        "size": "3976035",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1Q473IaKg5LodlZRpcpcGcAZR0GwZ1qZb"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "1oA7A4WZltMVkeJ12UJO-NHicMivbusIR",
+      "name": "Andre_Lewis_PPE_8_Angles_REVIEW_R7.png",
+      "type": "image/png",
+      "bytes": "3517561",
+      "old_parents": [
+        "1RWEbXGRrmcCR0Y87nisUsj6OZFXe4vU9"
+      ],
+      "destination": "1kgqqb3Wk8a5fbKYNhQ17i_aQhq9KWUe-",
+      "version_folder": "2026-10-25 - Andre Lewis R7",
+      "after": {
+        "id": "1oA7A4WZltMVkeJ12UJO-NHicMivbusIR",
+        "title": "Andre_Lewis_PPE_8_Angles_REVIEW_R7.png",
+        "mime_type": "image/png",
+        "size": "3517561",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1kgqqb3Wk8a5fbKYNhQ17i_aQhq9KWUe-"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "1bMarYZbFM_ZLFQxVgQ5-A_EqpquEc4Pi",
+      "name": "Luis_Mendoza_PPE_8_Angles_REVIEW_R6.png",
+      "type": "image/png",
+      "bytes": "3723138",
+      "old_parents": [
+        "1RWEbXGRrmcCR0Y87nisUsj6OZFXe4vU9"
+      ],
+      "destination": "1AG_GV-K9bTUPJ96U8e0c4tNkd--f7K-T",
+      "version_folder": "2026-10-25 - Luis Mendoza R6",
+      "after": {
+        "id": "1bMarYZbFM_ZLFQxVgQ5-A_EqpquEc4Pi",
+        "title": "Luis_Mendoza_PPE_8_Angles_REVIEW_R6.png",
+        "mime_type": "image/png",
+        "size": "3723138",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1AG_GV-K9bTUPJ96U8e0c4tNkd--f7K-T"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "12xOBJi84VtVu4DgEU-3C8AFDoWlO8gwl",
+      "name": "Darius_Cole_PPE_8_Angles_REVIEW_R4.png",
+      "type": "image/png",
+      "bytes": "3496248",
+      "old_parents": [
+        "1RWEbXGRrmcCR0Y87nisUsj6OZFXe4vU9"
+      ],
+      "destination": "1XBJSnnT4X22oLP1D3HrLiQQrppjwxqcc",
+      "version_folder": "2026-10-25 - Darius Cole R4",
+      "after": {
+        "id": "12xOBJi84VtVu4DgEU-3C8AFDoWlO8gwl",
+        "title": "Darius_Cole_PPE_8_Angles_REVIEW_R4.png",
+        "mime_type": "image/png",
+        "size": "3496248",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1XBJSnnT4X22oLP1D3HrLiQQrppjwxqcc"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "1-JHaM0B5Br7NTWhNnUcWePndnGN5bQBk",
+      "name": "Claire_Morgan_PPE_8_Angles_REVIEW_R4.png",
+      "type": "image/png",
+      "bytes": "2959614",
+      "old_parents": [
+        "1RWEbXGRrmcCR0Y87nisUsj6OZFXe4vU9"
+      ],
+      "destination": "1tgPx12nE_pVnuPJUAWLAP6_x0pSaidu3",
+      "version_folder": "2026-10-25 - Claire Morgan R4",
+      "after": {
+        "id": "1-JHaM0B5Br7NTWhNnUcWePndnGN5bQBk",
+        "title": "Claire_Morgan_PPE_8_Angles_REVIEW_R4.png",
+        "mime_type": "image/png",
+        "size": "2959614",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1tgPx12nE_pVnuPJUAWLAP6_x0pSaidu3"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "1-1FiEQiDHZLrK-QvagGDZ58Hi_T2vlFk",
+      "name": "Tony_Marino_PPE_8_Angles_REVIEW_R3.png",
+      "type": "image/png",
+      "bytes": "3615535",
+      "old_parents": [
+        "1RWEbXGRrmcCR0Y87nisUsj6OZFXe4vU9"
+      ],
+      "destination": "1B3XBejqx_WsTBQWeIcW02kCVUSKgo6e9",
+      "version_folder": "2026-10-25 - Tony Marino R3",
+      "after": {
+        "id": "1-1FiEQiDHZLrK-QvagGDZ58Hi_T2vlFk",
+        "title": "Tony_Marino_PPE_8_Angles_REVIEW_R3.png",
+        "mime_type": "image/png",
+        "size": "3615535",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1B3XBejqx_WsTBQWeIcW02kCVUSKgo6e9"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "1_gGYd-lbq4F4stl5NQnHzyzezeNdyz3t",
+      "name": "Daniel_Brooks_PPE_8_Angles_REVIEW_R3.png",
+      "type": "image/png",
+      "bytes": "3424940",
+      "old_parents": [
+        "1RWEbXGRrmcCR0Y87nisUsj6OZFXe4vU9"
+      ],
+      "destination": "1ebHUrDDukyXa7XpOdiiuxrLOfomgPd9u",
+      "version_folder": "2026-10-25 - Daniel Brooks R3",
+      "after": {
+        "id": "1_gGYd-lbq4F4stl5NQnHzyzezeNdyz3t",
+        "title": "Daniel_Brooks_PPE_8_Angles_REVIEW_R3.png",
+        "mime_type": "image/png",
+        "size": "3424940",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1ebHUrDDukyXa7XpOdiiuxrLOfomgPd9u"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "1zIZF7xa2ctrtOt7cqiP3FqsIAiJWRkzG",
+      "name": "Priya_Patel_PPE_8_Angles_REVIEW_R3.png",
+      "type": "image/png",
+      "bytes": "3467198",
+      "old_parents": [
+        "1RWEbXGRrmcCR0Y87nisUsj6OZFXe4vU9"
+      ],
+      "destination": "1_lCAzK6G6gt6jesD1UQAACbu5u6F87s-",
+      "version_folder": "2026-10-25 - Priya Patel R3",
+      "after": {
+        "id": "1zIZF7xa2ctrtOt7cqiP3FqsIAiJWRkzG",
+        "title": "Priya_Patel_PPE_8_Angles_REVIEW_R3.png",
+        "mime_type": "image/png",
+        "size": "3467198",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1_lCAzK6G6gt6jesD1UQAACbu5u6F87s-"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "1kXD2CMV1OkMXwGn_LRvoY6DpzjVtDFD2",
+      "name": "Marcus_Jackson_PPE_8_Angles_REVIEW_R4.png",
+      "type": "image/png",
+      "bytes": "3698085",
+      "old_parents": [
+        "1RWEbXGRrmcCR0Y87nisUsj6OZFXe4vU9"
+      ],
+      "destination": "1pAXHWK-z-CX511goD2NmeosnpnjTwQh4",
+      "version_folder": "2026-10-25 - Marcus Jackson R4",
+      "after": {
+        "id": "1kXD2CMV1OkMXwGn_LRvoY6DpzjVtDFD2",
+        "title": "Marcus_Jackson_PPE_8_Angles_REVIEW_R4.png",
+        "mime_type": "image/png",
+        "size": "3698085",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1pAXHWK-z-CX511goD2NmeosnpnjTwQh4"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "1Y8_VkNMD6FPH9eToFHtx8MUUxXwL4fdo",
+      "name": "Elena_Rivera_PPE_8_Angles_REVIEW_R4.png",
+      "type": "image/png",
+      "bytes": "3651009",
+      "old_parents": [
+        "1RWEbXGRrmcCR0Y87nisUsj6OZFXe4vU9"
+      ],
+      "destination": "1u78JfCP5Ga6qWqoVjVneikzE7rs2lLEq",
+      "version_folder": "2026-10-25 - Elena Rivera R4",
+      "after": {
+        "id": "1Y8_VkNMD6FPH9eToFHtx8MUUxXwL4fdo",
+        "title": "Elena_Rivera_PPE_8_Angles_REVIEW_R4.png",
+        "mime_type": "image/png",
+        "size": "3651009",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1u78JfCP5Ga6qWqoVjVneikzE7rs2lLEq"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "1kGMWJb79h_5rlrDhJOJ0f2aUJHZ75ROu",
+      "name": "Mrs_Harper_PPE_8_Angles_REVIEW_R4.png",
+      "type": "image/png",
+      "bytes": "3175041",
+      "old_parents": [
+        "1RWEbXGRrmcCR0Y87nisUsj6OZFXe4vU9"
+      ],
+      "destination": "13lPQEwcrry--EcQn2OelMQZwy9Fa5ryT",
+      "version_folder": "2026-10-25 - Mrs Harper R4",
+      "after": {
+        "id": "1kGMWJb79h_5rlrDhJOJ0f2aUJHZ75ROu",
+        "title": "Mrs_Harper_PPE_8_Angles_REVIEW_R4.png",
+        "mime_type": "image/png",
+        "size": "3175041",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "13lPQEwcrry--EcQn2OelMQZwy9Fa5ryT"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "1Iy7JUvAL8OUesy0zypEtB4LpPHoi_-BA",
+      "name": "Steph_PPE_8_Angles_REVIEW_R10.png",
+      "type": "image/png",
+      "bytes": "3671431",
+      "old_parents": [
+        "1RWEbXGRrmcCR0Y87nisUsj6OZFXe4vU9"
+      ],
+      "destination": "1gdkUSmSbHNb5om7HvcclfKRUtdFS8oLM",
+      "version_folder": "2026-10-25 - Steph R10",
+      "after": {
+        "id": "1Iy7JUvAL8OUesy0zypEtB4LpPHoi_-BA",
+        "title": "Steph_PPE_8_Angles_REVIEW_R10.png",
+        "mime_type": "image/png",
+        "size": "3671431",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1gdkUSmSbHNb5om7HvcclfKRUtdFS8oLM"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "1Jdq5W9ntGuuwef3zNXtxxtkQCNV2w4p7",
+      "name": "Vinny and Maya PPE - Superseded at Approval 2026-11-01",
+      "type": "application/vnd.google-apps.folder",
+      "bytes": null,
+      "old_parents": [
+        "1EEVwDaMBdpBnPxhfuCVnXnPQOybeNYzI"
+      ],
+      "destination": "1KdZy-aAqjckTLt0teFto6sEwu0btjNPU",
+      "version_folder": null,
+      "after": {
+        "id": "1Jdq5W9ntGuuwef3zNXtxxtkQCNV2w4p7",
+        "title": "Vinny and Maya PPE - Superseded at Approval 2026-11-01",
+        "mime_type": "application/vnd.google-apps.folder",
+        "size": null,
+        "url": null,
+        "file_or_folder": "folder",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1KdZy-aAqjckTLt0teFto6sEwu0btjNPU"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "136ZHCbdmIaipVgW8vsE0Bs1V3VWbsexd",
+      "name": "Steph_Helmet_Before_After_R12_R13.png",
+      "type": "image/png",
+      "bytes": "675215",
+      "old_parents": [
+        "1g80vg41ulb_N9S-Nuoins7nrHHPoVusE"
+      ],
+      "destination": "1sei3DmuW9flE8GlLrdyqHc1MmfrxmZ3M",
+      "version_folder": "2026-11-01 - Steph R13",
+      "after": {
+        "id": "136ZHCbdmIaipVgW8vsE0Bs1V3VWbsexd",
+        "title": "Steph_Helmet_Before_After_R12_R13.png",
+        "mime_type": "image/png",
+        "size": "675215",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1sei3DmuW9flE8GlLrdyqHc1MmfrxmZ3M"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    },
+    {
+      "id": "17J0cREVTUkPV2TlcFZhH3zht5igIaaoU",
+      "name": "Hardhat Sources R7 - APPROVED - 2026-11-01",
+      "type": "application/vnd.google-apps.folder",
+      "bytes": null,
+      "old_parents": [
+        "1Mbpw81H15b57na9nhiPXiR8krTDq1Cul"
+      ],
+      "destination": "1plBJijvzwtXSOFosQWJN2sNjrVi9kZrq",
+      "version_folder": "Hardhat Sources R7 - APPROVED - 2026-11-01",
+      "after": {
+        "id": "17J0cREVTUkPV2TlcFZhH3zht5igIaaoU",
+        "title": "Hardhat Sources R7 - APPROVED - 2026-11-01",
+        "mime_type": "application/vnd.google-apps.folder",
+        "size": null,
+        "url": null,
+        "file_or_folder": "folder",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1plBJijvzwtXSOFosQWJN2sNjrVi9kZrq"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "verified": true
+    }
+  ],
+  "nested_history_preserved": [
+    {
+      "folder_id": "17J0cREVTUkPV2TlcFZhH3zht5igIaaoU",
+      "note": "Entire approved R7 folder moved intact, including its 26 SVGs, 26 PNGs, placement records, approvals and nested earlier Superseded folder.",
+      "earlier_archive_inventory_drive_id": "1eP_rVrSAdYzvTRaN4TThjFG3JIXytLab"
+    },
+    {
+      "folder_id": "1Jdq5W9ntGuuwef3zNXtxxtkQCNV2w4p7",
+      "note": "Earlier Vinny/Maya PPE version folders moved intact."
+    }
+  ],
+  "shared_material_retained_in_place": [
+    {
+      "id": "1cpLxinMqbK0NO0rP9z3YMoHUwuMr0b0W",
+      "reason": "Shared current and historical review index."
+    },
+    {
+      "id": "16hOBkln-jxHrWqyLg4K60Ma2k5hrUHUz",
+      "reason": "Shared 49-sheet proof includes still-current everyday and civic candidates; PPE section is historical."
+    },
+    {
+      "id": "1g80vg41ulb_N9S-Nuoins7nrHHPoVusE",
+      "reason": "Combined everyday/PPE previews remain shared historical proofs. Isolated Steph R13 repair proof archived."
+    },
+    {
+      "id": "1EEVwDaMBdpBnPxhfuCVnXnPQOybeNYzI",
+      "reason": "Shared earlier batch audits, manifests and working archives cover everyday/civic work as well as PPE."
+    }
+  ],
+  "artwork_bytes_modified": false,
+  "original_ids_preserved": true,
+  "deletions": 0
+}
