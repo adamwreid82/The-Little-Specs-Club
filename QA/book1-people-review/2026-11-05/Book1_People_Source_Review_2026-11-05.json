@@ -1,0 +1,2262 @@
+{
+  "review": "Book 1 people versus current approved sources",
+  "review_date_utc": "2026-11-05",
+  "scope": "All 16 current restarted spreads, actual pages 02-33; includes four initial approvals and twelve candidates. Historical superseded drafts are not the active book sequence.",
+  "outcome": "NOT_ALL_SOURCE_CONSISTENT",
+  "counts": {
+    "spreads": 16,
+    "named_characters": 12,
+    "character_appearances": 55,
+    "correction_required_spreads": 11,
+    "no_confirmed_visible_mismatch_spreads": 4,
+    "no_people_spreads": 1,
+    "findings": 20
+  },
+  "reference_approval_date": "2026-11-04",
+  "reference_approval_record_id": "11mFlXE3CBvYwBGqeJ953e5wrqOUbIgfX",
+  "current_reference_manifest_id": "1Bxc-qtRFylzc5lhOYMJClcBZJmkY1qa5",
+  "review_folder_id": "10QuwDVYbdGJGzN3I1elrhpWmIyjWQajh",
+  "artwork_modified": false,
+  "approval_changes": false,
+  "mechanical_verification": {
+    "spread_originals": 16,
+    "approved_reference_pngs_matching_manifest": 24,
+    "source_profile_pairs_downloaded": 12,
+    "raw_source_profile_files_matching_older_registry": 21,
+    "raw_source_profile_files_differing_from_older_registry": 3,
+    "final_original_spread_hashes": "All 16 raw spread SHA-256 values rechecked unchanged after report generation."
+  },
+  "source_registry_exceptions": [
+    {
+      "character": "Ben",
+      "kind": "source",
+      "id": "1lkboZGWom6Vw7et5J5__5dBivj7i2TRx",
+      "expected_sha256": "7d80c07dd66d305d1811da5dc5b20e3351b196c623ef1c3c0fc9a75795fbb08b",
+      "actual_sha256": "bd0795cea996b37f1476a6bc1e967021df89d7d06b63de0c0714a99edb46f7d3",
+      "match": false
+    },
+    {
+      "character": "Ben",
+      "kind": "profile",
+      "id": "1rhPTyBiDT9OevTiI9ncFGYR8JPbLVt6m",
+      "expected_sha256": "5fab37be1eb08aa9e71ed3087e1794a7e30f0777e23354706d6d7020d2e132a8",
+      "actual_sha256": "facf7893671101aebc46163a5f01da644f5e5702c53108425da5547739fa32dc",
+      "match": false
+    },
+    {
+      "character": "Leo",
+      "kind": "source",
+      "id": "1PmH5IMF_HI_s9y1slZM9DXbWzTYVnbGc",
+      "expected_sha256": "830158fe4a00fd6a2ec4791593ae43c5add811ec4cce3f0ba2080de7eaa319a3",
+      "actual_sha256": "17c89e174c841f0d101fd9e4d983b5a16d0231d51faa48f54cedd830506e7e7c",
+      "match": false
+    },
+    {
+      "character": "Leo",
+      "kind": "profile",
+      "id": "1JD1OTpwF7EJizHYwaE-31j-z-kMPRqbx",
+      "expected_sha256": "d2c24d0fb0d4262a738972f2e8e5972c82231db4719fab49ca1312c64e8ecd5b",
+      "actual_sha256": "d2c24d0fb0d4262a738972f2e8e5972c82231db4719fab49ca1312c64e8ecd5b",
+      "match": true
+    },
+    {
+      "character": "Vinny",
+      "kind": "source",
+      "id": "1m-mxpb7Fpu04jWj5sYVJTHxvXXPySuSa",
+      "expected_sha256": "db9e5d966fd39dcc0f242d1df93d64d3a9b2ad52672a341bf293b87c689f7219",
+      "actual_sha256": "db9e5d966fd39dcc0f242d1df93d64d3a9b2ad52672a341bf293b87c689f7219",
+      "match": true
+    },
+    {
+      "character": "Vinny",
+      "kind": "profile",
+      "id": "1vG_CJ45X87ZsYlNr-Rq2VJiuRHaTtw4S",
+      "expected_sha256": "b69e2d455657479ed9076f88c49d7462fba599e899c87a7d1d0d9f1520d4914e",
+      "actual_sha256": "b69e2d455657479ed9076f88c49d7462fba599e899c87a7d1d0d9f1520d4914e",
+      "match": true
+    },
+    {
+      "character": "Steph",
+      "kind": "source",
+      "id": "1gF-pOjdltQVujd5NyCcX-Brh-EI0vQ9j",
+      "expected_sha256": "0338ba00d3cc122c7e1baecca56b577f51b54ea4a8f24ed2b7bbbc29685b934a",
+      "actual_sha256": "0338ba00d3cc122c7e1baecca56b577f51b54ea4a8f24ed2b7bbbc29685b934a",
+      "match": true
+    },
+    {
+      "character": "Steph",
+      "kind": "profile",
+      "id": "1hzABye97w5caJMYh90wvyGXrd17gXCBS",
+      "expected_sha256": "b001f923646aaf0d875994c418460c77049612452f158ced77c568478ad7d7e8",
+      "actual_sha256": "b001f923646aaf0d875994c418460c77049612452f158ced77c568478ad7d7e8",
+      "match": true
+    },
+    {
+      "character": "Maya",
+      "kind": "source",
+      "id": "1RZtZjt-3eX0iFFcKw1ZxtnlXj3pkoerU",
+      "expected_sha256": "405c184a953d966e68f5517078feef8bf056ceb405deb17842d9c9b9ab8e180c",
+      "actual_sha256": "405c184a953d966e68f5517078feef8bf056ceb405deb17842d9c9b9ab8e180c",
+      "match": true
+    },
+    {
+      "character": "Maya",
+      "kind": "profile",
+      "id": "1nERipp0Qz3AUFuYFkJ25rOuM0UfIGnV3",
+      "expected_sha256": "f1824deec8163a56f53a01724aa45f37be0a9e3f30b15ad4239e08fff25e2d24",
+      "actual_sha256": "f1824deec8163a56f53a01724aa45f37be0a9e3f30b15ad4239e08fff25e2d24",
+      "match": true
+    },
+    {
+      "character": "Mrs-Harper",
+      "kind": "source",
+      "id": "1a8RlfOktPoAQ__pLTtLIyaA3qidnPOaD",
+      "expected_sha256": "ac95bce80c63cafa60bc088555a4cf66dfe86147ce51342185d773cee825f288",
+      "actual_sha256": "ac95bce80c63cafa60bc088555a4cf66dfe86147ce51342185d773cee825f288",
+      "match": true
+    },
+    {
+      "character": "Mrs-Harper",
+      "kind": "profile",
+      "id": "1WFn924opY9kuG2ZWYukYBI97Xm6vytu0",
+      "expected_sha256": "965c95f7659d185929cd58030805f0224f9229e6f3c81ee8544b1e98aac49d34",
+      "actual_sha256": "965c95f7659d185929cd58030805f0224f9229e6f3c81ee8544b1e98aac49d34",
+      "match": true
+    },
+    {
+      "character": "Elena-Rivera",
+      "kind": "source",
+      "id": "1LMyoOO57gA-NQxgtF5poW7UPvfVjgqjP",
+      "expected_sha256": "7607cf26c2d548a98f73a50560138f6dedd68689c0ff0cdb4fdbccc893f4aada",
+      "actual_sha256": "7607cf26c2d548a98f73a50560138f6dedd68689c0ff0cdb4fdbccc893f4aada",
+      "match": true
+    },
+    {
+      "character": "Elena-Rivera",
+      "kind": "profile",
+      "id": "1nplm3aa__GwX4zVAlZ85usrKFuijLQdX",
+      "expected_sha256": "4174fae06271098642cdae38c05c67712adbdc2785a312cbd670ca6b297e6099",
+      "actual_sha256": "4174fae06271098642cdae38c05c67712adbdc2785a312cbd670ca6b297e6099",
+      "match": true
+    },
+    {
+      "character": "Marcus-Jackson",
+      "kind": "source",
+      "id": "1Y9-w_J1cnz_abDKpIL8Iz5W1GfvA_8xh",
+      "expected_sha256": "742f5a2609f9fcce1fcf2c2fec466d6a1e0deb2d98f7716aa7410253ab29c76d",
+      "actual_sha256": "742f5a2609f9fcce1fcf2c2fec466d6a1e0deb2d98f7716aa7410253ab29c76d",
+      "match": true
+    },
+    {
+      "character": "Marcus-Jackson",
+      "kind": "profile",
+      "id": "1fz_v6E5jSGrZD6LVdlDaVflPCloME6T5",
+      "expected_sha256": "0e3dd0970d1849417b3577bb803e733e1e18e13347122c748cc71dc993b472f7",
+      "actual_sha256": "0e3dd0970d1849417b3577bb803e733e1e18e13347122c748cc71dc993b472f7",
+      "match": true
+    },
+    {
+      "character": "Daniel-Brooks",
+      "kind": "source",
+      "id": "1TVWd4mtznkx3tFEKNKF_TClF5VBPILey",
+      "expected_sha256": "5fc186933893463902db56efb8d6b3e8d97697b7751d798e580a488da7450087",
+      "actual_sha256": "5fc186933893463902db56efb8d6b3e8d97697b7751d798e580a488da7450087",
+      "match": true
+    },
+    {
+      "character": "Daniel-Brooks",
+      "kind": "profile",
+      "id": "1yk_XlyuOxhaKMIms-e7mwbCrviNKZrKZ",
+      "expected_sha256": "a096423467027096ceb99c671bea8c6299b77334509d49452b98f64dfaf35553",
+      "actual_sha256": "a096423467027096ceb99c671bea8c6299b77334509d49452b98f64dfaf35553",
+      "match": true
+    },
+    {
+      "character": "Natalie-Chen",
+      "kind": "source",
+      "id": "1YDeJ77qoOWC38ImzZ-L8ssI9VOtVzyWb",
+      "expected_sha256": "16498fa5d8c2b994b9d674cb555efe732847fd5f5e86fa536a3c8caaf494e0bc",
+      "actual_sha256": "16498fa5d8c2b994b9d674cb555efe732847fd5f5e86fa536a3c8caaf494e0bc",
+      "match": true
+    },
+    {
+      "character": "Natalie-Chen",
+      "kind": "profile",
+      "id": "1kexCprbvMpHthz30eyCKVWwuPx6KKCML",
+      "expected_sha256": "58f8e9478b1dba7ee03396a330b365c6630c6cd98e4fab574889bf319483b6a4",
+      "actual_sha256": "58f8e9478b1dba7ee03396a330b365c6630c6cd98e4fab574889bf319483b6a4",
+      "match": true
+    },
+    {
+      "character": "Priya-Patel",
+      "kind": "source",
+      "id": "19ZMf5fqX8WGlhs7I7tJx_iFgrdlgpe8e",
+      "expected_sha256": "b1a053ca9f77df429b3e72f4c49fe1b59fc843557c55f37afcebe8d87b89fdab",
+      "actual_sha256": "b1a053ca9f77df429b3e72f4c49fe1b59fc843557c55f37afcebe8d87b89fdab",
+      "match": true
+    },
+    {
+      "character": "Priya-Patel",
+      "kind": "profile",
+      "id": "1ZyHR-GirFpMwk8DcRqlJVpy0RHXUBKd6",
+      "expected_sha256": "28bb5fb860b59357006d7c2a89e7f43455f61799a6f07cccbab6308988173166",
+      "actual_sha256": "28bb5fb860b59357006d7c2a89e7f43455f61799a6f07cccbab6308988173166",
+      "match": true
+    },
+    {
+      "character": "Tony-Marino",
+      "kind": "source",
+      "id": "1FjL5YJLklpXpHnqHGZmVc8Ps87IgvJro",
+      "expected_sha256": "546d050489f5c7eea1992c84b5d9a84e59accf372e85cb840b306fc2123c2054",
+      "actual_sha256": "546d050489f5c7eea1992c84b5d9a84e59accf372e85cb840b306fc2123c2054",
+      "match": true
+    },
+    {
+      "character": "Tony-Marino",
+      "kind": "profile",
+      "id": "1tJnFRmAnXSViwGbNxi9-RAyuBz9KD9Uq",
+      "expected_sha256": "6000214c393c2ef573b46f4dec4886ffc4d9c18069567868429b51d5427fe313",
+      "actual_sha256": "6000214c393c2ef573b46f4dec4886ffc4d9c18069567868429b51d5427fe313",
+      "match": true
+    }
+  ],
+  "source_exception_interpretation": "Ben.png, Leo.png and Ben profile were modified on 2026-10-25; current master images explicitly incorporate approved newer turnarounds. Current bytes were inspected, their actual hashes recorded here, and the old registry hashes were not silently changed. All 24 separate approved eight-view/R8 PNG hashes match the current approval manifest.",
+  "limitations": [
+    "Visual comparison was a manual inspection of original images and enlarged crops; no script certified likeness.",
+    "No blanket PASS: concealed views, back-of-vest emblems, exact physical height, and unreadable microdetail remain UNVERIFIED.",
+    "No clear hair-through-helmet bleed was identified in the inspected visible regions. This does not certify hidden regions.",
+    "The operator in the excavator cab on pages 24-25 cannot be identified at the supplied resolution; source identity is UNVERIFIED.",
+    "This is a completed review with a correction register, not a corrected-artwork release or a new approval."
+  ],
+  "spreads": [
+    {
+      "id": "1cf2arHdHxEkdSbRpdLlo3sATrrROeZ_-",
+      "filename": "Book1_Pages02-03_REV12_VERSION_B_INITIAL_APPROVAL.png",
+      "bytes": 11443063,
+      "sha256": "9eb7c649b7008d6e80537b16b9aa42e53f8bdfcd7839bc37568e439c656a2014",
+      "dimensions": [
+        5100,
+        2550
+      ],
+      "pages": "02-03",
+      "sequence": "Restarted Book 1 actual page numbering",
+      "prior_status": "INITIAL_APPROVAL_AWAITING_FULL_BOOK_REVIEW",
+      "review_status": "NO_CONFIRMED_VISIBLE_MISMATCH",
+      "people": [
+        {
+          "character": "Ben",
+          "source_image_id": "1lkboZGWom6Vw7et5J5__5dBivj7i2TRx",
+          "source_image_sha256": "bd0795cea996b37f1476a6bc1e967021df89d7d06b63de0c0714a99edb46f7d3",
+          "profile_id": "1rhPTyBiDT9OevTiI9ncFGYR8JPbLVt6m",
+          "profile_sha256": "facf7893671101aebc46163a5f01da644f5e5702c53108425da5547739fa32dc",
+          "approved_references": [
+            {
+              "drive_id": "1f-5jc6V8LtI3FmUsv7YUfQbk8iuSBc-W",
+              "filename": "Ben_PPE_8_Angles_APPROVED_R10_UNCHANGED.png",
+              "sha256": "e19736d0df48559412a3a6b1578e6b4bdd7a1bf3e70ffb21cd1ecaecc67d45ef"
+            },
+            {
+              "drive_id": "1KheF8T1L-JGplgLRp7sKAUKMY4l4F4by",
+              "filename": "Ben_Hardhat_Source_R8.png",
+              "sha256": "c925c1482b8ba78e1c15b5d6d1b6bb47bfbdf4c0868fd23094168e6e5efd42d6"
+            }
+          ],
+          "visible_identity_check": "Brown swept hair, black rectangular prescription frames, light-blue button-up and plain khakis. Current source incorporates Everyday R4 and PPE R10.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene."
+          ]
+        },
+        {
+          "character": "Leo",
+          "source_image_id": "1PmH5IMF_HI_s9y1slZM9DXbWzTYVnbGc",
+          "source_image_sha256": "17c89e174c841f0d101fd9e4d983b5a16d0231d51faa48f54cedd830506e7e7c",
+          "profile_id": "1JD1OTpwF7EJizHYwaE-31j-z-kMPRqbx",
+          "profile_sha256": "d2c24d0fb0d4262a738972f2e8e5972c82231db4719fab49ca1312c64e8ecd5b",
+          "approved_references": [
+            {
+              "drive_id": "15XT3C5z7LIdlFWZy98NbCSMFcGtbZvyj",
+              "filename": "Leo_PPE_8_Angles_APPROVED_R8_UNCHANGED.png",
+              "sha256": "b20e5aa363e0a54d51e322d1fc138830239b9e2adbaeea83f4b4bfc97ff61010"
+            },
+            {
+              "drive_id": "1fcSeoZf6VV8JssjHJFrJA0B00lMES_DO",
+              "filename": "Leo_Hardhat_Source_R8.png",
+              "sha256": "f05e23e856fd276abf32a8e3b7b0fad23d3a147d202f8d1ce49e495a7d7f8409"
+            }
+          ],
+          "visible_identity_check": "Warm brown skin, short tight dark curls, navy zip hoodie with white drawstrings, dark cargos and tan/black work boots; blue helmet and orange-accented vest in PPE scenes.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene."
+          ]
+        },
+        {
+          "character": "Vinny",
+          "source_image_id": "1m-mxpb7Fpu04jWj5sYVJTHxvXXPySuSa",
+          "source_image_sha256": "db9e5d966fd39dcc0f242d1df93d64d3a9b2ad52672a341bf293b87c689f7219",
+          "profile_id": "1vG_CJ45X87ZsYlNr-Rq2VJiuRHaTtw4S",
+          "profile_sha256": "b69e2d455657479ed9076f88c49d7462fba599e899c87a7d1d0d9f1520d4914e",
+          "approved_references": [
+            {
+              "drive_id": "16gjYnmlneZMIb3NA5hqHiifUJjSX6wl7",
+              "filename": "Vinny_PPE_8_Angles_REVIEW_R16.png",
+              "sha256": "414bd1bf7fc794c769b4ab3b258d3c12b1a39e172540c4f4eb0e7d901c6856f1"
+            },
+            {
+              "drive_id": "1PsRVybo-3S2oiH4loGO9r066vOXixNmS",
+              "filename": "Vinny_Hardhat_Source_R8.png",
+              "sha256": "d1e422c53805116ee0e49cc73a266e55996425e432099df7182e56bc47ca979d"
+            }
+          ],
+          "visible_identity_check": "Round face and sturdy child build, soft brown curls, green pullover hoodie, blue cargos and dark olive/black shoes; green helmet and clear safety eyewear in PPE scenes.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene."
+          ]
+        },
+        {
+          "character": "Steph",
+          "source_image_id": "1gF-pOjdltQVujd5NyCcX-Brh-EI0vQ9j",
+          "source_image_sha256": "0338ba00d3cc122c7e1baecca56b577f51b54ea4a8f24ed2b7bbbc29685b934a",
+          "profile_id": "1hzABye97w5caJMYh90wvyGXrd17gXCBS",
+          "profile_sha256": "b001f923646aaf0d875994c418460c77049612452f158ced77c568478ad7d7e8",
+          "approved_references": [
+            {
+              "drive_id": "1cCWdcn7K0xNeLbqYa8oGBZii5ZkR07jk",
+              "filename": "Steph_PPE_8_Angles_REVIEW_R14.png",
+              "sha256": "5ad1553bdfacbebf3fc679f207268a2869a0ea07fb6d0c42865bb0d9f4fa7e98"
+            },
+            {
+              "drive_id": "1WOusRNhdIMJaArdclVPGID16vmEIaQii",
+              "filename": "Steph_Hardhat_Source_R8.png",
+              "sha256": "579e7a9ba3a0da92b4d471529735ebea053831a5528ab5b512af752e9a9d1da7"
+            }
+          ],
+          "visible_identity_check": "Fair skin, blue eyes, freckles where resolved, long straight copper-red hair, lavender hoodie and olive cargos; gray/purple footwear and light-gray helmet in PPE scenes.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene."
+          ]
+        },
+        {
+          "character": "Maya",
+          "source_image_id": "1RZtZjt-3eX0iFFcKw1ZxtnlXj3pkoerU",
+          "source_image_sha256": "405c184a953d966e68f5517078feef8bf056ceb405deb17842d9c9b9ab8e180c",
+          "profile_id": "1nERipp0Qz3AUFuYFkJ25rOuM0UfIGnV3",
+          "profile_sha256": "f1824deec8163a56f53a01724aa45f37be0a9e3f30b15ad4239e08fff25e2d24",
+          "approved_references": [
+            {
+              "drive_id": "10LwizzRxzXLIQpSsZsIaC-dL_klEyABJ",
+              "filename": "Maya_PPE_8_Angles_REVIEW_R9.png",
+              "sha256": "c8b7892b89e5fd445c10d5169f8faa03529fe3a452fe0a271fbe2dc123354c09"
+            },
+            {
+              "drive_id": "1imb0ZRtQCR32Xe6Ebgm6rQEsZHks4gpc",
+              "filename": "Maya_Hardhat_Source_R8.png",
+              "sha256": "ed34b1ff92b464ef6279a9de88833a5258f4e9d2e46782608c2bc2852a00fe17"
+            }
+          ],
+          "visible_identity_check": "Warm medium skin, brown eyes, very long dark curls, gold hoops, pink zip hoodie and blue cargos; gray/purple footwear, yellow helmet and clear eye protection in PPE scenes.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene."
+          ]
+        }
+      ],
+      "findings": [],
+      "approval_changed": false,
+      "artwork_modified": false
+    },
+    {
+      "id": "1zZn_HEyUkMYWaklfkCVYfj07s9pT2Al8",
+      "filename": "Book1_Pages04-05_REV6_VERSION_B_INITIAL_APPROVAL.png",
+      "bytes": 10072961,
+      "sha256": "b22aacd7b4f4674d83c6d53078302d419bf1e23acb5edd11a0e0121e43108ec6",
+      "dimensions": [
+        5100,
+        2550
+      ],
+      "pages": "04-05",
+      "sequence": "Restarted Book 1 actual page numbering",
+      "prior_status": "INITIAL_APPROVAL_AWAITING_FULL_BOOK_REVIEW",
+      "review_status": "NO_CONFIRMED_VISIBLE_MISMATCH",
+      "people": [
+        {
+          "character": "Mrs-Harper",
+          "source_image_id": "1a8RlfOktPoAQ__pLTtLIyaA3qidnPOaD",
+          "source_image_sha256": "ac95bce80c63cafa60bc088555a4cf66dfe86147ce51342185d773cee825f288",
+          "profile_id": "1WFn924opY9kuG2ZWYukYBI97Xm6vytu0",
+          "profile_sha256": "965c95f7659d185929cd58030805f0224f9229e6f3c81ee8544b1e98aac49d34",
+          "approved_references": [
+            {
+              "drive_id": "1NSfVNRbsEOhLKLywNlBiSUZXOEXMscCu",
+              "filename": "Mrs_Harper_PPE_8_Angles_REVIEW_R5.png",
+              "sha256": "98ce0ca298ac735094914902daa18c044a43156d5c15680af46ed9b966f1083b"
+            },
+            {
+              "drive_id": "1-E-cNoNJdJ_sR90sRoItiZlGKq_F8mSj",
+              "filename": "Mrs_Harper_Hardhat_Source_R8.png",
+              "sha256": "d39c9dc6e62eea1a0818a57db780e8f229b446e5d745a5a7b810557f868b2ca4"
+            }
+          ],
+          "visible_identity_check": "Brown shoulder-length waves, gold hoops, purple cardigan, small floral cream blouse, blue ID lanyard and dark slacks. Only everyday/pre-orientation depictions occur in this set.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene."
+          ]
+        },
+        {
+          "character": "Ben",
+          "source_image_id": "1lkboZGWom6Vw7et5J5__5dBivj7i2TRx",
+          "source_image_sha256": "bd0795cea996b37f1476a6bc1e967021df89d7d06b63de0c0714a99edb46f7d3",
+          "profile_id": "1rhPTyBiDT9OevTiI9ncFGYR8JPbLVt6m",
+          "profile_sha256": "facf7893671101aebc46163a5f01da644f5e5702c53108425da5547739fa32dc",
+          "approved_references": [
+            {
+              "drive_id": "1f-5jc6V8LtI3FmUsv7YUfQbk8iuSBc-W",
+              "filename": "Ben_PPE_8_Angles_APPROVED_R10_UNCHANGED.png",
+              "sha256": "e19736d0df48559412a3a6b1578e6b4bdd7a1bf3e70ffb21cd1ecaecc67d45ef"
+            },
+            {
+              "drive_id": "1KheF8T1L-JGplgLRp7sKAUKMY4l4F4by",
+              "filename": "Ben_Hardhat_Source_R8.png",
+              "sha256": "c925c1482b8ba78e1c15b5d6d1b6bb47bfbdf4c0868fd23094168e6e5efd42d6"
+            }
+          ],
+          "visible_identity_check": "Brown swept hair, black rectangular prescription frames, light-blue button-up and plain khakis. Current source incorporates Everyday R4 and PPE R10.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene."
+          ]
+        },
+        {
+          "character": "Leo",
+          "source_image_id": "1PmH5IMF_HI_s9y1slZM9DXbWzTYVnbGc",
+          "source_image_sha256": "17c89e174c841f0d101fd9e4d983b5a16d0231d51faa48f54cedd830506e7e7c",
+          "profile_id": "1JD1OTpwF7EJizHYwaE-31j-z-kMPRqbx",
+          "profile_sha256": "d2c24d0fb0d4262a738972f2e8e5972c82231db4719fab49ca1312c64e8ecd5b",
+          "approved_references": [
+            {
+              "drive_id": "15XT3C5z7LIdlFWZy98NbCSMFcGtbZvyj",
+              "filename": "Leo_PPE_8_Angles_APPROVED_R8_UNCHANGED.png",
+              "sha256": "b20e5aa363e0a54d51e322d1fc138830239b9e2adbaeea83f4b4bfc97ff61010"
+            },
+            {
+              "drive_id": "1fcSeoZf6VV8JssjHJFrJA0B00lMES_DO",
+              "filename": "Leo_Hardhat_Source_R8.png",
+              "sha256": "f05e23e856fd276abf32a8e3b7b0fad23d3a147d202f8d1ce49e495a7d7f8409"
+            }
+          ],
+          "visible_identity_check": "Warm brown skin, short tight dark curls, navy zip hoodie with white drawstrings, dark cargos and tan/black work boots; blue helmet and orange-accented vest in PPE scenes.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene."
+          ]
+        },
+        {
+          "character": "Steph",
+          "source_image_id": "1gF-pOjdltQVujd5NyCcX-Brh-EI0vQ9j",
+          "source_image_sha256": "0338ba00d3cc122c7e1baecca56b577f51b54ea4a8f24ed2b7bbbc29685b934a",
+          "profile_id": "1hzABye97w5caJMYh90wvyGXrd17gXCBS",
+          "profile_sha256": "b001f923646aaf0d875994c418460c77049612452f158ced77c568478ad7d7e8",
+          "approved_references": [
+            {
+              "drive_id": "1cCWdcn7K0xNeLbqYa8oGBZii5ZkR07jk",
+              "filename": "Steph_PPE_8_Angles_REVIEW_R14.png",
+              "sha256": "5ad1553bdfacbebf3fc679f207268a2869a0ea07fb6d0c42865bb0d9f4fa7e98"
+            },
+            {
+              "drive_id": "1WOusRNhdIMJaArdclVPGID16vmEIaQii",
+              "filename": "Steph_Hardhat_Source_R8.png",
+              "sha256": "579e7a9ba3a0da92b4d471529735ebea053831a5528ab5b512af752e9a9d1da7"
+            }
+          ],
+          "visible_identity_check": "Fair skin, blue eyes, freckles where resolved, long straight copper-red hair, lavender hoodie and olive cargos; gray/purple footwear and light-gray helmet in PPE scenes.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene."
+          ]
+        },
+        {
+          "character": "Maya",
+          "source_image_id": "1RZtZjt-3eX0iFFcKw1ZxtnlXj3pkoerU",
+          "source_image_sha256": "405c184a953d966e68f5517078feef8bf056ceb405deb17842d9c9b9ab8e180c",
+          "profile_id": "1nERipp0Qz3AUFuYFkJ25rOuM0UfIGnV3",
+          "profile_sha256": "f1824deec8163a56f53a01724aa45f37be0a9e3f30b15ad4239e08fff25e2d24",
+          "approved_references": [
+            {
+              "drive_id": "10LwizzRxzXLIQpSsZsIaC-dL_klEyABJ",
+              "filename": "Maya_PPE_8_Angles_REVIEW_R9.png",
+              "sha256": "c8b7892b89e5fd445c10d5169f8faa03529fe3a452fe0a271fbe2dc123354c09"
+            },
+            {
+              "drive_id": "1imb0ZRtQCR32Xe6Ebgm6rQEsZHks4gpc",
+              "filename": "Maya_Hardhat_Source_R8.png",
+              "sha256": "ed34b1ff92b464ef6279a9de88833a5258f4e9d2e46782608c2bc2852a00fe17"
+            }
+          ],
+          "visible_identity_check": "Warm medium skin, brown eyes, very long dark curls, gold hoops, pink zip hoodie and blue cargos; gray/purple footwear, yellow helmet and clear eye protection in PPE scenes.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene."
+          ]
+        },
+        {
+          "character": "Vinny",
+          "source_image_id": "1m-mxpb7Fpu04jWj5sYVJTHxvXXPySuSa",
+          "source_image_sha256": "db9e5d966fd39dcc0f242d1df93d64d3a9b2ad52672a341bf293b87c689f7219",
+          "profile_id": "1vG_CJ45X87ZsYlNr-Rq2VJiuRHaTtw4S",
+          "profile_sha256": "b69e2d455657479ed9076f88c49d7462fba599e899c87a7d1d0d9f1520d4914e",
+          "approved_references": [
+            {
+              "drive_id": "16gjYnmlneZMIb3NA5hqHiifUJjSX6wl7",
+              "filename": "Vinny_PPE_8_Angles_REVIEW_R16.png",
+              "sha256": "414bd1bf7fc794c769b4ab3b258d3c12b1a39e172540c4f4eb0e7d901c6856f1"
+            },
+            {
+              "drive_id": "1PsRVybo-3S2oiH4loGO9r066vOXixNmS",
+              "filename": "Vinny_Hardhat_Source_R8.png",
+              "sha256": "d1e422c53805116ee0e49cc73a266e55996425e432099df7182e56bc47ca979d"
+            }
+          ],
+          "visible_identity_check": "Round face and sturdy child build, soft brown curls, green pullover hoodie, blue cargos and dark olive/black shoes; green helmet and clear safety eyewear in PPE scenes.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene."
+          ]
+        }
+      ],
+      "findings": [],
+      "approval_changed": false,
+      "artwork_modified": false
+    },
+    {
+      "id": "1oN3Y-YtMmm2M6K3vu92-jzSX3FQgTRLY",
+      "filename": "Book1_Pages06-07_REV6_VERSION_B_INITIAL_APPROVAL.png",
+      "bytes": 11955048,
+      "sha256": "44ef8dd306458a99cba05126ba2db122bbb33801d85a5ebb4a036c71cfb34981",
+      "dimensions": [
+        5100,
+        2550
+      ],
+      "pages": "06-07",
+      "sequence": "Restarted Book 1 actual page numbering",
+      "prior_status": "INITIAL_APPROVAL_AWAITING_FULL_BOOK_REVIEW",
+      "review_status": "NO_CONFIRMED_VISIBLE_MISMATCH",
+      "people": [
+        {
+          "character": "Ben",
+          "source_image_id": "1lkboZGWom6Vw7et5J5__5dBivj7i2TRx",
+          "source_image_sha256": "bd0795cea996b37f1476a6bc1e967021df89d7d06b63de0c0714a99edb46f7d3",
+          "profile_id": "1rhPTyBiDT9OevTiI9ncFGYR8JPbLVt6m",
+          "profile_sha256": "facf7893671101aebc46163a5f01da644f5e5702c53108425da5547739fa32dc",
+          "approved_references": [
+            {
+              "drive_id": "1f-5jc6V8LtI3FmUsv7YUfQbk8iuSBc-W",
+              "filename": "Ben_PPE_8_Angles_APPROVED_R10_UNCHANGED.png",
+              "sha256": "e19736d0df48559412a3a6b1578e6b4bdd7a1bf3e70ffb21cd1ecaecc67d45ef"
+            },
+            {
+              "drive_id": "1KheF8T1L-JGplgLRp7sKAUKMY4l4F4by",
+              "filename": "Ben_Hardhat_Source_R8.png",
+              "sha256": "c925c1482b8ba78e1c15b5d6d1b6bb47bfbdf4c0868fd23094168e6e5efd42d6"
+            }
+          ],
+          "visible_identity_check": "Brown swept hair, black rectangular prescription frames, light-blue button-up and plain khakis. Current source incorporates Everyday R4 and PPE R10.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene."
+          ]
+        },
+        {
+          "character": "Vinny",
+          "source_image_id": "1m-mxpb7Fpu04jWj5sYVJTHxvXXPySuSa",
+          "source_image_sha256": "db9e5d966fd39dcc0f242d1df93d64d3a9b2ad52672a341bf293b87c689f7219",
+          "profile_id": "1vG_CJ45X87ZsYlNr-Rq2VJiuRHaTtw4S",
+          "profile_sha256": "b69e2d455657479ed9076f88c49d7462fba599e899c87a7d1d0d9f1520d4914e",
+          "approved_references": [
+            {
+              "drive_id": "16gjYnmlneZMIb3NA5hqHiifUJjSX6wl7",
+              "filename": "Vinny_PPE_8_Angles_REVIEW_R16.png",
+              "sha256": "414bd1bf7fc794c769b4ab3b258d3c12b1a39e172540c4f4eb0e7d901c6856f1"
+            },
+            {
+              "drive_id": "1PsRVybo-3S2oiH4loGO9r066vOXixNmS",
+              "filename": "Vinny_Hardhat_Source_R8.png",
+              "sha256": "d1e422c53805116ee0e49cc73a266e55996425e432099df7182e56bc47ca979d"
+            }
+          ],
+          "visible_identity_check": "Round face and sturdy child build, soft brown curls, green pullover hoodie, blue cargos and dark olive/black shoes; green helmet and clear safety eyewear in PPE scenes.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene."
+          ]
+        },
+        {
+          "character": "Leo",
+          "source_image_id": "1PmH5IMF_HI_s9y1slZM9DXbWzTYVnbGc",
+          "source_image_sha256": "17c89e174c841f0d101fd9e4d983b5a16d0231d51faa48f54cedd830506e7e7c",
+          "profile_id": "1JD1OTpwF7EJizHYwaE-31j-z-kMPRqbx",
+          "profile_sha256": "d2c24d0fb0d4262a738972f2e8e5972c82231db4719fab49ca1312c64e8ecd5b",
+          "approved_references": [
+            {
+              "drive_id": "15XT3C5z7LIdlFWZy98NbCSMFcGtbZvyj",
+              "filename": "Leo_PPE_8_Angles_APPROVED_R8_UNCHANGED.png",
+              "sha256": "b20e5aa363e0a54d51e322d1fc138830239b9e2adbaeea83f4b4bfc97ff61010"
+            },
+            {
+              "drive_id": "1fcSeoZf6VV8JssjHJFrJA0B00lMES_DO",
+              "filename": "Leo_Hardhat_Source_R8.png",
+              "sha256": "f05e23e856fd276abf32a8e3b7b0fad23d3a147d202f8d1ce49e495a7d7f8409"
+            }
+          ],
+          "visible_identity_check": "Warm brown skin, short tight dark curls, navy zip hoodie with white drawstrings, dark cargos and tan/black work boots; blue helmet and orange-accented vest in PPE scenes.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene."
+          ]
+        },
+        {
+          "character": "Steph",
+          "source_image_id": "1gF-pOjdltQVujd5NyCcX-Brh-EI0vQ9j",
+          "source_image_sha256": "0338ba00d3cc122c7e1baecca56b577f51b54ea4a8f24ed2b7bbbc29685b934a",
+          "profile_id": "1hzABye97w5caJMYh90wvyGXrd17gXCBS",
+          "profile_sha256": "b001f923646aaf0d875994c418460c77049612452f158ced77c568478ad7d7e8",
+          "approved_references": [
+            {
+              "drive_id": "1cCWdcn7K0xNeLbqYa8oGBZii5ZkR07jk",
+              "filename": "Steph_PPE_8_Angles_REVIEW_R14.png",
+              "sha256": "5ad1553bdfacbebf3fc679f207268a2869a0ea07fb6d0c42865bb0d9f4fa7e98"
+            },
+            {
+              "drive_id": "1WOusRNhdIMJaArdclVPGID16vmEIaQii",
+              "filename": "Steph_Hardhat_Source_R8.png",
+              "sha256": "579e7a9ba3a0da92b4d471529735ebea053831a5528ab5b512af752e9a9d1da7"
+            }
+          ],
+          "visible_identity_check": "Fair skin, blue eyes, freckles where resolved, long straight copper-red hair, lavender hoodie and olive cargos; gray/purple footwear and light-gray helmet in PPE scenes.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene."
+          ]
+        },
+        {
+          "character": "Maya",
+          "source_image_id": "1RZtZjt-3eX0iFFcKw1ZxtnlXj3pkoerU",
+          "source_image_sha256": "405c184a953d966e68f5517078feef8bf056ceb405deb17842d9c9b9ab8e180c",
+          "profile_id": "1nERipp0Qz3AUFuYFkJ25rOuM0UfIGnV3",
+          "profile_sha256": "f1824deec8163a56f53a01724aa45f37be0a9e3f30b15ad4239e08fff25e2d24",
+          "approved_references": [
+            {
+              "drive_id": "10LwizzRxzXLIQpSsZsIaC-dL_klEyABJ",
+              "filename": "Maya_PPE_8_Angles_REVIEW_R9.png",
+              "sha256": "c8b7892b89e5fd445c10d5169f8faa03529fe3a452fe0a271fbe2dc123354c09"
+            },
+            {
+              "drive_id": "1imb0ZRtQCR32Xe6Ebgm6rQEsZHks4gpc",
+              "filename": "Maya_Hardhat_Source_R8.png",
+              "sha256": "ed34b1ff92b464ef6279a9de88833a5258f4e9d2e46782608c2bc2852a00fe17"
+            }
+          ],
+          "visible_identity_check": "Warm medium skin, brown eyes, very long dark curls, gold hoops, pink zip hoodie and blue cargos; gray/purple footwear, yellow helmet and clear eye protection in PPE scenes.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene."
+          ]
+        },
+        {
+          "character": "Mrs-Harper",
+          "source_image_id": "1a8RlfOktPoAQ__pLTtLIyaA3qidnPOaD",
+          "source_image_sha256": "ac95bce80c63cafa60bc088555a4cf66dfe86147ce51342185d773cee825f288",
+          "profile_id": "1WFn924opY9kuG2ZWYukYBI97Xm6vytu0",
+          "profile_sha256": "965c95f7659d185929cd58030805f0224f9229e6f3c81ee8544b1e98aac49d34",
+          "approved_references": [
+            {
+              "drive_id": "1NSfVNRbsEOhLKLywNlBiSUZXOEXMscCu",
+              "filename": "Mrs_Harper_PPE_8_Angles_REVIEW_R5.png",
+              "sha256": "98ce0ca298ac735094914902daa18c044a43156d5c15680af46ed9b966f1083b"
+            },
+            {
+              "drive_id": "1-E-cNoNJdJ_sR90sRoItiZlGKq_F8mSj",
+              "filename": "Mrs_Harper_Hardhat_Source_R8.png",
+              "sha256": "d39c9dc6e62eea1a0818a57db780e8f229b446e5d745a5a7b810557f868b2ca4"
+            }
+          ],
+          "visible_identity_check": "Brown shoulder-length waves, gold hoops, purple cardigan, small floral cream blouse, blue ID lanyard and dark slacks. Only everyday/pre-orientation depictions occur in this set.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene."
+          ]
+        }
+      ],
+      "findings": [],
+      "approval_changed": false,
+      "artwork_modified": false
+    },
+    {
+      "id": "1VkcQXwhPXCexsaWFDLKXRnNuPpCObKBv",
+      "filename": "Book1_Pages08-09_REV4_VERSION_B_INITIAL_APPROVAL.png",
+      "bytes": 22087539,
+      "sha256": "c0a2e7ab747b7ee002f7d4e86e264d0429c34bf85d119721e4d0f0726003ae3a",
+      "dimensions": [
+        5100,
+        2550
+      ],
+      "pages": "08-09",
+      "sequence": "Restarted Book 1 actual page numbering",
+      "prior_status": "INITIAL_APPROVAL_AWAITING_FULL_BOOK_REVIEW",
+      "review_status": "CORRECTION_REQUIRED",
+      "people": [
+        {
+          "character": "Elena-Rivera",
+          "source_image_id": "1LMyoOO57gA-NQxgtF5poW7UPvfVjgqjP",
+          "source_image_sha256": "7607cf26c2d548a98f73a50560138f6dedd68689c0ff0cdb4fdbccc893f4aada",
+          "profile_id": "1nplm3aa__GwX4zVAlZ85usrKFuijLQdX",
+          "profile_sha256": "4174fae06271098642cdae38c05c67712adbdc2785a312cbd670ca6b297e6099",
+          "approved_references": [
+            {
+              "drive_id": "1Jd5ULSyC9dV2hYvxq4b_RRxhuFiE20ml",
+              "filename": "Elena_Rivera_PPE_8_Angles_REVIEW_R5.png",
+              "sha256": "e6f9ac672ef22f9ff0829ba58db0dac702bceca5400b8841bc19e52c79c426e1"
+            },
+            {
+              "drive_id": "1NlEwL5VWul3raRST4P8ZKrDXHM0mT4uk",
+              "filename": "Elena_Rivera_Hardhat_Source_R8.png",
+              "sha256": "384e7549b4f076f2e85d2f34c69896125e0314cb5cc879a6e5c38f2ccb40a474"
+            }
+          ],
+          "visible_identity_check": "Dark low ponytail, gold hoops, light-blue blouse, dark slacks, work boots, white Civic Ridge helmet and lime/gray vest. Current R5 PPE sheet includes clear safety glasses.",
+          "result": "CORRECTION_REQUIRED",
+          "finding_ids": [
+            "F01"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        },
+        {
+          "character": "Ben",
+          "source_image_id": "1lkboZGWom6Vw7et5J5__5dBivj7i2TRx",
+          "source_image_sha256": "bd0795cea996b37f1476a6bc1e967021df89d7d06b63de0c0714a99edb46f7d3",
+          "profile_id": "1rhPTyBiDT9OevTiI9ncFGYR8JPbLVt6m",
+          "profile_sha256": "facf7893671101aebc46163a5f01da644f5e5702c53108425da5547739fa32dc",
+          "approved_references": [
+            {
+              "drive_id": "1f-5jc6V8LtI3FmUsv7YUfQbk8iuSBc-W",
+              "filename": "Ben_PPE_8_Angles_APPROVED_R10_UNCHANGED.png",
+              "sha256": "e19736d0df48559412a3a6b1578e6b4bdd7a1bf3e70ffb21cd1ecaecc67d45ef"
+            },
+            {
+              "drive_id": "1KheF8T1L-JGplgLRp7sKAUKMY4l4F4by",
+              "filename": "Ben_Hardhat_Source_R8.png",
+              "sha256": "c925c1482b8ba78e1c15b5d6d1b6bb47bfbdf4c0868fd23094168e6e5efd42d6"
+            }
+          ],
+          "visible_identity_check": "Brown swept hair, black rectangular prescription frames, light-blue button-up and plain khakis. Current source incorporates Everyday R4 and PPE R10.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        },
+        {
+          "character": "Marcus-Jackson",
+          "source_image_id": "1Y9-w_J1cnz_abDKpIL8Iz5W1GfvA_8xh",
+          "source_image_sha256": "742f5a2609f9fcce1fcf2c2fec466d6a1e0deb2d98f7716aa7410253ab29c76d",
+          "profile_id": "1fz_v6E5jSGrZD6LVdlDaVflPCloME6T5",
+          "profile_sha256": "0e3dd0970d1849417b3577bb803e733e1e18e13347122c748cc71dc993b472f7",
+          "approved_references": [
+            {
+              "drive_id": "17DCRFDxKdvY7FKDbrxSQRxARaYnVcZ8S",
+              "filename": "Marcus_Jackson_PPE_8_Angles_REVIEW_R5.png",
+              "sha256": "30242f7935f0bd192683cf55e84e05ebdc57b9172477746576ec6b4e8d3d8fee"
+            },
+            {
+              "drive_id": "1y8iBoLZ10Xyxu1xv4Csn6IIIMxX23u38",
+              "filename": "Marcus_Jackson_Hardhat_Source_R8.png",
+              "sha256": "8f763cb167e9cafd3001aa05c305b0152d8a77b138ab2637761f6badacc4d3e5"
+            }
+          ],
+          "visible_identity_check": "Gray hair and beard, sturdy older adult build, navy hooded field top, dark cargos, tan work boots, radio, blue Civic Ridge helmet and orange-accented vest.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        },
+        {
+          "character": "Leo",
+          "source_image_id": "1PmH5IMF_HI_s9y1slZM9DXbWzTYVnbGc",
+          "source_image_sha256": "17c89e174c841f0d101fd9e4d983b5a16d0231d51faa48f54cedd830506e7e7c",
+          "profile_id": "1JD1OTpwF7EJizHYwaE-31j-z-kMPRqbx",
+          "profile_sha256": "d2c24d0fb0d4262a738972f2e8e5972c82231db4719fab49ca1312c64e8ecd5b",
+          "approved_references": [
+            {
+              "drive_id": "15XT3C5z7LIdlFWZy98NbCSMFcGtbZvyj",
+              "filename": "Leo_PPE_8_Angles_APPROVED_R8_UNCHANGED.png",
+              "sha256": "b20e5aa363e0a54d51e322d1fc138830239b9e2adbaeea83f4b4bfc97ff61010"
+            },
+            {
+              "drive_id": "1fcSeoZf6VV8JssjHJFrJA0B00lMES_DO",
+              "filename": "Leo_Hardhat_Source_R8.png",
+              "sha256": "f05e23e856fd276abf32a8e3b7b0fad23d3a147d202f8d1ce49e495a7d7f8409"
+            }
+          ],
+          "visible_identity_check": "Warm brown skin, short tight dark curls, navy zip hoodie with white drawstrings, dark cargos and tan/black work boots; blue helmet and orange-accented vest in PPE scenes.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        }
+      ],
+      "findings": [
+        {
+          "id": "F01",
+          "pages": "08-09",
+          "character": "Elena-Rivera",
+          "category": "PPE / eyewear",
+          "status": "CORRECTION_REQUIRED",
+          "observation": "Her face is unobstructed but the clear safety glasses shown in the currently approved R5 PPE sheet are absent. The older master sheet without glasses does not override the newer approved PPE view.",
+          "correction": "Add source-matched clear safety glasses without changing her face, hair, clothing or expression.",
+          "evidence": "rivera_eyewear.jpg"
+        }
+      ],
+      "approval_changed": false,
+      "artwork_modified": false
+    },
+    {
+      "id": "1CJOfP3ujD_74OtcqME2HnTm-oM42cTp2",
+      "filename": "Book1_Pages10-11_REV2_CANON_CHECKED_CANDIDATE.png",
+      "bytes": 19088819,
+      "sha256": "5541f3b0beb963f7b02842f05b58602030af3cd726ab0f581e4721cc05cdcd33",
+      "dimensions": [
+        5100,
+        2550
+      ],
+      "pages": "10-11",
+      "sequence": "Restarted Book 1 actual page numbering",
+      "prior_status": "REVIEW_CANDIDATE",
+      "review_status": "NO_CONFIRMED_VISIBLE_MISMATCH",
+      "people": [
+        {
+          "character": "Daniel-Brooks",
+          "source_image_id": "1TVWd4mtznkx3tFEKNKF_TClF5VBPILey",
+          "source_image_sha256": "5fc186933893463902db56efb8d6b3e8d97697b7751d798e580a488da7450087",
+          "profile_id": "1yk_XlyuOxhaKMIms-e7mwbCrviNKZrKZ",
+          "profile_sha256": "a096423467027096ceb99c671bea8c6299b77334509d49452b98f64dfaf35553",
+          "approved_references": [
+            {
+              "drive_id": "1j_kgtOf1Vq_Yng0AyeW_-3Ra4uaJZujW",
+              "filename": "Daniel_Brooks_PPE_8_Angles_REVIEW_R4.png",
+              "sha256": "166b4b88eb27cd92ef28b87d2747fa921b34e7911040b79209de14e685c25c69"
+            },
+            {
+              "drive_id": "12MlhM2Kg_WvPOk7Df_f4ITkedznPYKO8",
+              "filename": "Daniel_Brooks_Hardhat_Source_R8.png",
+              "sha256": "303ce4903d16cca515e5b7ff2e32c5d3313c28c230ba4bb443722cdb42297c05"
+            }
+          ],
+          "visible_identity_check": "Brown hair, rectangular glasses, green quarter-zip, dark cargos, green Civic Ridge helmet and lime/gray vest. Medium adult build.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        },
+        {
+          "character": "Vinny",
+          "source_image_id": "1m-mxpb7Fpu04jWj5sYVJTHxvXXPySuSa",
+          "source_image_sha256": "db9e5d966fd39dcc0f242d1df93d64d3a9b2ad52672a341bf293b87c689f7219",
+          "profile_id": "1vG_CJ45X87ZsYlNr-Rq2VJiuRHaTtw4S",
+          "profile_sha256": "b69e2d455657479ed9076f88c49d7462fba599e899c87a7d1d0d9f1520d4914e",
+          "approved_references": [
+            {
+              "drive_id": "16gjYnmlneZMIb3NA5hqHiifUJjSX6wl7",
+              "filename": "Vinny_PPE_8_Angles_REVIEW_R16.png",
+              "sha256": "414bd1bf7fc794c769b4ab3b258d3c12b1a39e172540c4f4eb0e7d901c6856f1"
+            },
+            {
+              "drive_id": "1PsRVybo-3S2oiH4loGO9r066vOXixNmS",
+              "filename": "Vinny_Hardhat_Source_R8.png",
+              "sha256": "d1e422c53805116ee0e49cc73a266e55996425e432099df7182e56bc47ca979d"
+            }
+          ],
+          "visible_identity_check": "Round face and sturdy child build, soft brown curls, green pullover hoodie, blue cargos and dark olive/black shoes; green helmet and clear safety eyewear in PPE scenes.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        },
+        {
+          "character": "Leo",
+          "source_image_id": "1PmH5IMF_HI_s9y1slZM9DXbWzTYVnbGc",
+          "source_image_sha256": "17c89e174c841f0d101fd9e4d983b5a16d0231d51faa48f54cedd830506e7e7c",
+          "profile_id": "1JD1OTpwF7EJizHYwaE-31j-z-kMPRqbx",
+          "profile_sha256": "d2c24d0fb0d4262a738972f2e8e5972c82231db4719fab49ca1312c64e8ecd5b",
+          "approved_references": [
+            {
+              "drive_id": "15XT3C5z7LIdlFWZy98NbCSMFcGtbZvyj",
+              "filename": "Leo_PPE_8_Angles_APPROVED_R8_UNCHANGED.png",
+              "sha256": "b20e5aa363e0a54d51e322d1fc138830239b9e2adbaeea83f4b4bfc97ff61010"
+            },
+            {
+              "drive_id": "1fcSeoZf6VV8JssjHJFrJA0B00lMES_DO",
+              "filename": "Leo_Hardhat_Source_R8.png",
+              "sha256": "f05e23e856fd276abf32a8e3b7b0fad23d3a147d202f8d1ce49e495a7d7f8409"
+            }
+          ],
+          "visible_identity_check": "Warm brown skin, short tight dark curls, navy zip hoodie with white drawstrings, dark cargos and tan/black work boots; blue helmet and orange-accented vest in PPE scenes.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        }
+      ],
+      "findings": [],
+      "approval_changed": false,
+      "artwork_modified": false
+    },
+    {
+      "id": "1yd2qNkcQ6HjLLYikQNPmoRmzd1fgrOLF",
+      "filename": "Book1_Pages12-13_REV3_CANON_CHECKED_CANDIDATE.png",
+      "bytes": 17373090,
+      "sha256": "1e674e17eba5569b6c807cccd8a85c7dddb937290d4160052b5ceb26b1ad83b9",
+      "dimensions": [
+        5100,
+        2550
+      ],
+      "pages": "12-13",
+      "sequence": "Restarted Book 1 actual page numbering",
+      "prior_status": "REVIEW_CANDIDATE",
+      "review_status": "CORRECTION_REQUIRED",
+      "people": [
+        {
+          "character": "Elena-Rivera",
+          "source_image_id": "1LMyoOO57gA-NQxgtF5poW7UPvfVjgqjP",
+          "source_image_sha256": "7607cf26c2d548a98f73a50560138f6dedd68689c0ff0cdb4fdbccc893f4aada",
+          "profile_id": "1nplm3aa__GwX4zVAlZ85usrKFuijLQdX",
+          "profile_sha256": "4174fae06271098642cdae38c05c67712adbdc2785a312cbd670ca6b297e6099",
+          "approved_references": [
+            {
+              "drive_id": "1Jd5ULSyC9dV2hYvxq4b_RRxhuFiE20ml",
+              "filename": "Elena_Rivera_PPE_8_Angles_REVIEW_R5.png",
+              "sha256": "e6f9ac672ef22f9ff0829ba58db0dac702bceca5400b8841bc19e52c79c426e1"
+            },
+            {
+              "drive_id": "1NlEwL5VWul3raRST4P8ZKrDXHM0mT4uk",
+              "filename": "Elena_Rivera_Hardhat_Source_R8.png",
+              "sha256": "384e7549b4f076f2e85d2f34c69896125e0314cb5cc879a6e5c38f2ccb40a474"
+            }
+          ],
+          "visible_identity_check": "Dark low ponytail, gold hoops, light-blue blouse, dark slacks, work boots, white Civic Ridge helmet and lime/gray vest. Current R5 PPE sheet includes clear safety glasses.",
+          "result": "CORRECTION_REQUIRED",
+          "finding_ids": [
+            "F02"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        },
+        {
+          "character": "Ben",
+          "source_image_id": "1lkboZGWom6Vw7et5J5__5dBivj7i2TRx",
+          "source_image_sha256": "bd0795cea996b37f1476a6bc1e967021df89d7d06b63de0c0714a99edb46f7d3",
+          "profile_id": "1rhPTyBiDT9OevTiI9ncFGYR8JPbLVt6m",
+          "profile_sha256": "facf7893671101aebc46163a5f01da644f5e5702c53108425da5547739fa32dc",
+          "approved_references": [
+            {
+              "drive_id": "1f-5jc6V8LtI3FmUsv7YUfQbk8iuSBc-W",
+              "filename": "Ben_PPE_8_Angles_APPROVED_R10_UNCHANGED.png",
+              "sha256": "e19736d0df48559412a3a6b1578e6b4bdd7a1bf3e70ffb21cd1ecaecc67d45ef"
+            },
+            {
+              "drive_id": "1KheF8T1L-JGplgLRp7sKAUKMY4l4F4by",
+              "filename": "Ben_Hardhat_Source_R8.png",
+              "sha256": "c925c1482b8ba78e1c15b5d6d1b6bb47bfbdf4c0868fd23094168e6e5efd42d6"
+            }
+          ],
+          "visible_identity_check": "Brown swept hair, black rectangular prescription frames, light-blue button-up and plain khakis. Current source incorporates Everyday R4 and PPE R10.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        },
+        {
+          "character": "Maya",
+          "source_image_id": "1RZtZjt-3eX0iFFcKw1ZxtnlXj3pkoerU",
+          "source_image_sha256": "405c184a953d966e68f5517078feef8bf056ceb405deb17842d9c9b9ab8e180c",
+          "profile_id": "1nERipp0Qz3AUFuYFkJ25rOuM0UfIGnV3",
+          "profile_sha256": "f1824deec8163a56f53a01724aa45f37be0a9e3f30b15ad4239e08fff25e2d24",
+          "approved_references": [
+            {
+              "drive_id": "10LwizzRxzXLIQpSsZsIaC-dL_klEyABJ",
+              "filename": "Maya_PPE_8_Angles_REVIEW_R9.png",
+              "sha256": "c8b7892b89e5fd445c10d5169f8faa03529fe3a452fe0a271fbe2dc123354c09"
+            },
+            {
+              "drive_id": "1imb0ZRtQCR32Xe6Ebgm6rQEsZHks4gpc",
+              "filename": "Maya_Hardhat_Source_R8.png",
+              "sha256": "ed34b1ff92b464ef6279a9de88833a5258f4e9d2e46782608c2bc2852a00fe17"
+            }
+          ],
+          "visible_identity_check": "Warm medium skin, brown eyes, very long dark curls, gold hoops, pink zip hoodie and blue cargos; gray/purple footwear, yellow helmet and clear eye protection in PPE scenes.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        }
+      ],
+      "findings": [
+        {
+          "id": "F02",
+          "pages": "12-13",
+          "character": "Elena-Rivera",
+          "category": "PPE / eyewear",
+          "status": "CORRECTION_REQUIRED",
+          "observation": "Her face is unobstructed but the clear safety glasses shown in the currently approved R5 PPE sheet are absent. The older master sheet without glasses does not override the newer approved PPE view.",
+          "correction": "Add source-matched clear safety glasses without changing her face, hair, clothing or expression.",
+          "evidence": "rivera_eyewear.jpg"
+        }
+      ],
+      "approval_changed": false,
+      "artwork_modified": false
+    },
+    {
+      "id": "1jaHZw9njtYhVkSDxh6YeZVLye4cSV6wi",
+      "filename": "Book1_Pages14-15_REV2_CANON_CHECKED_CANDIDATE.png",
+      "bytes": 21580769,
+      "sha256": "94a58f10b7e169962b312c8631d3e3a8c46223f3b24738916ddd26891a521ff7",
+      "dimensions": [
+        5100,
+        2550
+      ],
+      "pages": "14-15",
+      "sequence": "Restarted Book 1 actual page numbering",
+      "prior_status": "REVIEW_CANDIDATE",
+      "review_status": "CORRECTION_REQUIRED",
+      "people": [
+        {
+          "character": "Ben",
+          "source_image_id": "1lkboZGWom6Vw7et5J5__5dBivj7i2TRx",
+          "source_image_sha256": "bd0795cea996b37f1476a6bc1e967021df89d7d06b63de0c0714a99edb46f7d3",
+          "profile_id": "1rhPTyBiDT9OevTiI9ncFGYR8JPbLVt6m",
+          "profile_sha256": "facf7893671101aebc46163a5f01da644f5e5702c53108425da5547739fa32dc",
+          "approved_references": [
+            {
+              "drive_id": "1f-5jc6V8LtI3FmUsv7YUfQbk8iuSBc-W",
+              "filename": "Ben_PPE_8_Angles_APPROVED_R10_UNCHANGED.png",
+              "sha256": "e19736d0df48559412a3a6b1578e6b4bdd7a1bf3e70ffb21cd1ecaecc67d45ef"
+            },
+            {
+              "drive_id": "1KheF8T1L-JGplgLRp7sKAUKMY4l4F4by",
+              "filename": "Ben_Hardhat_Source_R8.png",
+              "sha256": "c925c1482b8ba78e1c15b5d6d1b6bb47bfbdf4c0868fd23094168e6e5efd42d6"
+            }
+          ],
+          "visible_identity_check": "Brown swept hair, black rectangular prescription frames, light-blue button-up and plain khakis. Current source incorporates Everyday R4 and PPE R10.",
+          "result": "CORRECTION_REQUIRED",
+          "finding_ids": [
+            "F07"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        },
+        {
+          "character": "Natalie-Chen",
+          "source_image_id": "1YDeJ77qoOWC38ImzZ-L8ssI9VOtVzyWb",
+          "source_image_sha256": "16498fa5d8c2b994b9d674cb555efe732847fd5f5e86fa536a3c8caaf494e0bc",
+          "profile_id": "1kexCprbvMpHthz30eyCKVWwuPx6KKCML",
+          "profile_sha256": "58f8e9478b1dba7ee03396a330b365c6630c6cd98e4fab574889bf319483b6a4",
+          "approved_references": [
+            {
+              "drive_id": "1ijbIPS7qf2SFeOe51vhON2-Mt1OnCY98",
+              "filename": "Natalie_Chen_PPE_8_Angles_REVIEW_R3.png",
+              "sha256": "147e82a6700a41113f4a712824551818a318d365a7102d18ca875e048101d02c"
+            },
+            {
+              "drive_id": "1s73zAsAJukomiqEeq988sXWvl7zu6fnZ",
+              "filename": "Natalie_Chen_Hardhat_Source_R8.png",
+              "sha256": "c88f4ffdfd49cfb8bcdbc0bb17be0e7c211461d652222dafd9a268a4f708334b"
+            }
+          ],
+          "visible_identity_check": "Dark low ponytail, rust field shirt, dark cargos, work boots, orange Eastmark helmet and lime/gray vest. Her approved front PPE view does not show safety glasses; do not borrow Rivera\u2019s eyewear requirement.",
+          "result": "CORRECTION_REQUIRED",
+          "finding_ids": [
+            "F05"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        },
+        {
+          "character": "Maya",
+          "source_image_id": "1RZtZjt-3eX0iFFcKw1ZxtnlXj3pkoerU",
+          "source_image_sha256": "405c184a953d966e68f5517078feef8bf056ceb405deb17842d9c9b9ab8e180c",
+          "profile_id": "1nERipp0Qz3AUFuYFkJ25rOuM0UfIGnV3",
+          "profile_sha256": "f1824deec8163a56f53a01724aa45f37be0a9e3f30b15ad4239e08fff25e2d24",
+          "approved_references": [
+            {
+              "drive_id": "10LwizzRxzXLIQpSsZsIaC-dL_klEyABJ",
+              "filename": "Maya_PPE_8_Angles_REVIEW_R9.png",
+              "sha256": "c8b7892b89e5fd445c10d5169f8faa03529fe3a452fe0a271fbe2dc123354c09"
+            },
+            {
+              "drive_id": "1imb0ZRtQCR32Xe6Ebgm6rQEsZHks4gpc",
+              "filename": "Maya_Hardhat_Source_R8.png",
+              "sha256": "ed34b1ff92b464ef6279a9de88833a5258f4e9d2e46782608c2bc2852a00fe17"
+            }
+          ],
+          "visible_identity_check": "Warm medium skin, brown eyes, very long dark curls, gold hoops, pink zip hoodie and blue cargos; gray/purple footwear, yellow helmet and clear eye protection in PPE scenes.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        }
+      ],
+      "findings": [
+        {
+          "id": "F05",
+          "pages": "14-15",
+          "character": "Natalie-Chen",
+          "category": "Helmet front logo",
+          "status": "CORRECTION_REQUIRED",
+          "observation": "The Eastmark name and mountain remain recognizable, but the small Surveying & Mapping line is visibly fragmented rather than a clean rendering of the approved logo.",
+          "correction": "Use the exact approved Eastmark artwork, centered and projected onto the helmet shell; inspect at native resolution.",
+          "evidence": "decals_and_boots.jpg"
+        },
+        {
+          "id": "F07",
+          "pages": "14-15",
+          "character": "Ben",
+          "category": "Footwear",
+          "status": "CORRECTION_REQUIRED",
+          "observation": "The illustrated shoes have a conspicuous tan/brown sole; the current approved R10 reference uses dark soles and dark-brown work shoes.",
+          "correction": "Match the approved R10 shoe and sole colours; preserve his khakis and pose.",
+          "evidence": "decals_and_boots.jpg"
+        }
+      ],
+      "approval_changed": false,
+      "artwork_modified": false
+    },
+    {
+      "id": "13rRjhL7n4FGEW3oNYScXDJAZLsWCvis2",
+      "filename": "Book1_Pages16-17_REV2_CANON_CHECKED_CANDIDATE.png",
+      "bytes": 19613849,
+      "sha256": "0e592c02b19007cefc10c6508c5c59f474005ece9a60538d47c8c3f37de047ad",
+      "dimensions": [
+        5100,
+        2550
+      ],
+      "pages": "16-17",
+      "sequence": "Restarted Book 1 actual page numbering",
+      "prior_status": "REVIEW_CANDIDATE",
+      "review_status": "CORRECTION_REQUIRED",
+      "people": [
+        {
+          "character": "Steph",
+          "source_image_id": "1gF-pOjdltQVujd5NyCcX-Brh-EI0vQ9j",
+          "source_image_sha256": "0338ba00d3cc122c7e1baecca56b577f51b54ea4a8f24ed2b7bbbc29685b934a",
+          "profile_id": "1hzABye97w5caJMYh90wvyGXrd17gXCBS",
+          "profile_sha256": "b001f923646aaf0d875994c418460c77049612452f158ced77c568478ad7d7e8",
+          "approved_references": [
+            {
+              "drive_id": "1cCWdcn7K0xNeLbqYa8oGBZii5ZkR07jk",
+              "filename": "Steph_PPE_8_Angles_REVIEW_R14.png",
+              "sha256": "5ad1553bdfacbebf3fc679f207268a2869a0ea07fb6d0c42865bb0d9f4fa7e98"
+            },
+            {
+              "drive_id": "1WOusRNhdIMJaArdclVPGID16vmEIaQii",
+              "filename": "Steph_Hardhat_Source_R8.png",
+              "sha256": "579e7a9ba3a0da92b4d471529735ebea053831a5528ab5b512af752e9a9d1da7"
+            }
+          ],
+          "visible_identity_check": "Fair skin, blue eyes, freckles where resolved, long straight copper-red hair, lavender hoodie and olive cargos; gray/purple footwear and light-gray helmet in PPE scenes.",
+          "result": "CORRECTION_REQUIRED",
+          "finding_ids": [
+            "F08"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        },
+        {
+          "character": "Leo",
+          "source_image_id": "1PmH5IMF_HI_s9y1slZM9DXbWzTYVnbGc",
+          "source_image_sha256": "17c89e174c841f0d101fd9e4d983b5a16d0231d51faa48f54cedd830506e7e7c",
+          "profile_id": "1JD1OTpwF7EJizHYwaE-31j-z-kMPRqbx",
+          "profile_sha256": "d2c24d0fb0d4262a738972f2e8e5972c82231db4719fab49ca1312c64e8ecd5b",
+          "approved_references": [
+            {
+              "drive_id": "15XT3C5z7LIdlFWZy98NbCSMFcGtbZvyj",
+              "filename": "Leo_PPE_8_Angles_APPROVED_R8_UNCHANGED.png",
+              "sha256": "b20e5aa363e0a54d51e322d1fc138830239b9e2adbaeea83f4b4bfc97ff61010"
+            },
+            {
+              "drive_id": "1fcSeoZf6VV8JssjHJFrJA0B00lMES_DO",
+              "filename": "Leo_Hardhat_Source_R8.png",
+              "sha256": "f05e23e856fd276abf32a8e3b7b0fad23d3a147d202f8d1ce49e495a7d7f8409"
+            }
+          ],
+          "visible_identity_check": "Warm brown skin, short tight dark curls, navy zip hoodie with white drawstrings, dark cargos and tan/black work boots; blue helmet and orange-accented vest in PPE scenes.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        }
+      ],
+      "findings": [
+        {
+          "id": "F08",
+          "pages": "16-17",
+          "character": "Steph",
+          "category": "Project sticker scale",
+          "status": "CORRECTION_REQUIRED",
+          "observation": "The visible front-right sticker is smaller relative to the helmet than the corresponding approved R14 views. The scene is roughly 14% sticker height/brim width; approved views are roughly 18-20%. These are approximate 2D comparison measurements, not physical dimensions.",
+          "correction": "Restore the approved eight-view sticker scale, keep the wearer\u2019s front-right location, and project the design to the shell contour.",
+          "evidence": "steph_ear_and_sticker.jpg"
+        }
+      ],
+      "approval_changed": false,
+      "artwork_modified": false
+    },
+    {
+      "id": "1eKgVOxV94Mp83FC9Uxby9SyrMBxv1FUZ",
+      "filename": "Book1_Pages18-19_REV2_CANON_CHECKED_CANDIDATE.png",
+      "bytes": 26809944,
+      "sha256": "7c1ff25b0f259ea3a7033aa59f9239e1faf3931aa85b4fb2c6f3d71b98036a23",
+      "dimensions": [
+        5100,
+        2550
+      ],
+      "pages": "18-19",
+      "sequence": "Restarted Book 1 actual page numbering",
+      "prior_status": "REVIEW_CANDIDATE",
+      "review_status": "CORRECTION_REQUIRED",
+      "people": [
+        {
+          "character": "Maya",
+          "source_image_id": "1RZtZjt-3eX0iFFcKw1ZxtnlXj3pkoerU",
+          "source_image_sha256": "405c184a953d966e68f5517078feef8bf056ceb405deb17842d9c9b9ab8e180c",
+          "profile_id": "1nERipp0Qz3AUFuYFkJ25rOuM0UfIGnV3",
+          "profile_sha256": "f1824deec8163a56f53a01724aa45f37be0a9e3f30b15ad4239e08fff25e2d24",
+          "approved_references": [
+            {
+              "drive_id": "10LwizzRxzXLIQpSsZsIaC-dL_klEyABJ",
+              "filename": "Maya_PPE_8_Angles_REVIEW_R9.png",
+              "sha256": "c8b7892b89e5fd445c10d5169f8faa03529fe3a452fe0a271fbe2dc123354c09"
+            },
+            {
+              "drive_id": "1imb0ZRtQCR32Xe6Ebgm6rQEsZHks4gpc",
+              "filename": "Maya_Hardhat_Source_R8.png",
+              "sha256": "ed34b1ff92b464ef6279a9de88833a5258f4e9d2e46782608c2bc2852a00fe17"
+            }
+          ],
+          "visible_identity_check": "Warm medium skin, brown eyes, very long dark curls, gold hoops, pink zip hoodie and blue cargos; gray/purple footwear, yellow helmet and clear eye protection in PPE scenes.",
+          "result": "CORRECTION_REQUIRED",
+          "finding_ids": [
+            "F10"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        },
+        {
+          "character": "Ben",
+          "source_image_id": "1lkboZGWom6Vw7et5J5__5dBivj7i2TRx",
+          "source_image_sha256": "bd0795cea996b37f1476a6bc1e967021df89d7d06b63de0c0714a99edb46f7d3",
+          "profile_id": "1rhPTyBiDT9OevTiI9ncFGYR8JPbLVt6m",
+          "profile_sha256": "facf7893671101aebc46163a5f01da644f5e5702c53108425da5547739fa32dc",
+          "approved_references": [
+            {
+              "drive_id": "1f-5jc6V8LtI3FmUsv7YUfQbk8iuSBc-W",
+              "filename": "Ben_PPE_8_Angles_APPROVED_R10_UNCHANGED.png",
+              "sha256": "e19736d0df48559412a3a6b1578e6b4bdd7a1bf3e70ffb21cd1ecaecc67d45ef"
+            },
+            {
+              "drive_id": "1KheF8T1L-JGplgLRp7sKAUKMY4l4F4by",
+              "filename": "Ben_Hardhat_Source_R8.png",
+              "sha256": "c925c1482b8ba78e1c15b5d6d1b6bb47bfbdf4c0868fd23094168e6e5efd42d6"
+            }
+          ],
+          "visible_identity_check": "Brown swept hair, black rectangular prescription frames, light-blue button-up and plain khakis. Current source incorporates Everyday R4 and PPE R10.",
+          "result": "CORRECTION_REQUIRED",
+          "finding_ids": [
+            "F11"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        },
+        {
+          "character": "Steph",
+          "source_image_id": "1gF-pOjdltQVujd5NyCcX-Brh-EI0vQ9j",
+          "source_image_sha256": "0338ba00d3cc122c7e1baecca56b577f51b54ea4a8f24ed2b7bbbc29685b934a",
+          "profile_id": "1hzABye97w5caJMYh90wvyGXrd17gXCBS",
+          "profile_sha256": "b001f923646aaf0d875994c418460c77049612452f158ced77c568478ad7d7e8",
+          "approved_references": [
+            {
+              "drive_id": "1cCWdcn7K0xNeLbqYa8oGBZii5ZkR07jk",
+              "filename": "Steph_PPE_8_Angles_REVIEW_R14.png",
+              "sha256": "5ad1553bdfacbebf3fc679f207268a2869a0ea07fb6d0c42865bb0d9f4fa7e98"
+            },
+            {
+              "drive_id": "1WOusRNhdIMJaArdclVPGID16vmEIaQii",
+              "filename": "Steph_Hardhat_Source_R8.png",
+              "sha256": "579e7a9ba3a0da92b4d471529735ebea053831a5528ab5b512af752e9a9d1da7"
+            }
+          ],
+          "visible_identity_check": "Fair skin, blue eyes, freckles where resolved, long straight copper-red hair, lavender hoodie and olive cargos; gray/purple footwear and light-gray helmet in PPE scenes.",
+          "result": "CORRECTION_REQUIRED",
+          "finding_ids": [
+            "F09"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        }
+      ],
+      "findings": [
+        {
+          "id": "F09",
+          "pages": "18-19",
+          "character": "Steph",
+          "category": "Jewelry",
+          "status": "CORRECTION_REQUIRED",
+          "observation": "A small gold earring appears on the visible ear. Her original source and current R14 views show bare ears.",
+          "correction": "Remove the added earring; retain Maya\u2019s own approved gold hoops.",
+          "evidence": "steph_ear_and_sticker.jpg"
+        },
+        {
+          "id": "F10",
+          "pages": "18-19",
+          "character": "Maya",
+          "category": "Project sticker scale",
+          "status": "CORRECTION_REQUIRED",
+          "observation": "The visible project sticker reads smaller than the current approved eight-view reference. Both sides and designs remain recognizable; size has not been carried through consistently.",
+          "correction": "Match this character\u2019s approved eight-view proportion and helmet curvature. Do not move the sticker from its locked wearer-relative location.",
+          "evidence": "decals_and_boots.jpg"
+        },
+        {
+          "id": "F11",
+          "pages": "18-19",
+          "character": "Ben",
+          "category": "Project sticker scale",
+          "status": "CORRECTION_REQUIRED",
+          "observation": "The visible project sticker reads smaller than the current approved eight-view reference. Both sides and designs remain recognizable; size has not been carried through consistently.",
+          "correction": "Match this character\u2019s approved eight-view proportion and helmet curvature. Do not move the sticker from its locked wearer-relative location.",
+          "evidence": "decals_and_boots.jpg"
+        }
+      ],
+      "approval_changed": false,
+      "artwork_modified": false
+    },
+    {
+      "id": "1tMvJtlTmI5Wqn7qt2gnnD5a1Y1laZJNv",
+      "filename": "Book1_Pages20-21_REV2_CANON_CHECKED_CANDIDATE.png",
+      "bytes": 19795528,
+      "sha256": "76caf1764964bcdf4e54434e48bc03e84135bac8af179e3d7fe3ccb9ca0095ef",
+      "dimensions": [
+        5100,
+        2550
+      ],
+      "pages": "20-21",
+      "sequence": "Restarted Book 1 actual page numbering",
+      "prior_status": "REVIEW_CANDIDATE",
+      "review_status": "CORRECTION_REQUIRED",
+      "people": [
+        {
+          "character": "Ben",
+          "source_image_id": "1lkboZGWom6Vw7et5J5__5dBivj7i2TRx",
+          "source_image_sha256": "bd0795cea996b37f1476a6bc1e967021df89d7d06b63de0c0714a99edb46f7d3",
+          "profile_id": "1rhPTyBiDT9OevTiI9ncFGYR8JPbLVt6m",
+          "profile_sha256": "facf7893671101aebc46163a5f01da644f5e5702c53108425da5547739fa32dc",
+          "approved_references": [
+            {
+              "drive_id": "1f-5jc6V8LtI3FmUsv7YUfQbk8iuSBc-W",
+              "filename": "Ben_PPE_8_Angles_APPROVED_R10_UNCHANGED.png",
+              "sha256": "e19736d0df48559412a3a6b1578e6b4bdd7a1bf3e70ffb21cd1ecaecc67d45ef"
+            },
+            {
+              "drive_id": "1KheF8T1L-JGplgLRp7sKAUKMY4l4F4by",
+              "filename": "Ben_Hardhat_Source_R8.png",
+              "sha256": "c925c1482b8ba78e1c15b5d6d1b6bb47bfbdf4c0868fd23094168e6e5efd42d6"
+            }
+          ],
+          "visible_identity_check": "Brown swept hair, black rectangular prescription frames, light-blue button-up and plain khakis. Current source incorporates Everyday R4 and PPE R10.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        },
+        {
+          "character": "Elena-Rivera",
+          "source_image_id": "1LMyoOO57gA-NQxgtF5poW7UPvfVjgqjP",
+          "source_image_sha256": "7607cf26c2d548a98f73a50560138f6dedd68689c0ff0cdb4fdbccc893f4aada",
+          "profile_id": "1nplm3aa__GwX4zVAlZ85usrKFuijLQdX",
+          "profile_sha256": "4174fae06271098642cdae38c05c67712adbdc2785a312cbd670ca6b297e6099",
+          "approved_references": [
+            {
+              "drive_id": "1Jd5ULSyC9dV2hYvxq4b_RRxhuFiE20ml",
+              "filename": "Elena_Rivera_PPE_8_Angles_REVIEW_R5.png",
+              "sha256": "e6f9ac672ef22f9ff0829ba58db0dac702bceca5400b8841bc19e52c79c426e1"
+            },
+            {
+              "drive_id": "1NlEwL5VWul3raRST4P8ZKrDXHM0mT4uk",
+              "filename": "Elena_Rivera_Hardhat_Source_R8.png",
+              "sha256": "384e7549b4f076f2e85d2f34c69896125e0314cb5cc879a6e5c38f2ccb40a474"
+            }
+          ],
+          "visible_identity_check": "Dark low ponytail, gold hoops, light-blue blouse, dark slacks, work boots, white Civic Ridge helmet and lime/gray vest. Current R5 PPE sheet includes clear safety glasses.",
+          "result": "CORRECTION_REQUIRED",
+          "finding_ids": [
+            "F03"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        },
+        {
+          "character": "Natalie-Chen",
+          "source_image_id": "1YDeJ77qoOWC38ImzZ-L8ssI9VOtVzyWb",
+          "source_image_sha256": "16498fa5d8c2b994b9d674cb555efe732847fd5f5e86fa536a3c8caaf494e0bc",
+          "profile_id": "1kexCprbvMpHthz30eyCKVWwuPx6KKCML",
+          "profile_sha256": "58f8e9478b1dba7ee03396a330b365c6630c6cd98e4fab574889bf319483b6a4",
+          "approved_references": [
+            {
+              "drive_id": "1ijbIPS7qf2SFeOe51vhON2-Mt1OnCY98",
+              "filename": "Natalie_Chen_PPE_8_Angles_REVIEW_R3.png",
+              "sha256": "147e82a6700a41113f4a712824551818a318d365a7102d18ca875e048101d02c"
+            },
+            {
+              "drive_id": "1s73zAsAJukomiqEeq988sXWvl7zu6fnZ",
+              "filename": "Natalie_Chen_Hardhat_Source_R8.png",
+              "sha256": "c88f4ffdfd49cfb8bcdbc0bb17be0e7c211461d652222dafd9a268a4f708334b"
+            }
+          ],
+          "visible_identity_check": "Dark low ponytail, rust field shirt, dark cargos, work boots, orange Eastmark helmet and lime/gray vest. Her approved front PPE view does not show safety glasses; do not borrow Rivera\u2019s eyewear requirement.",
+          "result": "CORRECTION_REQUIRED",
+          "finding_ids": [
+            "F06"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        },
+        {
+          "character": "Marcus-Jackson",
+          "source_image_id": "1Y9-w_J1cnz_abDKpIL8Iz5W1GfvA_8xh",
+          "source_image_sha256": "742f5a2609f9fcce1fcf2c2fec466d6a1e0deb2d98f7716aa7410253ab29c76d",
+          "profile_id": "1fz_v6E5jSGrZD6LVdlDaVflPCloME6T5",
+          "profile_sha256": "0e3dd0970d1849417b3577bb803e733e1e18e13347122c748cc71dc993b472f7",
+          "approved_references": [
+            {
+              "drive_id": "17DCRFDxKdvY7FKDbrxSQRxARaYnVcZ8S",
+              "filename": "Marcus_Jackson_PPE_8_Angles_REVIEW_R5.png",
+              "sha256": "30242f7935f0bd192683cf55e84e05ebdc57b9172477746576ec6b4e8d3d8fee"
+            },
+            {
+              "drive_id": "1y8iBoLZ10Xyxu1xv4Csn6IIIMxX23u38",
+              "filename": "Marcus_Jackson_Hardhat_Source_R8.png",
+              "sha256": "8f763cb167e9cafd3001aa05c305b0152d8a77b138ab2637761f6badacc4d3e5"
+            }
+          ],
+          "visible_identity_check": "Gray hair and beard, sturdy older adult build, navy hooded field top, dark cargos, tan work boots, radio, blue Civic Ridge helmet and orange-accented vest.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        }
+      ],
+      "findings": [
+        {
+          "id": "F03",
+          "pages": "20-21",
+          "character": "Elena-Rivera",
+          "category": "PPE / eyewear",
+          "status": "CORRECTION_REQUIRED",
+          "observation": "Her face is unobstructed but the clear safety glasses shown in the currently approved R5 PPE sheet are absent. The older master sheet without glasses does not override the newer approved PPE view.",
+          "correction": "Add source-matched clear safety glasses without changing her face, hair, clothing or expression.",
+          "evidence": "rivera_eyewear.jpg"
+        },
+        {
+          "id": "F06",
+          "pages": "20-21",
+          "character": "Natalie-Chen",
+          "category": "Helmet front logo",
+          "status": "CORRECTION_REQUIRED",
+          "observation": "The Eastmark name and mountain remain recognizable, but the small Surveying & Mapping line is visibly fragmented rather than a clean rendering of the approved logo.",
+          "correction": "Use the exact approved Eastmark artwork, centered and projected onto the helmet shell; inspect at native resolution.",
+          "evidence": "decals_and_boots.jpg"
+        }
+      ],
+      "approval_changed": false,
+      "artwork_modified": false
+    },
+    {
+      "id": "1DEsdh2MphMkz63gGVnC6QTLKoAnSm5Sk",
+      "filename": "Book1_Pages22-23_REV1_CANON_CHECKED_CANDIDATE.png",
+      "bytes": 17909622,
+      "sha256": "e2ba38be9f622a91756c4975070749d96f1da8be5e5c4b3e31da8d3cd47da55c",
+      "dimensions": [
+        5100,
+        2550
+      ],
+      "pages": "22-23",
+      "sequence": "Restarted Book 1 actual page numbering",
+      "prior_status": "REVIEW_CANDIDATE",
+      "review_status": "CORRECTION_REQUIRED",
+      "people": [
+        {
+          "character": "Priya-Patel",
+          "source_image_id": "19ZMf5fqX8WGlhs7I7tJx_iFgrdlgpe8e",
+          "source_image_sha256": "b1a053ca9f77df429b3e72f4c49fe1b59fc843557c55f37afcebe8d87b89fdab",
+          "profile_id": "1ZyHR-GirFpMwk8DcRqlJVpy0RHXUBKd6",
+          "profile_sha256": "28bb5fb860b59357006d7c2a89e7f43455f61799a6f07cccbab6308988173166",
+          "approved_references": [
+            {
+              "drive_id": "1WT54apXjV4H2Nydrl575VpLWFL164T-8",
+              "filename": "Priya_Patel_PPE_8_Angles_REVIEW_R4.png",
+              "sha256": "959fec91b584045fc7586af9edaac3bfb3f61e4bfe74a76db170148bfbf53296"
+            },
+            {
+              "drive_id": "1GwLW4rrCqIVmAKr7DQxZHiowZGG7t-t-",
+              "filename": "Priya_Patel_Hardhat_Source_R8.png",
+              "sha256": "4d823e8a2e967a7f3b5f72c8d789a4f0777bb4b197e4b6450bf069ea7d091f58"
+            }
+          ],
+          "visible_identity_check": "Dark tied-back hair, dark prescription glasses, gold hoops, teal blouse, dark slacks, yellow Mason Vale helmet and lime/gray vest.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        },
+        {
+          "character": "Maya",
+          "source_image_id": "1RZtZjt-3eX0iFFcKw1ZxtnlXj3pkoerU",
+          "source_image_sha256": "405c184a953d966e68f5517078feef8bf056ceb405deb17842d9c9b9ab8e180c",
+          "profile_id": "1nERipp0Qz3AUFuYFkJ25rOuM0UfIGnV3",
+          "profile_sha256": "f1824deec8163a56f53a01724aa45f37be0a9e3f30b15ad4239e08fff25e2d24",
+          "approved_references": [
+            {
+              "drive_id": "10LwizzRxzXLIQpSsZsIaC-dL_klEyABJ",
+              "filename": "Maya_PPE_8_Angles_REVIEW_R9.png",
+              "sha256": "c8b7892b89e5fd445c10d5169f8faa03529fe3a452fe0a271fbe2dc123354c09"
+            },
+            {
+              "drive_id": "1imb0ZRtQCR32Xe6Ebgm6rQEsZHks4gpc",
+              "filename": "Maya_Hardhat_Source_R8.png",
+              "sha256": "ed34b1ff92b464ef6279a9de88833a5258f4e9d2e46782608c2bc2852a00fe17"
+            }
+          ],
+          "visible_identity_check": "Warm medium skin, brown eyes, very long dark curls, gold hoops, pink zip hoodie and blue cargos; gray/purple footwear, yellow helmet and clear eye protection in PPE scenes.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        },
+        {
+          "character": "Leo",
+          "source_image_id": "1PmH5IMF_HI_s9y1slZM9DXbWzTYVnbGc",
+          "source_image_sha256": "17c89e174c841f0d101fd9e4d983b5a16d0231d51faa48f54cedd830506e7e7c",
+          "profile_id": "1JD1OTpwF7EJizHYwaE-31j-z-kMPRqbx",
+          "profile_sha256": "d2c24d0fb0d4262a738972f2e8e5972c82231db4719fab49ca1312c64e8ecd5b",
+          "approved_references": [
+            {
+              "drive_id": "15XT3C5z7LIdlFWZy98NbCSMFcGtbZvyj",
+              "filename": "Leo_PPE_8_Angles_APPROVED_R8_UNCHANGED.png",
+              "sha256": "b20e5aa363e0a54d51e322d1fc138830239b9e2adbaeea83f4b4bfc97ff61010"
+            },
+            {
+              "drive_id": "1fcSeoZf6VV8JssjHJFrJA0B00lMES_DO",
+              "filename": "Leo_Hardhat_Source_R8.png",
+              "sha256": "f05e23e856fd276abf32a8e3b7b0fad23d3a147d202f8d1ce49e495a7d7f8409"
+            }
+          ],
+          "visible_identity_check": "Warm brown skin, short tight dark curls, navy zip hoodie with white drawstrings, dark cargos and tan/black work boots; blue helmet and orange-accented vest in PPE scenes.",
+          "result": "CORRECTION_REQUIRED",
+          "finding_ids": [
+            "F12"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        }
+      ],
+      "findings": [
+        {
+          "id": "F12",
+          "pages": "22-23",
+          "character": "Leo",
+          "category": "Helmet logo / sticker placement",
+          "status": "CORRECTION_REQUIRED",
+          "observation": "The LS mark sits on the front brim edge instead of fully on the shell. The project sticker also reaches the brim line.",
+          "correction": "Place the exact LS mark fully on the centered front shell; restore the wearer\u2019s right-side sticker above the band at the approved scale.",
+          "evidence": "more_hat_details.jpg"
+        }
+      ],
+      "approval_changed": false,
+      "artwork_modified": false
+    },
+    {
+      "id": "1EzuqpYR5XNV5vv2lrn2JXK6t_eHaT_4o",
+      "filename": "Book1_Pages24-25_REV1_CANON_CHECKED_CANDIDATE.png",
+      "bytes": 21934907,
+      "sha256": "c25ba2d05b3641be19e702813323ed391370fc7999c9985fe46cac7e15f5401e",
+      "dimensions": [
+        5100,
+        2550
+      ],
+      "pages": "24-25",
+      "sequence": "Restarted Book 1 actual page numbering",
+      "prior_status": "REVIEW_CANDIDATE",
+      "review_status": "CORRECTION_REQUIRED",
+      "people": [
+        {
+          "character": "Marcus-Jackson",
+          "source_image_id": "1Y9-w_J1cnz_abDKpIL8Iz5W1GfvA_8xh",
+          "source_image_sha256": "742f5a2609f9fcce1fcf2c2fec466d6a1e0deb2d98f7716aa7410253ab29c76d",
+          "profile_id": "1fz_v6E5jSGrZD6LVdlDaVflPCloME6T5",
+          "profile_sha256": "0e3dd0970d1849417b3577bb803e733e1e18e13347122c748cc71dc993b472f7",
+          "approved_references": [
+            {
+              "drive_id": "17DCRFDxKdvY7FKDbrxSQRxARaYnVcZ8S",
+              "filename": "Marcus_Jackson_PPE_8_Angles_REVIEW_R5.png",
+              "sha256": "30242f7935f0bd192683cf55e84e05ebdc57b9172477746576ec6b4e8d3d8fee"
+            },
+            {
+              "drive_id": "1y8iBoLZ10Xyxu1xv4Csn6IIIMxX23u38",
+              "filename": "Marcus_Jackson_Hardhat_Source_R8.png",
+              "sha256": "8f763cb167e9cafd3001aa05c305b0152d8a77b138ab2637761f6badacc4d3e5"
+            }
+          ],
+          "visible_identity_check": "Gray hair and beard, sturdy older adult build, navy hooded field top, dark cargos, tan work boots, radio, blue Civic Ridge helmet and orange-accented vest.",
+          "result": "CORRECTION_REQUIRED",
+          "finding_ids": [
+            "F13"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        },
+        {
+          "character": "Leo",
+          "source_image_id": "1PmH5IMF_HI_s9y1slZM9DXbWzTYVnbGc",
+          "source_image_sha256": "17c89e174c841f0d101fd9e4d983b5a16d0231d51faa48f54cedd830506e7e7c",
+          "profile_id": "1JD1OTpwF7EJizHYwaE-31j-z-kMPRqbx",
+          "profile_sha256": "d2c24d0fb0d4262a738972f2e8e5972c82231db4719fab49ca1312c64e8ecd5b",
+          "approved_references": [
+            {
+              "drive_id": "15XT3C5z7LIdlFWZy98NbCSMFcGtbZvyj",
+              "filename": "Leo_PPE_8_Angles_APPROVED_R8_UNCHANGED.png",
+              "sha256": "b20e5aa363e0a54d51e322d1fc138830239b9e2adbaeea83f4b4bfc97ff61010"
+            },
+            {
+              "drive_id": "1fcSeoZf6VV8JssjHJFrJA0B00lMES_DO",
+              "filename": "Leo_Hardhat_Source_R8.png",
+              "sha256": "f05e23e856fd276abf32a8e3b7b0fad23d3a147d202f8d1ce49e495a7d7f8409"
+            }
+          ],
+          "visible_identity_check": "Warm brown skin, short tight dark curls, navy zip hoodie with white drawstrings, dark cargos and tan/black work boots; blue helmet and orange-accented vest in PPE scenes.",
+          "result": "CORRECTION_REQUIRED",
+          "finding_ids": [
+            "F14"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        }
+      ],
+      "findings": [
+        {
+          "id": "F13",
+          "pages": "24-25",
+          "character": "Marcus-Jackson",
+          "category": "Project sticker scale / placement",
+          "status": "CORRECTION_REQUIRED",
+          "observation": "The visible project sticker is substantially smaller than the approved eight-view/R8 proportion and sits close to the brim. The scene is roughly 11-13% sticker height/brim width versus about 19% in the source comparison.",
+          "correction": "Restore the approved scale and above-band placement; keep Jackson\u2019s rear-right and Leo\u2019s right-side locations.",
+          "evidence": "decals_and_boots.jpg"
+        },
+        {
+          "id": "F14",
+          "pages": "24-25",
+          "character": "Leo",
+          "category": "Project sticker scale / placement",
+          "status": "CORRECTION_REQUIRED",
+          "observation": "The visible project sticker is substantially smaller than the approved eight-view/R8 proportion and sits close to the brim. The scene is roughly 11-13% sticker height/brim width versus about 19% in the source comparison.",
+          "correction": "Restore the approved scale and above-band placement; keep Jackson\u2019s rear-right and Leo\u2019s right-side locations.",
+          "evidence": "decals_and_boots.jpg"
+        }
+      ],
+      "approval_changed": false,
+      "artwork_modified": false
+    },
+    {
+      "id": "1nF7p9p3j5UlVO-FlOsZ6zmep8zEAlrb_",
+      "filename": "Book1_Pages26-27_REV1_CANON_CHECKED_CANDIDATE.png",
+      "bytes": 25898449,
+      "sha256": "5a2246e233b937834e30e7ce42ae5cde51143d213943b3ebcc417a9988b33738",
+      "dimensions": [
+        5100,
+        2550
+      ],
+      "pages": "26-27",
+      "sequence": "Restarted Book 1 actual page numbering",
+      "prior_status": "REVIEW_CANDIDATE",
+      "review_status": "CORRECTION_REQUIRED",
+      "people": [
+        {
+          "character": "Elena-Rivera",
+          "source_image_id": "1LMyoOO57gA-NQxgtF5poW7UPvfVjgqjP",
+          "source_image_sha256": "7607cf26c2d548a98f73a50560138f6dedd68689c0ff0cdb4fdbccc893f4aada",
+          "profile_id": "1nplm3aa__GwX4zVAlZ85usrKFuijLQdX",
+          "profile_sha256": "4174fae06271098642cdae38c05c67712adbdc2785a312cbd670ca6b297e6099",
+          "approved_references": [
+            {
+              "drive_id": "1Jd5ULSyC9dV2hYvxq4b_RRxhuFiE20ml",
+              "filename": "Elena_Rivera_PPE_8_Angles_REVIEW_R5.png",
+              "sha256": "e6f9ac672ef22f9ff0829ba58db0dac702bceca5400b8841bc19e52c79c426e1"
+            },
+            {
+              "drive_id": "1NlEwL5VWul3raRST4P8ZKrDXHM0mT4uk",
+              "filename": "Elena_Rivera_Hardhat_Source_R8.png",
+              "sha256": "384e7549b4f076f2e85d2f34c69896125e0314cb5cc879a6e5c38f2ccb40a474"
+            }
+          ],
+          "visible_identity_check": "Dark low ponytail, gold hoops, light-blue blouse, dark slacks, work boots, white Civic Ridge helmet and lime/gray vest. Current R5 PPE sheet includes clear safety glasses.",
+          "result": "CORRECTION_REQUIRED",
+          "finding_ids": [
+            "F04"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        },
+        {
+          "character": "Ben",
+          "source_image_id": "1lkboZGWom6Vw7et5J5__5dBivj7i2TRx",
+          "source_image_sha256": "bd0795cea996b37f1476a6bc1e967021df89d7d06b63de0c0714a99edb46f7d3",
+          "profile_id": "1rhPTyBiDT9OevTiI9ncFGYR8JPbLVt6m",
+          "profile_sha256": "facf7893671101aebc46163a5f01da644f5e5702c53108425da5547739fa32dc",
+          "approved_references": [
+            {
+              "drive_id": "1f-5jc6V8LtI3FmUsv7YUfQbk8iuSBc-W",
+              "filename": "Ben_PPE_8_Angles_APPROVED_R10_UNCHANGED.png",
+              "sha256": "e19736d0df48559412a3a6b1578e6b4bdd7a1bf3e70ffb21cd1ecaecc67d45ef"
+            },
+            {
+              "drive_id": "1KheF8T1L-JGplgLRp7sKAUKMY4l4F4by",
+              "filename": "Ben_Hardhat_Source_R8.png",
+              "sha256": "c925c1482b8ba78e1c15b5d6d1b6bb47bfbdf4c0868fd23094168e6e5efd42d6"
+            }
+          ],
+          "visible_identity_check": "Brown swept hair, black rectangular prescription frames, light-blue button-up and plain khakis. Current source incorporates Everyday R4 and PPE R10.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        },
+        {
+          "character": "Leo",
+          "source_image_id": "1PmH5IMF_HI_s9y1slZM9DXbWzTYVnbGc",
+          "source_image_sha256": "17c89e174c841f0d101fd9e4d983b5a16d0231d51faa48f54cedd830506e7e7c",
+          "profile_id": "1JD1OTpwF7EJizHYwaE-31j-z-kMPRqbx",
+          "profile_sha256": "d2c24d0fb0d4262a738972f2e8e5972c82231db4719fab49ca1312c64e8ecd5b",
+          "approved_references": [
+            {
+              "drive_id": "15XT3C5z7LIdlFWZy98NbCSMFcGtbZvyj",
+              "filename": "Leo_PPE_8_Angles_APPROVED_R8_UNCHANGED.png",
+              "sha256": "b20e5aa363e0a54d51e322d1fc138830239b9e2adbaeea83f4b4bfc97ff61010"
+            },
+            {
+              "drive_id": "1fcSeoZf6VV8JssjHJFrJA0B00lMES_DO",
+              "filename": "Leo_Hardhat_Source_R8.png",
+              "sha256": "f05e23e856fd276abf32a8e3b7b0fad23d3a147d202f8d1ce49e495a7d7f8409"
+            }
+          ],
+          "visible_identity_check": "Warm brown skin, short tight dark curls, navy zip hoodie with white drawstrings, dark cargos and tan/black work boots; blue helmet and orange-accented vest in PPE scenes.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        }
+      ],
+      "findings": [
+        {
+          "id": "F04",
+          "pages": "26-27",
+          "character": "Elena-Rivera",
+          "category": "PPE / eyewear",
+          "status": "CORRECTION_REQUIRED",
+          "observation": "Her face is unobstructed but the clear safety glasses shown in the currently approved R5 PPE sheet are absent. The older master sheet without glasses does not override the newer approved PPE view.",
+          "correction": "Add source-matched clear safety glasses without changing her face, hair, clothing or expression.",
+          "evidence": "rivera_eyewear.jpg"
+        }
+      ],
+      "approval_changed": false,
+      "artwork_modified": false
+    },
+    {
+      "id": "1ASBh-EK-Of-X03PpeOydb_5kg8-yiuvz",
+      "filename": "Book1_Pages28-29_REV1_CANON_CHECKED_CANDIDATE.png",
+      "bytes": 24165757,
+      "sha256": "ca8e2f3bd4a77acb59ef6e3cc4aa97c0655815cb92d4ce09dfaf6a129ba5ed5c",
+      "dimensions": [
+        5100,
+        2550
+      ],
+      "pages": "28-29",
+      "sequence": "Restarted Book 1 actual page numbering",
+      "prior_status": "REVIEW_CANDIDATE",
+      "review_status": "CORRECTION_REQUIRED",
+      "people": [
+        {
+          "character": "Priya-Patel",
+          "source_image_id": "19ZMf5fqX8WGlhs7I7tJx_iFgrdlgpe8e",
+          "source_image_sha256": "b1a053ca9f77df429b3e72f4c49fe1b59fc843557c55f37afcebe8d87b89fdab",
+          "profile_id": "1ZyHR-GirFpMwk8DcRqlJVpy0RHXUBKd6",
+          "profile_sha256": "28bb5fb860b59357006d7c2a89e7f43455f61799a6f07cccbab6308988173166",
+          "approved_references": [
+            {
+              "drive_id": "1WT54apXjV4H2Nydrl575VpLWFL164T-8",
+              "filename": "Priya_Patel_PPE_8_Angles_REVIEW_R4.png",
+              "sha256": "959fec91b584045fc7586af9edaac3bfb3f61e4bfe74a76db170148bfbf53296"
+            },
+            {
+              "drive_id": "1GwLW4rrCqIVmAKr7DQxZHiowZGG7t-t-",
+              "filename": "Priya_Patel_Hardhat_Source_R8.png",
+              "sha256": "4d823e8a2e967a7f3b5f72c8d789a4f0777bb4b197e4b6450bf069ea7d091f58"
+            }
+          ],
+          "visible_identity_check": "Dark tied-back hair, dark prescription glasses, gold hoops, teal blouse, dark slacks, yellow Mason Vale helmet and lime/gray vest.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        },
+        {
+          "character": "Maya",
+          "source_image_id": "1RZtZjt-3eX0iFFcKw1ZxtnlXj3pkoerU",
+          "source_image_sha256": "405c184a953d966e68f5517078feef8bf056ceb405deb17842d9c9b9ab8e180c",
+          "profile_id": "1nERipp0Qz3AUFuYFkJ25rOuM0UfIGnV3",
+          "profile_sha256": "f1824deec8163a56f53a01724aa45f37be0a9e3f30b15ad4239e08fff25e2d24",
+          "approved_references": [
+            {
+              "drive_id": "10LwizzRxzXLIQpSsZsIaC-dL_klEyABJ",
+              "filename": "Maya_PPE_8_Angles_REVIEW_R9.png",
+              "sha256": "c8b7892b89e5fd445c10d5169f8faa03529fe3a452fe0a271fbe2dc123354c09"
+            },
+            {
+              "drive_id": "1imb0ZRtQCR32Xe6Ebgm6rQEsZHks4gpc",
+              "filename": "Maya_Hardhat_Source_R8.png",
+              "sha256": "ed34b1ff92b464ef6279a9de88833a5258f4e9d2e46782608c2bc2852a00fe17"
+            }
+          ],
+          "visible_identity_check": "Warm medium skin, brown eyes, very long dark curls, gold hoops, pink zip hoodie and blue cargos; gray/purple footwear, yellow helmet and clear eye protection in PPE scenes.",
+          "result": "CORRECTION_REQUIRED",
+          "finding_ids": [
+            "F16"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        },
+        {
+          "character": "Vinny",
+          "source_image_id": "1m-mxpb7Fpu04jWj5sYVJTHxvXXPySuSa",
+          "source_image_sha256": "db9e5d966fd39dcc0f242d1df93d64d3a9b2ad52672a341bf293b87c689f7219",
+          "profile_id": "1vG_CJ45X87ZsYlNr-Rq2VJiuRHaTtw4S",
+          "profile_sha256": "b69e2d455657479ed9076f88c49d7462fba599e899c87a7d1d0d9f1520d4914e",
+          "approved_references": [
+            {
+              "drive_id": "16gjYnmlneZMIb3NA5hqHiifUJjSX6wl7",
+              "filename": "Vinny_PPE_8_Angles_REVIEW_R16.png",
+              "sha256": "414bd1bf7fc794c769b4ab3b258d3c12b1a39e172540c4f4eb0e7d901c6856f1"
+            },
+            {
+              "drive_id": "1PsRVybo-3S2oiH4loGO9r066vOXixNmS",
+              "filename": "Vinny_Hardhat_Source_R8.png",
+              "sha256": "d1e422c53805116ee0e49cc73a266e55996425e432099df7182e56bc47ca979d"
+            }
+          ],
+          "visible_identity_check": "Round face and sturdy child build, soft brown curls, green pullover hoodie, blue cargos and dark olive/black shoes; green helmet and clear safety eyewear in PPE scenes.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        },
+        {
+          "character": "Daniel-Brooks",
+          "source_image_id": "1TVWd4mtznkx3tFEKNKF_TClF5VBPILey",
+          "source_image_sha256": "5fc186933893463902db56efb8d6b3e8d97697b7751d798e580a488da7450087",
+          "profile_id": "1yk_XlyuOxhaKMIms-e7mwbCrviNKZrKZ",
+          "profile_sha256": "a096423467027096ceb99c671bea8c6299b77334509d49452b98f64dfaf35553",
+          "approved_references": [
+            {
+              "drive_id": "1j_kgtOf1Vq_Yng0AyeW_-3Ra4uaJZujW",
+              "filename": "Daniel_Brooks_PPE_8_Angles_REVIEW_R4.png",
+              "sha256": "166b4b88eb27cd92ef28b87d2747fa921b34e7911040b79209de14e685c25c69"
+            },
+            {
+              "drive_id": "12MlhM2Kg_WvPOk7Df_f4ITkedznPYKO8",
+              "filename": "Daniel_Brooks_Hardhat_Source_R8.png",
+              "sha256": "303ce4903d16cca515e5b7ff2e32c5d3313c28c230ba4bb443722cdb42297c05"
+            }
+          ],
+          "visible_identity_check": "Brown hair, rectangular glasses, green quarter-zip, dark cargos, green Civic Ridge helmet and lime/gray vest. Medium adult build.",
+          "result": "CORRECTION_REQUIRED",
+          "finding_ids": [
+            "F15"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        }
+      ],
+      "findings": [
+        {
+          "id": "F15",
+          "pages": "28-29",
+          "character": "Daniel-Brooks",
+          "category": "Project sticker placement",
+          "status": "CORRECTION_REQUIRED",
+          "observation": "The small project sticker overlaps the lower helmet/brim boundary. It should sit entirely on the shell, above the band, on the wearer\u2019s left side toward the rear.",
+          "correction": "Remove the current decal cleanly and apply the approved asset at the R4/R8 position and size, with no ghosting.",
+          "evidence": "decals_and_boots.jpg"
+        },
+        {
+          "id": "F16",
+          "pages": "28-29",
+          "character": "Maya",
+          "category": "Project sticker scale / placement",
+          "status": "CORRECTION_REQUIRED",
+          "observation": "The front-left project sticker is small and very close to the brim compared with the approved R9 view.",
+          "correction": "Restore approved R9 scale and spacing above the band while retaining the front-left placement and shell contour.",
+          "evidence": "more_hat_details.jpg"
+        }
+      ],
+      "approval_changed": false,
+      "artwork_modified": false
+    },
+    {
+      "id": "1BYiCmNICyxvT9hw3MI60Fpp7lZgR0k1j",
+      "filename": "Book1_Pages30-31_REV1_CANON_CHECKED_CANDIDATE.png",
+      "bytes": 23590126,
+      "sha256": "a8f3b5760c3516caa702ba2ee77459ff6d876d32143db95861c2e9df802f1e3f",
+      "dimensions": [
+        5100,
+        2550
+      ],
+      "pages": "30-31",
+      "sequence": "Restarted Book 1 actual page numbering",
+      "prior_status": "REVIEW_CANDIDATE",
+      "review_status": "CORRECTION_REQUIRED",
+      "people": [
+        {
+          "character": "Tony-Marino",
+          "source_image_id": "1FjL5YJLklpXpHnqHGZmVc8Ps87IgvJro",
+          "source_image_sha256": "546d050489f5c7eea1992c84b5d9a84e59accf372e85cb840b306fc2123c2054",
+          "profile_id": "1tJnFRmAnXSViwGbNxi9-RAyuBz9KD9Uq",
+          "profile_sha256": "6000214c393c2ef573b46f4dec4886ffc4d9c18069567868429b51d5427fe313",
+          "approved_references": [
+            {
+              "drive_id": "12-8pi_nFypSJ0XXlfS5VQ5n8-Ia1bI3b",
+              "filename": "Tony_Marino_PPE_8_Angles_REVIEW_R4.png",
+              "sha256": "3a30e4108edc58f351d27755eef28172b418d6ac52741dbad5349c6d84a4a834"
+            },
+            {
+              "drive_id": "18N_vfEzOwN-RRDExAQ8xHp23iBgvGJOc",
+              "filename": "Tony_Marino_Hardhat_Source_R8.png",
+              "sha256": "48e9ce8b49f38c2fe34d3ae53ea24752eeaf240920facdd6fe95416e3ce1699a"
+            }
+          ],
+          "visible_identity_check": "Gray hair and facial hair, blue plaid shirt, brown bib/dark overalls, tool belt, pencil, work boots, white Redfern helmet and clear safety eyewear.",
+          "result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        },
+        {
+          "character": "Steph",
+          "source_image_id": "1gF-pOjdltQVujd5NyCcX-Brh-EI0vQ9j",
+          "source_image_sha256": "0338ba00d3cc122c7e1baecca56b577f51b54ea4a8f24ed2b7bbbc29685b934a",
+          "profile_id": "1hzABye97w5caJMYh90wvyGXrd17gXCBS",
+          "profile_sha256": "b001f923646aaf0d875994c418460c77049612452f158ced77c568478ad7d7e8",
+          "approved_references": [
+            {
+              "drive_id": "1cCWdcn7K0xNeLbqYa8oGBZii5ZkR07jk",
+              "filename": "Steph_PPE_8_Angles_REVIEW_R14.png",
+              "sha256": "5ad1553bdfacbebf3fc679f207268a2869a0ea07fb6d0c42865bb0d9f4fa7e98"
+            },
+            {
+              "drive_id": "1WOusRNhdIMJaArdclVPGID16vmEIaQii",
+              "filename": "Steph_Hardhat_Source_R8.png",
+              "sha256": "579e7a9ba3a0da92b4d471529735ebea053831a5528ab5b512af752e9a9d1da7"
+            }
+          ],
+          "visible_identity_check": "Fair skin, blue eyes, freckles where resolved, long straight copper-red hair, lavender hoodie and olive cargos; gray/purple footwear and light-gray helmet in PPE scenes.",
+          "result": "CORRECTION_REQUIRED",
+          "finding_ids": [
+            "F17"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        },
+        {
+          "character": "Ben",
+          "source_image_id": "1lkboZGWom6Vw7et5J5__5dBivj7i2TRx",
+          "source_image_sha256": "bd0795cea996b37f1476a6bc1e967021df89d7d06b63de0c0714a99edb46f7d3",
+          "profile_id": "1rhPTyBiDT9OevTiI9ncFGYR8JPbLVt6m",
+          "profile_sha256": "facf7893671101aebc46163a5f01da644f5e5702c53108425da5547739fa32dc",
+          "approved_references": [
+            {
+              "drive_id": "1f-5jc6V8LtI3FmUsv7YUfQbk8iuSBc-W",
+              "filename": "Ben_PPE_8_Angles_APPROVED_R10_UNCHANGED.png",
+              "sha256": "e19736d0df48559412a3a6b1578e6b4bdd7a1bf3e70ffb21cd1ecaecc67d45ef"
+            },
+            {
+              "drive_id": "1KheF8T1L-JGplgLRp7sKAUKMY4l4F4by",
+              "filename": "Ben_Hardhat_Source_R8.png",
+              "sha256": "c925c1482b8ba78e1c15b5d6d1b6bb47bfbdf4c0868fd23094168e6e5efd42d6"
+            }
+          ],
+          "visible_identity_check": "Brown swept hair, black rectangular prescription frames, light-blue button-up and plain khakis. Current source incorporates Everyday R4 and PPE R10.",
+          "result": "CORRECTION_REQUIRED",
+          "finding_ids": [
+            "F18",
+            "F20"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        },
+        {
+          "character": "Leo",
+          "source_image_id": "1PmH5IMF_HI_s9y1slZM9DXbWzTYVnbGc",
+          "source_image_sha256": "17c89e174c841f0d101fd9e4d983b5a16d0231d51faa48f54cedd830506e7e7c",
+          "profile_id": "1JD1OTpwF7EJizHYwaE-31j-z-kMPRqbx",
+          "profile_sha256": "d2c24d0fb0d4262a738972f2e8e5972c82231db4719fab49ca1312c64e8ecd5b",
+          "approved_references": [
+            {
+              "drive_id": "15XT3C5z7LIdlFWZy98NbCSMFcGtbZvyj",
+              "filename": "Leo_PPE_8_Angles_APPROVED_R8_UNCHANGED.png",
+              "sha256": "b20e5aa363e0a54d51e322d1fc138830239b9e2adbaeea83f4b4bfc97ff61010"
+            },
+            {
+              "drive_id": "1fcSeoZf6VV8JssjHJFrJA0B00lMES_DO",
+              "filename": "Leo_Hardhat_Source_R8.png",
+              "sha256": "f05e23e856fd276abf32a8e3b7b0fad23d3a147d202f8d1ce49e495a7d7f8409"
+            }
+          ],
+          "visible_identity_check": "Warm brown skin, short tight dark curls, navy zip hoodie with white drawstrings, dark cargos and tan/black work boots; blue helmet and orange-accented vest in PPE scenes.",
+          "result": "CORRECTION_REQUIRED",
+          "finding_ids": [
+            "F19"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ]
+        }
+      ],
+      "findings": [
+        {
+          "id": "F17",
+          "pages": "30-31",
+          "character": "Steph",
+          "category": "Helmet front logo placement",
+          "status": "CORRECTION_REQUIRED",
+          "observation": "The LS graphic crosses the front brim boundary, extending beyond the helmet shell. This is clear in the enlarged crop.",
+          "correction": "Keep the exact LS artwork centered on the helmet front and entirely above the brim, as shown in the character\u2019s approved eight-view and R8 references.",
+          "evidence": "steph_ear_and_sticker.jpg"
+        },
+        {
+          "id": "F18",
+          "pages": "30-31",
+          "character": "Ben",
+          "category": "Helmet front logo placement",
+          "status": "CORRECTION_REQUIRED",
+          "observation": "The LS graphic crosses the front brim boundary, extending beyond the helmet shell. This is clear in the enlarged crop.",
+          "correction": "Keep the exact LS artwork centered on the helmet front and entirely above the brim, as shown in the character\u2019s approved eight-view and R8 references.",
+          "evidence": "more_hat_details.jpg"
+        },
+        {
+          "id": "F19",
+          "pages": "30-31",
+          "character": "Leo",
+          "category": "Helmet front logo placement",
+          "status": "CORRECTION_REQUIRED",
+          "observation": "The LS graphic crosses the front brim boundary, extending beyond the helmet shell. This is clear in the enlarged crop.",
+          "correction": "Keep the exact LS artwork centered on the helmet front and entirely above the brim, as shown in the character\u2019s approved eight-view and R8 references.",
+          "evidence": "more_hat_details.jpg"
+        },
+        {
+          "id": "F20",
+          "pages": "30-31",
+          "character": "Ben",
+          "category": "Project sticker placement",
+          "status": "CORRECTION_REQUIRED",
+          "observation": "The project sticker sits against/over the lower helmet edge instead of fully on the shell above the band.",
+          "correction": "Reapply at the approved left-side location, size and curvature with the full sticker contained on the helmet shell.",
+          "evidence": "more_hat_details.jpg"
+        }
+      ],
+      "approval_changed": false,
+      "artwork_modified": false
+    },
+    {
+      "id": "1PRGZ_WAXRZ3Z49r8qXaKOJX5vhPa1sZ8",
+      "filename": "Book1_Pages32-33_REV1_CANON_CHECKED_CANDIDATE.png",
+      "bytes": 5770977,
+      "sha256": "0a7e73ec97698e25bc9d12a57c01d4bfed9c7b342286a280e5b5a9e137b497da",
+      "dimensions": [
+        5100,
+        2550
+      ],
+      "pages": "32-33",
+      "sequence": "Restarted Book 1 actual page numbering",
+      "prior_status": "REVIEW_CANDIDATE",
+      "review_status": "NO_VISIBLE_PEOPLE",
+      "people": [],
+      "findings": [],
+      "approval_changed": false,
+      "artwork_modified": false
+    }
+  ],
+  "publication": {
+    "pdf_drive_id": "1hbjOKiUZby4VNmcl0ol81rSVRJaZC5vW",
+    "pdf_url": "https://drive.google.com/file/d/1hbjOKiUZby4VNmcl0ol81rSVRJaZC5vW/view",
+    "pdf_sha256": "c3a426168c2322c2f5eea2c79cb09fad2ae1fd40f1c1c06f7046502f100078ef",
+    "pdf_bytes": 19281797,
+    "pdf_pages": 24,
+    "review_folder_url": "https://drive.google.com/drive/folders/10QuwDVYbdGJGzN3I1elrhpWmIyjWQajh"
+  }
+}
