@@ -1,0 +1,4569 @@
+{
+  "project": "The Little Specs Club",
+  "book": 1,
+  "date": "2026-11-07",
+  "scope": "All 16 active restarted spreads, actual pages 02-33, including initial-approval spreads. Earlier revisions, cover and reserved pages 1/34 are not replaced.",
+  "status": "NEW SVG COMPANIONS REQUIRE AUTHOR REVIEW; ORIGINAL PNG APPROVALS UNCHANGED",
+  "fully_vector": false,
+  "editability": {
+    "live_text_lines": 177,
+    "retained_raster_repair_layers": 14,
+    "separate_raster_logo_sticker_objects": 15,
+    "other_artwork": "Embedded raster, including characters, clothing, scenery, title logo and branding not listed as separate objects. Individual vector paths are unavailable.",
+    "text_background": "SVG morphology reconstruction under original printed lettering, applied only through glyph masks. Keep recovery layer visible.",
+    "line_wrapping": "Independent live text lines; reflow manually when changing copy."
+  },
+  "dimensions": {
+    "viewBox": "0 0 5100 2550",
+    "physical_inches": [
+      17,
+      8.5
+    ]
+  },
+  "source_references": {
+    "people_repairs_manifest": "https://drive.google.com/file/d/17QpWtZ-D_3EoYL4tfC2WaxeqixmVEIzN/view",
+    "approved_8_view_folder": "https://drive.google.com/drive/folders/1XGYEslC91ODbIkgWwS5gfjxASoZB17Z_",
+    "R8_editable_source_folder": "https://drive.google.com/drive/folders/1v2EfX2WO-6zKStJnY8Z2fJuMHoxRdWxN"
+  },
+  "validation": {
+    "all_16_svg_xml_valid": true,
+    "all_images_embedded": true,
+    "all_16_rendered_at": [
+      5100,
+      2550
+    ],
+    "all_16_visually_reviewed": true,
+    "text_hidden_checks": [
+      "06-07",
+      "12-13",
+      "32-33"
+    ],
+    "illustration_comparison": [
+      {
+        "pages": "02-03",
+        "render_size": [
+          5100,
+          2550
+        ],
+        "outside_text_max_channel_difference": 0,
+        "outside_text_pixels_diff_gt1": 0,
+        "outside_text_pixels_diff_gt5": 0,
+        "outside_text_mean_channel_max_difference": 0.0
+      },
+      {
+        "pages": "04-05",
+        "render_size": [
+          5100,
+          2550
+        ],
+        "outside_text_max_channel_difference": 0,
+        "outside_text_pixels_diff_gt1": 0,
+        "outside_text_pixels_diff_gt5": 0,
+        "outside_text_mean_channel_max_difference": 0.0
+      },
+      {
+        "pages": "06-07",
+        "render_size": [
+          5100,
+          2550
+        ],
+        "outside_text_max_channel_difference": 0,
+        "outside_text_pixels_diff_gt1": 0,
+        "outside_text_pixels_diff_gt5": 0,
+        "outside_text_mean_channel_max_difference": 0.0
+      },
+      {
+        "pages": "08-09",
+        "render_size": [
+          5100,
+          2550
+        ],
+        "outside_text_max_channel_difference": 1,
+        "outside_text_pixels_diff_gt1": 0,
+        "outside_text_pixels_diff_gt5": 0,
+        "outside_text_mean_channel_max_difference": 0.0007076
+      },
+      {
+        "pages": "10-11",
+        "render_size": [
+          5100,
+          2550
+        ],
+        "outside_text_max_channel_difference": 0,
+        "outside_text_pixels_diff_gt1": 0,
+        "outside_text_pixels_diff_gt5": 0,
+        "outside_text_mean_channel_max_difference": 0.0
+      },
+      {
+        "pages": "12-13",
+        "render_size": [
+          5100,
+          2550
+        ],
+        "outside_text_max_channel_difference": 1,
+        "outside_text_pixels_diff_gt1": 0,
+        "outside_text_pixels_diff_gt5": 0,
+        "outside_text_mean_channel_max_difference": 0.0022016
+      },
+      {
+        "pages": "14-15",
+        "render_size": [
+          5100,
+          2550
+        ],
+        "outside_text_max_channel_difference": 2,
+        "outside_text_pixels_diff_gt1": 29,
+        "outside_text_pixels_diff_gt5": 0,
+        "outside_text_mean_channel_max_difference": 0.002437
+      },
+      {
+        "pages": "16-17",
+        "render_size": [
+          5100,
+          2550
+        ],
+        "outside_text_max_channel_difference": 2,
+        "outside_text_pixels_diff_gt1": 66,
+        "outside_text_pixels_diff_gt5": 0,
+        "outside_text_mean_channel_max_difference": 0.0021477
+      },
+      {
+        "pages": "18-19",
+        "render_size": [
+          5100,
+          2550
+        ],
+        "outside_text_max_channel_difference": 2,
+        "outside_text_pixels_diff_gt1": 107,
+        "outside_text_pixels_diff_gt5": 0,
+        "outside_text_mean_channel_max_difference": 0.0016122
+      },
+      {
+        "pages": "20-21",
+        "render_size": [
+          5100,
+          2550
+        ],
+        "outside_text_max_channel_difference": 2,
+        "outside_text_pixels_diff_gt1": 16,
+        "outside_text_pixels_diff_gt5": 0,
+        "outside_text_mean_channel_max_difference": 0.0025941
+      },
+      {
+        "pages": "22-23",
+        "render_size": [
+          5100,
+          2550
+        ],
+        "outside_text_max_channel_difference": 2,
+        "outside_text_pixels_diff_gt1": 45,
+        "outside_text_pixels_diff_gt5": 0,
+        "outside_text_mean_channel_max_difference": 0.0008507
+      },
+      {
+        "pages": "24-25",
+        "render_size": [
+          5100,
+          2550
+        ],
+        "outside_text_max_channel_difference": 2,
+        "outside_text_pixels_diff_gt1": 44,
+        "outside_text_pixels_diff_gt5": 0,
+        "outside_text_mean_channel_max_difference": 0.0023026
+      },
+      {
+        "pages": "26-27",
+        "render_size": [
+          5100,
+          2550
+        ],
+        "outside_text_max_channel_difference": 1,
+        "outside_text_pixels_diff_gt1": 0,
+        "outside_text_pixels_diff_gt5": 0,
+        "outside_text_mean_channel_max_difference": 0.0006064
+      },
+      {
+        "pages": "28-29",
+        "render_size": [
+          5100,
+          2550
+        ],
+        "outside_text_max_channel_difference": 2,
+        "outside_text_pixels_diff_gt1": 34,
+        "outside_text_pixels_diff_gt5": 0,
+        "outside_text_mean_channel_max_difference": 0.0013537
+      },
+      {
+        "pages": "30-31",
+        "render_size": [
+          5100,
+          2550
+        ],
+        "outside_text_max_channel_difference": 2,
+        "outside_text_pixels_diff_gt1": 119,
+        "outside_text_pixels_diff_gt5": 0,
+        "outside_text_mean_channel_max_difference": 0.0020082
+      },
+      {
+        "pages": "32-33",
+        "render_size": [
+          5100,
+          2550
+        ],
+        "outside_text_max_channel_difference": 0,
+        "outside_text_pixels_diff_gt1": 0,
+        "outside_text_pixels_diff_gt5": 0,
+        "outside_text_mean_channel_max_difference": 0.0
+      }
+    ],
+    "drive_byte_verification": [
+      {
+        "pages": "02-03",
+        "drive_id": "1NiMqoCIBxjkCW7NKr4JdrYHuFw2sYbRQ",
+        "bytes": 16437212,
+        "sha256": "255d2f7e35cd39e82cdda8f08df52cdb1faea7f63128173d357348d04872d41d",
+        "saved_bytes_match": true
+      },
+      {
+        "pages": "04-05",
+        "drive_id": "13fCFpwmzR3ElRzt5Day5Ni4fRUUDw1wk",
+        "bytes": 15115539,
+        "sha256": "ba90e01d1559301c062d622311d62c57c6520be701525a780bca3a13a4310254",
+        "saved_bytes_match": true
+      },
+      {
+        "pages": "06-07",
+        "drive_id": "193YMgW1XpehPghX7SK5_PRaNF6Qq6gsl",
+        "bytes": 17783106,
+        "sha256": "7b654b29dd1e66d43644acaac895bf0b1a796ef7abaa40cf3da6bebff305894d",
+        "saved_bytes_match": true
+      },
+      {
+        "pages": "08-09",
+        "drive_id": "1PLmiuxsMtPa6UJ17q6dz4kcDn1ryC6U_",
+        "bytes": 31811574,
+        "sha256": "343fef430eddb8851229b099489a345d91331b996e6248e3f82d4d77ea3efad3",
+        "saved_bytes_match": true
+      },
+      {
+        "pages": "10-11",
+        "drive_id": "1JZKheuVOwDx_r46nJ6XQmRffaQn9OkCu",
+        "bytes": 27234673,
+        "sha256": "9face9eade1fb9699ea57ae96f6bf44e1e01ce4db4c2f4ef506947696514de8f",
+        "saved_bytes_match": true
+      },
+      {
+        "pages": "12-13",
+        "drive_id": "1zaVUD3zErmruHUafrRHKJiTh3ekQzVl1",
+        "bytes": 27499173,
+        "sha256": "f3b3a27bc62b948f9533d1b244ed15c6a789d64c73c7c65b0e44fdbe75286bf5",
+        "saved_bytes_match": true
+      },
+      {
+        "pages": "14-15",
+        "drive_id": "1S_q-GtuEQSn_vo-Oa__ZXEVG0_gEH4zp",
+        "bytes": 31515755,
+        "sha256": "a6840fe5fbcfcb97f8d5f9e0699c66f52181615b47c166c53473344ad800b944",
+        "saved_bytes_match": true
+      },
+      {
+        "pages": "16-17",
+        "drive_id": "1nKLFfzJHzPAtHVTTpWrXjU-ztGvFZlma",
+        "bytes": 27956019,
+        "sha256": "7857f2df3634e1660d71df4b4b91d3f84a1ca893d5db61cb9b1de0f784716c54",
+        "saved_bytes_match": true
+      },
+      {
+        "pages": "18-19",
+        "drive_id": "1-F9UjNxHsxmMBfboqzoJR2fdNxJu33IB",
+        "bytes": 40072286,
+        "sha256": "7bff2f6ac12505c0f74abe657291694ebf5a98de07104c081bff5bac04ed7c4d",
+        "saved_bytes_match": true
+      },
+      {
+        "pages": "20-21",
+        "drive_id": "1c2ukdvJNZP5WH9KIqsZHvxCVYEUiJgWV",
+        "bytes": 29128505,
+        "sha256": "2c6754c1026f7482e36a10315d152074dc0507114fd689547f93de9888715607",
+        "saved_bytes_match": true
+      },
+      {
+        "pages": "22-23",
+        "drive_id": "1bbmHMUCZTzBtXIG6TiG8Buxb4k-1Hn8s",
+        "bytes": 25887924,
+        "sha256": "be9b9f7588150443e55eef16579183f4d921ffd4ab5d6c57d5414d12246223af",
+        "saved_bytes_match": true
+      },
+      {
+        "pages": "24-25",
+        "drive_id": "1WfdI8vb9gWluWhfckOWFGqIGT4R3ExyF",
+        "bytes": 33524608,
+        "sha256": "dc5297ac5315e4010c59f66ac4dbf54747c24b3b964b4c33c6c31a18ccf4fe48",
+        "saved_bytes_match": true
+      },
+      {
+        "pages": "26-27",
+        "drive_id": "1R0horqRgq_FR6JI4HZs1D4CGpIrTkAmx",
+        "bytes": 36724180,
+        "sha256": "db0c2166888db117f8a977e9448f9abc2a2a49b0f3fe5843a38273eba1711fec",
+        "saved_bytes_match": true
+      },
+      {
+        "pages": "28-29",
+        "drive_id": "1J7N2uSoPn7b5FAK4JObBsEYyy51mQVxD",
+        "bytes": 38106271,
+        "sha256": "8e28e1d89fded1e3db686cf3676bf3fe8bc669a33de07e89f21ce4656a9b5376",
+        "saved_bytes_match": true
+      },
+      {
+        "pages": "30-31",
+        "drive_id": "1BH23u0R0qeJQSSfLSpWo9Hj3yAn7DH8V",
+        "bytes": 34772394,
+        "sha256": "f9b7ea6acf7b6e1a2f6eb7c594cb9e955d0e378f61785b423279cdcbcc0d481f",
+        "saved_bytes_match": true
+      },
+      {
+        "pages": "32-33",
+        "drive_id": "1PKIVodlAtI9BLObblrv_ko6w69yw7xI4",
+        "bytes": 10659083,
+        "sha256": "8a587beb090b3995597f1f0c95c18aea6c8ffbf025caf79dbe2487beb0c366d6",
+        "saved_bytes_match": true
+      }
+    ]
+  },
+  "spreads": [
+    {
+      "pages": "02-03",
+      "source_revision": 12,
+      "source_png": "Book1_Pages02-03_REV12_VERSION_B_INITIAL_APPROVAL.png",
+      "source_png_id": "1cf2arHdHxEkdSbRpdLlo3sATrrROeZ_-",
+      "source_png_sha256": "9eb7c649b7008d6e80537b16b9aa42e53f8bdfcd7839bc37568e439c656a2014",
+      "source_png_status": "INITIAL_APPROVAL_AWAITING_FULL_BOOK_REVIEW",
+      "svg_filename": "Book1_Pages02-03_REV12_LAYERED_EDITABLE_TEXT_REVIEW.svg",
+      "svg_id": "1NiMqoCIBxjkCW7NKr4JdrYHuFw2sYbRQ",
+      "svg_url": "https://drive.google.com/file/d/1NiMqoCIBxjkCW7NKr4JdrYHuFw2sYbRQ/view",
+      "svg_sha256": "255d2f7e35cd39e82cdda8f08df52cdb1faea7f63128173d357348d04872d41d",
+      "svg_bytes": 16437212,
+      "svg_status": "REVIEW_REQUIRED",
+      "folder_id": "1qlN_7TMUJ3PVOiMUbxWS97fn-xTWp_e0",
+      "folder_url": "https://drive.google.com/drive/folders/1qlN_7TMUJ3PVOiMUbxWS97fn-xTWp_e0",
+      "live_text_lines": 4,
+      "repair_layers": 0,
+      "separate_branding_objects": 0,
+      "text_layout": [
+        {
+          "pages": "02-03",
+          "side": "title",
+          "lines": [
+            {
+              "text": "Project One: The Fire Station",
+              "box": [
+                770,
+                1400,
+                1730,
+                1500
+              ],
+              "weight": 400,
+              "x": 772,
+              "baseline": 1471,
+              "font_size": 75,
+              "match_score": 0.78261,
+              "ink_box": [
+                772,
+                1415,
+                1719,
+                1486
+              ],
+              "fill": "#193d67"
+            },
+            {
+              "text": "Book 1",
+              "box": [
+                1120,
+                1550,
+                1380,
+                1650
+              ],
+              "weight": 400,
+              "x": 1129,
+              "baseline": 1626,
+              "font_size": 75,
+              "match_score": 0.93328,
+              "ink_box": [
+                1129,
+                1570,
+                1360,
+                1627
+              ],
+              "fill": "#193d67"
+            },
+            {
+              "text": "A Fire Station Begins",
+              "box": [
+                890,
+                1710,
+                1610,
+                1810
+              ],
+              "weight": 400,
+              "x": 899,
+              "baseline": 1781,
+              "font_size": 75,
+              "match_score": 0.88358,
+              "ink_box": [
+                899,
+                1726,
+                1592,
+                1796
+              ],
+              "fill": "#193d67"
+            },
+            {
+              "text": "This Book Belongs To:",
+              "box": [
+                870,
+                1970,
+                1630,
+                2075
+              ],
+              "weight": 400,
+              "x": 872,
+              "baseline": 2056,
+              "font_size": 75,
+              "match_score": 0.84085,
+              "ink_box": [
+                872,
+                2000,
+                1612,
+                2071
+              ],
+              "fill": "#193d67"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pages": "04-05",
+      "source_revision": 6,
+      "source_png": "Book1_Pages04-05_REV6_VERSION_B_INITIAL_APPROVAL.png",
+      "source_png_id": "1zZn_HEyUkMYWaklfkCVYfj07s9pT2Al8",
+      "source_png_sha256": "b22aacd7b4f4674d83c6d53078302d419bf1e23acb5edd11a0e0121e43108ec6",
+      "source_png_status": "INITIAL_APPROVAL_AWAITING_FULL_BOOK_REVIEW",
+      "svg_filename": "Book1_Pages04-05_REV6_LAYERED_EDITABLE_TEXT_REVIEW.svg",
+      "svg_id": "13fCFpwmzR3ElRzt5Day5Ni4fRUUDw1wk",
+      "svg_url": "https://drive.google.com/file/d/13fCFpwmzR3ElRzt5Day5Ni4fRUUDw1wk/view",
+      "svg_sha256": "ba90e01d1559301c062d622311d62c57c6520be701525a780bca3a13a4310254",
+      "svg_bytes": 15115539,
+      "svg_status": "REVIEW_REQUIRED",
+      "folder_id": "1eh_-e6jW1ks1hTkOSuPeGeVWyj8WBpMp",
+      "folder_url": "https://drive.google.com/drive/folders/1eh_-e6jW1ks1hTkOSuPeGeVWyj8WBpMp",
+      "live_text_lines": 14,
+      "repair_layers": 0,
+      "separate_branding_objects": 0,
+      "text_layout": [
+        {
+          "pages": "04-05",
+          "side": "right",
+          "lines": [
+            {
+              "text": "Mrs. Harper stood beside a picture of a bright new fire",
+              "box": [
+                2926,
+                81,
+                4716,
+                161
+              ],
+              "weight": 400,
+              "x": 2920,
+              "baseline": 142,
+              "font_size": 75,
+              "match_score": 0.76651,
+              "ink_box": [
+                2920,
+                85,
+                4711,
+                157
+              ],
+              "fill": "#193d67"
+            },
+            {
+              "text": "station.",
+              "box": [
+                2924,
+                160,
+                3166,
+                216
+              ],
+              "weight": 400,
+              "x": 2920,
+              "baseline": 215,
+              "font_size": 75,
+              "match_score": 0.94545,
+              "ink_box": [
+                2920,
+                160,
+                3171,
+                216
+              ],
+              "fill": "#193d67"
+            },
+            {
+              "text": "“Our town is building something special,” she said.",
+              "box": [
+                2924,
+                235,
+                4590,
+                307
+              ],
+              "weight": 400,
+              "x": 2920,
+              "baseline": 292,
+              "font_size": 75,
+              "match_score": 0.76567,
+              "ink_box": [
+                2920,
+                235,
+                4587,
+                307
+              ],
+              "fill": "#193d67"
+            },
+            {
+              "text": "Leo nearly jumped from his seat.",
+              "box": [
+                2926,
+                310,
+                4004,
+                382
+              ],
+              "weight": 400,
+              "x": 2920,
+              "baseline": 367,
+              "font_size": 75,
+              "match_score": 0.93467,
+              "ink_box": [
+                2920,
+                310,
+                4007,
+                382
+              ],
+              "fill": "#193d67"
+            },
+            {
+              "text": "“A fire station!”",
+              "box": [
+                2924,
+                385,
+                3418,
+                443
+              ],
+              "weight": 400,
+              "x": 2920,
+              "baseline": 442,
+              "font_size": 75,
+              "match_score": 0.7874,
+              "ink_box": [
+                2920,
+                385,
+                3411,
+                443
+              ],
+              "fill": "#193d67"
+            },
+            {
+              "text": "Steph studied the picture.",
+              "box": [
+                2923,
+                460,
+                3767,
+                531
+              ],
+              "weight": 400,
+              "x": 2920,
+              "baseline": 516,
+              "font_size": 75,
+              "match_score": 0.90495,
+              "ink_box": [
+                2920,
+                460,
+                3771,
+                531
+              ],
+              "fill": "#193d67"
+            },
+            {
+              "text": "“I like those big red doors.”",
+              "box": [
+                2924,
+                535,
+                3809,
+                607
+              ],
+              "weight": 400,
+              "x": 2920,
+              "baseline": 592,
+              "font_size": 75,
+              "match_score": 0.84255,
+              "ink_box": [
+                2920,
+                535,
+                3802,
+                607
+              ],
+              "fill": "#193d67"
+            },
+            {
+              "text": "Maya noticed the drawings underneath it.",
+              "box": [
+                2926,
+                610,
+                4289,
+                681
+              ],
+              "weight": 400,
+              "x": 2920,
+              "baseline": 666,
+              "font_size": 75,
+              "match_score": 0.8972,
+              "ink_box": [
+                2920,
+                610,
+                4293,
+                681
+              ],
+              "fill": "#193d67"
+            },
+            {
+              "text": "Ben raised his hand.",
+              "box": [
+                2926,
+                685,
+                3587,
+                742
+              ],
+              "weight": 400,
+              "x": 2920,
+              "baseline": 741,
+              "font_size": 75,
+              "match_score": 0.90641,
+              "ink_box": [
+                2920,
+                685,
+                3591,
+                742
+              ],
+              "fill": "#193d67"
+            },
+            {
+              "text": "“Who plans a project that big?”",
+              "box": [
+                2924,
+                760,
+                3940,
+                832
+              ],
+              "weight": 400,
+              "x": 2920,
+              "baseline": 817,
+              "font_size": 75,
+              "match_score": 0.82474,
+              "ink_box": [
+                2920,
+                760,
+                3939,
+                832
+              ],
+              "fill": "#193d67"
+            },
+            {
+              "text": "Vinny had another question.",
+              "box": [
+                2921,
+                835,
+                3844,
+                906
+              ],
+              "weight": 400,
+              "x": 2920,
+              "baseline": 891,
+              "font_size": 75,
+              "match_score": 0.92119,
+              "ink_box": [
+                2920,
+                835,
+                3850,
+                906
+              ],
+              "fill": "#193d67"
+            },
+            {
+              "text": "“Do we get hard hats?”",
+              "box": [
+                2924,
+                910,
+                3672,
+                982
+              ],
+              "weight": 400,
+              "x": 2920,
+              "baseline": 967,
+              "font_size": 75,
+              "match_score": 0.8894,
+              "ink_box": [
+                2920,
+                910,
+                3672,
+                982
+              ],
+              "fill": "#193d67"
+            },
+            {
+              "text": "Mrs. Harper smiled.",
+              "box": [
+                2926,
+                985,
+                3571,
+                1056
+              ],
+              "weight": 400,
+              "x": 2920,
+              "baseline": 1041,
+              "font_size": 75,
+              "match_score": 0.93996,
+              "ink_box": [
+                2920,
+                985,
+                3576,
+                1056
+              ],
+              "fill": "#193d67"
+            },
+            {
+              "text": "“You’re going to find out.”",
+              "box": [
+                2924,
+                1060,
+                3766,
+                1132
+              ],
+              "weight": 400,
+              "x": 2920,
+              "baseline": 1117,
+              "font_size": 75,
+              "match_score": 0.71255,
+              "ink_box": [
+                2920,
+                1060,
+                3755,
+                1132
+              ],
+              "fill": "#193d67"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pages": "06-07",
+      "source_revision": 6,
+      "source_png": "Book1_Pages06-07_REV6_VERSION_B_INITIAL_APPROVAL.png",
+      "source_png_id": "1oN3Y-YtMmm2M6K3vu92-jzSX3FQgTRLY",
+      "source_png_sha256": "44ef8dd306458a99cba05126ba2db122bbb33801d85a5ebb4a036c71cfb34981",
+      "source_png_status": "INITIAL_APPROVAL_AWAITING_FULL_BOOK_REVIEW",
+      "svg_filename": "Book1_Pages06-07_REV6_LAYERED_EDITABLE_TEXT_REVIEW.svg",
+      "svg_id": "193YMgW1XpehPghX7SK5_PRaNF6Qq6gsl",
+      "svg_url": "https://drive.google.com/file/d/193YMgW1XpehPghX7SK5_PRaNF6Qq6gsl/view",
+      "svg_sha256": "7b654b29dd1e66d43644acaac895bf0b1a796ef7abaa40cf3da6bebff305894d",
+      "svg_bytes": 17783106,
+      "svg_status": "REVIEW_REQUIRED",
+      "folder_id": "1FUKa2kTqoObYV7b7rx2w427E1hKqwe9y",
+      "folder_url": "https://drive.google.com/drive/folders/1FUKa2kTqoObYV7b7rx2w427E1hKqwe9y",
+      "live_text_lines": 14,
+      "repair_layers": 0,
+      "separate_branding_objects": 0,
+      "text_layout": [
+        {
+          "pages": "06-07",
+          "side": "left",
+          "lines": [
+            {
+              "text": "The next morning, Mrs. Harper brought the Little Specs to the",
+              "box": [
+                182,
+                110,
+                2213,
+                181
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 166,
+              "font_size": 75,
+              "match_score": 0.85599,
+              "ink_box": [
+                180,
+                110,
+                2210,
+                181
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "construction site.",
+              "box": [
+                183,
+                192,
+                754,
+                248
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 247,
+              "font_size": 75,
+              "match_score": 0.98044,
+              "ink_box": [
+                180,
+                192,
+                759,
+                248
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "They saw dirt.",
+              "box": [
+                182,
+                274,
+                639,
+                345
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 330,
+              "font_size": 75,
+              "match_score": 0.93137,
+              "ink_box": [
+                180,
+                274,
+                646,
+                345
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "They saw gravel.",
+              "box": [
+                182,
+                356,
+                731,
+                427
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 412,
+              "font_size": 75,
+              "match_score": 0.90257,
+              "ink_box": [
+                180,
+                356,
+                734,
+                427
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "They saw wooden stakes.",
+              "box": [
+                182,
+                438,
+                1035,
+                509
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 494,
+              "font_size": 75,
+              "match_score": 0.94032,
+              "ink_box": [
+                180,
+                438,
+                1038,
+                509
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "They saw orange fencing.",
+              "box": [
+                182,
+                520,
+                1027,
+                592
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 577,
+              "font_size": 75,
+              "match_score": 0.86485,
+              "ink_box": [
+                180,
+                520,
+                1031,
+                592
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "And Leo saw a giant excavator.",
+              "box": [
+                181,
+                597,
+                1215,
+                677
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 658,
+              "font_size": 75,
+              "match_score": 0.86257,
+              "ink_box": [
+                180,
+                602,
+                1212,
+                673
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "But there was one thing they did not see.",
+              "box": [
+                186,
+                684,
+                1528,
+                755
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 740,
+              "font_size": 75,
+              "match_score": 0.88206,
+              "ink_box": [
+                180,
+                684,
+                1529,
+                755
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "“A fire station,” Leo said. “Where is it?”",
+              "box": [
+                184,
+                766,
+                1454,
+                834
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 823,
+              "font_size": 75,
+              "match_score": 0.5432,
+              "ink_box": [
+                180,
+                766,
+                1437,
+                834
+              ],
+              "fill": "#173752"
+            }
+          ]
+        },
+        {
+          "pages": "06-07",
+          "side": "right",
+          "lines": [
+            {
+              "text": "Steph held up the picture from class.",
+              "box": [
+                2823,
+                110,
+                4037,
+                182
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 167,
+              "font_size": 75,
+              "match_score": 0.91329,
+              "ink_box": [
+                2820,
+                110,
+                4039,
+                182
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "“This is definitely the right place.”",
+              "box": [
+                2823,
+                192,
+                3926,
+                264
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 249,
+              "font_size": 75,
+              "match_score": 0.82153,
+              "ink_box": [
+                2820,
+                192,
+                3919,
+                264
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "Ben studied the site.",
+              "box": [
+                2826,
+                274,
+                3494,
+                331
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 330,
+              "font_size": 75,
+              "match_score": 0.93646,
+              "ink_box": [
+                2820,
+                274,
+                3498,
+                331
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "“Maybe the building has already started,” he said.",
+              "box": [
+                2823,
+                356,
+                4448,
+                428
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 413,
+              "font_size": 75,
+              "match_score": 0.7992,
+              "ink_box": [
+                2820,
+                356,
+                4447,
+                428
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "“We just can’t see it yet.”",
+              "box": [
+                2823,
+                438,
+                3639,
+                510
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 495,
+              "font_size": 75,
+              "match_score": 0.63988,
+              "ink_box": [
+                2820,
+                438,
+                3626,
+                510
+              ],
+              "fill": "#173752"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pages": "08-09",
+      "source_revision": 5,
+      "source_png": "Book1_Pages08-09_REV5_PEOPLE_REPAIRS_REVIEW.png",
+      "source_png_id": "1MvuuD96AuJ2nyzr74Iw1KSMEOlrZ86bE",
+      "source_png_sha256": "aedd221061963893ab2dc2a17a050c45a434d189ca51e0fa27b3222a397dc071",
+      "source_png_status": "VERSION B - REVIEW REQUIRED",
+      "svg_filename": "Book1_Pages08-09_REV5_LAYERED_EDITABLE_TEXT_REVIEW.svg",
+      "svg_id": "1PLmiuxsMtPa6UJ17q6dz4kcDn1ryC6U_",
+      "svg_url": "https://drive.google.com/file/d/1PLmiuxsMtPa6UJ17q6dz4kcDn1ryC6U_/view",
+      "svg_sha256": "343fef430eddb8851229b099489a345d91331b996e6248e3f82d4d77ea3efad3",
+      "svg_bytes": 31811574,
+      "svg_status": "REVIEW_REQUIRED",
+      "folder_id": "13nH1C3mPJIYj46iUkVZeYq1tOGUIR4fi",
+      "folder_url": "https://drive.google.com/drive/folders/13nH1C3mPJIYj46iUkVZeYq1tOGUIR4fi",
+      "live_text_lines": 11,
+      "repair_layers": 1,
+      "separate_branding_objects": 0,
+      "text_layout": [
+        {
+          "pages": "08-09",
+          "side": "left",
+          "lines": [
+            {
+              "text": "A woman in a white hard hat walked toward them.",
+              "box": [
+                181,
+                95,
+                1836,
+                152
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 151,
+              "font_size": 75,
+              "match_score": 0.79006,
+              "ink_box": [
+                180,
+                95,
+                1837,
+                152
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "“I’m Ms. Rivera, the Project Manager,” she said. “My job is to",
+              "box": [
+                183,
+                173,
+                2173,
+                253
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 234,
+              "font_size": 75,
+              "match_score": 0.51653,
+              "ink_box": [
+                180,
+                177,
+                2157,
+                249
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "help keep the whole project organized.”",
+              "box": [
+                185,
+                259,
+                1485,
+                330
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 315,
+              "font_size": 75,
+              "match_score": 0.84542,
+              "ink_box": [
+                180,
+                259,
+                1478,
+                330
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "Ben’s eyes went straight to the plans under her arm.",
+              "box": [
+                186,
+                341,
+                1901,
+                412
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 397,
+              "font_size": 75,
+              "match_score": 0.67325,
+              "ink_box": [
+                180,
+                341,
+                1893,
+                412
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "A man with gray hair and a radio stepped beside her.",
+              "box": [
+                181,
+                423,
+                1920,
+                494
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 479,
+              "font_size": 75,
+              "match_score": 0.77571,
+              "ink_box": [
+                180,
+                423,
+                1916,
+                494
+              ],
+              "fill": "#173752"
+            }
+          ]
+        },
+        {
+          "pages": "08-09",
+          "side": "right",
+          "lines": [
+            {
+              "text": "“And I’m Mr. Jackson, the Superintendent. I help organize what",
+              "box": [
+                2823,
+                95,
+                4898,
+                167
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 152,
+              "font_size": 75,
+              "match_score": 0.78941,
+              "ink_box": [
+                2820,
+                95,
+                4889,
+                167
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "happens out here every day.”",
+              "box": [
+                2825,
+                177,
+                3775,
+                248
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 233,
+              "font_size": 75,
+              "match_score": 0.86827,
+              "ink_box": [
+                2820,
+                177,
+                3766,
+                248
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "Leo stared at the excavator.",
+              "box": [
+                2826,
+                259,
+                3744,
+                316
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 315,
+              "font_size": 75,
+              "match_score": 0.74962,
+              "ink_box": [
+                2820,
+                259,
+                3739,
+                316
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "“So you know what all the machines are doing?”",
+              "box": [
+                2823,
+                341,
+                4406,
+                413
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 398,
+              "font_size": 75,
+              "match_score": 0.88697,
+              "ink_box": [
+                2820,
+                341,
+                4406,
+                413
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "Mr. Jackson grinned.",
+              "box": [
+                2826,
+                423,
+                3513,
+                494
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 479,
+              "font_size": 75,
+              "match_score": 0.8627,
+              "ink_box": [
+                2820,
+                423,
+                3516,
+                494
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "“I’d better.”",
+              "box": [
+                2823,
+                505,
+                3184,
+                563
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 562,
+              "font_size": 75,
+              "match_score": 0.86728,
+              "ink_box": [
+                2820,
+                505,
+                3173,
+                563
+              ],
+              "fill": "#173752"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pages": "10-11",
+      "source_revision": 2,
+      "source_png": "Book1_Pages10-11_REV2_CANON_CHECKED_CANDIDATE.png",
+      "source_png_id": "1CJOfP3ujD_74OtcqME2HnTm-oM42cTp2",
+      "source_png_sha256": "5541f3b0beb963f7b02842f05b58602030af3cd726ab0f581e4721cc05cdcd33",
+      "source_png_status": "REVIEW_CANDIDATE",
+      "svg_filename": "Book1_Pages10-11_REV2_LAYERED_EDITABLE_TEXT_REVIEW.svg",
+      "svg_id": "1JZKheuVOwDx_r46nJ6XQmRffaQn9OkCu",
+      "svg_url": "https://drive.google.com/file/d/1JZKheuVOwDx_r46nJ6XQmRffaQn9OkCu/view",
+      "svg_sha256": "9face9eade1fb9699ea57ae96f6bf44e1e01ce4db4c2f4ef506947696514de8f",
+      "svg_bytes": 27234673,
+      "svg_status": "REVIEW_REQUIRED",
+      "folder_id": "1EPuU_4HGVv0cTIM6vUTnUFpyVSz_VVyq",
+      "folder_url": "https://drive.google.com/drive/folders/1EPuU_4HGVv0cTIM6vUTnUFpyVSz_VVyq",
+      "live_text_lines": 11,
+      "repair_layers": 0,
+      "separate_branding_objects": 0,
+      "text_layout": [
+        {
+          "pages": "10-11",
+          "side": "left",
+          "lines": [
+            {
+              "text": "Before anyone went farther, Mr. Brooks gathered the group",
+              "box": [
+                186,
+                95,
+                2131,
+                167
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 152,
+              "font_size": 75,
+              "match_score": 0.46798,
+              "ink_box": [
+                180,
+                95,
+                2121,
+                167
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "beside the visitor entrance. “Every project starts with safety,”",
+              "box": [
+                185,
+                177,
+                2192,
+                249
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 234,
+              "font_size": 75,
+              "match_score": 0.70601,
+              "ink_box": [
+                180,
+                177,
+                2177,
+                249
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "he said. He showed them the rules. Hard hats. High-visibility",
+              "box": [
+                185,
+                259,
+                2178,
+                330
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 315,
+              "font_size": 75,
+              "match_score": 0.74318,
+              "ink_box": [
+                180,
+                259,
+                2174,
+                330
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "vests. Proper shoes. Stay with the group. Stay behind",
+              "box": [
+                181,
+                341,
+                1945,
+                412
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 397,
+              "font_size": 75,
+              "match_score": 0.72572,
+              "ink_box": [
+                180,
+                341,
+                1943,
+                412
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "barricades. Watch for moving equipment. “Construction sites",
+              "box": [
+                185,
+                423,
+                2208,
+                495
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 480,
+              "font_size": 75,
+              "match_score": 0.80753,
+              "ink_box": [
+                180,
+                423,
+                2207,
+                495
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "can be exciting,” Mr. Brooks said, “but we never let excitement",
+              "box": [
+                183,
+                505,
+                2239,
+                577
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 562,
+              "font_size": 75,
+              "match_score": 0.57083,
+              "ink_box": [
+                180,
+                505,
+                2224,
+                577
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "make us forget safety.”",
+              "box": [
+                185,
+                587,
+                953,
+                659
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 644,
+              "font_size": 75,
+              "match_score": 0.7898,
+              "ink_box": [
+                180,
+                587,
+                940,
+                659
+              ],
+              "fill": "#173752"
+            }
+          ]
+        },
+        {
+          "pages": "10-11",
+          "side": "right",
+          "lines": [
+            {
+              "text": "Leo was still watching the excavator. He started forward",
+              "box": [
+                2826,
+                95,
+                4689,
+                167
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 152,
+              "font_size": 75,
+              "match_score": 0.60384,
+              "ink_box": [
+                2820,
+                95,
+                4685,
+                167
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "before fastening his vest. “Leo,” Vinny said. Leo stopped. Vinny",
+              "box": [
+                2825,
+                177,
+                4911,
+                249
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 234,
+              "font_size": 75,
+              "match_score": 0.4553,
+              "ink_box": [
+                2820,
+                177,
+                4900,
+                249
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "pointed to the open vest. “Oh.” Leo fastened it. Vinny nodded.",
+              "box": [
+                2825,
+                259,
+                4855,
+                331
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 316,
+              "font_size": 75,
+              "match_score": 0.50402,
+              "ink_box": [
+                2820,
+                259,
+                4848,
+                331
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "“Machines come after PPE.” Mr. Brooks smiled. “Good catch.”",
+              "box": [
+                2823,
+                341,
+                4875,
+                399
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 398,
+              "font_size": 75,
+              "match_score": 0.45556,
+              "ink_box": [
+                2820,
+                341,
+                4856,
+                399
+              ],
+              "fill": "#173752"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pages": "12-13",
+      "source_revision": 4,
+      "source_png": "Book1_Pages12-13_REV4_PEOPLE_REPAIRS_REVIEW.png",
+      "source_png_id": "1CXzy4hhj15cBJ0kVQ5x4zqCtmrJjQU4b",
+      "source_png_sha256": "051bb47d667b98e5340c919c2000575fb76b64cb92a5d856209042b3355714c4",
+      "source_png_status": "VERSION B - REVIEW REQUIRED",
+      "svg_filename": "Book1_Pages12-13_REV4_LAYERED_EDITABLE_TEXT_REVIEW.svg",
+      "svg_id": "1zaVUD3zErmruHUafrRHKJiTh3ekQzVl1",
+      "svg_url": "https://drive.google.com/file/d/1zaVUD3zErmruHUafrRHKJiTh3ekQzVl1/view",
+      "svg_sha256": "f3b3a27bc62b948f9533d1b244ed15c6a789d64c73c7c65b0e44fdbe75286bf5",
+      "svg_bytes": 27499173,
+      "svg_status": "REVIEW_REQUIRED",
+      "folder_id": "1ocQKrDu468JwHEP4l4CiIYGuIQRmy6sq",
+      "folder_url": "https://drive.google.com/drive/folders/1ocQKrDu468JwHEP4l4CiIYGuIQRmy6sq",
+      "live_text_lines": 15,
+      "repair_layers": 1,
+      "separate_branding_objects": 0,
+      "text_layout": [
+        {
+          "pages": "12-13",
+          "side": "left",
+          "lines": [
+            {
+              "text": "Ms. Rivera reached into a small box. “There’s one more thing",
+              "box": [
+                186,
+                95,
+                2192,
+                167
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 152,
+              "font_size": 75,
+              "match_score": 0.54272,
+              "ink_box": [
+                180,
+                95,
+                2181,
+                167
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "we give people when they join a project.” She held up a small",
+              "box": [
+                182,
+                173,
+                2192,
+                252
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 233,
+              "font_size": 75,
+              "match_score": 0.59527,
+              "ink_box": [
+                180,
+                177,
+                2185,
+                248
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "round sticker. It showed the future fire station. Around the",
+              "box": [
+                185,
+                259,
+                2102,
+                317
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 316,
+              "font_size": 75,
+              "match_score": 0.43125,
+              "ink_box": [
+                180,
+                259,
+                2092,
+                317
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "edge it read: MIDDLE CREEK FIRE & RESCUE. And across the",
+              "box": [
+                183,
+                341,
+                2190,
+                412
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 397,
+              "font_size": 75,
+              "match_score": 0.82362,
+              "ink_box": [
+                180,
+                341,
+                2187,
+                412
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "bottom: STATION NO. 2. Leo’s eyes widened. “For our hard",
+              "box": [
+                185,
+                423,
+                2130,
+                495
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 480,
+              "font_size": 75,
+              "match_score": 0.53164,
+              "ink_box": [
+                180,
+                423,
+                2108,
+                495
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "hats?” “For your hard hats,” Ms. Rivera said.",
+              "box": [
+                185,
+                505,
+                1622,
+                577
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 562,
+              "font_size": 75,
+              "match_score": 0.57375,
+              "ink_box": [
+                180,
+                505,
+                1616,
+                577
+              ],
+              "fill": "#173752"
+            }
+          ]
+        },
+        {
+          "pages": "12-13",
+          "side": "right",
+          "lines": [
+            {
+              "text": "“This sticker represents the project you’re going to follow from",
+              "box": [
+                2824,
+                95,
+                4891,
+                167
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 152,
+              "font_size": 75,
+              "match_score": 0.65016,
+              "ink_box": [
+                2820,
+                95,
+                4887,
+                167
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "the ground up.” One by one, the kids placed their stickers",
+              "box": [
+                2820,
+                177,
+                4702,
+                248
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 233,
+              "font_size": 75,
+              "match_score": 0.66007,
+              "ink_box": [
+                2820,
+                177,
+                4695,
+                248
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "wherever they wanted. Ben carefully lined his up. Maya",
+              "box": [
+                2822,
+                259,
+                4630,
+                331
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 316,
+              "font_size": 75,
+              "match_score": 0.88329,
+              "ink_box": [
+                2820,
+                259,
+                4632,
+                331
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "checked hers twice before pressing it down. Steph picked the",
+              "box": [
+                2823,
+                341,
+                4855,
+                413
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 398,
+              "font_size": 75,
+              "match_score": 0.78645,
+              "ink_box": [
+                2820,
+                341,
+                4853,
+                413
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "spot that looked best. Leo stuck his on quickly and grinned.",
+              "box": [
+                2824,
+                423,
+                4787,
+                494
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 479,
+              "font_size": 75,
+              "match_score": 0.76354,
+              "ink_box": [
+                2820,
+                423,
+                4789,
+                494
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "Vinny made sure his did not cover anything important. Mr.",
+              "box": [
+                2821,
+                505,
+                4734,
+                576
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 561,
+              "font_size": 75,
+              "match_score": 0.88289,
+              "ink_box": [
+                2820,
+                505,
+                4736,
+                576
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "Brooks nodded. “Now remember where you put them. Project",
+              "box": [
+                2826,
+                587,
+                4856,
+                659
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 644,
+              "font_size": 75,
+              "match_score": 0.76313,
+              "ink_box": [
+                2820,
+                587,
+                4852,
+                659
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "stickers stay with you.” The kids looked at one another’s hard",
+              "box": [
+                2824,
+                669,
+                4850,
+                740
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 725,
+              "font_size": 75,
+              "match_score": 0.46413,
+              "ink_box": [
+                2820,
+                669,
+                4836,
+                740
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "hats. Their first project had officially begun.",
+              "box": [
+                2825,
+                751,
+                4260,
+                823
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 808,
+              "font_size": 75,
+              "match_score": 0.50615,
+              "ink_box": [
+                2820,
+                751,
+                4254,
+                823
+              ],
+              "fill": "#173752"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pages": "14-15",
+      "source_revision": 3,
+      "source_png": "Book1_Pages14-15_REV3_PEOPLE_REPAIRS_REVIEW.png",
+      "source_png_id": "1R4ACXIo0u8Ii0-g4-TZLlD-OQypglTh5",
+      "source_png_sha256": "c502187e13df08675285e4f63dcf1877fbf0672bd5304023330cb81b08a504e2",
+      "source_png_status": "VERSION B - REVIEW REQUIRED",
+      "svg_filename": "Book1_Pages14-15_REV3_LAYERED_EDITABLE_TEXT_REVIEW.svg",
+      "svg_id": "1S_q-GtuEQSn_vo-Oa__ZXEVG0_gEH4zp",
+      "svg_url": "https://drive.google.com/file/d/1S_q-GtuEQSn_vo-Oa__ZXEVG0_gEH4zp/view",
+      "svg_sha256": "a6840fe5fbcfcb97f8d5f9e0699c66f52181615b47c166c53473344ad800b944",
+      "svg_bytes": 31515755,
+      "svg_status": "REVIEW_REQUIRED",
+      "folder_id": "1dg7g6Ln1cj2aWCcLnyQojRBlJ2LZcX5M",
+      "folder_url": "https://drive.google.com/drive/folders/1dg7g6Ln1cj2aWCcLnyQojRBlJ2LZcX5M",
+      "live_text_lines": 8,
+      "repair_layers": 2,
+      "separate_branding_objects": 1,
+      "text_layout": [
+        {
+          "pages": "14-15",
+          "side": "left",
+          "lines": [
+            {
+              "text": "Nearby, a surveyor showed the kids small wooden stakes and",
+              "box": [
+                186,
+                95,
+                2220,
+                166
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 151,
+              "font_size": 75,
+              "match_score": 0.75983,
+              "ink_box": [
+                180,
+                95,
+                2216,
+                166
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "bright marks painted on the ground. “These tell us exactly",
+              "box": [
+                185,
+                177,
+                2093,
+                249
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 234,
+              "font_size": 75,
+              "match_score": 0.79898,
+              "ink_box": [
+                180,
+                177,
+                2090,
+                249
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "where the building belongs,” she explained. Maya looked",
+              "box": [
+                182,
+                259,
+                2050,
+                330
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 315,
+              "font_size": 75,
+              "match_score": 0.49633,
+              "ink_box": [
+                180,
+                259,
+                2046,
+                330
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "surprised. “A whole building from little sticks?” “And very",
+              "box": [
+                183,
+                341,
+                2057,
+                413
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 398,
+              "font_size": 75,
+              "match_score": 0.66004,
+              "ink_box": [
+                180,
+                341,
+                2049,
+                413
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "careful measurements,” said the surveyor.",
+              "box": [
+                183,
+                423,
+                1575,
+                495
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 480,
+              "font_size": 75,
+              "match_score": 0.53449,
+              "ink_box": [
+                180,
+                423,
+                1566,
+                495
+              ],
+              "fill": "#173752"
+            }
+          ]
+        },
+        {
+          "pages": "14-15",
+          "side": "right",
+          "lines": [
+            {
+              "text": "She showed Maya how the distances on the site matched the",
+              "box": [
+                2823,
+                95,
+                4858,
+                166
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 151,
+              "font_size": 75,
+              "match_score": 0.76338,
+              "ink_box": [
+                2820,
+                95,
+                4855,
+                166
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "numbers on the plan. Maya checked one measurement. Then",
+              "box": [
+                2825,
+                177,
+                4849,
+                248
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 233,
+              "font_size": 75,
+              "match_score": 0.77184,
+              "ink_box": [
+                2820,
+                177,
+                4848,
+                248
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "another. Her eyes narrowed. She liked things to be exact.",
+              "box": [
+                2824,
+                259,
+                4707,
+                330
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 315,
+              "font_size": 75,
+              "match_score": 0.69497,
+              "ink_box": [
+                2820,
+                259,
+                4701,
+                330
+              ],
+              "fill": "#173752"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pages": "16-17",
+      "source_revision": 3,
+      "source_png": "Book1_Pages16-17_REV3_PEOPLE_REPAIRS_REVIEW.png",
+      "source_png_id": "1U0OKGteSCcCrpzHM8QVPfOwPjb0BcYDl",
+      "source_png_sha256": "9c3efdc66e775945037861a4b6a1845899a94b7d08854e5e3788201714364ae0",
+      "source_png_status": "VERSION B - REVIEW REQUIRED",
+      "svg_filename": "Book1_Pages16-17_REV3_LAYERED_EDITABLE_TEXT_REVIEW.svg",
+      "svg_id": "1nKLFfzJHzPAtHVTTpWrXjU-ztGvFZlma",
+      "svg_url": "https://drive.google.com/file/d/1nKLFfzJHzPAtHVTTpWrXjU-ztGvFZlma/view",
+      "svg_sha256": "7857f2df3634e1660d71df4b4b91d3f84a1ca893d5db61cb9b1de0f784716c54",
+      "svg_bytes": 27956019,
+      "svg_status": "REVIEW_REQUIRED",
+      "folder_id": "1-X5JqPqHd25K0EOb89NqFo89octrGmKa",
+      "folder_url": "https://drive.google.com/drive/folders/1-X5JqPqHd25K0EOb89NqFo89octrGmKa",
+      "live_text_lines": 7,
+      "repair_layers": 1,
+      "separate_branding_objects": 1,
+      "text_layout": [
+        {
+          "pages": "16-17",
+          "side": "left",
+          "lines": [
+            {
+              "text": "Steph held the fire station drawing in front of her. She looked",
+              "box": [
+                183,
+                95,
+                2194,
+                167
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 152,
+              "font_size": 75,
+              "match_score": 0.56705,
+              "ink_box": [
+                180,
+                95,
+                2185,
+                167
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "at the empty dirt lot. Then back at the drawing. “There will be",
+              "box": [
+                184,
+                177,
+                2195,
+                249
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 234,
+              "font_size": 75,
+              "match_score": 0.72505,
+              "ink_box": [
+                180,
+                177,
+                2191,
+                249
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "three big truck doors over there,” she said. She pointed. “And",
+              "box": [
+                180,
+                259,
+                2191,
+                331
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 316,
+              "font_size": 75,
+              "match_score": 0.51405,
+              "ink_box": [
+                180,
+                259,
+                2179,
+                331
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "the entrance will be here.”",
+              "box": [
+                180,
+                341,
+                1036,
+                398
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 397,
+              "font_size": 75,
+              "match_score": 0.87933,
+              "ink_box": [
+                180,
+                341,
+                1030,
+                398
+              ],
+              "fill": "#173752"
+            }
+          ]
+        },
+        {
+          "pages": "16-17",
+          "side": "right",
+          "lines": [
+            {
+              "text": "For a moment, Steph could almost see it. Walls. Windows. Fire",
+              "box": [
+                2826,
+                95,
+                4896,
+                166
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 151,
+              "font_size": 75,
+              "match_score": 0.6362,
+              "ink_box": [
+                2820,
+                95,
+                4890,
+                166
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "trucks. Firefighters hurrying in and out. Leo squinted. “I still see",
+              "box": [
+                2820,
+                177,
+                4910,
+                249
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 234,
+              "font_size": 75,
+              "match_score": 0.84081,
+              "ink_box": [
+                2820,
+                177,
+                4909,
+                249
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "dirt.” Steph smiled. “You have to imagine it first.”",
+              "box": [
+                2823,
+                259,
+                4433,
+                331
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 316,
+              "font_size": 75,
+              "match_score": 0.52299,
+              "ink_box": [
+                2820,
+                259,
+                4413,
+                331
+              ],
+              "fill": "#173752"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pages": "18-19",
+      "source_revision": 3,
+      "source_png": "Book1_Pages18-19_REV3_PEOPLE_REPAIRS_REVIEW.png",
+      "source_png_id": "1uTFRrYeacUJL9vJXgFuuxIuP2bcrv-Jr",
+      "source_png_sha256": "492b48bf1aae96f8929fc87ecf2ea411a8f098a11b715c7f9de40b375366261b",
+      "source_png_status": "VERSION B - REVIEW REQUIRED",
+      "svg_filename": "Book1_Pages18-19_REV3_LAYERED_EDITABLE_TEXT_REVIEW.svg",
+      "svg_id": "1-F9UjNxHsxmMBfboqzoJR2fdNxJu33IB",
+      "svg_url": "https://drive.google.com/file/d/1-F9UjNxHsxmMBfboqzoJR2fdNxJu33IB/view",
+      "svg_sha256": "7bff2f6ac12505c0f74abe657291694ebf5a98de07104c081bff5bac04ed7c4d",
+      "svg_bytes": 40072286,
+      "svg_status": "REVIEW_REQUIRED",
+      "folder_id": "17kHPE53RNBAHTn5WzN2PuqUvdpm1mgAg",
+      "folder_url": "https://drive.google.com/drive/folders/17kHPE53RNBAHTn5WzN2PuqUvdpm1mgAg",
+      "live_text_lines": 8,
+      "repair_layers": 2,
+      "separate_branding_objects": 2,
+      "text_layout": [
+        {
+          "pages": "18-19",
+          "side": "left",
+          "lines": [
+            {
+              "text": "Maya looked at one of the layout points again. Then she",
+              "box": [
+                186,
+                95,
+                2039,
+                167
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 152,
+              "font_size": 75,
+              "match_score": 0.65576,
+              "ink_box": [
+                180,
+                95,
+                2033,
+                167
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "checked the plan. Then the measurement. Then the plan again.",
+              "box": [
+                183,
+                177,
+                2267,
+                248
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 233,
+              "font_size": 75,
+              "match_score": 0.63216,
+              "ink_box": [
+                180,
+                177,
+                2265,
+                248
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "“That’s strange.” Ben walked over. “What is?” “This point",
+              "box": [
+                183,
+                259,
+                2048,
+                331
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 316,
+              "font_size": 75,
+              "match_score": 0.42341,
+              "ink_box": [
+                180,
+                259,
+                2027,
+                331
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "should be farther away.”",
+              "box": [
+                183,
+                341,
+                983,
+                413
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 398,
+              "font_size": 75,
+              "match_score": 0.87951,
+              "ink_box": [
+                180,
+                341,
+                977,
+                413
+              ],
+              "fill": "#173752"
+            }
+          ]
+        },
+        {
+          "pages": "18-19",
+          "side": "right",
+          "lines": [
+            {
+              "text": "Ben checked the drawing. Steph looked toward the future",
+              "box": [
+                2826,
+                95,
+                4720,
+                167
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 152,
+              "font_size": 75,
+              "match_score": 0.71119,
+              "ink_box": [
+                2820,
+                95,
+                4716,
+                167
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "fire-truck driveway. “If the building moved that way,” she said,",
+              "box": [
+                2822,
+                177,
+                4847,
+                249
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 234,
+              "font_size": 75,
+              "match_score": 0.58475,
+              "ink_box": [
+                2820,
+                177,
+                4830,
+                249
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "“wouldn’t the driveway get smaller?” Maya nodded. Ben looked",
+              "box": [
+                2823,
+                259,
+                4894,
+                331
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 316,
+              "font_size": 75,
+              "match_score": 0.80033,
+              "ink_box": [
+                2820,
+                259,
+                4893,
+                331
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "toward Ms. Rivera. “We should ask.”",
+              "box": [
+                2820,
+                341,
+                4017,
+                399
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 398,
+              "font_size": 75,
+              "match_score": 0.67385,
+              "ink_box": [
+                2820,
+                341,
+                4007,
+                399
+              ],
+              "fill": "#173752"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pages": "20-21",
+      "source_revision": 3,
+      "source_png": "Book1_Pages20-21_REV3_PEOPLE_REPAIRS_REVIEW.png",
+      "source_png_id": "1PbRIyH1Rkr8TiVCXut1uh6Fyw81Q0YiI",
+      "source_png_sha256": "a54244b203922f33ccb6c0a54076140230f823707f2d5743a2887540271cc6f9",
+      "source_png_status": "VERSION B - REVIEW REQUIRED",
+      "svg_filename": "Book1_Pages20-21_REV3_LAYERED_EDITABLE_TEXT_REVIEW.svg",
+      "svg_id": "1c2ukdvJNZP5WH9KIqsZHvxCVYEUiJgWV",
+      "svg_url": "https://drive.google.com/file/d/1c2ukdvJNZP5WH9KIqsZHvxCVYEUiJgWV/view",
+      "svg_sha256": "2c6754c1026f7482e36a10315d152074dc0507114fd689547f93de9888715607",
+      "svg_bytes": 29128505,
+      "svg_status": "REVIEW_REQUIRED",
+      "folder_id": "1FSusxKTjpl2BgRi8yWqGgLZaRU039wvI",
+      "folder_url": "https://drive.google.com/drive/folders/1FSusxKTjpl2BgRi8yWqGgLZaRU039wvI",
+      "live_text_lines": 8,
+      "repair_layers": 2,
+      "separate_branding_objects": 1,
+      "text_layout": [
+        {
+          "pages": "20-21",
+          "side": "left",
+          "lines": [
+            {
+              "text": "Ben approached Ms. Rivera. “Maya found something we don’t",
+              "box": [
+                186,
+                95,
+                2222,
+                167
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 152,
+              "font_size": 75,
+              "match_score": 0.7434,
+              "ink_box": [
+                180,
+                95,
+                2217,
+                167
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "understand.” Ms. Rivera did not laugh. She did not guess. She",
+              "box": [
+                185,
+                177,
+                2219,
+                248
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 233,
+              "font_size": 75,
+              "match_score": 0.6941,
+              "ink_box": [
+                180,
+                177,
+                2212,
+                248
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "said, “Show me.” The surveyor checked the measurements. Mr.",
+              "box": [
+                184,
+                259,
+                2274,
+                331
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 316,
+              "font_size": 75,
+              "match_score": 0.62587,
+              "ink_box": [
+                180,
+                259,
+                2261,
+                331
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "Jackson inspected the stake.",
+              "box": [
+                182,
+                341,
+                1148,
+                412
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 397,
+              "font_size": 75,
+              "match_score": 0.91774,
+              "ink_box": [
+                180,
+                341,
+                1151,
+                412
+              ],
+              "fill": "#173752"
+            }
+          ]
+        },
+        {
+          "pages": "20-21",
+          "side": "right",
+          "lines": [
+            {
+              "text": "Then he noticed tire tracks nearby. “Aha.” The stake had been",
+              "box": [
+                2822,
+                95,
+                4861,
+                167
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 152,
+              "font_size": 75,
+              "match_score": 0.5428,
+              "ink_box": [
+                2820,
+                95,
+                4842,
+                167
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "bumped and was leaning away from its correct location. The",
+              "box": [
+                2825,
+                177,
+                4827,
+                249
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 234,
+              "font_size": 75,
+              "match_score": 0.82915,
+              "ink_box": [
+                2820,
+                177,
+                4825,
+                249
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "surveyor reset the point and checked again. “Now it matches.”",
+              "box": [
+                2823,
+                259,
+                4883,
+                331
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 316,
+              "font_size": 75,
+              "match_score": 0.78543,
+              "ink_box": [
+                2820,
+                259,
+                4873,
+                331
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "Ms. Rivera smiled. “Good question, team.”",
+              "box": [
+                2826,
+                341,
+                4215,
+                413
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 398,
+              "font_size": 75,
+              "match_score": 0.76554,
+              "ink_box": [
+                2820,
+                341,
+                4206,
+                413
+              ],
+              "fill": "#173752"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pages": "22-23",
+      "source_revision": 2,
+      "source_png": "Book1_Pages22-23_REV2_PEOPLE_REPAIRS_REVIEW.png",
+      "source_png_id": "1iYDaMe6iWLUICy7uUc-orHpmrDAHZ8UW",
+      "source_png_sha256": "4aad65d58d22f477b4f3cbbd57f58349e374d8902091d8ad1e6ede2fb40ebd9b",
+      "source_png_status": "VERSION B - REVIEW REQUIRED",
+      "svg_filename": "Book1_Pages22-23_REV2_LAYERED_EDITABLE_TEXT_REVIEW.svg",
+      "svg_id": "1bbmHMUCZTzBtXIG6TiG8Buxb4k-1Hn8s",
+      "svg_url": "https://drive.google.com/file/d/1bbmHMUCZTzBtXIG6TiG8Buxb4k-1Hn8s/view",
+      "svg_sha256": "be9b9f7588150443e55eef16579183f4d921ffd4ab5d6c57d5414d12246223af",
+      "svg_bytes": 25887924,
+      "svg_status": "REVIEW_REQUIRED",
+      "folder_id": "16OXOfpN9W5KmKdREiFWzQmhnc4WOvok0",
+      "folder_url": "https://drive.google.com/drive/folders/16OXOfpN9W5KmKdREiFWzQmhnc4WOvok0",
+      "live_text_lines": 8,
+      "repair_layers": 1,
+      "separate_branding_objects": 2,
+      "text_layout": [
+        {
+          "pages": "22-23",
+          "side": "left",
+          "lines": [
+            {
+              "text": "Dr. Patel joined them. “What would happen if nobody checked",
+              "box": [
+                186,
+                95,
+                2222,
+                167
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 152,
+              "font_size": 75,
+              "match_score": 0.82819,
+              "ink_box": [
+                180,
+                95,
+                2220,
+                167
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "it?” Maya asked. Dr. Patel pointed toward the ground. “If the",
+              "box": [
+                185,
+                177,
+                2161,
+                249
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 234,
+              "font_size": 75,
+              "match_score": 0.57918,
+              "ink_box": [
+                180,
+                177,
+                2152,
+                249
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "foundation started in the wrong place, everything above it",
+              "box": [
+                182,
+                259,
+                2082,
+                331
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 316,
+              "font_size": 75,
+              "match_score": 0.92031,
+              "ink_box": [
+                180,
+                259,
+                2084,
+                331
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "could be affected.” “The walls?” asked Steph. “Yes.”",
+              "box": [
+                183,
+                341,
+                1899,
+                413
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 398,
+              "font_size": 75,
+              "match_score": 0.51138,
+              "ink_box": [
+                180,
+                341,
+                1880,
+                413
+              ],
+              "fill": "#173752"
+            }
+          ]
+        },
+        {
+          "pages": "22-23",
+          "side": "right",
+          "lines": [
+            {
+              "text": "“The driveway?” asked Ben. “That too.” Leo looked at the",
+              "box": [
+                2824,
+                95,
+                4700,
+                167
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 152,
+              "font_size": 75,
+              "match_score": 0.57907,
+              "ink_box": [
+                2820,
+                95,
+                4687,
+                167
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "excavator. “So even that giant machine could dig in the wrong",
+              "box": [
+                2823,
+                177,
+                4866,
+                249
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 234,
+              "font_size": 75,
+              "match_score": 0.76296,
+              "ink_box": [
+                2820,
+                177,
+                4860,
+                249
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "place?” Dr. Patel nodded. Maya smiled. “Measure twice. Build",
+              "box": [
+                2825,
+                259,
+                4851,
+                331
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 316,
+              "font_size": 75,
+              "match_score": 0.71126,
+              "ink_box": [
+                2820,
+                259,
+                4848,
+                331
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "once.”",
+              "box": [
+                2823,
+                341,
+                3027,
+                398
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 397,
+              "font_size": 75,
+              "match_score": 0.89142,
+              "ink_box": [
+                2820,
+                341,
+                3024,
+                398
+              ],
+              "fill": "#173752"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pages": "24-25",
+      "source_revision": 2,
+      "source_png": "Book1_Pages24-25_REV2_PEOPLE_REPAIRS_REVIEW.png",
+      "source_png_id": "1WLD0w4K6EfUmLyzYiTVQE8-x2Cy2RgqS",
+      "source_png_sha256": "6a55bcdb326f768b3489f96cb983eff4ab831e2dcb4a18cc4b7ce66d61c89532",
+      "source_png_status": "VERSION B - REVIEW REQUIRED",
+      "svg_filename": "Book1_Pages24-25_REV2_LAYERED_EDITABLE_TEXT_REVIEW.svg",
+      "svg_id": "1WfdI8vb9gWluWhfckOWFGqIGT4R3ExyF",
+      "svg_url": "https://drive.google.com/file/d/1WfdI8vb9gWluWhfckOWFGqIGT4R3ExyF/view",
+      "svg_sha256": "dc5297ac5315e4010c59f66ac4dbf54747c24b3b964b4c33c6c31a18ccf4fe48",
+      "svg_bytes": 33524608,
+      "svg_status": "REVIEW_REQUIRED",
+      "folder_id": "1Mz5ULynzY8w-NN4bbVz6cplk-G7vlqdG",
+      "folder_url": "https://drive.google.com/drive/folders/1Mz5ULynzY8w-NN4bbVz6cplk-G7vlqdG",
+      "live_text_lines": 9,
+      "repair_layers": 1,
+      "separate_branding_objects": 2,
+      "text_layout": [
+        {
+          "pages": "24-25",
+          "side": "left",
+          "lines": [
+            {
+              "text": "Once the layout was checked, the excavator began to work.",
+              "box": [
+                184,
+                95,
+                2145,
+                166
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 151,
+              "font_size": 75,
+              "match_score": 0.64143,
+              "ink_box": [
+                180,
+                95,
+                2142,
+                166
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "Leo could hardly stand still. The bucket dug into the soil.",
+              "box": [
+                186,
+                177,
+                2045,
+                248
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 233,
+              "font_size": 75,
+              "match_score": 0.73876,
+              "ink_box": [
+                180,
+                177,
+                2045,
+                248
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "Scoop. Lift. Swing. Dump. Mr. Jackson pointed toward the",
+              "box": [
+                183,
+                259,
+                2111,
+                331
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 316,
+              "font_size": 75,
+              "match_score": 0.61902,
+              "ink_box": [
+                180,
+                259,
+                2106,
+                331
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "marks on the ground.",
+              "box": [
+                185,
+                341,
+                884,
+                412
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 397,
+              "font_size": 75,
+              "match_score": 0.90437,
+              "ink_box": [
+                180,
+                341,
+                889,
+                412
+              ],
+              "fill": "#173752"
+            }
+          ]
+        },
+        {
+          "pages": "24-25",
+          "side": "right",
+          "lines": [
+            {
+              "text": "“The operator isn’t just digging anywhere. The crew follows the",
+              "box": [
+                2823,
+                95,
+                4905,
+                167
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 152,
+              "font_size": 75,
+              "match_score": 0.68462,
+              "ink_box": [
+                2820,
+                95,
+                4898,
+                167
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "layout and the correct depth.” Leo watched carefully. “So the",
+              "box": [
+                2826,
+                177,
+                4825,
+                249
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 234,
+              "font_size": 75,
+              "match_score": 0.47094,
+              "ink_box": [
+                2820,
+                177,
+                4812,
+                249
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "machine is huge...” Mr. Jackson nodded. “...but the",
+              "box": [
+                2825,
+                259,
+                4487,
+                331
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 316,
+              "font_size": 75,
+              "match_score": 0.74011,
+              "ink_box": [
+                2820,
+                259,
+                4497,
+                331
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "measurements still have to be exact.” Leo grinned. “That",
+              "box": [
+                2825,
+                341,
+                4698,
+                413
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 398,
+              "font_size": 75,
+              "match_score": 0.53004,
+              "ink_box": [
+                2820,
+                341,
+                4687,
+                413
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "makes it even cooler.”",
+              "box": [
+                2825,
+                423,
+                3553,
+                480
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 479,
+              "font_size": 75,
+              "match_score": 0.78144,
+              "ink_box": [
+                2820,
+                423,
+                3541,
+                480
+              ],
+              "fill": "#173752"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pages": "26-27",
+      "source_revision": 2,
+      "source_png": "Book1_Pages26-27_REV2_PEOPLE_REPAIRS_REVIEW.png",
+      "source_png_id": "19P3nwtruKSl-R7RuXaGqRekdoFdeA0FF",
+      "source_png_sha256": "51452700823e8f03f85f3cf316827972189ff8b4e2ebad4598aa533c54251167",
+      "source_png_status": "VERSION B - REVIEW REQUIRED",
+      "svg_filename": "Book1_Pages26-27_REV2_LAYERED_EDITABLE_TEXT_REVIEW.svg",
+      "svg_id": "1R0horqRgq_FR6JI4HZs1D4CGpIrTkAmx",
+      "svg_url": "https://drive.google.com/file/d/1R0horqRgq_FR6JI4HZs1D4CGpIrTkAmx/view",
+      "svg_sha256": "db0c2166888db117f8a977e9448f9abc2a2a49b0f3fe5843a38273eba1711fec",
+      "svg_bytes": 36724180,
+      "svg_status": "REVIEW_REQUIRED",
+      "folder_id": "1ltoYiLdIIb8qrj1aYUd5UMahqKlPml-q",
+      "folder_url": "https://drive.google.com/drive/folders/1ltoYiLdIIb8qrj1aYUd5UMahqKlPml-q",
+      "live_text_lines": 8,
+      "repair_layers": 1,
+      "separate_branding_objects": 0,
+      "text_layout": [
+        {
+          "pages": "26-27",
+          "side": "left",
+          "lines": [
+            {
+              "text": "Soon, the kids saw pipes and conduits being placed below the",
+              "box": [
+                183,
+                95,
+                2236,
+                166
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 151,
+              "font_size": 75,
+              "match_score": 0.91373,
+              "ink_box": [
+                180,
+                95,
+                2236,
+                166
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "future floor. Leo tilted his head. “Why put those down there",
+              "box": [
+                182,
+                177,
+                2132,
+                249
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 234,
+              "font_size": 75,
+              "match_score": 0.67082,
+              "ink_box": [
+                180,
+                177,
+                2123,
+                249
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "now?” Ms. Rivera pointed toward the area where concrete",
+              "box": [
+                185,
+                259,
+                2091,
+                330
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 315,
+              "font_size": 75,
+              "match_score": 0.70545,
+              "ink_box": [
+                180,
+                259,
+                2088,
+                330
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "would eventually go. “Because once we cover everything with",
+              "box": [
+                182,
+                341,
+                2206,
+                413
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 398,
+              "font_size": 75,
+              "match_score": 0.82108,
+              "ink_box": [
+                180,
+                341,
+                2209,
+                413
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "concrete, getting underneath it becomes much harder.”",
+              "box": [
+                183,
+                423,
+                2008,
+                494
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 479,
+              "font_size": 75,
+              "match_score": 0.85692,
+              "ink_box": [
+                180,
+                423,
+                1998,
+                494
+              ],
+              "fill": "#173752"
+            }
+          ]
+        },
+        {
+          "pages": "26-27",
+          "side": "right",
+          "lines": [
+            {
+              "text": "Ben looked at the schedule in her hands. “So one job has to",
+              "box": [
+                2826,
+                95,
+                4788,
+                167
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 152,
+              "font_size": 75,
+              "match_score": 0.81529,
+              "ink_box": [
+                2820,
+                95,
+                4784,
+                167
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "happen before another job can start.” “Exactly,” she said. Ben",
+              "box": [
+                2825,
+                177,
+                4846,
+                249
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 234,
+              "font_size": 75,
+              "match_score": 0.60696,
+              "ink_box": [
+                2820,
+                177,
+                4830,
+                249
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "smiled. Now that made sense.",
+              "box": [
+                2824,
+                259,
+                3826,
+                316
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 315,
+              "font_size": 75,
+              "match_score": 0.81308,
+              "ink_box": [
+                2820,
+                259,
+                3828,
+                316
+              ],
+              "fill": "#173752"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pages": "28-29",
+      "source_revision": 2,
+      "source_png": "Book1_Pages28-29_REV2_PEOPLE_REPAIRS_REVIEW.png",
+      "source_png_id": "1vz7gEtF4LCeIR-fmcGaptsXm3V7_E_r_",
+      "source_png_sha256": "4d1763eaf614de95825a0be5deda9f64075947613027ebdac79fd047c65a28b9",
+      "source_png_status": "VERSION B - REVIEW REQUIRED",
+      "svg_filename": "Book1_Pages28-29_REV2_LAYERED_EDITABLE_TEXT_REVIEW.svg",
+      "svg_id": "1J7N2uSoPn7b5FAK4JObBsEYyy51mQVxD",
+      "svg_url": "https://drive.google.com/file/d/1J7N2uSoPn7b5FAK4JObBsEYyy51mQVxD/view",
+      "svg_sha256": "8e28e1d89fded1e3db686cf3676bf3fe8bc669a33de07e89f21ce4656a9b5376",
+      "svg_bytes": 38106271,
+      "svg_status": "REVIEW_REQUIRED",
+      "folder_id": "12IUh9t1GYndKNR5iqihhMuN_reTWM_eb",
+      "folder_url": "https://drive.google.com/drive/folders/12IUh9t1GYndKNR5iqihhMuN_reTWM_eb",
+      "live_text_lines": 9,
+      "repair_layers": 1,
+      "separate_branding_objects": 2,
+      "text_layout": [
+        {
+          "pages": "28-29",
+          "side": "left",
+          "lines": [
+            {
+              "text": "Next came the reinforcing steel. Maya studied the steel bars",
+              "box": [
+                186,
+                95,
+                2179,
+                167
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 152,
+              "font_size": 75,
+              "match_score": 0.76593,
+              "ink_box": [
+                180,
+                95,
+                2176,
+                167
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "inside the forms. Dr. Patel explained, “Concrete is very strong,",
+              "box": [
+                185,
+                177,
+                2221,
+                249
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 234,
+              "font_size": 75,
+              "match_score": 0.63024,
+              "ink_box": [
+                180,
+                177,
+                2216,
+                249
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "and the steel helps it handle other forces too.” Workers",
+              "box": [
+                184,
+                259,
+                2006,
+                331
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 316,
+              "font_size": 75,
+              "match_score": 0.72065,
+              "ink_box": [
+                180,
+                259,
+                1995,
+                331
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "carefully checked the forms. They checked the steel. They",
+              "box": [
+                183,
+                341,
+                2108,
+                413
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 398,
+              "font_size": 75,
+              "match_score": 0.68313,
+              "ink_box": [
+                180,
+                341,
+                2100,
+                413
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "checked the measurements. Vinny noticed.",
+              "box": [
+                183,
+                423,
+                1609,
+                494
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 479,
+              "font_size": 75,
+              "match_score": 0.84014,
+              "ink_box": [
+                180,
+                423,
+                1612,
+                494
+              ],
+              "fill": "#173752"
+            }
+          ]
+        },
+        {
+          "pages": "28-29",
+          "side": "right",
+          "lines": [
+            {
+              "text": "“They’re checking everything again?” Mr. Brooks nodded.",
+              "box": [
+                2823,
+                95,
+                4697,
+                167
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 152,
+              "font_size": 75,
+              "match_score": 0.77559,
+              "ink_box": [
+                2820,
+                95,
+                4699,
+                167
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "“Once concrete covers it, we want to know the work",
+              "box": [
+                2823,
+                177,
+                4535,
+                245
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 234,
+              "font_size": 75,
+              "match_score": 0.70466,
+              "ink_box": [
+                2820,
+                177,
+                4529,
+                245
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "underneath is right.” Vinny approved. “Checking twice sounds",
+              "box": [
+                2825,
+                259,
+                4853,
+                331
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 316,
+              "font_size": 75,
+              "match_score": 0.62503,
+              "ink_box": [
+                2820,
+                259,
+                4850,
+                331
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "pretty safe to me.”",
+              "box": [
+                2825,
+                341,
+                3433,
+                413
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 398,
+              "font_size": 75,
+              "match_score": 0.77473,
+              "ink_box": [
+                2820,
+                341,
+                3424,
+                413
+              ],
+              "fill": "#173752"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pages": "30-31",
+      "source_revision": 2,
+      "source_png": "Book1_Pages30-31_REV2_PEOPLE_REPAIRS_REVIEW.png",
+      "source_png_id": "1FWqyGqQXyLYspWks86T8ONxxETlOIkTb",
+      "source_png_sha256": "c8d72570052a6d5d94499540a24a26c374c3e9d0cd8614414c1ee35c341067b0",
+      "source_png_status": "VERSION B - REVIEW REQUIRED",
+      "svg_filename": "Book1_Pages30-31_REV2_LAYERED_EDITABLE_TEXT_REVIEW.svg",
+      "svg_id": "1BH23u0R0qeJQSSfLSpWo9Hj3yAn7DH8V",
+      "svg_url": "https://drive.google.com/file/d/1BH23u0R0qeJQSSfLSpWo9Hj3yAn7DH8V/view",
+      "svg_sha256": "f9b7ea6acf7b6e1a2f6eb7c594cb9e955d0e378f61785b423279cdcbcc0d481f",
+      "svg_bytes": 34772394,
+      "svg_status": "REVIEW_REQUIRED",
+      "folder_id": "1xHgb7xXRQBEDjqV8w3eBJ-hbLeXoOQjp",
+      "folder_url": "https://drive.google.com/drive/folders/1xHgb7xXRQBEDjqV8w3eBJ-hbLeXoOQjp",
+      "live_text_lines": 8,
+      "repair_layers": 1,
+      "separate_branding_objects": 4,
+      "text_layout": [
+        {
+          "pages": "30-31",
+          "side": "left",
+          "lines": [
+            {
+              "text": "Then came the day Leo had been waiting for. A concrete truck",
+              "box": [
+                182,
+                95,
+                2240,
+                167
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 152,
+              "font_size": 75,
+              "match_score": 0.70093,
+              "ink_box": [
+                180,
+                95,
+                2232,
+                167
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "rumbled onto the site. “YES!” Leo whispered. The Little Specs",
+              "box": [
+                185,
+                177,
+                2210,
+                249
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 234,
+              "font_size": 75,
+              "match_score": 0.64279,
+              "ink_box": [
+                180,
+                177,
+                2205,
+                249
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "watched from behind the barricade, their Fire Station stickers",
+              "box": [
+                182,
+                259,
+                2204,
+                327
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 316,
+              "font_size": 75,
+              "match_score": 0.88779,
+              "ink_box": [
+                180,
+                259,
+                2204,
+                327
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "now part of their hard hats. Concrete filled the forms. Workers",
+              "box": [
+                185,
+                341,
+                2238,
+                413
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 398,
+              "font_size": 75,
+              "match_score": 0.64231,
+              "ink_box": [
+                180,
+                341,
+                2234,
+                413
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "guided it into place. They smoothed it. They checked it.",
+              "box": [
+                183,
+                423,
+                2006,
+                494
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 479,
+              "font_size": 75,
+              "match_score": 0.61638,
+              "ink_box": [
+                180,
+                423,
+                2003,
+                494
+              ],
+              "fill": "#173752"
+            }
+          ]
+        },
+        {
+          "pages": "30-31",
+          "side": "right",
+          "lines": [
+            {
+              "text": "Slowly, the foundation began to appear. Steph looked at her",
+              "box": [
+                2823,
+                95,
+                4801,
+                167
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 152,
+              "font_size": 75,
+              "match_score": 0.53974,
+              "ink_box": [
+                2820,
+                95,
+                4788,
+                167
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "drawing. Then at the concrete. “I can see it now,” she said. Ben",
+              "box": [
+                2823,
+                177,
+                4899,
+                249
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 234,
+              "font_size": 75,
+              "match_score": 0.60443,
+              "ink_box": [
+                2820,
+                177,
+                4885,
+                249
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "smiled. “It was there all along.” “We just needed the plan.”",
+              "box": [
+                2823,
+                259,
+                4735,
+                331
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 316,
+              "font_size": 75,
+              "match_score": 0.46569,
+              "ink_box": [
+                2820,
+                259,
+                4717,
+                331
+              ],
+              "fill": "#173752"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pages": "32-33",
+      "source_revision": 1,
+      "source_png": "Book1_Pages32-33_REV1_CANON_CHECKED_CANDIDATE.png",
+      "source_png_id": "1PRGZ_WAXRZ3Z49r8qXaKOJX5vhPa1sZ8",
+      "source_png_sha256": "0a7e73ec97698e25bc9d12a57c01d4bfed9c7b342286a280e5b5a9e137b497da",
+      "source_png_status": "REVIEW_CANDIDATE",
+      "svg_filename": "Book1_Pages32-33_REV1_LAYERED_EDITABLE_TEXT_REVIEW.svg",
+      "svg_id": "1PKIVodlAtI9BLObblrv_ko6w69yw7xI4",
+      "svg_url": "https://drive.google.com/file/d/1PKIVodlAtI9BLObblrv_ko6w69yw7xI4/view",
+      "svg_sha256": "8a587beb090b3995597f1f0c95c18aea6c8ffbf025caf79dbe2487beb0c366d6",
+      "svg_bytes": 10659083,
+      "svg_status": "REVIEW_REQUIRED",
+      "folder_id": "1ZdIekjzj-PcVRZhSaviQMlkEkDOe5Bkx",
+      "folder_url": "https://drive.google.com/drive/folders/1ZdIekjzj-PcVRZhSaviQMlkEkDOe5Bkx",
+      "live_text_lines": 35,
+      "repair_layers": 0,
+      "separate_branding_objects": 0,
+      "text_layout": [
+        {
+          "pages": "32-33",
+          "side": "left",
+          "lines": [
+            {
+              "text": "Little Specs Construction Facts",
+              "box": [
+                185,
+                110,
+                1231,
+                181
+              ],
+              "weight": 700,
+              "x": 180,
+              "baseline": 166,
+              "font_size": 75,
+              "match_score": 0.94088,
+              "ink_box": [
+                180,
+                110,
+                1232,
+                181
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "What is a foundation?",
+              "box": [
+                181,
+                210,
+                908,
+                268
+              ],
+              "weight": 700,
+              "x": 180,
+              "baseline": 267,
+              "font_size": 75,
+              "match_score": 0.92391,
+              "ink_box": [
+                180,
+                210,
+                910,
+                268
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "A foundation supports a building and helps transfer its weight",
+              "box": [
+                181,
+                292,
+                2227,
+                364
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 349,
+              "font_size": 75,
+              "match_score": 0.85586,
+              "ink_box": [
+                180,
+                292,
+                2229,
+                364
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "safely into the ground.",
+              "box": [
+                184,
+                374,
+                917,
+                446
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 431,
+              "font_size": 75,
+              "match_score": 0.84006,
+              "ink_box": [
+                180,
+                374,
+                920,
+                446
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "What does a surveyor do?",
+              "box": [
+                181,
+                474,
+                1046,
+                545
+              ],
+              "weight": 700,
+              "x": 180,
+              "baseline": 530,
+              "font_size": 75,
+              "match_score": 0.90605,
+              "ink_box": [
+                180,
+                474,
+                1046,
+                545
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "Surveyors use special tools and careful measurements to",
+              "box": [
+                183,
+                556,
+                2088,
+                628
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 613,
+              "font_size": 75,
+              "match_score": 0.76336,
+              "ink_box": [
+                180,
+                556,
+                2085,
+                628
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "determine exactly where things should be built.",
+              "box": [
+                183,
+                638,
+                1738,
+                709
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 694,
+              "font_size": 75,
+              "match_score": 0.92094,
+              "ink_box": [
+                180,
+                638,
+                1743,
+                709
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "What is rebar?",
+              "box": [
+                181,
+                738,
+                662,
+                795
+              ],
+              "weight": 700,
+              "x": 180,
+              "baseline": 794,
+              "font_size": 75,
+              "match_score": 0.91269,
+              "ink_box": [
+                180,
+                738,
+                663,
+                795
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "Rebar is reinforcing steel placed inside concrete to help make",
+              "box": [
+                186,
+                820,
+                2225,
+                892
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 877,
+              "font_size": 75,
+              "match_score": 0.85968,
+              "ink_box": [
+                180,
+                820,
+                2223,
+                892
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "it stronger.",
+              "box": [
+                185,
+                902,
+                536,
+                972
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 957,
+              "font_size": 75,
+              "match_score": 0.90555,
+              "ink_box": [
+                180,
+                902,
+                536,
+                972
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "Why do pipes sometimes go under the floor?",
+              "box": [
+                181,
+                1002,
+                1684,
+                1074
+              ],
+              "weight": 700,
+              "x": 180,
+              "baseline": 1059,
+              "font_size": 75,
+              "match_score": 0.84026,
+              "ink_box": [
+                180,
+                1002,
+                1682,
+                1074
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "Some pipes and conduits must be installed before concrete",
+              "box": [
+                183,
+                1084,
+                2159,
+                1156
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 1141,
+              "font_size": 75,
+              "match_score": 0.84916,
+              "ink_box": [
+                180,
+                1084,
+                2157,
+                1156
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "covers the area.",
+              "box": [
+                183,
+                1166,
+                707,
+                1223
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 1222,
+              "font_size": 75,
+              "match_score": 0.87793,
+              "ink_box": [
+                180,
+                1166,
+                710,
+                1223
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "Why do construction workers put stickers on hard hats?",
+              "box": [
+                181,
+                1266,
+                2052,
+                1337
+              ],
+              "weight": 700,
+              "x": 180,
+              "baseline": 1322,
+              "font_size": 75,
+              "match_score": 0.91085,
+              "ink_box": [
+                180,
+                1266,
+                2052,
+                1337
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "Project stickers can represent jobs, companies, training,",
+              "box": [
+                186,
+                1348,
+                2035,
+                1419
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 1404,
+              "font_size": 75,
+              "match_score": 0.72488,
+              "ink_box": [
+                180,
+                1348,
+                2032,
+                1419
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "milestones, or places a worker has been.",
+              "box": [
+                185,
+                1430,
+                1531,
+                1501
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 1486,
+              "font_size": 75,
+              "match_score": 0.80765,
+              "ink_box": [
+                180,
+                1430,
+                1532,
+                1501
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "The Little Specs received their Fire Station project sticker",
+              "box": [
+                182,
+                1530,
+                2075,
+                1601
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 1586,
+              "font_size": 75,
+              "match_score": 0.77715,
+              "ink_box": [
+                180,
+                1530,
+                2069,
+                1601
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "during safety orientation, just like project stickers are often",
+              "box": [
+                183,
+                1612,
+                2130,
+                1684
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 1669,
+              "font_size": 75,
+              "match_score": 0.69474,
+              "ink_box": [
+                180,
+                1612,
+                2128,
+                1684
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "handed out at real jobsites.",
+              "box": [
+                185,
+                1694,
+                1080,
+                1765
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 1750,
+              "font_size": 75,
+              "match_score": 0.8224,
+              "ink_box": [
+                180,
+                1694,
+                1082,
+                1765
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "Vinny’s Safety Corner",
+              "box": [
+                180,
+                1794,
+                910,
+                1866
+              ],
+              "weight": 700,
+              "x": 180,
+              "baseline": 1851,
+              "font_size": 75,
+              "match_score": 0.70201,
+              "ink_box": [
+                180,
+                1794,
+                902,
+                1866
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "Construction sites can be dangerous.",
+              "box": [
+                184,
+                1876,
+                1417,
+                1947
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 1932,
+              "font_size": 75,
+              "match_score": 0.88905,
+              "ink_box": [
+                180,
+                1876,
+                1421,
+                1947
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "Never enter an active construction site unless you are with an",
+              "box": [
+                186,
+                1976,
+                2218,
+                2047
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 2032,
+              "font_size": 75,
+              "match_score": 0.83243,
+              "ink_box": [
+                180,
+                1976,
+                2218,
+                2047
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "authorized adult and following the site’s safety rules.",
+              "box": [
+                184,
+                2058,
+                1927,
+                2130
+              ],
+              "weight": 400,
+              "x": 180,
+              "baseline": 2115,
+              "font_size": 75,
+              "match_score": 0.72371,
+              "ink_box": [
+                180,
+                2058,
+                1923,
+                2130
+              ],
+              "fill": "#173752"
+            }
+          ]
+        },
+        {
+          "pages": "32-33",
+          "side": "right",
+          "lines": [
+            {
+              "text": "Next Time...",
+              "box": [
+                2825,
+                110,
+                3229,
+                167
+              ],
+              "weight": 700,
+              "x": 2820,
+              "baseline": 166,
+              "font_size": 75,
+              "match_score": 0.89891,
+              "ink_box": [
+                2820,
+                110,
+                3231,
+                167
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "The foundation was ready. A truck rolled toward the site",
+              "box": [
+                2822,
+                204,
+                4677,
+                276
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 261,
+              "font_size": 75,
+              "match_score": 0.57388,
+              "ink_box": [
+                2820,
+                204,
+                4671,
+                276
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "carrying something very large. Leo stared. Maya looked at the",
+              "box": [
+                2823,
+                286,
+                4864,
+                357
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 342,
+              "font_size": 75,
+              "match_score": 0.76776,
+              "ink_box": [
+                2820,
+                286,
+                4863,
+                357
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "drawings. Steph looked up. Vinny checked the barricade. Ben",
+              "box": [
+                2823,
+                368,
+                4840,
+                439
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 424,
+              "font_size": 75,
+              "match_score": 0.87082,
+              "ink_box": [
+                2820,
+                368,
+                4842,
+                439
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "opened the schedule. Their Fire Station stickers were still on",
+              "box": [
+                2823,
+                450,
+                4817,
+                521
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 506,
+              "font_size": 75,
+              "match_score": 0.71625,
+              "ink_box": [
+                2820,
+                450,
+                4815,
+                521
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "their hard hats, exactly where each kid had placed them. The",
+              "box": [
+                2820,
+                532,
+                4826,
+                603
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 588,
+              "font_size": 75,
+              "match_score": 0.87024,
+              "ink_box": [
+                2820,
+                532,
+                4824,
+                603
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "fire station was finally ready to go...",
+              "box": [
+                2822,
+                614,
+                3998,
+                686
+              ],
+              "weight": 400,
+              "x": 2820,
+              "baseline": 671,
+              "font_size": 75,
+              "match_score": 0.74843,
+              "ink_box": [
+                2820,
+                614,
+                3994,
+                686
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "UP!",
+              "box": [
+                2824,
+                708,
+                2933,
+                762
+              ],
+              "weight": 700,
+              "x": 2820,
+              "baseline": 761,
+              "font_size": 75,
+              "match_score": 0.9621,
+              "ink_box": [
+                2820,
+                708,
+                2938,
+                762
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "Next:",
+              "box": [
+                2825,
+                802,
+                2994,
+                856
+              ],
+              "weight": 700,
+              "x": 2820,
+              "baseline": 855,
+              "font_size": 75,
+              "match_score": 0.96379,
+              "ink_box": [
+                2820,
+                802,
+                2998,
+                856
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "The Little Specs Club",
+              "box": [
+                2821,
+                896,
+                3536,
+                967
+              ],
+              "weight": 700,
+              "x": 2820,
+              "baseline": 952,
+              "font_size": 75,
+              "match_score": 0.92966,
+              "ink_box": [
+                2820,
+                896,
+                3536,
+                967
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "The Fire Station",
+              "box": [
+                2821,
+                990,
+                3352,
+                1047
+              ],
+              "weight": 700,
+              "x": 2820,
+              "baseline": 1046,
+              "font_size": 75,
+              "match_score": 0.93655,
+              "ink_box": [
+                2820,
+                990,
+                3356,
+                1047
+              ],
+              "fill": "#173752"
+            },
+            {
+              "text": "Book 2: The Fire Station Takes Shape",
+              "box": [
+                2825,
+                1084,
+                4083,
+                1155
+              ],
+              "weight": 700,
+              "x": 2820,
+              "baseline": 1140,
+              "font_size": 75,
+              "match_score": 0.67051,
+              "ink_box": [
+                2820,
+                1084,
+                4074,
+                1155
+              ],
+              "fill": "#173752"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
