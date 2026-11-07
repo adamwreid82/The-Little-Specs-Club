@@ -1,0 +1,3123 @@
+{
+  "title": "Book 1 People Repairs",
+  "date": "2026-11-07",
+  "authorization": "Adam: fix these issues",
+  "scope": "20 findings in 11 active restarted spreads, actual page numbering 02-33.",
+  "status": "VERSION B - REVIEW REQUIRED",
+  "author_approval": null,
+  "reference_approval_record_id": "11mFlXE3CBvYwBGqeJ953e5wrqOUbIgfX",
+  "current_reference_manifest_id": "1Bxc-qtRFylzc5lhOYMJClcBZJmkY1qa5",
+  "prior_audit_drive_id": "1hbjOKiUZby4VNmcl0ol81rSVRJaZC5vW",
+  "review_folder_id": "1xNu6j2qw5B0x70De9EuZg7BZKbt_IRHU",
+  "git_branch": "review/book1-people-repairs-2026-11-07",
+  "original_art_and_approvals_preserved": true,
+  "limitations": [
+    "Hidden details and back-of-vest emblems remain UNVERIFIED because these scenes do not expose them.",
+    "Exact physical height is not measurable from scene perspective. The distant excavator operator on pages 24-25 remains unidentified.",
+    "Visual inspection and pixel preservation are not print proofing or a new author approval."
+  ],
+  "source_registry_exceptions": [
+    {
+      "character": "Ben",
+      "kind": "source",
+      "id": "1lkboZGWom6Vw7et5J5__5dBivj7i2TRx",
+      "expected_sha256": "7d80c07dd66d305d1811da5dc5b20e3351b196c623ef1c3c0fc9a75795fbb08b",
+      "actual_sha256": "bd0795cea996b37f1476a6bc1e967021df89d7d06b63de0c0714a99edb46f7d3",
+      "match": false
+    },
+    {
+      "character": "Ben",
+      "kind": "profile",
+      "id": "1rhPTyBiDT9OevTiI9ncFGYR8JPbLVt6m",
+      "expected_sha256": "5fab37be1eb08aa9e71ed3087e1794a7e30f0777e23354706d6d7020d2e132a8",
+      "actual_sha256": "facf7893671101aebc46163a5f01da644f5e5702c53108425da5547739fa32dc",
+      "match": false
+    },
+    {
+      "character": "Leo",
+      "kind": "source",
+      "id": "1PmH5IMF_HI_s9y1slZM9DXbWzTYVnbGc",
+      "expected_sha256": "830158fe4a00fd6a2ec4791593ae43c5add811ec4cce3f0ba2080de7eaa319a3",
+      "actual_sha256": "17c89e174c841f0d101fd9e4d983b5a16d0231d51faa48f54cedd830506e7e7c",
+      "match": false
+    },
+    {
+      "character": "Leo",
+      "kind": "profile",
+      "id": "1JD1OTpwF7EJizHYwaE-31j-z-kMPRqbx",
+      "expected_sha256": "d2c24d0fb0d4262a738972f2e8e5972c82231db4719fab49ca1312c64e8ecd5b",
+      "actual_sha256": "d2c24d0fb0d4262a738972f2e8e5972c82231db4719fab49ca1312c64e8ecd5b",
+      "match": true
+    },
+    {
+      "character": "Vinny",
+      "kind": "source",
+      "id": "1m-mxpb7Fpu04jWj5sYVJTHxvXXPySuSa",
+      "expected_sha256": "db9e5d966fd39dcc0f242d1df93d64d3a9b2ad52672a341bf293b87c689f7219",
+      "actual_sha256": "db9e5d966fd39dcc0f242d1df93d64d3a9b2ad52672a341bf293b87c689f7219",
+      "match": true
+    },
+    {
+      "character": "Vinny",
+      "kind": "profile",
+      "id": "1vG_CJ45X87ZsYlNr-Rq2VJiuRHaTtw4S",
+      "expected_sha256": "b69e2d455657479ed9076f88c49d7462fba599e899c87a7d1d0d9f1520d4914e",
+      "actual_sha256": "b69e2d455657479ed9076f88c49d7462fba599e899c87a7d1d0d9f1520d4914e",
+      "match": true
+    },
+    {
+      "character": "Steph",
+      "kind": "source",
+      "id": "1gF-pOjdltQVujd5NyCcX-Brh-EI0vQ9j",
+      "expected_sha256": "0338ba00d3cc122c7e1baecca56b577f51b54ea4a8f24ed2b7bbbc29685b934a",
+      "actual_sha256": "0338ba00d3cc122c7e1baecca56b577f51b54ea4a8f24ed2b7bbbc29685b934a",
+      "match": true
+    },
+    {
+      "character": "Steph",
+      "kind": "profile",
+      "id": "1hzABye97w5caJMYh90wvyGXrd17gXCBS",
+      "expected_sha256": "b001f923646aaf0d875994c418460c77049612452f158ced77c568478ad7d7e8",
+      "actual_sha256": "b001f923646aaf0d875994c418460c77049612452f158ced77c568478ad7d7e8",
+      "match": true
+    },
+    {
+      "character": "Maya",
+      "kind": "source",
+      "id": "1RZtZjt-3eX0iFFcKw1ZxtnlXj3pkoerU",
+      "expected_sha256": "405c184a953d966e68f5517078feef8bf056ceb405deb17842d9c9b9ab8e180c",
+      "actual_sha256": "405c184a953d966e68f5517078feef8bf056ceb405deb17842d9c9b9ab8e180c",
+      "match": true
+    },
+    {
+      "character": "Maya",
+      "kind": "profile",
+      "id": "1nERipp0Qz3AUFuYFkJ25rOuM0UfIGnV3",
+      "expected_sha256": "f1824deec8163a56f53a01724aa45f37be0a9e3f30b15ad4239e08fff25e2d24",
+      "actual_sha256": "f1824deec8163a56f53a01724aa45f37be0a9e3f30b15ad4239e08fff25e2d24",
+      "match": true
+    },
+    {
+      "character": "Mrs-Harper",
+      "kind": "source",
+      "id": "1a8RlfOktPoAQ__pLTtLIyaA3qidnPOaD",
+      "expected_sha256": "ac95bce80c63cafa60bc088555a4cf66dfe86147ce51342185d773cee825f288",
+      "actual_sha256": "ac95bce80c63cafa60bc088555a4cf66dfe86147ce51342185d773cee825f288",
+      "match": true
+    },
+    {
+      "character": "Mrs-Harper",
+      "kind": "profile",
+      "id": "1WFn924opY9kuG2ZWYukYBI97Xm6vytu0",
+      "expected_sha256": "965c95f7659d185929cd58030805f0224f9229e6f3c81ee8544b1e98aac49d34",
+      "actual_sha256": "965c95f7659d185929cd58030805f0224f9229e6f3c81ee8544b1e98aac49d34",
+      "match": true
+    },
+    {
+      "character": "Elena-Rivera",
+      "kind": "source",
+      "id": "1LMyoOO57gA-NQxgtF5poW7UPvfVjgqjP",
+      "expected_sha256": "7607cf26c2d548a98f73a50560138f6dedd68689c0ff0cdb4fdbccc893f4aada",
+      "actual_sha256": "7607cf26c2d548a98f73a50560138f6dedd68689c0ff0cdb4fdbccc893f4aada",
+      "match": true
+    },
+    {
+      "character": "Elena-Rivera",
+      "kind": "profile",
+      "id": "1nplm3aa__GwX4zVAlZ85usrKFuijLQdX",
+      "expected_sha256": "4174fae06271098642cdae38c05c67712adbdc2785a312cbd670ca6b297e6099",
+      "actual_sha256": "4174fae06271098642cdae38c05c67712adbdc2785a312cbd670ca6b297e6099",
+      "match": true
+    },
+    {
+      "character": "Marcus-Jackson",
+      "kind": "source",
+      "id": "1Y9-w_J1cnz_abDKpIL8Iz5W1GfvA_8xh",
+      "expected_sha256": "742f5a2609f9fcce1fcf2c2fec466d6a1e0deb2d98f7716aa7410253ab29c76d",
+      "actual_sha256": "742f5a2609f9fcce1fcf2c2fec466d6a1e0deb2d98f7716aa7410253ab29c76d",
+      "match": true
+    },
+    {
+      "character": "Marcus-Jackson",
+      "kind": "profile",
+      "id": "1fz_v6E5jSGrZD6LVdlDaVflPCloME6T5",
+      "expected_sha256": "0e3dd0970d1849417b3577bb803e733e1e18e13347122c748cc71dc993b472f7",
+      "actual_sha256": "0e3dd0970d1849417b3577bb803e733e1e18e13347122c748cc71dc993b472f7",
+      "match": true
+    },
+    {
+      "character": "Daniel-Brooks",
+      "kind": "source",
+      "id": "1TVWd4mtznkx3tFEKNKF_TClF5VBPILey",
+      "expected_sha256": "5fc186933893463902db56efb8d6b3e8d97697b7751d798e580a488da7450087",
+      "actual_sha256": "5fc186933893463902db56efb8d6b3e8d97697b7751d798e580a488da7450087",
+      "match": true
+    },
+    {
+      "character": "Daniel-Brooks",
+      "kind": "profile",
+      "id": "1yk_XlyuOxhaKMIms-e7mwbCrviNKZrKZ",
+      "expected_sha256": "a096423467027096ceb99c671bea8c6299b77334509d49452b98f64dfaf35553",
+      "actual_sha256": "a096423467027096ceb99c671bea8c6299b77334509d49452b98f64dfaf35553",
+      "match": true
+    },
+    {
+      "character": "Natalie-Chen",
+      "kind": "source",
+      "id": "1YDeJ77qoOWC38ImzZ-L8ssI9VOtVzyWb",
+      "expected_sha256": "16498fa5d8c2b994b9d674cb555efe732847fd5f5e86fa536a3c8caaf494e0bc",
+      "actual_sha256": "16498fa5d8c2b994b9d674cb555efe732847fd5f5e86fa536a3c8caaf494e0bc",
+      "match": true
+    },
+    {
+      "character": "Natalie-Chen",
+      "kind": "profile",
+      "id": "1kexCprbvMpHthz30eyCKVWwuPx6KKCML",
+      "expected_sha256": "58f8e9478b1dba7ee03396a330b365c6630c6cd98e4fab574889bf319483b6a4",
+      "actual_sha256": "58f8e9478b1dba7ee03396a330b365c6630c6cd98e4fab574889bf319483b6a4",
+      "match": true
+    },
+    {
+      "character": "Priya-Patel",
+      "kind": "source",
+      "id": "19ZMf5fqX8WGlhs7I7tJx_iFgrdlgpe8e",
+      "expected_sha256": "b1a053ca9f77df429b3e72f4c49fe1b59fc843557c55f37afcebe8d87b89fdab",
+      "actual_sha256": "b1a053ca9f77df429b3e72f4c49fe1b59fc843557c55f37afcebe8d87b89fdab",
+      "match": true
+    },
+    {
+      "character": "Priya-Patel",
+      "kind": "profile",
+      "id": "1ZyHR-GirFpMwk8DcRqlJVpy0RHXUBKd6",
+      "expected_sha256": "28bb5fb860b59357006d7c2a89e7f43455f61799a6f07cccbab6308988173166",
+      "actual_sha256": "28bb5fb860b59357006d7c2a89e7f43455f61799a6f07cccbab6308988173166",
+      "match": true
+    },
+    {
+      "character": "Tony-Marino",
+      "kind": "source",
+      "id": "1FjL5YJLklpXpHnqHGZmVc8Ps87IgvJro",
+      "expected_sha256": "546d050489f5c7eea1992c84b5d9a84e59accf372e85cb840b306fc2123c2054",
+      "actual_sha256": "546d050489f5c7eea1992c84b5d9a84e59accf372e85cb840b306fc2123c2054",
+      "match": true
+    },
+    {
+      "character": "Tony-Marino",
+      "kind": "profile",
+      "id": "1tJnFRmAnXSViwGbNxi9-RAyuBz9KD9Uq",
+      "expected_sha256": "6000214c393c2ef573b46f4dec4886ffc4d9c18069567868429b51d5427fe313",
+      "actual_sha256": "6000214c393c2ef573b46f4dec4886ffc4d9c18069567868429b51d5427fe313",
+      "match": true
+    }
+  ],
+  "method": "Local imagegen restoration patches and direct projection of exact approved embedded logo/sticker PNG assets. No full-spread regeneration. All pixels outside documented repairs unchanged.",
+  "repaired_spreads": [
+    {
+      "pages": "08-09",
+      "revision": 5,
+      "filename": "Book1_Pages08-09_REV5_PEOPLE_REPAIRS_REVIEW.png",
+      "sha256": "aedd221061963893ab2dc2a17a050c45a434d189ca51e0fa27b3222a397dc071",
+      "bytes": 11071622,
+      "dimensions": [
+        5100,
+        2550
+      ],
+      "source_filename": "Book1_Pages08-09_REV4_VERSION_B_INITIAL_APPROVAL.png",
+      "source_sha256": "c0a2e7ab747b7ee002f7d4e86e264d0429c34bf85d119721e4d0f0726003ae3a",
+      "changed_pixels": 21843,
+      "changed_percent": 0.168,
+      "changed_outside_repair_masks": 0,
+      "preservation": "PASS - all RGB pixels outside documented repairs identical",
+      "drive_id": "1MvuuD96AuJ2nyzr74Iw1KSMEOlrZ86bE",
+      "drive_url": "https://drive.google.com/file/d/1MvuuD96AuJ2nyzr74Iw1KSMEOlrZ86bE/view?usp=drivesdk",
+      "review_folder_id": "13nH1C3mPJIYj46iUkVZeYq1tOGUIR4fi",
+      "status": "VERSION B - REVIEW REQUIRED",
+      "author_approval": null,
+      "original_drive_id": "1VkcQXwhPXCexsaWFDLKXRnNuPpCObKBv",
+      "original_approval_state": "INITIAL_APPROVAL_AWAITING_FULL_BOOK_REVIEW",
+      "changes": "Rivera: added clear safety glasses.",
+      "visual_check": "Identified repairs visually inspected against current approved eight-view and R8 sources; no additional visible mismatch identified in repair regions.",
+      "unverified": [
+        "Hidden details and back-of-vest emblems remain UNVERIFIED because these scenes do not expose them.",
+        "Exact physical height is not measurable from scene perspective. The distant excavator operator on pages 24-25 remains unidentified.",
+        "Visual inspection and pixel preservation are not print proofing or a new author approval."
+      ],
+      "source_bindings": [
+        {
+          "character": "Elena-Rivera",
+          "source_image_id": "1LMyoOO57gA-NQxgtF5poW7UPvfVjgqjP",
+          "source_image_sha256": "7607cf26c2d548a98f73a50560138f6dedd68689c0ff0cdb4fdbccc893f4aada",
+          "profile_id": "1nplm3aa__GwX4zVAlZ85usrKFuijLQdX",
+          "profile_sha256": "4174fae06271098642cdae38c05c67712adbdc2785a312cbd670ca6b297e6099",
+          "approved_references": [
+            {
+              "drive_id": "1Jd5ULSyC9dV2hYvxq4b_RRxhuFiE20ml",
+              "filename": "Elena_Rivera_PPE_8_Angles_REVIEW_R5.png",
+              "sha256": "e6f9ac672ef22f9ff0829ba58db0dac702bceca5400b8841bc19e52c79c426e1"
+            },
+            {
+              "drive_id": "1NlEwL5VWul3raRST4P8ZKrDXHM0mT4uk",
+              "filename": "Elena_Rivera_Hardhat_Source_R8.png",
+              "sha256": "384e7549b4f076f2e85d2f34c69896125e0314cb5cc879a6e5c38f2ccb40a474"
+            }
+          ],
+          "visible_identity_check": "Dark low ponytail, gold hoops, light-blue blouse, dark slacks, work boots, white Civic Ridge helmet and lime/gray vest. Current R5 PPE sheet includes clear safety glasses.",
+          "finding_ids": [
+            "F01"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "CORRECTION_REQUIRED",
+          "current_result": "VISIBLE_REPAIR_CHECK_COMPLETE"
+        },
+        {
+          "character": "Ben",
+          "source_image_id": "1lkboZGWom6Vw7et5J5__5dBivj7i2TRx",
+          "source_image_sha256": "bd0795cea996b37f1476a6bc1e967021df89d7d06b63de0c0714a99edb46f7d3",
+          "profile_id": "1rhPTyBiDT9OevTiI9ncFGYR8JPbLVt6m",
+          "profile_sha256": "facf7893671101aebc46163a5f01da644f5e5702c53108425da5547739fa32dc",
+          "approved_references": [
+            {
+              "drive_id": "1f-5jc6V8LtI3FmUsv7YUfQbk8iuSBc-W",
+              "filename": "Ben_PPE_8_Angles_APPROVED_R10_UNCHANGED.png",
+              "sha256": "e19736d0df48559412a3a6b1578e6b4bdd7a1bf3e70ffb21cd1ecaecc67d45ef"
+            },
+            {
+              "drive_id": "1KheF8T1L-JGplgLRp7sKAUKMY4l4F4by",
+              "filename": "Ben_Hardhat_Source_R8.png",
+              "sha256": "c925c1482b8ba78e1c15b5d6d1b6bb47bfbdf4c0868fd23094168e6e5efd42d6"
+            }
+          ],
+          "visible_identity_check": "Brown swept hair, black rectangular prescription frames, light-blue button-up and plain khakis. Current source incorporates Everyday R4 and PPE R10.",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "current_result": "UNCHANGED_FROM_PRIOR_VISUAL_REVIEW"
+        },
+        {
+          "character": "Marcus-Jackson",
+          "source_image_id": "1Y9-w_J1cnz_abDKpIL8Iz5W1GfvA_8xh",
+          "source_image_sha256": "742f5a2609f9fcce1fcf2c2fec466d6a1e0deb2d98f7716aa7410253ab29c76d",
+          "profile_id": "1fz_v6E5jSGrZD6LVdlDaVflPCloME6T5",
+          "profile_sha256": "0e3dd0970d1849417b3577bb803e733e1e18e13347122c748cc71dc993b472f7",
+          "approved_references": [
+            {
+              "drive_id": "17DCRFDxKdvY7FKDbrxSQRxARaYnVcZ8S",
+              "filename": "Marcus_Jackson_PPE_8_Angles_REVIEW_R5.png",
+              "sha256": "30242f7935f0bd192683cf55e84e05ebdc57b9172477746576ec6b4e8d3d8fee"
+            },
+            {
+              "drive_id": "1y8iBoLZ10Xyxu1xv4Csn6IIIMxX23u38",
+              "filename": "Marcus_Jackson_Hardhat_Source_R8.png",
+              "sha256": "8f763cb167e9cafd3001aa05c305b0152d8a77b138ab2637761f6badacc4d3e5"
+            }
+          ],
+          "visible_identity_check": "Gray hair and beard, sturdy older adult build, navy hooded field top, dark cargos, tan work boots, radio, blue Civic Ridge helmet and orange-accented vest.",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "current_result": "UNCHANGED_FROM_PRIOR_VISUAL_REVIEW"
+        },
+        {
+          "character": "Leo",
+          "source_image_id": "1PmH5IMF_HI_s9y1slZM9DXbWzTYVnbGc",
+          "source_image_sha256": "17c89e174c841f0d101fd9e4d983b5a16d0231d51faa48f54cedd830506e7e7c",
+          "profile_id": "1JD1OTpwF7EJizHYwaE-31j-z-kMPRqbx",
+          "profile_sha256": "d2c24d0fb0d4262a738972f2e8e5972c82231db4719fab49ca1312c64e8ecd5b",
+          "approved_references": [
+            {
+              "drive_id": "15XT3C5z7LIdlFWZy98NbCSMFcGtbZvyj",
+              "filename": "Leo_PPE_8_Angles_APPROVED_R8_UNCHANGED.png",
+              "sha256": "b20e5aa363e0a54d51e322d1fc138830239b9e2adbaeea83f4b4bfc97ff61010"
+            },
+            {
+              "drive_id": "1fcSeoZf6VV8JssjHJFrJA0B00lMES_DO",
+              "filename": "Leo_Hardhat_Source_R8.png",
+              "sha256": "f05e23e856fd276abf32a8e3b7b0fad23d3a147d202f8d1ce49e495a7d7f8409"
+            }
+          ],
+          "visible_identity_check": "Warm brown skin, short tight dark curls, navy zip hoodie with white drawstrings, dark cargos and tan/black work boots; blue helmet and orange-accented vest in PPE scenes.",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "current_result": "UNCHANGED_FROM_PRIOR_VISUAL_REVIEW"
+        }
+      ],
+      "findings": [
+        {
+          "id": "F01",
+          "pages": "08-09",
+          "character": "Elena-Rivera",
+          "category": "PPE / eyewear",
+          "status": "CORRECTED_IN_REVIEW_CANDIDATE",
+          "observation": "Her face is unobstructed but the clear safety glasses shown in the currently approved R5 PPE sheet are absent. The older master sheet without glasses does not override the newer approved PPE view.",
+          "correction": "Add source-matched clear safety glasses without changing her face, hair, clothing or expression.",
+          "evidence": "rivera_eyewear.jpg",
+          "repair_summary": "Rivera: added clear safety glasses."
+        }
+      ],
+      "pixel_sha256": "957e483cd8a1700802ebadd6ea2ddcf70d2c790876b2b9b973583e0c8b9c2143",
+      "repair_patches": [
+        {
+          "id": "08-09",
+          "original": "Book1_Pages08-09_REV4_VERSION_B_INITIAL_APPROVAL.png",
+          "revision": 5,
+          "crop": [
+            580,
+            740,
+            650,
+            650
+          ],
+          "generated": "exec-df65a82b-1962-4385-a2bc-61a036c8dae1.png",
+          "polygon": "285,326 370,326 460,344 527,365 521,422 455,435 393,410 320,404 283,350",
+          "feather": 2.5
+        }
+      ],
+      "graphic_placements": [],
+      "audit": {
+        "drive_id": "1jbpJJJ7hIVhBjGmwtjbCka1M0-A6idKS",
+        "url": "https://drive.google.com/file/d/1jbpJJJ7hIVhBjGmwtjbCka1M0-A6idKS/view?usp=drivesdk",
+        "filename": "Pages08-09_REV5_People_Repair_Audit.json",
+        "sha256": "4dfc695afbe5b8747af00267cc5626727349584d19163a8cd99ce15252f63a30"
+      }
+    },
+    {
+      "pages": "12-13",
+      "revision": 4,
+      "filename": "Book1_Pages12-13_REV4_PEOPLE_REPAIRS_REVIEW.png",
+      "sha256": "051bb47d667b98e5340c919c2000575fb76b64cb92a5d856209042b3355714c4",
+      "bytes": 8810117,
+      "dimensions": [
+        5100,
+        2550
+      ],
+      "source_filename": "Book1_Pages12-13_REV3_CANON_CHECKED_CANDIDATE.png",
+      "source_sha256": "1e674e17eba5569b6c807cccd8a85c7dddb937290d4160052b5ceb26b1ad83b9",
+      "changed_pixels": 106843,
+      "changed_percent": 0.8216,
+      "changed_outside_repair_masks": 0,
+      "preservation": "PASS - all RGB pixels outside documented repairs identical",
+      "drive_id": "1CXzy4hhj15cBJ0kVQ5x4zqCtmrJjQU4b",
+      "drive_url": "https://drive.google.com/file/d/1CXzy4hhj15cBJ0kVQ5x4zqCtmrJjQU4b/view?usp=drivesdk",
+      "review_folder_id": "1ocQKrDu468JwHEP4l4CiIYGuIQRmy6sq",
+      "status": "VERSION B - REVIEW REQUIRED",
+      "author_approval": null,
+      "original_drive_id": "1yd2qNkcQ6HjLLYikQNPmoRmzd1fgrOLF",
+      "original_approval_state": "REVIEW_CANDIDATE",
+      "changes": "Rivera: added clear safety glasses.",
+      "visual_check": "Identified repairs visually inspected against current approved eight-view and R8 sources; no additional visible mismatch identified in repair regions.",
+      "unverified": [
+        "Hidden details and back-of-vest emblems remain UNVERIFIED because these scenes do not expose them.",
+        "Exact physical height is not measurable from scene perspective. The distant excavator operator on pages 24-25 remains unidentified.",
+        "Visual inspection and pixel preservation are not print proofing or a new author approval."
+      ],
+      "source_bindings": [
+        {
+          "character": "Elena-Rivera",
+          "source_image_id": "1LMyoOO57gA-NQxgtF5poW7UPvfVjgqjP",
+          "source_image_sha256": "7607cf26c2d548a98f73a50560138f6dedd68689c0ff0cdb4fdbccc893f4aada",
+          "profile_id": "1nplm3aa__GwX4zVAlZ85usrKFuijLQdX",
+          "profile_sha256": "4174fae06271098642cdae38c05c67712adbdc2785a312cbd670ca6b297e6099",
+          "approved_references": [
+            {
+              "drive_id": "1Jd5ULSyC9dV2hYvxq4b_RRxhuFiE20ml",
+              "filename": "Elena_Rivera_PPE_8_Angles_REVIEW_R5.png",
+              "sha256": "e6f9ac672ef22f9ff0829ba58db0dac702bceca5400b8841bc19e52c79c426e1"
+            },
+            {
+              "drive_id": "1NlEwL5VWul3raRST4P8ZKrDXHM0mT4uk",
+              "filename": "Elena_Rivera_Hardhat_Source_R8.png",
+              "sha256": "384e7549b4f076f2e85d2f34c69896125e0314cb5cc879a6e5c38f2ccb40a474"
+            }
+          ],
+          "visible_identity_check": "Dark low ponytail, gold hoops, light-blue blouse, dark slacks, work boots, white Civic Ridge helmet and lime/gray vest. Current R5 PPE sheet includes clear safety glasses.",
+          "finding_ids": [
+            "F02"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "CORRECTION_REQUIRED",
+          "current_result": "VISIBLE_REPAIR_CHECK_COMPLETE"
+        },
+        {
+          "character": "Ben",
+          "source_image_id": "1lkboZGWom6Vw7et5J5__5dBivj7i2TRx",
+          "source_image_sha256": "bd0795cea996b37f1476a6bc1e967021df89d7d06b63de0c0714a99edb46f7d3",
+          "profile_id": "1rhPTyBiDT9OevTiI9ncFGYR8JPbLVt6m",
+          "profile_sha256": "facf7893671101aebc46163a5f01da644f5e5702c53108425da5547739fa32dc",
+          "approved_references": [
+            {
+              "drive_id": "1f-5jc6V8LtI3FmUsv7YUfQbk8iuSBc-W",
+              "filename": "Ben_PPE_8_Angles_APPROVED_R10_UNCHANGED.png",
+              "sha256": "e19736d0df48559412a3a6b1578e6b4bdd7a1bf3e70ffb21cd1ecaecc67d45ef"
+            },
+            {
+              "drive_id": "1KheF8T1L-JGplgLRp7sKAUKMY4l4F4by",
+              "filename": "Ben_Hardhat_Source_R8.png",
+              "sha256": "c925c1482b8ba78e1c15b5d6d1b6bb47bfbdf4c0868fd23094168e6e5efd42d6"
+            }
+          ],
+          "visible_identity_check": "Brown swept hair, black rectangular prescription frames, light-blue button-up and plain khakis. Current source incorporates Everyday R4 and PPE R10.",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "current_result": "UNCHANGED_FROM_PRIOR_VISUAL_REVIEW"
+        },
+        {
+          "character": "Maya",
+          "source_image_id": "1RZtZjt-3eX0iFFcKw1ZxtnlXj3pkoerU",
+          "source_image_sha256": "405c184a953d966e68f5517078feef8bf056ceb405deb17842d9c9b9ab8e180c",
+          "profile_id": "1nERipp0Qz3AUFuYFkJ25rOuM0UfIGnV3",
+          "profile_sha256": "f1824deec8163a56f53a01724aa45f37be0a9e3f30b15ad4239e08fff25e2d24",
+          "approved_references": [
+            {
+              "drive_id": "10LwizzRxzXLIQpSsZsIaC-dL_klEyABJ",
+              "filename": "Maya_PPE_8_Angles_REVIEW_R9.png",
+              "sha256": "c8b7892b89e5fd445c10d5169f8faa03529fe3a452fe0a271fbe2dc123354c09"
+            },
+            {
+              "drive_id": "1imb0ZRtQCR32Xe6Ebgm6rQEsZHks4gpc",
+              "filename": "Maya_Hardhat_Source_R8.png",
+              "sha256": "ed34b1ff92b464ef6279a9de88833a5258f4e9d2e46782608c2bc2852a00fe17"
+            }
+          ],
+          "visible_identity_check": "Warm medium skin, brown eyes, very long dark curls, gold hoops, pink zip hoodie and blue cargos; gray/purple footwear, yellow helmet and clear eye protection in PPE scenes.",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "current_result": "UNCHANGED_FROM_PRIOR_VISUAL_REVIEW"
+        }
+      ],
+      "findings": [
+        {
+          "id": "F02",
+          "pages": "12-13",
+          "character": "Elena-Rivera",
+          "category": "PPE / eyewear",
+          "status": "CORRECTED_IN_REVIEW_CANDIDATE",
+          "observation": "Her face is unobstructed but the clear safety glasses shown in the currently approved R5 PPE sheet are absent. The older master sheet without glasses does not override the newer approved PPE view.",
+          "correction": "Add source-matched clear safety glasses without changing her face, hair, clothing or expression.",
+          "evidence": "rivera_eyewear.jpg",
+          "repair_summary": "Rivera: added clear safety glasses."
+        }
+      ],
+      "pixel_sha256": "65edc0e68d5e0584b95fef0bafea4796ea770d500bc8d2ed786f7cc632822dbe",
+      "repair_patches": [
+        {
+          "id": "12-13",
+          "original": "Book1_Pages12-13_REV3_CANON_CHECKED_CANDIDATE.png",
+          "revision": 4,
+          "crop": [
+            240,
+            600,
+            1100,
+            1100
+          ],
+          "generated": "exec-04c571fd-44d1-4400-abf9-fb4b17b54768.png",
+          "polygon": "425,681 515,653 575,603 727,580 836,539 974,508 1007,562 1010,672 941,718 817,718 778,761 649,785 550,775 425,741",
+          "feather": 3
+        }
+      ],
+      "graphic_placements": [],
+      "audit": {
+        "drive_id": "1nf7iFwxxsxOKnx8uL5upstuBgvSEscki",
+        "url": "https://drive.google.com/file/d/1nf7iFwxxsxOKnx8uL5upstuBgvSEscki/view?usp=drivesdk",
+        "filename": "Pages12-13_REV4_People_Repair_Audit.json",
+        "sha256": "83a27ff970b93346b41f362eb1082e4827b15f0dcb6b8a260201b4f7103064fb"
+      }
+    },
+    {
+      "pages": "14-15",
+      "revision": 3,
+      "filename": "Book1_Pages14-15_REV3_PEOPLE_REPAIRS_REVIEW.png",
+      "sha256": "c502187e13df08675285e4f63dcf1877fbf0672bd5304023330cb81b08a504e2",
+      "bytes": 10664881,
+      "dimensions": [
+        5100,
+        2550
+      ],
+      "source_filename": "Book1_Pages14-15_REV2_CANON_CHECKED_CANDIDATE.png",
+      "source_sha256": "94a58f10b7e169962b312c8631d3e3a8c46223f3b24738916ddd26891a521ff7",
+      "changed_pixels": 55364,
+      "changed_percent": 0.4257,
+      "changed_outside_repair_masks": 0,
+      "preservation": "PASS - all RGB pixels outside documented repairs identical",
+      "drive_id": "1R4ACXIo0u8Ii0-g4-TZLlD-OQypglTh5",
+      "drive_url": "https://drive.google.com/file/d/1R4ACXIo0u8Ii0-g4-TZLlD-OQypglTh5/view?usp=drivesdk",
+      "review_folder_id": "1dg7g6Ln1cj2aWCcLnyQojRBlJ2LZcX5M",
+      "status": "VERSION B - REVIEW REQUIRED",
+      "author_approval": null,
+      "original_drive_id": "1jaHZw9njtYhVkSDxh6YeZVLye4cSV6wi",
+      "original_approval_state": "REVIEW_CANDIDATE",
+      "changes": "Natalie: exact Eastmark logo. Ben: dark shoe soles and tread.",
+      "visual_check": "Identified repairs visually inspected against current approved eight-view and R8 sources; no additional visible mismatch identified in repair regions.",
+      "unverified": [
+        "Hidden details and back-of-vest emblems remain UNVERIFIED because these scenes do not expose them.",
+        "Exact physical height is not measurable from scene perspective. The distant excavator operator on pages 24-25 remains unidentified.",
+        "Visual inspection and pixel preservation are not print proofing or a new author approval."
+      ],
+      "source_bindings": [
+        {
+          "character": "Ben",
+          "source_image_id": "1lkboZGWom6Vw7et5J5__5dBivj7i2TRx",
+          "source_image_sha256": "bd0795cea996b37f1476a6bc1e967021df89d7d06b63de0c0714a99edb46f7d3",
+          "profile_id": "1rhPTyBiDT9OevTiI9ncFGYR8JPbLVt6m",
+          "profile_sha256": "facf7893671101aebc46163a5f01da644f5e5702c53108425da5547739fa32dc",
+          "approved_references": [
+            {
+              "drive_id": "1f-5jc6V8LtI3FmUsv7YUfQbk8iuSBc-W",
+              "filename": "Ben_PPE_8_Angles_APPROVED_R10_UNCHANGED.png",
+              "sha256": "e19736d0df48559412a3a6b1578e6b4bdd7a1bf3e70ffb21cd1ecaecc67d45ef"
+            },
+            {
+              "drive_id": "1KheF8T1L-JGplgLRp7sKAUKMY4l4F4by",
+              "filename": "Ben_Hardhat_Source_R8.png",
+              "sha256": "c925c1482b8ba78e1c15b5d6d1b6bb47bfbdf4c0868fd23094168e6e5efd42d6"
+            }
+          ],
+          "visible_identity_check": "Brown swept hair, black rectangular prescription frames, light-blue button-up and plain khakis. Current source incorporates Everyday R4 and PPE R10.",
+          "finding_ids": [
+            "F07"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "CORRECTION_REQUIRED",
+          "current_result": "VISIBLE_REPAIR_CHECK_COMPLETE"
+        },
+        {
+          "character": "Natalie-Chen",
+          "source_image_id": "1YDeJ77qoOWC38ImzZ-L8ssI9VOtVzyWb",
+          "source_image_sha256": "16498fa5d8c2b994b9d674cb555efe732847fd5f5e86fa536a3c8caaf494e0bc",
+          "profile_id": "1kexCprbvMpHthz30eyCKVWwuPx6KKCML",
+          "profile_sha256": "58f8e9478b1dba7ee03396a330b365c6630c6cd98e4fab574889bf319483b6a4",
+          "approved_references": [
+            {
+              "drive_id": "1ijbIPS7qf2SFeOe51vhON2-Mt1OnCY98",
+              "filename": "Natalie_Chen_PPE_8_Angles_REVIEW_R3.png",
+              "sha256": "147e82a6700a41113f4a712824551818a318d365a7102d18ca875e048101d02c"
+            },
+            {
+              "drive_id": "1s73zAsAJukomiqEeq988sXWvl7zu6fnZ",
+              "filename": "Natalie_Chen_Hardhat_Source_R8.png",
+              "sha256": "c88f4ffdfd49cfb8bcdbc0bb17be0e7c211461d652222dafd9a268a4f708334b"
+            }
+          ],
+          "visible_identity_check": "Dark low ponytail, rust field shirt, dark cargos, work boots, orange Eastmark helmet and lime/gray vest. Her approved front PPE view does not show safety glasses; do not borrow Rivera\u2019s eyewear requirement.",
+          "finding_ids": [
+            "F05"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "CORRECTION_REQUIRED",
+          "current_result": "VISIBLE_REPAIR_CHECK_COMPLETE"
+        },
+        {
+          "character": "Maya",
+          "source_image_id": "1RZtZjt-3eX0iFFcKw1ZxtnlXj3pkoerU",
+          "source_image_sha256": "405c184a953d966e68f5517078feef8bf056ceb405deb17842d9c9b9ab8e180c",
+          "profile_id": "1nERipp0Qz3AUFuYFkJ25rOuM0UfIGnV3",
+          "profile_sha256": "f1824deec8163a56f53a01724aa45f37be0a9e3f30b15ad4239e08fff25e2d24",
+          "approved_references": [
+            {
+              "drive_id": "10LwizzRxzXLIQpSsZsIaC-dL_klEyABJ",
+              "filename": "Maya_PPE_8_Angles_REVIEW_R9.png",
+              "sha256": "c8b7892b89e5fd445c10d5169f8faa03529fe3a452fe0a271fbe2dc123354c09"
+            },
+            {
+              "drive_id": "1imb0ZRtQCR32Xe6Ebgm6rQEsZHks4gpc",
+              "filename": "Maya_Hardhat_Source_R8.png",
+              "sha256": "ed34b1ff92b464ef6279a9de88833a5258f4e9d2e46782608c2bc2852a00fe17"
+            }
+          ],
+          "visible_identity_check": "Warm medium skin, brown eyes, very long dark curls, gold hoops, pink zip hoodie and blue cargos; gray/purple footwear, yellow helmet and clear eye protection in PPE scenes.",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "current_result": "UNCHANGED_FROM_PRIOR_VISUAL_REVIEW"
+        }
+      ],
+      "findings": [
+        {
+          "id": "F05",
+          "pages": "14-15",
+          "character": "Natalie-Chen",
+          "category": "Helmet front logo",
+          "status": "CORRECTED_IN_REVIEW_CANDIDATE",
+          "observation": "The Eastmark name and mountain remain recognizable, but the small Surveying & Mapping line is visibly fragmented rather than a clean rendering of the approved logo.",
+          "correction": "Use the exact approved Eastmark artwork, centered and projected onto the helmet shell; inspect at native resolution.",
+          "evidence": "decals_and_boots.jpg",
+          "repair_summary": "Natalie: exact Eastmark logo. Ben: dark shoe soles and tread."
+        },
+        {
+          "id": "F07",
+          "pages": "14-15",
+          "character": "Ben",
+          "category": "Footwear",
+          "status": "CORRECTED_IN_REVIEW_CANDIDATE",
+          "observation": "The illustrated shoes have a conspicuous tan/brown sole; the current approved R10 reference uses dark soles and dark-brown work shoes.",
+          "correction": "Match the approved R10 shoe and sole colours; preserve his khakis and pose.",
+          "evidence": "decals_and_boots.jpg",
+          "repair_summary": "Natalie: exact Eastmark logo. Ben: dark shoe soles and tread."
+        }
+      ],
+      "pixel_sha256": "1cfd2b13bccd22357e260dae66e20467a6ede913e6e23363f4229c9766c2b449",
+      "repair_patches": [
+        {
+          "id": "14-15",
+          "key": "Natalie",
+          "original": "Book1_Pages14-15_REV2_CANON_CHECKED_CANDIDATE.png",
+          "revision": 3,
+          "crop": [
+            1230,
+            550,
+            600,
+            600
+          ],
+          "generated": "exec-cd2b9481-9c5d-4561-afa7-8eb3080298a7.png",
+          "polygon": "295,175 492,180 510,323 292,312",
+          "feather": 4
+        },
+        {
+          "id": "14-15",
+          "key": "Shoes",
+          "original": "Book1_Pages14-15_REV2_CANON_CHECKED_CANDIDATE.png",
+          "revision": 3,
+          "crop": [
+            350,
+            1900,
+            650,
+            550
+          ],
+          "generated": "exec-f27afae3-3919-4cdc-b326-36a4d306e51e.png",
+          "polygons": [
+            "105,405 238,405 242,449 103,450",
+            "337,359 405,367 477,386 574,367 578,401 474,420 406,402 337,396"
+          ],
+          "feather": 2
+        }
+      ],
+      "graphic_placements": [
+        {
+          "id": "14-15",
+          "key": "Natalie",
+          "asset": "Eastmark_logo.png",
+          "origin": [
+            0,
+            0
+          ],
+          "quad": [
+            [
+              1539,
+              731
+            ],
+            [
+              1700,
+              757
+            ],
+            [
+              1689,
+              851
+            ],
+            [
+              1528,
+              826
+            ]
+          ],
+          "revision": 3,
+          "full_quad": [
+            [
+              1539,
+              731
+            ],
+            [
+              1700,
+              757
+            ],
+            [
+              1689,
+              851
+            ],
+            [
+              1528,
+              826
+            ]
+          ],
+          "layer_box": [
+            1525,
+            728,
+            179,
+            127
+          ]
+        }
+      ],
+      "audit": {
+        "drive_id": "1XaTFyg8vfFZUY74bNBSuJuPrlOBSBNgq",
+        "url": "https://drive.google.com/file/d/1XaTFyg8vfFZUY74bNBSuJuPrlOBSBNgq/view?usp=drivesdk",
+        "filename": "Pages14-15_REV3_People_Repair_Audit.json",
+        "sha256": "d8901b77786455ffbc28d5b160be67fc23e70069ab64511f3fc2224a10b09fba"
+      }
+    },
+    {
+      "pages": "16-17",
+      "revision": 3,
+      "filename": "Book1_Pages16-17_REV3_PEOPLE_REPAIRS_REVIEW.png",
+      "sha256": "9c3efdc66e775945037861a4b6a1845899a94b7d08854e5e3788201714364ae0",
+      "bytes": 9190949,
+      "dimensions": [
+        5100,
+        2550
+      ],
+      "source_filename": "Book1_Pages16-17_REV2_CANON_CHECKED_CANDIDATE.png",
+      "source_sha256": "0e592c02b19007cefc10c6508c5c59f474005ece9a60538d47c8c3f37de047ad",
+      "changed_pixels": 28041,
+      "changed_percent": 0.2156,
+      "changed_outside_repair_masks": 0,
+      "preservation": "PASS - all RGB pixels outside documented repairs identical",
+      "drive_id": "1U0OKGteSCcCrpzHM8QVPfOwPjb0BcYDl",
+      "drive_url": "https://drive.google.com/file/d/1U0OKGteSCcCrpzHM8QVPfOwPjb0BcYDl/view?usp=drivesdk",
+      "review_folder_id": "1-X5JqPqHd25K0EOb89NqFo89octrGmKa",
+      "status": "VERSION B - REVIEW REQUIRED",
+      "author_approval": null,
+      "original_drive_id": "13rRjhL7n4FGEW3oNYScXDJAZLsWCvis2",
+      "original_approval_state": "REVIEW_CANDIDATE",
+      "changes": "Steph: restored approved project-sticker scale and contour.",
+      "visual_check": "Identified repairs visually inspected against current approved eight-view and R8 sources; no additional visible mismatch identified in repair regions.",
+      "unverified": [
+        "Hidden details and back-of-vest emblems remain UNVERIFIED because these scenes do not expose them.",
+        "Exact physical height is not measurable from scene perspective. The distant excavator operator on pages 24-25 remains unidentified.",
+        "Visual inspection and pixel preservation are not print proofing or a new author approval."
+      ],
+      "source_bindings": [
+        {
+          "character": "Steph",
+          "source_image_id": "1gF-pOjdltQVujd5NyCcX-Brh-EI0vQ9j",
+          "source_image_sha256": "0338ba00d3cc122c7e1baecca56b577f51b54ea4a8f24ed2b7bbbc29685b934a",
+          "profile_id": "1hzABye97w5caJMYh90wvyGXrd17gXCBS",
+          "profile_sha256": "b001f923646aaf0d875994c418460c77049612452f158ced77c568478ad7d7e8",
+          "approved_references": [
+            {
+              "drive_id": "1cCWdcn7K0xNeLbqYa8oGBZii5ZkR07jk",
+              "filename": "Steph_PPE_8_Angles_REVIEW_R14.png",
+              "sha256": "5ad1553bdfacbebf3fc679f207268a2869a0ea07fb6d0c42865bb0d9f4fa7e98"
+            },
+            {
+              "drive_id": "1WOusRNhdIMJaArdclVPGID16vmEIaQii",
+              "filename": "Steph_Hardhat_Source_R8.png",
+              "sha256": "579e7a9ba3a0da92b4d471529735ebea053831a5528ab5b512af752e9a9d1da7"
+            }
+          ],
+          "visible_identity_check": "Fair skin, blue eyes, freckles where resolved, long straight copper-red hair, lavender hoodie and olive cargos; gray/purple footwear and light-gray helmet in PPE scenes.",
+          "finding_ids": [
+            "F08"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "CORRECTION_REQUIRED",
+          "current_result": "VISIBLE_REPAIR_CHECK_COMPLETE"
+        },
+        {
+          "character": "Leo",
+          "source_image_id": "1PmH5IMF_HI_s9y1slZM9DXbWzTYVnbGc",
+          "source_image_sha256": "17c89e174c841f0d101fd9e4d983b5a16d0231d51faa48f54cedd830506e7e7c",
+          "profile_id": "1JD1OTpwF7EJizHYwaE-31j-z-kMPRqbx",
+          "profile_sha256": "d2c24d0fb0d4262a738972f2e8e5972c82231db4719fab49ca1312c64e8ecd5b",
+          "approved_references": [
+            {
+              "drive_id": "15XT3C5z7LIdlFWZy98NbCSMFcGtbZvyj",
+              "filename": "Leo_PPE_8_Angles_APPROVED_R8_UNCHANGED.png",
+              "sha256": "b20e5aa363e0a54d51e322d1fc138830239b9e2adbaeea83f4b4bfc97ff61010"
+            },
+            {
+              "drive_id": "1fcSeoZf6VV8JssjHJFrJA0B00lMES_DO",
+              "filename": "Leo_Hardhat_Source_R8.png",
+              "sha256": "f05e23e856fd276abf32a8e3b7b0fad23d3a147d202f8d1ce49e495a7d7f8409"
+            }
+          ],
+          "visible_identity_check": "Warm brown skin, short tight dark curls, navy zip hoodie with white drawstrings, dark cargos and tan/black work boots; blue helmet and orange-accented vest in PPE scenes.",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "current_result": "UNCHANGED_FROM_PRIOR_VISUAL_REVIEW"
+        }
+      ],
+      "findings": [
+        {
+          "id": "F08",
+          "pages": "16-17",
+          "character": "Steph",
+          "category": "Project sticker scale",
+          "status": "CORRECTED_IN_REVIEW_CANDIDATE",
+          "observation": "The visible front-right sticker is smaller relative to the helmet than the corresponding approved R14 views. The scene is roughly 14% sticker height/brim width; approved views are roughly 18-20%. These are approximate 2D comparison measurements, not physical dimensions.",
+          "correction": "Restore the approved eight-view sticker scale, keep the wearer\u2019s front-right location, and project the design to the shell contour.",
+          "evidence": "steph_ear_and_sticker.jpg",
+          "repair_summary": "Steph: restored approved project-sticker scale and contour."
+        }
+      ],
+      "pixel_sha256": "366cf43f92574a4969e7db8d1535280a38610006f50fdd8c9fd1364bc10bcc07",
+      "repair_patches": [
+        {
+          "id": "16-17",
+          "key": "StephSticker",
+          "original": "Book1_Pages16-17_REV2_CANON_CHECKED_CANDIDATE.png",
+          "revision": 3,
+          "crop": [
+            400,
+            700,
+            650,
+            650
+          ],
+          "generated": "exec-5d8beb9e-0b12-4c54-bdaa-6c83ea82f78b.png",
+          "polygon": "239,311 374,309 385,449 236,450",
+          "feather": 4
+        }
+      ],
+      "graphic_placements": [
+        {
+          "id": "16-17",
+          "key": "Steph",
+          "asset": "Fire_Station_Sticker.png",
+          "origin": [
+            400,
+            700
+          ],
+          "quad": [
+            [
+              210,
+              290
+            ],
+            [
+              355,
+              245
+            ],
+            [
+              399,
+              414
+            ],
+            [
+              254,
+              459
+            ]
+          ],
+          "revision": 3,
+          "full_quad": [
+            [
+              610,
+              990
+            ],
+            [
+              755,
+              945
+            ],
+            [
+              799,
+              1114
+            ],
+            [
+              654,
+              1159
+            ]
+          ],
+          "layer_box": [
+            607,
+            942,
+            196,
+            221
+          ]
+        }
+      ],
+      "audit": {
+        "drive_id": "1WxQNkPHAiFzsooRrDw-9D8nnbXxcdglz",
+        "url": "https://drive.google.com/file/d/1WxQNkPHAiFzsooRrDw-9D8nnbXxcdglz/view?usp=drivesdk",
+        "filename": "Pages16-17_REV3_People_Repair_Audit.json",
+        "sha256": "8ef09d33ba41b38bf7396e0fb4b78cd808d0e22abb92def630c7b4d25b32e656"
+      }
+    },
+    {
+      "pages": "18-19",
+      "revision": 3,
+      "filename": "Book1_Pages18-19_REV3_PEOPLE_REPAIRS_REVIEW.png",
+      "sha256": "492b48bf1aae96f8929fc87ecf2ea411a8f098a11b715c7f9de40b375366261b",
+      "bytes": 13987911,
+      "dimensions": [
+        5100,
+        2550
+      ],
+      "source_filename": "Book1_Pages18-19_REV2_CANON_CHECKED_CANDIDATE.png",
+      "source_sha256": "7c1ff25b0f259ea3a7033aa59f9239e1faf3931aa85b4fb2c6f3d71b98036a23",
+      "changed_pixels": 22950,
+      "changed_percent": 0.1765,
+      "changed_outside_repair_masks": 0,
+      "preservation": "PASS - all RGB pixels outside documented repairs identical",
+      "drive_id": "1uTFRrYeacUJL9vJXgFuuxIuP2bcrv-Jr",
+      "drive_url": "https://drive.google.com/file/d/1uTFRrYeacUJL9vJXgFuuxIuP2bcrv-Jr/view?usp=drivesdk",
+      "review_folder_id": "17kHPE53RNBAHTn5WzN2PuqUvdpm1mgAg",
+      "status": "VERSION B - REVIEW REQUIRED",
+      "author_approval": null,
+      "original_drive_id": "1eKgVOxV94Mp83FC9Uxby9SyrMBxv1FUZ",
+      "original_approval_state": "REVIEW_CANDIDATE",
+      "changes": "Maya and Ben: restored sticker scale. Steph: removed extra earring.",
+      "visual_check": "Identified repairs visually inspected against current approved eight-view and R8 sources; no additional visible mismatch identified in repair regions.",
+      "unverified": [
+        "Hidden details and back-of-vest emblems remain UNVERIFIED because these scenes do not expose them.",
+        "Exact physical height is not measurable from scene perspective. The distant excavator operator on pages 24-25 remains unidentified.",
+        "Visual inspection and pixel preservation are not print proofing or a new author approval."
+      ],
+      "source_bindings": [
+        {
+          "character": "Maya",
+          "source_image_id": "1RZtZjt-3eX0iFFcKw1ZxtnlXj3pkoerU",
+          "source_image_sha256": "405c184a953d966e68f5517078feef8bf056ceb405deb17842d9c9b9ab8e180c",
+          "profile_id": "1nERipp0Qz3AUFuYFkJ25rOuM0UfIGnV3",
+          "profile_sha256": "f1824deec8163a56f53a01724aa45f37be0a9e3f30b15ad4239e08fff25e2d24",
+          "approved_references": [
+            {
+              "drive_id": "10LwizzRxzXLIQpSsZsIaC-dL_klEyABJ",
+              "filename": "Maya_PPE_8_Angles_REVIEW_R9.png",
+              "sha256": "c8b7892b89e5fd445c10d5169f8faa03529fe3a452fe0a271fbe2dc123354c09"
+            },
+            {
+              "drive_id": "1imb0ZRtQCR32Xe6Ebgm6rQEsZHks4gpc",
+              "filename": "Maya_Hardhat_Source_R8.png",
+              "sha256": "ed34b1ff92b464ef6279a9de88833a5258f4e9d2e46782608c2bc2852a00fe17"
+            }
+          ],
+          "visible_identity_check": "Warm medium skin, brown eyes, very long dark curls, gold hoops, pink zip hoodie and blue cargos; gray/purple footwear, yellow helmet and clear eye protection in PPE scenes.",
+          "finding_ids": [
+            "F10"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "CORRECTION_REQUIRED",
+          "current_result": "VISIBLE_REPAIR_CHECK_COMPLETE"
+        },
+        {
+          "character": "Ben",
+          "source_image_id": "1lkboZGWom6Vw7et5J5__5dBivj7i2TRx",
+          "source_image_sha256": "bd0795cea996b37f1476a6bc1e967021df89d7d06b63de0c0714a99edb46f7d3",
+          "profile_id": "1rhPTyBiDT9OevTiI9ncFGYR8JPbLVt6m",
+          "profile_sha256": "facf7893671101aebc46163a5f01da644f5e5702c53108425da5547739fa32dc",
+          "approved_references": [
+            {
+              "drive_id": "1f-5jc6V8LtI3FmUsv7YUfQbk8iuSBc-W",
+              "filename": "Ben_PPE_8_Angles_APPROVED_R10_UNCHANGED.png",
+              "sha256": "e19736d0df48559412a3a6b1578e6b4bdd7a1bf3e70ffb21cd1ecaecc67d45ef"
+            },
+            {
+              "drive_id": "1KheF8T1L-JGplgLRp7sKAUKMY4l4F4by",
+              "filename": "Ben_Hardhat_Source_R8.png",
+              "sha256": "c925c1482b8ba78e1c15b5d6d1b6bb47bfbdf4c0868fd23094168e6e5efd42d6"
+            }
+          ],
+          "visible_identity_check": "Brown swept hair, black rectangular prescription frames, light-blue button-up and plain khakis. Current source incorporates Everyday R4 and PPE R10.",
+          "finding_ids": [
+            "F11"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "CORRECTION_REQUIRED",
+          "current_result": "VISIBLE_REPAIR_CHECK_COMPLETE"
+        },
+        {
+          "character": "Steph",
+          "source_image_id": "1gF-pOjdltQVujd5NyCcX-Brh-EI0vQ9j",
+          "source_image_sha256": "0338ba00d3cc122c7e1baecca56b577f51b54ea4a8f24ed2b7bbbc29685b934a",
+          "profile_id": "1hzABye97w5caJMYh90wvyGXrd17gXCBS",
+          "profile_sha256": "b001f923646aaf0d875994c418460c77049612452f158ced77c568478ad7d7e8",
+          "approved_references": [
+            {
+              "drive_id": "1cCWdcn7K0xNeLbqYa8oGBZii5ZkR07jk",
+              "filename": "Steph_PPE_8_Angles_REVIEW_R14.png",
+              "sha256": "5ad1553bdfacbebf3fc679f207268a2869a0ea07fb6d0c42865bb0d9f4fa7e98"
+            },
+            {
+              "drive_id": "1WOusRNhdIMJaArdclVPGID16vmEIaQii",
+              "filename": "Steph_Hardhat_Source_R8.png",
+              "sha256": "579e7a9ba3a0da92b4d471529735ebea053831a5528ab5b512af752e9a9d1da7"
+            }
+          ],
+          "visible_identity_check": "Fair skin, blue eyes, freckles where resolved, long straight copper-red hair, lavender hoodie and olive cargos; gray/purple footwear and light-gray helmet in PPE scenes.",
+          "finding_ids": [
+            "F09"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "CORRECTION_REQUIRED",
+          "current_result": "VISIBLE_REPAIR_CHECK_COMPLETE"
+        }
+      ],
+      "findings": [
+        {
+          "id": "F09",
+          "pages": "18-19",
+          "character": "Steph",
+          "category": "Jewelry",
+          "status": "CORRECTED_IN_REVIEW_CANDIDATE",
+          "observation": "A small gold earring appears on the visible ear. Her original source and current R14 views show bare ears.",
+          "correction": "Remove the added earring; retain Maya\u2019s own approved gold hoops.",
+          "evidence": "steph_ear_and_sticker.jpg",
+          "repair_summary": "Maya and Ben: restored sticker scale. Steph: removed extra earring."
+        },
+        {
+          "id": "F10",
+          "pages": "18-19",
+          "character": "Maya",
+          "category": "Project sticker scale",
+          "status": "CORRECTED_IN_REVIEW_CANDIDATE",
+          "observation": "The visible project sticker reads smaller than the current approved eight-view reference. Both sides and designs remain recognizable; size has not been carried through consistently.",
+          "correction": "Match this character\u2019s approved eight-view proportion and helmet curvature. Do not move the sticker from its locked wearer-relative location.",
+          "evidence": "decals_and_boots.jpg",
+          "repair_summary": "Maya and Ben: restored sticker scale. Steph: removed extra earring."
+        },
+        {
+          "id": "F11",
+          "pages": "18-19",
+          "character": "Ben",
+          "category": "Project sticker scale",
+          "status": "CORRECTED_IN_REVIEW_CANDIDATE",
+          "observation": "The visible project sticker reads smaller than the current approved eight-view reference. Both sides and designs remain recognizable; size has not been carried through consistently.",
+          "correction": "Match this character\u2019s approved eight-view proportion and helmet curvature. Do not move the sticker from its locked wearer-relative location.",
+          "evidence": "decals_and_boots.jpg",
+          "repair_summary": "Maya and Ben: restored sticker scale. Steph: removed extra earring."
+        }
+      ],
+      "pixel_sha256": "009bd25d0f92d20694a310c9a4bf9b5de9b5d443762af9a56400dd13d4094cf0",
+      "repair_patches": [
+        {
+          "id": "18-19",
+          "key": "MayaBenStickers",
+          "original": "Book1_Pages18-19_REV2_CANON_CHECKED_CANDIDATE.png",
+          "revision": 3,
+          "crop": [
+            240,
+            450,
+            1400,
+            850
+          ],
+          "generated": "exec-2f177fa1-44ed-487e-8773-547fbc9231ea.png",
+          "polygons": [
+            "468,257 547,258 555,344 466,346",
+            "1139,282 1221,282 1226,378 1138,379"
+          ],
+          "feather": 3
+        },
+        {
+          "id": "18-19",
+          "key": "StephEar",
+          "original": "Book1_Pages18-19_REV2_CANON_CHECKED_CANDIDATE.png",
+          "revision": 3,
+          "crop": [
+            3100,
+            850,
+            650,
+            650
+          ],
+          "generated": "exec-14d4241f-4658-4a0c-8a0a-38f995673e60.png",
+          "polygon": "378,378 400,377 400,409 375,410",
+          "feather": 2
+        }
+      ],
+      "graphic_placements": [
+        {
+          "id": "18-19",
+          "key": "Maya",
+          "asset": "Fire_Station_Sticker.png",
+          "origin": [
+            240,
+            450
+          ],
+          "quad": [
+            [
+              453,
+              245
+            ],
+            [
+              532,
+              226
+            ],
+            [
+              556,
+              326
+            ],
+            [
+              477,
+              346
+            ]
+          ],
+          "revision": 3,
+          "full_quad": [
+            [
+              693,
+              695
+            ],
+            [
+              772,
+              676
+            ],
+            [
+              796,
+              776
+            ],
+            [
+              717,
+              796
+            ]
+          ],
+          "layer_box": [
+            690,
+            673,
+            110,
+            127
+          ]
+        },
+        {
+          "id": "18-19",
+          "key": "Ben",
+          "asset": "Fire_Station_Sticker.png",
+          "origin": [
+            240,
+            450
+          ],
+          "quad": [
+            [
+              1139,
+              270
+            ],
+            [
+              1219,
+              280
+            ],
+            [
+              1207,
+              376
+            ],
+            [
+              1127,
+              366
+            ]
+          ],
+          "revision": 3,
+          "full_quad": [
+            [
+              1379,
+              720
+            ],
+            [
+              1459,
+              730
+            ],
+            [
+              1447,
+              826
+            ],
+            [
+              1367,
+              816
+            ]
+          ],
+          "layer_box": [
+            1364,
+            717,
+            99,
+            113
+          ]
+        }
+      ],
+      "audit": {
+        "drive_id": "1dBxhgDEf8KZ4fsV0RLQD7Zt1t-TgyLfQ",
+        "url": "https://drive.google.com/file/d/1dBxhgDEf8KZ4fsV0RLQD7Zt1t-TgyLfQ/view?usp=drivesdk",
+        "filename": "Pages18-19_REV3_People_Repair_Audit.json",
+        "sha256": "407ed7ead00a1f2c89dadd32edc0b599b209ebb564d0448e2b2c3690e8380dce"
+      }
+    },
+    {
+      "pages": "20-21",
+      "revision": 3,
+      "filename": "Book1_Pages20-21_REV3_PEOPLE_REPAIRS_REVIEW.png",
+      "sha256": "a54244b203922f33ccb6c0a54076140230f823707f2d5743a2887540271cc6f9",
+      "bytes": 9817656,
+      "dimensions": [
+        5100,
+        2550
+      ],
+      "source_filename": "Book1_Pages20-21_REV2_CANON_CHECKED_CANDIDATE.png",
+      "source_sha256": "76caf1764964bcdf4e54434e48bc03e84135bac8af179e3d7fe3ccb9ca0095ef",
+      "changed_pixels": 66816,
+      "changed_percent": 0.5138,
+      "changed_outside_repair_masks": 0,
+      "preservation": "PASS - all RGB pixels outside documented repairs identical",
+      "drive_id": "1PbRIyH1Rkr8TiVCXut1uh6Fyw81Q0YiI",
+      "drive_url": "https://drive.google.com/file/d/1PbRIyH1Rkr8TiVCXut1uh6Fyw81Q0YiI/view?usp=drivesdk",
+      "review_folder_id": "1FSusxKTjpl2BgRi8yWqGgLZaRU039wvI",
+      "status": "VERSION B - REVIEW REQUIRED",
+      "author_approval": null,
+      "original_drive_id": "1tMvJtlTmI5Wqn7qt2gnnD5a1Y1laZJNv",
+      "original_approval_state": "REVIEW_CANDIDATE",
+      "changes": "Rivera: clear safety glasses. Natalie: exact Eastmark logo.",
+      "visual_check": "Identified repairs visually inspected against current approved eight-view and R8 sources; no additional visible mismatch identified in repair regions.",
+      "unverified": [
+        "Hidden details and back-of-vest emblems remain UNVERIFIED because these scenes do not expose them.",
+        "Exact physical height is not measurable from scene perspective. The distant excavator operator on pages 24-25 remains unidentified.",
+        "Visual inspection and pixel preservation are not print proofing or a new author approval."
+      ],
+      "source_bindings": [
+        {
+          "character": "Ben",
+          "source_image_id": "1lkboZGWom6Vw7et5J5__5dBivj7i2TRx",
+          "source_image_sha256": "bd0795cea996b37f1476a6bc1e967021df89d7d06b63de0c0714a99edb46f7d3",
+          "profile_id": "1rhPTyBiDT9OevTiI9ncFGYR8JPbLVt6m",
+          "profile_sha256": "facf7893671101aebc46163a5f01da644f5e5702c53108425da5547739fa32dc",
+          "approved_references": [
+            {
+              "drive_id": "1f-5jc6V8LtI3FmUsv7YUfQbk8iuSBc-W",
+              "filename": "Ben_PPE_8_Angles_APPROVED_R10_UNCHANGED.png",
+              "sha256": "e19736d0df48559412a3a6b1578e6b4bdd7a1bf3e70ffb21cd1ecaecc67d45ef"
+            },
+            {
+              "drive_id": "1KheF8T1L-JGplgLRp7sKAUKMY4l4F4by",
+              "filename": "Ben_Hardhat_Source_R8.png",
+              "sha256": "c925c1482b8ba78e1c15b5d6d1b6bb47bfbdf4c0868fd23094168e6e5efd42d6"
+            }
+          ],
+          "visible_identity_check": "Brown swept hair, black rectangular prescription frames, light-blue button-up and plain khakis. Current source incorporates Everyday R4 and PPE R10.",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "current_result": "UNCHANGED_FROM_PRIOR_VISUAL_REVIEW"
+        },
+        {
+          "character": "Elena-Rivera",
+          "source_image_id": "1LMyoOO57gA-NQxgtF5poW7UPvfVjgqjP",
+          "source_image_sha256": "7607cf26c2d548a98f73a50560138f6dedd68689c0ff0cdb4fdbccc893f4aada",
+          "profile_id": "1nplm3aa__GwX4zVAlZ85usrKFuijLQdX",
+          "profile_sha256": "4174fae06271098642cdae38c05c67712adbdc2785a312cbd670ca6b297e6099",
+          "approved_references": [
+            {
+              "drive_id": "1Jd5ULSyC9dV2hYvxq4b_RRxhuFiE20ml",
+              "filename": "Elena_Rivera_PPE_8_Angles_REVIEW_R5.png",
+              "sha256": "e6f9ac672ef22f9ff0829ba58db0dac702bceca5400b8841bc19e52c79c426e1"
+            },
+            {
+              "drive_id": "1NlEwL5VWul3raRST4P8ZKrDXHM0mT4uk",
+              "filename": "Elena_Rivera_Hardhat_Source_R8.png",
+              "sha256": "384e7549b4f076f2e85d2f34c69896125e0314cb5cc879a6e5c38f2ccb40a474"
+            }
+          ],
+          "visible_identity_check": "Dark low ponytail, gold hoops, light-blue blouse, dark slacks, work boots, white Civic Ridge helmet and lime/gray vest. Current R5 PPE sheet includes clear safety glasses.",
+          "finding_ids": [
+            "F03"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "CORRECTION_REQUIRED",
+          "current_result": "VISIBLE_REPAIR_CHECK_COMPLETE"
+        },
+        {
+          "character": "Natalie-Chen",
+          "source_image_id": "1YDeJ77qoOWC38ImzZ-L8ssI9VOtVzyWb",
+          "source_image_sha256": "16498fa5d8c2b994b9d674cb555efe732847fd5f5e86fa536a3c8caaf494e0bc",
+          "profile_id": "1kexCprbvMpHthz30eyCKVWwuPx6KKCML",
+          "profile_sha256": "58f8e9478b1dba7ee03396a330b365c6630c6cd98e4fab574889bf319483b6a4",
+          "approved_references": [
+            {
+              "drive_id": "1ijbIPS7qf2SFeOe51vhON2-Mt1OnCY98",
+              "filename": "Natalie_Chen_PPE_8_Angles_REVIEW_R3.png",
+              "sha256": "147e82a6700a41113f4a712824551818a318d365a7102d18ca875e048101d02c"
+            },
+            {
+              "drive_id": "1s73zAsAJukomiqEeq988sXWvl7zu6fnZ",
+              "filename": "Natalie_Chen_Hardhat_Source_R8.png",
+              "sha256": "c88f4ffdfd49cfb8bcdbc0bb17be0e7c211461d652222dafd9a268a4f708334b"
+            }
+          ],
+          "visible_identity_check": "Dark low ponytail, rust field shirt, dark cargos, work boots, orange Eastmark helmet and lime/gray vest. Her approved front PPE view does not show safety glasses; do not borrow Rivera\u2019s eyewear requirement.",
+          "finding_ids": [
+            "F06"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "CORRECTION_REQUIRED",
+          "current_result": "VISIBLE_REPAIR_CHECK_COMPLETE"
+        },
+        {
+          "character": "Marcus-Jackson",
+          "source_image_id": "1Y9-w_J1cnz_abDKpIL8Iz5W1GfvA_8xh",
+          "source_image_sha256": "742f5a2609f9fcce1fcf2c2fec466d6a1e0deb2d98f7716aa7410253ab29c76d",
+          "profile_id": "1fz_v6E5jSGrZD6LVdlDaVflPCloME6T5",
+          "profile_sha256": "0e3dd0970d1849417b3577bb803e733e1e18e13347122c748cc71dc993b472f7",
+          "approved_references": [
+            {
+              "drive_id": "17DCRFDxKdvY7FKDbrxSQRxARaYnVcZ8S",
+              "filename": "Marcus_Jackson_PPE_8_Angles_REVIEW_R5.png",
+              "sha256": "30242f7935f0bd192683cf55e84e05ebdc57b9172477746576ec6b4e8d3d8fee"
+            },
+            {
+              "drive_id": "1y8iBoLZ10Xyxu1xv4Csn6IIIMxX23u38",
+              "filename": "Marcus_Jackson_Hardhat_Source_R8.png",
+              "sha256": "8f763cb167e9cafd3001aa05c305b0152d8a77b138ab2637761f6badacc4d3e5"
+            }
+          ],
+          "visible_identity_check": "Gray hair and beard, sturdy older adult build, navy hooded field top, dark cargos, tan work boots, radio, blue Civic Ridge helmet and orange-accented vest.",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "current_result": "UNCHANGED_FROM_PRIOR_VISUAL_REVIEW"
+        }
+      ],
+      "findings": [
+        {
+          "id": "F03",
+          "pages": "20-21",
+          "character": "Elena-Rivera",
+          "category": "PPE / eyewear",
+          "status": "CORRECTED_IN_REVIEW_CANDIDATE",
+          "observation": "Her face is unobstructed but the clear safety glasses shown in the currently approved R5 PPE sheet are absent. The older master sheet without glasses does not override the newer approved PPE view.",
+          "correction": "Add source-matched clear safety glasses without changing her face, hair, clothing or expression.",
+          "evidence": "rivera_eyewear.jpg",
+          "repair_summary": "Rivera: clear safety glasses. Natalie: exact Eastmark logo."
+        },
+        {
+          "id": "F06",
+          "pages": "20-21",
+          "character": "Natalie-Chen",
+          "category": "Helmet front logo",
+          "status": "CORRECTED_IN_REVIEW_CANDIDATE",
+          "observation": "The Eastmark name and mountain remain recognizable, but the small Surveying & Mapping line is visibly fragmented rather than a clean rendering of the approved logo.",
+          "correction": "Use the exact approved Eastmark artwork, centered and projected onto the helmet shell; inspect at native resolution.",
+          "evidence": "decals_and_boots.jpg",
+          "repair_summary": "Rivera: clear safety glasses. Natalie: exact Eastmark logo."
+        }
+      ],
+      "pixel_sha256": "1fe2ba2e1b49af690f1f03547a136888bea7288c0ef2e9dcd18ba887bbf517d8",
+      "repair_patches": [
+        {
+          "id": "20-21",
+          "key": "Rivera",
+          "original": "Book1_Pages20-21_REV2_CANON_CHECKED_CANDIDATE.png",
+          "revision": 3,
+          "crop": [
+            1000,
+            570,
+            650,
+            650
+          ],
+          "generated": "exec-80f07dba-5ae6-4fb5-b932-0e6490f5593f.png",
+          "polygon": "198,335 259,333 341,355 432,382 481,410 469,454 412,467 342,456 310,430 263,434 203,408",
+          "feather": 3
+        },
+        {
+          "id": "20-21",
+          "key": "Natalie",
+          "original": "Book1_Pages20-21_REV2_CANON_CHECKED_CANDIDATE.png",
+          "revision": 3,
+          "crop": [
+            3200,
+            1050,
+            600,
+            600
+          ],
+          "generated": "exec-9c495a1a-bb91-4336-8f98-c544cc814fad.png",
+          "polygon": "320,140 510,143 530,299 319,289",
+          "feather": 4
+        }
+      ],
+      "graphic_placements": [
+        {
+          "id": "20-21",
+          "key": "Natalie",
+          "asset": "Eastmark_logo.png",
+          "origin": [
+            0,
+            0
+          ],
+          "quad": [
+            [
+              3538,
+              1194
+            ],
+            [
+              3703,
+              1211
+            ],
+            [
+              3696,
+              1307
+            ],
+            [
+              3531,
+              1289
+            ]
+          ],
+          "revision": 3,
+          "full_quad": [
+            [
+              3538,
+              1194
+            ],
+            [
+              3703,
+              1211
+            ],
+            [
+              3696,
+              1307
+            ],
+            [
+              3531,
+              1289
+            ]
+          ],
+          "layer_box": [
+            3528,
+            1191,
+            179,
+            120
+          ]
+        }
+      ],
+      "audit": {
+        "drive_id": "1mIVUXAps5eeEvbOdDfd_6FBU4wSbIQQc",
+        "url": "https://drive.google.com/file/d/1mIVUXAps5eeEvbOdDfd_6FBU4wSbIQQc/view?usp=drivesdk",
+        "filename": "Pages20-21_REV3_People_Repair_Audit.json",
+        "sha256": "6c9242ed70ffe96ef4704368ea64432676ba25fd72a6929a1657ab77b4204b22"
+      }
+    },
+    {
+      "pages": "22-23",
+      "revision": 2,
+      "filename": "Book1_Pages22-23_REV2_PEOPLE_REPAIRS_REVIEW.png",
+      "sha256": "4aad65d58d22f477b4f3cbbd57f58349e374d8902091d8ad1e6ede2fb40ebd9b",
+      "bytes": 8899023,
+      "dimensions": [
+        5100,
+        2550
+      ],
+      "source_filename": "Book1_Pages22-23_REV1_CANON_CHECKED_CANDIDATE.png",
+      "source_sha256": "e2ba38be9f622a91756c4975070749d96f1da8be5e5c4b3e31da8d3cd47da55c",
+      "changed_pixels": 14720,
+      "changed_percent": 0.1132,
+      "changed_outside_repair_masks": 0,
+      "preservation": "PASS - all RGB pixels outside documented repairs identical",
+      "drive_id": "1iYDaMe6iWLUICy7uUc-orHpmrDAHZ8UW",
+      "drive_url": "https://drive.google.com/file/d/1iYDaMe6iWLUICy7uUc-orHpmrDAHZ8UW/view?usp=drivesdk",
+      "review_folder_id": "16OXOfpN9W5KmKdREiFWzQmhnc4WOvok0",
+      "status": "VERSION B - REVIEW REQUIRED",
+      "author_approval": null,
+      "original_drive_id": "1DEsdh2MphMkz63gGVnC6QTLKoAnSm5Sk",
+      "original_approval_state": "REVIEW_CANDIDATE",
+      "changes": "Leo: LS logo fully on the front shell; project sticker above the band.",
+      "visual_check": "Identified repairs visually inspected against current approved eight-view and R8 sources; no additional visible mismatch identified in repair regions.",
+      "unverified": [
+        "Hidden details and back-of-vest emblems remain UNVERIFIED because these scenes do not expose them.",
+        "Exact physical height is not measurable from scene perspective. The distant excavator operator on pages 24-25 remains unidentified.",
+        "Visual inspection and pixel preservation are not print proofing or a new author approval."
+      ],
+      "source_bindings": [
+        {
+          "character": "Priya-Patel",
+          "source_image_id": "19ZMf5fqX8WGlhs7I7tJx_iFgrdlgpe8e",
+          "source_image_sha256": "b1a053ca9f77df429b3e72f4c49fe1b59fc843557c55f37afcebe8d87b89fdab",
+          "profile_id": "1ZyHR-GirFpMwk8DcRqlJVpy0RHXUBKd6",
+          "profile_sha256": "28bb5fb860b59357006d7c2a89e7f43455f61799a6f07cccbab6308988173166",
+          "approved_references": [
+            {
+              "drive_id": "1WT54apXjV4H2Nydrl575VpLWFL164T-8",
+              "filename": "Priya_Patel_PPE_8_Angles_REVIEW_R4.png",
+              "sha256": "959fec91b584045fc7586af9edaac3bfb3f61e4bfe74a76db170148bfbf53296"
+            },
+            {
+              "drive_id": "1GwLW4rrCqIVmAKr7DQxZHiowZGG7t-t-",
+              "filename": "Priya_Patel_Hardhat_Source_R8.png",
+              "sha256": "4d823e8a2e967a7f3b5f72c8d789a4f0777bb4b197e4b6450bf069ea7d091f58"
+            }
+          ],
+          "visible_identity_check": "Dark tied-back hair, dark prescription glasses, gold hoops, teal blouse, dark slacks, yellow Mason Vale helmet and lime/gray vest.",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "current_result": "UNCHANGED_FROM_PRIOR_VISUAL_REVIEW"
+        },
+        {
+          "character": "Maya",
+          "source_image_id": "1RZtZjt-3eX0iFFcKw1ZxtnlXj3pkoerU",
+          "source_image_sha256": "405c184a953d966e68f5517078feef8bf056ceb405deb17842d9c9b9ab8e180c",
+          "profile_id": "1nERipp0Qz3AUFuYFkJ25rOuM0UfIGnV3",
+          "profile_sha256": "f1824deec8163a56f53a01724aa45f37be0a9e3f30b15ad4239e08fff25e2d24",
+          "approved_references": [
+            {
+              "drive_id": "10LwizzRxzXLIQpSsZsIaC-dL_klEyABJ",
+              "filename": "Maya_PPE_8_Angles_REVIEW_R9.png",
+              "sha256": "c8b7892b89e5fd445c10d5169f8faa03529fe3a452fe0a271fbe2dc123354c09"
+            },
+            {
+              "drive_id": "1imb0ZRtQCR32Xe6Ebgm6rQEsZHks4gpc",
+              "filename": "Maya_Hardhat_Source_R8.png",
+              "sha256": "ed34b1ff92b464ef6279a9de88833a5258f4e9d2e46782608c2bc2852a00fe17"
+            }
+          ],
+          "visible_identity_check": "Warm medium skin, brown eyes, very long dark curls, gold hoops, pink zip hoodie and blue cargos; gray/purple footwear, yellow helmet and clear eye protection in PPE scenes.",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "current_result": "UNCHANGED_FROM_PRIOR_VISUAL_REVIEW"
+        },
+        {
+          "character": "Leo",
+          "source_image_id": "1PmH5IMF_HI_s9y1slZM9DXbWzTYVnbGc",
+          "source_image_sha256": "17c89e174c841f0d101fd9e4d983b5a16d0231d51faa48f54cedd830506e7e7c",
+          "profile_id": "1JD1OTpwF7EJizHYwaE-31j-z-kMPRqbx",
+          "profile_sha256": "d2c24d0fb0d4262a738972f2e8e5972c82231db4719fab49ca1312c64e8ecd5b",
+          "approved_references": [
+            {
+              "drive_id": "15XT3C5z7LIdlFWZy98NbCSMFcGtbZvyj",
+              "filename": "Leo_PPE_8_Angles_APPROVED_R8_UNCHANGED.png",
+              "sha256": "b20e5aa363e0a54d51e322d1fc138830239b9e2adbaeea83f4b4bfc97ff61010"
+            },
+            {
+              "drive_id": "1fcSeoZf6VV8JssjHJFrJA0B00lMES_DO",
+              "filename": "Leo_Hardhat_Source_R8.png",
+              "sha256": "f05e23e856fd276abf32a8e3b7b0fad23d3a147d202f8d1ce49e495a7d7f8409"
+            }
+          ],
+          "visible_identity_check": "Warm brown skin, short tight dark curls, navy zip hoodie with white drawstrings, dark cargos and tan/black work boots; blue helmet and orange-accented vest in PPE scenes.",
+          "finding_ids": [
+            "F12"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "CORRECTION_REQUIRED",
+          "current_result": "VISIBLE_REPAIR_CHECK_COMPLETE"
+        }
+      ],
+      "findings": [
+        {
+          "id": "F12",
+          "pages": "22-23",
+          "character": "Leo",
+          "category": "Helmet logo / sticker placement",
+          "status": "CORRECTED_IN_REVIEW_CANDIDATE",
+          "observation": "The LS mark sits on the front brim edge instead of fully on the shell. The project sticker also reaches the brim line.",
+          "correction": "Place the exact LS mark fully on the centered front shell; restore the wearer\u2019s right-side sticker above the band at the approved scale.",
+          "evidence": "more_hat_details.jpg",
+          "repair_summary": "Leo: LS logo fully on the front shell; project sticker above the band."
+        }
+      ],
+      "pixel_sha256": "669e86e3480aaa62dd169e96db09e1c834d7bdf9d60b261b887e53fe50c351c1",
+      "repair_patches": [
+        {
+          "id": "22-23",
+          "key": "Leo",
+          "original": "Book1_Pages22-23_REV1_CANON_CHECKED_CANDIDATE.png",
+          "revision": 2,
+          "crop": [
+            3560,
+            880,
+            600,
+            600
+          ],
+          "generated": "exec-086e0ded-b0f7-46f8-8f0f-1f4d2ce41307.png",
+          "polygons": [
+            "358,113 413,113 433,139 433,178 374,179 358,144",
+            "137,187 200,185 209,247 190,264 142,264"
+          ],
+          "feather": 3
+        }
+      ],
+      "graphic_placements": [
+        {
+          "id": "22-23",
+          "key": "LeoLS",
+          "asset": "LS_logo.png",
+          "origin": [
+            3560,
+            880
+          ],
+          "quad": [
+            [
+              332,
+              97
+            ],
+            [
+              388,
+              83
+            ],
+            [
+              408,
+              138
+            ],
+            [
+              348,
+              153
+            ]
+          ],
+          "revision": 2,
+          "full_quad": [
+            [
+              3892,
+              977
+            ],
+            [
+              3948,
+              963
+            ],
+            [
+              3968,
+              1018
+            ],
+            [
+              3908,
+              1033
+            ]
+          ],
+          "layer_box": [
+            3889,
+            960,
+            83,
+            77
+          ]
+        },
+        {
+          "id": "22-23",
+          "key": "LeoSticker",
+          "asset": "Fire_Station_Sticker.png",
+          "origin": [
+            3560,
+            880
+          ],
+          "quad": [
+            [
+              132,
+              177
+            ],
+            [
+              190,
+              157
+            ],
+            [
+              213,
+              228
+            ],
+            [
+              155,
+              248
+            ]
+          ],
+          "revision": 2,
+          "full_quad": [
+            [
+              3692,
+              1057
+            ],
+            [
+              3750,
+              1037
+            ],
+            [
+              3773,
+              1108
+            ],
+            [
+              3715,
+              1128
+            ]
+          ],
+          "layer_box": [
+            3689,
+            1034,
+            88,
+            98
+          ]
+        }
+      ],
+      "audit": {
+        "drive_id": "1WtCxy0Hgg9A5OEs5SD6TSD_OsqNnhNW6",
+        "url": "https://drive.google.com/file/d/1WtCxy0Hgg9A5OEs5SD6TSD_OsqNnhNW6/view?usp=drivesdk",
+        "filename": "Pages22-23_REV2_People_Repair_Audit.json",
+        "sha256": "a8c56d8d02828b11400d907acf6d44933866df351b78feca97ec7c80ff34ec7b"
+      }
+    },
+    {
+      "pages": "24-25",
+      "revision": 2,
+      "filename": "Book1_Pages24-25_REV2_PEOPLE_REPAIRS_REVIEW.png",
+      "sha256": "6a55bcdb326f768b3489f96cb983eff4ab831e2dcb4a18cc4b7ce66d61c89532",
+      "bytes": 11312088,
+      "dimensions": [
+        5100,
+        2550
+      ],
+      "source_filename": "Book1_Pages24-25_REV1_CANON_CHECKED_CANDIDATE.png",
+      "source_sha256": "c25ba2d05b3641be19e702813323ed391370fc7999c9985fe46cac7e15f5401e",
+      "changed_pixels": 32725,
+      "changed_percent": 0.2516,
+      "changed_outside_repair_masks": 0,
+      "preservation": "PASS - all RGB pixels outside documented repairs identical",
+      "drive_id": "1WLD0w4K6EfUmLyzYiTVQE8-x2Cy2RgqS",
+      "drive_url": "https://drive.google.com/file/d/1WLD0w4K6EfUmLyzYiTVQE8-x2Cy2RgqS/view?usp=drivesdk",
+      "review_folder_id": "1Mz5ULynzY8w-NN4bbVz6cplk-G7vlqdG",
+      "status": "VERSION B - REVIEW REQUIRED",
+      "author_approval": null,
+      "original_drive_id": "1EzuqpYR5XNV5vv2lrn2JXK6t_eHaT_4o",
+      "original_approval_state": "REVIEW_CANDIDATE",
+      "changes": "Jackson and Leo: restored sticker scale and spacing above the band.",
+      "visual_check": "Identified repairs visually inspected against current approved eight-view and R8 sources; no additional visible mismatch identified in repair regions.",
+      "unverified": [
+        "Hidden details and back-of-vest emblems remain UNVERIFIED because these scenes do not expose them.",
+        "Exact physical height is not measurable from scene perspective. The distant excavator operator on pages 24-25 remains unidentified.",
+        "Visual inspection and pixel preservation are not print proofing or a new author approval."
+      ],
+      "source_bindings": [
+        {
+          "character": "Marcus-Jackson",
+          "source_image_id": "1Y9-w_J1cnz_abDKpIL8Iz5W1GfvA_8xh",
+          "source_image_sha256": "742f5a2609f9fcce1fcf2c2fec466d6a1e0deb2d98f7716aa7410253ab29c76d",
+          "profile_id": "1fz_v6E5jSGrZD6LVdlDaVflPCloME6T5",
+          "profile_sha256": "0e3dd0970d1849417b3577bb803e733e1e18e13347122c748cc71dc993b472f7",
+          "approved_references": [
+            {
+              "drive_id": "17DCRFDxKdvY7FKDbrxSQRxARaYnVcZ8S",
+              "filename": "Marcus_Jackson_PPE_8_Angles_REVIEW_R5.png",
+              "sha256": "30242f7935f0bd192683cf55e84e05ebdc57b9172477746576ec6b4e8d3d8fee"
+            },
+            {
+              "drive_id": "1y8iBoLZ10Xyxu1xv4Csn6IIIMxX23u38",
+              "filename": "Marcus_Jackson_Hardhat_Source_R8.png",
+              "sha256": "8f763cb167e9cafd3001aa05c305b0152d8a77b138ab2637761f6badacc4d3e5"
+            }
+          ],
+          "visible_identity_check": "Gray hair and beard, sturdy older adult build, navy hooded field top, dark cargos, tan work boots, radio, blue Civic Ridge helmet and orange-accented vest.",
+          "finding_ids": [
+            "F13"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "CORRECTION_REQUIRED",
+          "current_result": "VISIBLE_REPAIR_CHECK_COMPLETE"
+        },
+        {
+          "character": "Leo",
+          "source_image_id": "1PmH5IMF_HI_s9y1slZM9DXbWzTYVnbGc",
+          "source_image_sha256": "17c89e174c841f0d101fd9e4d983b5a16d0231d51faa48f54cedd830506e7e7c",
+          "profile_id": "1JD1OTpwF7EJizHYwaE-31j-z-kMPRqbx",
+          "profile_sha256": "d2c24d0fb0d4262a738972f2e8e5972c82231db4719fab49ca1312c64e8ecd5b",
+          "approved_references": [
+            {
+              "drive_id": "15XT3C5z7LIdlFWZy98NbCSMFcGtbZvyj",
+              "filename": "Leo_PPE_8_Angles_APPROVED_R8_UNCHANGED.png",
+              "sha256": "b20e5aa363e0a54d51e322d1fc138830239b9e2adbaeea83f4b4bfc97ff61010"
+            },
+            {
+              "drive_id": "1fcSeoZf6VV8JssjHJFrJA0B00lMES_DO",
+              "filename": "Leo_Hardhat_Source_R8.png",
+              "sha256": "f05e23e856fd276abf32a8e3b7b0fad23d3a147d202f8d1ce49e495a7d7f8409"
+            }
+          ],
+          "visible_identity_check": "Warm brown skin, short tight dark curls, navy zip hoodie with white drawstrings, dark cargos and tan/black work boots; blue helmet and orange-accented vest in PPE scenes.",
+          "finding_ids": [
+            "F14"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "CORRECTION_REQUIRED",
+          "current_result": "VISIBLE_REPAIR_CHECK_COMPLETE"
+        }
+      ],
+      "findings": [
+        {
+          "id": "F13",
+          "pages": "24-25",
+          "character": "Marcus-Jackson",
+          "category": "Project sticker scale / placement",
+          "status": "CORRECTED_IN_REVIEW_CANDIDATE",
+          "observation": "The visible project sticker is substantially smaller than the approved eight-view/R8 proportion and sits close to the brim. The scene is roughly 11-13% sticker height/brim width versus about 19% in the source comparison.",
+          "correction": "Restore the approved scale and above-band placement; keep Jackson\u2019s rear-right and Leo\u2019s right-side locations.",
+          "evidence": "decals_and_boots.jpg",
+          "repair_summary": "Jackson and Leo: restored sticker scale and spacing above the band."
+        },
+        {
+          "id": "F14",
+          "pages": "24-25",
+          "character": "Leo",
+          "category": "Project sticker scale / placement",
+          "status": "CORRECTED_IN_REVIEW_CANDIDATE",
+          "observation": "The visible project sticker is substantially smaller than the approved eight-view/R8 proportion and sits close to the brim. The scene is roughly 11-13% sticker height/brim width versus about 19% in the source comparison.",
+          "correction": "Restore the approved scale and above-band placement; keep Jackson\u2019s rear-right and Leo\u2019s right-side locations.",
+          "evidence": "decals_and_boots.jpg",
+          "repair_summary": "Jackson and Leo: restored sticker scale and spacing above the band."
+        }
+      ],
+      "pixel_sha256": "87920900c7182d79a21246aa0ef29b282599366bee636399bcecc17523e26ac0",
+      "repair_patches": [
+        {
+          "id": "24-25",
+          "key": "JacksonLeo",
+          "original": "Book1_Pages24-25_REV1_CANON_CHECKED_CANDIDATE.png",
+          "revision": 2,
+          "crop": [
+            450,
+            420,
+            1450,
+            1450
+          ],
+          "generated": "exec-53f9be04-5066-4ecc-89bd-c53062eec1c1.png",
+          "polygons": [
+            "204,278 283,278 289,370 203,374",
+            "853,1058 935,1058 940,1149 852,1154"
+          ],
+          "feather": 4
+        }
+      ],
+      "graphic_placements": [
+        {
+          "id": "24-25",
+          "key": "Jackson",
+          "asset": "Fire_Station_Sticker.png",
+          "origin": [
+            450,
+            420
+          ],
+          "quad": [
+            [
+              191,
+              238
+            ],
+            [
+              301,
+              216
+            ],
+            [
+              326,
+              345
+            ],
+            [
+              216,
+              367
+            ]
+          ],
+          "revision": 2,
+          "full_quad": [
+            [
+              641,
+              658
+            ],
+            [
+              751,
+              636
+            ],
+            [
+              776,
+              765
+            ],
+            [
+              666,
+              787
+            ]
+          ],
+          "layer_box": [
+            638,
+            633,
+            142,
+            158
+          ]
+        },
+        {
+          "id": "24-25",
+          "key": "Leo",
+          "asset": "Fire_Station_Sticker.png",
+          "origin": [
+            450,
+            420
+          ],
+          "quad": [
+            [
+              838,
+              1017
+            ],
+            [
+              937,
+              974
+            ],
+            [
+              983,
+              1080
+            ],
+            [
+              884,
+              1123
+            ]
+          ],
+          "revision": 2,
+          "full_quad": [
+            [
+              1288,
+              1437
+            ],
+            [
+              1387,
+              1394
+            ],
+            [
+              1433,
+              1500
+            ],
+            [
+              1334,
+              1543
+            ]
+          ],
+          "layer_box": [
+            1285,
+            1391,
+            152,
+            156
+          ]
+        }
+      ],
+      "audit": {
+        "drive_id": "1Jz6qy1oX6dqR1Ng0CcRf6mhXw1gUeLLj",
+        "url": "https://drive.google.com/file/d/1Jz6qy1oX6dqR1Ng0CcRf6mhXw1gUeLLj/view?usp=drivesdk",
+        "filename": "Pages24-25_REV2_People_Repair_Audit.json",
+        "sha256": "433a869d967bded0f212b8e26795e8cdd9b219fb5d30467ea592367560244922"
+      }
+    },
+    {
+      "pages": "26-27",
+      "revision": 2,
+      "filename": "Book1_Pages26-27_REV2_PEOPLE_REPAIRS_REVIEW.png",
+      "sha256": "51452700823e8f03f85f3cf316827972189ff8b4e2ebad4598aa533c54251167",
+      "bytes": 13506378,
+      "dimensions": [
+        5100,
+        2550
+      ],
+      "source_filename": "Book1_Pages26-27_REV1_CANON_CHECKED_CANDIDATE.png",
+      "source_sha256": "5a2246e233b937834e30e7ce42ae5cde51143d213943b3ebcc417a9988b33738",
+      "changed_pixels": 17645,
+      "changed_percent": 0.1357,
+      "changed_outside_repair_masks": 0,
+      "preservation": "PASS - all RGB pixels outside documented repairs identical",
+      "drive_id": "19P3nwtruKSl-R7RuXaGqRekdoFdeA0FF",
+      "drive_url": "https://drive.google.com/file/d/19P3nwtruKSl-R7RuXaGqRekdoFdeA0FF/view?usp=drivesdk",
+      "review_folder_id": "1ltoYiLdIIb8qrj1aYUd5UMahqKlPml-q",
+      "status": "VERSION B - REVIEW REQUIRED",
+      "author_approval": null,
+      "original_drive_id": "1nF7p9p3j5UlVO-FlOsZ6zmep8zEAlrb_",
+      "original_approval_state": "REVIEW_CANDIDATE",
+      "changes": "Rivera: added clear safety glasses.",
+      "visual_check": "Identified repairs visually inspected against current approved eight-view and R8 sources; no additional visible mismatch identified in repair regions.",
+      "unverified": [
+        "Hidden details and back-of-vest emblems remain UNVERIFIED because these scenes do not expose them.",
+        "Exact physical height is not measurable from scene perspective. The distant excavator operator on pages 24-25 remains unidentified.",
+        "Visual inspection and pixel preservation are not print proofing or a new author approval."
+      ],
+      "source_bindings": [
+        {
+          "character": "Elena-Rivera",
+          "source_image_id": "1LMyoOO57gA-NQxgtF5poW7UPvfVjgqjP",
+          "source_image_sha256": "7607cf26c2d548a98f73a50560138f6dedd68689c0ff0cdb4fdbccc893f4aada",
+          "profile_id": "1nplm3aa__GwX4zVAlZ85usrKFuijLQdX",
+          "profile_sha256": "4174fae06271098642cdae38c05c67712adbdc2785a312cbd670ca6b297e6099",
+          "approved_references": [
+            {
+              "drive_id": "1Jd5ULSyC9dV2hYvxq4b_RRxhuFiE20ml",
+              "filename": "Elena_Rivera_PPE_8_Angles_REVIEW_R5.png",
+              "sha256": "e6f9ac672ef22f9ff0829ba58db0dac702bceca5400b8841bc19e52c79c426e1"
+            },
+            {
+              "drive_id": "1NlEwL5VWul3raRST4P8ZKrDXHM0mT4uk",
+              "filename": "Elena_Rivera_Hardhat_Source_R8.png",
+              "sha256": "384e7549b4f076f2e85d2f34c69896125e0314cb5cc879a6e5c38f2ccb40a474"
+            }
+          ],
+          "visible_identity_check": "Dark low ponytail, gold hoops, light-blue blouse, dark slacks, work boots, white Civic Ridge helmet and lime/gray vest. Current R5 PPE sheet includes clear safety glasses.",
+          "finding_ids": [
+            "F04"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "CORRECTION_REQUIRED",
+          "current_result": "VISIBLE_REPAIR_CHECK_COMPLETE"
+        },
+        {
+          "character": "Ben",
+          "source_image_id": "1lkboZGWom6Vw7et5J5__5dBivj7i2TRx",
+          "source_image_sha256": "bd0795cea996b37f1476a6bc1e967021df89d7d06b63de0c0714a99edb46f7d3",
+          "profile_id": "1rhPTyBiDT9OevTiI9ncFGYR8JPbLVt6m",
+          "profile_sha256": "facf7893671101aebc46163a5f01da644f5e5702c53108425da5547739fa32dc",
+          "approved_references": [
+            {
+              "drive_id": "1f-5jc6V8LtI3FmUsv7YUfQbk8iuSBc-W",
+              "filename": "Ben_PPE_8_Angles_APPROVED_R10_UNCHANGED.png",
+              "sha256": "e19736d0df48559412a3a6b1578e6b4bdd7a1bf3e70ffb21cd1ecaecc67d45ef"
+            },
+            {
+              "drive_id": "1KheF8T1L-JGplgLRp7sKAUKMY4l4F4by",
+              "filename": "Ben_Hardhat_Source_R8.png",
+              "sha256": "c925c1482b8ba78e1c15b5d6d1b6bb47bfbdf4c0868fd23094168e6e5efd42d6"
+            }
+          ],
+          "visible_identity_check": "Brown swept hair, black rectangular prescription frames, light-blue button-up and plain khakis. Current source incorporates Everyday R4 and PPE R10.",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "current_result": "UNCHANGED_FROM_PRIOR_VISUAL_REVIEW"
+        },
+        {
+          "character": "Leo",
+          "source_image_id": "1PmH5IMF_HI_s9y1slZM9DXbWzTYVnbGc",
+          "source_image_sha256": "17c89e174c841f0d101fd9e4d983b5a16d0231d51faa48f54cedd830506e7e7c",
+          "profile_id": "1JD1OTpwF7EJizHYwaE-31j-z-kMPRqbx",
+          "profile_sha256": "d2c24d0fb0d4262a738972f2e8e5972c82231db4719fab49ca1312c64e8ecd5b",
+          "approved_references": [
+            {
+              "drive_id": "15XT3C5z7LIdlFWZy98NbCSMFcGtbZvyj",
+              "filename": "Leo_PPE_8_Angles_APPROVED_R8_UNCHANGED.png",
+              "sha256": "b20e5aa363e0a54d51e322d1fc138830239b9e2adbaeea83f4b4bfc97ff61010"
+            },
+            {
+              "drive_id": "1fcSeoZf6VV8JssjHJFrJA0B00lMES_DO",
+              "filename": "Leo_Hardhat_Source_R8.png",
+              "sha256": "f05e23e856fd276abf32a8e3b7b0fad23d3a147d202f8d1ce49e495a7d7f8409"
+            }
+          ],
+          "visible_identity_check": "Warm brown skin, short tight dark curls, navy zip hoodie with white drawstrings, dark cargos and tan/black work boots; blue helmet and orange-accented vest in PPE scenes.",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "current_result": "UNCHANGED_FROM_PRIOR_VISUAL_REVIEW"
+        }
+      ],
+      "findings": [
+        {
+          "id": "F04",
+          "pages": "26-27",
+          "character": "Elena-Rivera",
+          "category": "PPE / eyewear",
+          "status": "CORRECTED_IN_REVIEW_CANDIDATE",
+          "observation": "Her face is unobstructed but the clear safety glasses shown in the currently approved R5 PPE sheet are absent. The older master sheet without glasses does not override the newer approved PPE view.",
+          "correction": "Add source-matched clear safety glasses without changing her face, hair, clothing or expression.",
+          "evidence": "rivera_eyewear.jpg",
+          "repair_summary": "Rivera: added clear safety glasses."
+        }
+      ],
+      "pixel_sha256": "4d76eb9b3801d07aacd157fbb3b18159b099f4b58f438477a0d86f8e7c9bf139",
+      "repair_patches": [
+        {
+          "id": "26-27",
+          "original": "Book1_Pages26-27_REV1_CANON_CHECKED_CANDIDATE.png",
+          "revision": 2,
+          "crop": [
+            3370,
+            650,
+            650,
+            650
+          ],
+          "generated": "exec-92b571d5-62b0-4ac6-9abd-18cc540ee9a4.png",
+          "polygon": "328,299 414,299 476,321 546,334 549,377 518,399 467,395 439,376 391,377 351,353 329,330",
+          "feather": 2.5
+        }
+      ],
+      "graphic_placements": [],
+      "audit": {
+        "drive_id": "17w0PtlvGgMwnLqEcXiB6m02Nk4Ceo5Wm",
+        "url": "https://drive.google.com/file/d/17w0PtlvGgMwnLqEcXiB6m02Nk4Ceo5Wm/view?usp=drivesdk",
+        "filename": "Pages26-27_REV2_People_Repair_Audit.json",
+        "sha256": "2591fe60f21d780e594d0b6057ae9c77808514b83eb072aaa39310bb732f0a9a"
+      }
+    },
+    {
+      "pages": "28-29",
+      "revision": 2,
+      "filename": "Book1_Pages28-29_REV2_PEOPLE_REPAIRS_REVIEW.png",
+      "sha256": "4d1763eaf614de95825a0be5deda9f64075947613027ebdac79fd047c65a28b9",
+      "bytes": 11649328,
+      "dimensions": [
+        5100,
+        2550
+      ],
+      "source_filename": "Book1_Pages28-29_REV1_CANON_CHECKED_CANDIDATE.png",
+      "source_sha256": "ca8e2f3bd4a77acb59ef6e3cc4aa97c0655815cb92d4ce09dfaf6a129ba5ed5c",
+      "changed_pixels": 20743,
+      "changed_percent": 0.1595,
+      "changed_outside_repair_masks": 0,
+      "preservation": "PASS - all RGB pixels outside documented repairs identical",
+      "drive_id": "1vz7gEtF4LCeIR-fmcGaptsXm3V7_E_r_",
+      "drive_url": "https://drive.google.com/file/d/1vz7gEtF4LCeIR-fmcGaptsXm3V7_E_r_/view?usp=drivesdk",
+      "review_folder_id": "12IUh9t1GYndKNR5iqihhMuN_reTWM_eb",
+      "status": "VERSION B - REVIEW REQUIRED",
+      "author_approval": null,
+      "original_drive_id": "1ASBh-EK-Of-X03PpeOydb_5kg8-yiuvz",
+      "original_approval_state": "REVIEW_CANDIDATE",
+      "changes": "Brooks and Maya: restored sticker scale and shell placement.",
+      "visual_check": "Identified repairs visually inspected against current approved eight-view and R8 sources; no additional visible mismatch identified in repair regions.",
+      "unverified": [
+        "Hidden details and back-of-vest emblems remain UNVERIFIED because these scenes do not expose them.",
+        "Exact physical height is not measurable from scene perspective. The distant excavator operator on pages 24-25 remains unidentified.",
+        "Visual inspection and pixel preservation are not print proofing or a new author approval."
+      ],
+      "source_bindings": [
+        {
+          "character": "Priya-Patel",
+          "source_image_id": "19ZMf5fqX8WGlhs7I7tJx_iFgrdlgpe8e",
+          "source_image_sha256": "b1a053ca9f77df429b3e72f4c49fe1b59fc843557c55f37afcebe8d87b89fdab",
+          "profile_id": "1ZyHR-GirFpMwk8DcRqlJVpy0RHXUBKd6",
+          "profile_sha256": "28bb5fb860b59357006d7c2a89e7f43455f61799a6f07cccbab6308988173166",
+          "approved_references": [
+            {
+              "drive_id": "1WT54apXjV4H2Nydrl575VpLWFL164T-8",
+              "filename": "Priya_Patel_PPE_8_Angles_REVIEW_R4.png",
+              "sha256": "959fec91b584045fc7586af9edaac3bfb3f61e4bfe74a76db170148bfbf53296"
+            },
+            {
+              "drive_id": "1GwLW4rrCqIVmAKr7DQxZHiowZGG7t-t-",
+              "filename": "Priya_Patel_Hardhat_Source_R8.png",
+              "sha256": "4d823e8a2e967a7f3b5f72c8d789a4f0777bb4b197e4b6450bf069ea7d091f58"
+            }
+          ],
+          "visible_identity_check": "Dark tied-back hair, dark prescription glasses, gold hoops, teal blouse, dark slacks, yellow Mason Vale helmet and lime/gray vest.",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "current_result": "UNCHANGED_FROM_PRIOR_VISUAL_REVIEW"
+        },
+        {
+          "character": "Maya",
+          "source_image_id": "1RZtZjt-3eX0iFFcKw1ZxtnlXj3pkoerU",
+          "source_image_sha256": "405c184a953d966e68f5517078feef8bf056ceb405deb17842d9c9b9ab8e180c",
+          "profile_id": "1nERipp0Qz3AUFuYFkJ25rOuM0UfIGnV3",
+          "profile_sha256": "f1824deec8163a56f53a01724aa45f37be0a9e3f30b15ad4239e08fff25e2d24",
+          "approved_references": [
+            {
+              "drive_id": "10LwizzRxzXLIQpSsZsIaC-dL_klEyABJ",
+              "filename": "Maya_PPE_8_Angles_REVIEW_R9.png",
+              "sha256": "c8b7892b89e5fd445c10d5169f8faa03529fe3a452fe0a271fbe2dc123354c09"
+            },
+            {
+              "drive_id": "1imb0ZRtQCR32Xe6Ebgm6rQEsZHks4gpc",
+              "filename": "Maya_Hardhat_Source_R8.png",
+              "sha256": "ed34b1ff92b464ef6279a9de88833a5258f4e9d2e46782608c2bc2852a00fe17"
+            }
+          ],
+          "visible_identity_check": "Warm medium skin, brown eyes, very long dark curls, gold hoops, pink zip hoodie and blue cargos; gray/purple footwear, yellow helmet and clear eye protection in PPE scenes.",
+          "finding_ids": [
+            "F16"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "CORRECTION_REQUIRED",
+          "current_result": "VISIBLE_REPAIR_CHECK_COMPLETE"
+        },
+        {
+          "character": "Vinny",
+          "source_image_id": "1m-mxpb7Fpu04jWj5sYVJTHxvXXPySuSa",
+          "source_image_sha256": "db9e5d966fd39dcc0f242d1df93d64d3a9b2ad52672a341bf293b87c689f7219",
+          "profile_id": "1vG_CJ45X87ZsYlNr-Rq2VJiuRHaTtw4S",
+          "profile_sha256": "b69e2d455657479ed9076f88c49d7462fba599e899c87a7d1d0d9f1520d4914e",
+          "approved_references": [
+            {
+              "drive_id": "16gjYnmlneZMIb3NA5hqHiifUJjSX6wl7",
+              "filename": "Vinny_PPE_8_Angles_REVIEW_R16.png",
+              "sha256": "414bd1bf7fc794c769b4ab3b258d3c12b1a39e172540c4f4eb0e7d901c6856f1"
+            },
+            {
+              "drive_id": "1PsRVybo-3S2oiH4loGO9r066vOXixNmS",
+              "filename": "Vinny_Hardhat_Source_R8.png",
+              "sha256": "d1e422c53805116ee0e49cc73a266e55996425e432099df7182e56bc47ca979d"
+            }
+          ],
+          "visible_identity_check": "Round face and sturdy child build, soft brown curls, green pullover hoodie, blue cargos and dark olive/black shoes; green helmet and clear safety eyewear in PPE scenes.",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "current_result": "UNCHANGED_FROM_PRIOR_VISUAL_REVIEW"
+        },
+        {
+          "character": "Daniel-Brooks",
+          "source_image_id": "1TVWd4mtznkx3tFEKNKF_TClF5VBPILey",
+          "source_image_sha256": "5fc186933893463902db56efb8d6b3e8d97697b7751d798e580a488da7450087",
+          "profile_id": "1yk_XlyuOxhaKMIms-e7mwbCrviNKZrKZ",
+          "profile_sha256": "a096423467027096ceb99c671bea8c6299b77334509d49452b98f64dfaf35553",
+          "approved_references": [
+            {
+              "drive_id": "1j_kgtOf1Vq_Yng0AyeW_-3Ra4uaJZujW",
+              "filename": "Daniel_Brooks_PPE_8_Angles_REVIEW_R4.png",
+              "sha256": "166b4b88eb27cd92ef28b87d2747fa921b34e7911040b79209de14e685c25c69"
+            },
+            {
+              "drive_id": "12MlhM2Kg_WvPOk7Df_f4ITkedznPYKO8",
+              "filename": "Daniel_Brooks_Hardhat_Source_R8.png",
+              "sha256": "303ce4903d16cca515e5b7ff2e32c5d3313c28c230ba4bb443722cdb42297c05"
+            }
+          ],
+          "visible_identity_check": "Brown hair, rectangular glasses, green quarter-zip, dark cargos, green Civic Ridge helmet and lime/gray vest. Medium adult build.",
+          "finding_ids": [
+            "F15"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "CORRECTION_REQUIRED",
+          "current_result": "VISIBLE_REPAIR_CHECK_COMPLETE"
+        }
+      ],
+      "findings": [
+        {
+          "id": "F15",
+          "pages": "28-29",
+          "character": "Daniel-Brooks",
+          "category": "Project sticker placement",
+          "status": "CORRECTED_IN_REVIEW_CANDIDATE",
+          "observation": "The small project sticker overlaps the lower helmet/brim boundary. It should sit entirely on the shell, above the band, on the wearer\u2019s left side toward the rear.",
+          "correction": "Remove the current decal cleanly and apply the approved asset at the R4/R8 position and size, with no ghosting.",
+          "evidence": "decals_and_boots.jpg",
+          "repair_summary": "Brooks and Maya: restored sticker scale and shell placement."
+        },
+        {
+          "id": "F16",
+          "pages": "28-29",
+          "character": "Maya",
+          "category": "Project sticker scale / placement",
+          "status": "CORRECTED_IN_REVIEW_CANDIDATE",
+          "observation": "The front-left project sticker is small and very close to the brim compared with the approved R9 view.",
+          "correction": "Restore approved R9 scale and spacing above the band while retaining the front-left placement and shell contour.",
+          "evidence": "more_hat_details.jpg",
+          "repair_summary": "Brooks and Maya: restored sticker scale and shell placement."
+        }
+      ],
+      "pixel_sha256": "780412402c618450b81b48b6d68544a0e817c53bd0b9a0c4b27f7d8bc765781e",
+      "repair_patches": [
+        {
+          "id": "28-29",
+          "key": "MayaBrooks",
+          "original": "Book1_Pages28-29_REV1_CANON_CHECKED_CANDIDATE.png",
+          "revision": 2,
+          "crop": [
+            1550,
+            420,
+            2850,
+            1100
+          ],
+          "generated": "exec-444718f3-377d-4987-91f1-8374c53693d6.png",
+          "polygons": [
+            "472,568 545,568 550,642 472,645",
+            "2640,278 2711,276 2713,349 2640,351"
+          ],
+          "feather": 3
+        }
+      ],
+      "graphic_placements": [
+        {
+          "id": "28-29",
+          "key": "Maya",
+          "asset": "Fire_Station_Sticker.png",
+          "origin": [
+            1550,
+            420
+          ],
+          "quad": [
+            [
+              480,
+              532
+            ],
+            [
+              549,
+              555
+            ],
+            [
+              522,
+              637
+            ],
+            [
+              453,
+              613
+            ]
+          ],
+          "revision": 2,
+          "full_quad": [
+            [
+              2030,
+              952
+            ],
+            [
+              2099,
+              975
+            ],
+            [
+              2072,
+              1057
+            ],
+            [
+              2003,
+              1033
+            ]
+          ],
+          "layer_box": [
+            2000,
+            949,
+            103,
+            112
+          ]
+        },
+        {
+          "id": "28-29",
+          "key": "Brooks",
+          "asset": "Fire_Station_Sticker.png",
+          "origin": [
+            1550,
+            420
+          ],
+          "quad": [
+            [
+              2618,
+              218
+            ],
+            [
+              2696,
+              203
+            ],
+            [
+              2713,
+              294
+            ],
+            [
+              2635,
+              309
+            ]
+          ],
+          "revision": 2,
+          "full_quad": [
+            [
+              4168,
+              638
+            ],
+            [
+              4246,
+              623
+            ],
+            [
+              4263,
+              714
+            ],
+            [
+              4185,
+              729
+            ]
+          ],
+          "layer_box": [
+            4165,
+            620,
+            102,
+            113
+          ]
+        }
+      ],
+      "audit": {
+        "drive_id": "1W-_Vue4Wyn8niOez4RxyFfnMlekLdndy",
+        "url": "https://drive.google.com/file/d/1W-_Vue4Wyn8niOez4RxyFfnMlekLdndy/view?usp=drivesdk",
+        "filename": "Pages28-29_REV2_People_Repair_Audit.json",
+        "sha256": "c2fac687efdd86a44d2a8e607a86a6fcce3e679a8fd428fe68e37c52ab2e9c7a"
+      }
+    },
+    {
+      "pages": "30-31",
+      "revision": 2,
+      "filename": "Book1_Pages30-31_REV2_PEOPLE_REPAIRS_REVIEW.png",
+      "sha256": "c8d72570052a6d5d94499540a24a26c374c3e9d0cd8614414c1ee35c341067b0",
+      "bytes": 11908707,
+      "dimensions": [
+        5100,
+        2550
+      ],
+      "source_filename": "Book1_Pages30-31_REV1_CANON_CHECKED_CANDIDATE.png",
+      "source_sha256": "a8f3b5760c3516caa702ba2ee77459ff6d876d32143db95861c2e9df802f1e3f",
+      "changed_pixels": 33792,
+      "changed_percent": 0.2598,
+      "changed_outside_repair_masks": 0,
+      "preservation": "PASS - all RGB pixels outside documented repairs identical",
+      "drive_id": "1FWqyGqQXyLYspWks86T8ONxxETlOIkTb",
+      "drive_url": "https://drive.google.com/file/d/1FWqyGqQXyLYspWks86T8ONxxETlOIkTb/view?usp=drivesdk",
+      "review_folder_id": "1xHgb7xXRQBEDjqV8w3eBJ-hbLeXoOQjp",
+      "status": "VERSION B - REVIEW REQUIRED",
+      "author_approval": null,
+      "original_drive_id": "1BYiCmNICyxvT9hw3MI60Fpp7lZgR0k1j",
+      "original_approval_state": "REVIEW_CANDIDATE",
+      "changes": "Steph, Ben and Leo: LS logos above the brim. Ben: corrected project sticker.",
+      "visual_check": "Identified repairs visually inspected against current approved eight-view and R8 sources; no additional visible mismatch identified in repair regions.",
+      "unverified": [
+        "Hidden details and back-of-vest emblems remain UNVERIFIED because these scenes do not expose them.",
+        "Exact physical height is not measurable from scene perspective. The distant excavator operator on pages 24-25 remains unidentified.",
+        "Visual inspection and pixel preservation are not print proofing or a new author approval."
+      ],
+      "source_bindings": [
+        {
+          "character": "Tony-Marino",
+          "source_image_id": "1FjL5YJLklpXpHnqHGZmVc8Ps87IgvJro",
+          "source_image_sha256": "546d050489f5c7eea1992c84b5d9a84e59accf372e85cb840b306fc2123c2054",
+          "profile_id": "1tJnFRmAnXSViwGbNxi9-RAyuBz9KD9Uq",
+          "profile_sha256": "6000214c393c2ef573b46f4dec4886ffc4d9c18069567868429b51d5427fe313",
+          "approved_references": [
+            {
+              "drive_id": "12-8pi_nFypSJ0XXlfS5VQ5n8-Ia1bI3b",
+              "filename": "Tony_Marino_PPE_8_Angles_REVIEW_R4.png",
+              "sha256": "3a30e4108edc58f351d27755eef28172b418d6ac52741dbad5349c6d84a4a834"
+            },
+            {
+              "drive_id": "18N_vfEzOwN-RRDExAQ8xHp23iBgvGJOc",
+              "filename": "Tony_Marino_Hardhat_Source_R8.png",
+              "sha256": "48e9ce8b49f38c2fe34d3ae53ea24752eeaf240920facdd6fe95416e3ce1699a"
+            }
+          ],
+          "visible_identity_check": "Gray hair and facial hair, blue plaid shirt, brown bib/dark overalls, tool belt, pencil, work boots, white Redfern helmet and clear safety eyewear.",
+          "finding_ids": [],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "NO_SPECIFIC_VISIBLE_MISMATCH_IDENTIFIED",
+          "current_result": "UNCHANGED_FROM_PRIOR_VISUAL_REVIEW"
+        },
+        {
+          "character": "Steph",
+          "source_image_id": "1gF-pOjdltQVujd5NyCcX-Brh-EI0vQ9j",
+          "source_image_sha256": "0338ba00d3cc122c7e1baecca56b577f51b54ea4a8f24ed2b7bbbc29685b934a",
+          "profile_id": "1hzABye97w5caJMYh90wvyGXrd17gXCBS",
+          "profile_sha256": "b001f923646aaf0d875994c418460c77049612452f158ced77c568478ad7d7e8",
+          "approved_references": [
+            {
+              "drive_id": "1cCWdcn7K0xNeLbqYa8oGBZii5ZkR07jk",
+              "filename": "Steph_PPE_8_Angles_REVIEW_R14.png",
+              "sha256": "5ad1553bdfacbebf3fc679f207268a2869a0ea07fb6d0c42865bb0d9f4fa7e98"
+            },
+            {
+              "drive_id": "1WOusRNhdIMJaArdclVPGID16vmEIaQii",
+              "filename": "Steph_Hardhat_Source_R8.png",
+              "sha256": "579e7a9ba3a0da92b4d471529735ebea053831a5528ab5b512af752e9a9d1da7"
+            }
+          ],
+          "visible_identity_check": "Fair skin, blue eyes, freckles where resolved, long straight copper-red hair, lavender hoodie and olive cargos; gray/purple footwear and light-gray helmet in PPE scenes.",
+          "finding_ids": [
+            "F17"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "CORRECTION_REQUIRED",
+          "current_result": "VISIBLE_REPAIR_CHECK_COMPLETE"
+        },
+        {
+          "character": "Ben",
+          "source_image_id": "1lkboZGWom6Vw7et5J5__5dBivj7i2TRx",
+          "source_image_sha256": "bd0795cea996b37f1476a6bc1e967021df89d7d06b63de0c0714a99edb46f7d3",
+          "profile_id": "1rhPTyBiDT9OevTiI9ncFGYR8JPbLVt6m",
+          "profile_sha256": "facf7893671101aebc46163a5f01da644f5e5702c53108425da5547739fa32dc",
+          "approved_references": [
+            {
+              "drive_id": "1f-5jc6V8LtI3FmUsv7YUfQbk8iuSBc-W",
+              "filename": "Ben_PPE_8_Angles_APPROVED_R10_UNCHANGED.png",
+              "sha256": "e19736d0df48559412a3a6b1578e6b4bdd7a1bf3e70ffb21cd1ecaecc67d45ef"
+            },
+            {
+              "drive_id": "1KheF8T1L-JGplgLRp7sKAUKMY4l4F4by",
+              "filename": "Ben_Hardhat_Source_R8.png",
+              "sha256": "c925c1482b8ba78e1c15b5d6d1b6bb47bfbdf4c0868fd23094168e6e5efd42d6"
+            }
+          ],
+          "visible_identity_check": "Brown swept hair, black rectangular prescription frames, light-blue button-up and plain khakis. Current source incorporates Everyday R4 and PPE R10.",
+          "finding_ids": [
+            "F18",
+            "F20"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "CORRECTION_REQUIRED",
+          "current_result": "VISIBLE_REPAIR_CHECK_COMPLETE"
+        },
+        {
+          "character": "Leo",
+          "source_image_id": "1PmH5IMF_HI_s9y1slZM9DXbWzTYVnbGc",
+          "source_image_sha256": "17c89e174c841f0d101fd9e4d983b5a16d0231d51faa48f54cedd830506e7e7c",
+          "profile_id": "1JD1OTpwF7EJizHYwaE-31j-z-kMPRqbx",
+          "profile_sha256": "d2c24d0fb0d4262a738972f2e8e5972c82231db4719fab49ca1312c64e8ecd5b",
+          "approved_references": [
+            {
+              "drive_id": "15XT3C5z7LIdlFWZy98NbCSMFcGtbZvyj",
+              "filename": "Leo_PPE_8_Angles_APPROVED_R8_UNCHANGED.png",
+              "sha256": "b20e5aa363e0a54d51e322d1fc138830239b9e2adbaeea83f4b4bfc97ff61010"
+            },
+            {
+              "drive_id": "1fcSeoZf6VV8JssjHJFrJA0B00lMES_DO",
+              "filename": "Leo_Hardhat_Source_R8.png",
+              "sha256": "f05e23e856fd276abf32a8e3b7b0fad23d3a147d202f8d1ce49e495a7d7f8409"
+            }
+          ],
+          "visible_identity_check": "Warm brown skin, short tight dark curls, navy zip hoodie with white drawstrings, dark cargos and tan/black work boots; blue helmet and orange-accented vest in PPE scenes.",
+          "finding_ids": [
+            "F19"
+          ],
+          "unverified": [
+            "Any features hidden by pose, hair, props, crop or another figure.",
+            "Exact physical height cannot be established from this perspective scene.",
+            "Back-of-vest logo is not exposed in this scene."
+          ],
+          "previous_review_result": "CORRECTION_REQUIRED",
+          "current_result": "VISIBLE_REPAIR_CHECK_COMPLETE"
+        }
+      ],
+      "findings": [
+        {
+          "id": "F17",
+          "pages": "30-31",
+          "character": "Steph",
+          "category": "Helmet front logo placement",
+          "status": "CORRECTED_IN_REVIEW_CANDIDATE",
+          "observation": "The LS graphic crosses the front brim boundary, extending beyond the helmet shell. This is clear in the enlarged crop.",
+          "correction": "Keep the exact LS artwork centered on the helmet front and entirely above the brim, as shown in the character\u2019s approved eight-view and R8 references.",
+          "evidence": "steph_ear_and_sticker.jpg",
+          "repair_summary": "Steph, Ben and Leo: LS logos above the brim. Ben: corrected project sticker."
+        },
+        {
+          "id": "F18",
+          "pages": "30-31",
+          "character": "Ben",
+          "category": "Helmet front logo placement",
+          "status": "CORRECTED_IN_REVIEW_CANDIDATE",
+          "observation": "The LS graphic crosses the front brim boundary, extending beyond the helmet shell. This is clear in the enlarged crop.",
+          "correction": "Keep the exact LS artwork centered on the helmet front and entirely above the brim, as shown in the character\u2019s approved eight-view and R8 references.",
+          "evidence": "more_hat_details.jpg",
+          "repair_summary": "Steph, Ben and Leo: LS logos above the brim. Ben: corrected project sticker."
+        },
+        {
+          "id": "F19",
+          "pages": "30-31",
+          "character": "Leo",
+          "category": "Helmet front logo placement",
+          "status": "CORRECTED_IN_REVIEW_CANDIDATE",
+          "observation": "The LS graphic crosses the front brim boundary, extending beyond the helmet shell. This is clear in the enlarged crop.",
+          "correction": "Keep the exact LS artwork centered on the helmet front and entirely above the brim, as shown in the character\u2019s approved eight-view and R8 references.",
+          "evidence": "more_hat_details.jpg",
+          "repair_summary": "Steph, Ben and Leo: LS logos above the brim. Ben: corrected project sticker."
+        },
+        {
+          "id": "F20",
+          "pages": "30-31",
+          "character": "Ben",
+          "category": "Project sticker placement",
+          "status": "CORRECTED_IN_REVIEW_CANDIDATE",
+          "observation": "The project sticker sits against/over the lower helmet edge instead of fully on the shell above the band.",
+          "correction": "Reapply at the approved left-side location, size and curvature with the full sticker contained on the helmet shell.",
+          "evidence": "more_hat_details.jpg",
+          "repair_summary": "Steph, Ben and Leo: LS logos above the brim. Ben: corrected project sticker."
+        }
+      ],
+      "pixel_sha256": "049ab354ebd86687d3568a246f1d2ad23b0c970a1637eff9f80000ddfda81697",
+      "repair_patches": [
+        {
+          "id": "30-31",
+          "key": "ThreeLogos",
+          "original": "Book1_Pages30-31_REV1_CANON_CHECKED_CANDIDATE.png",
+          "revision": 2,
+          "crop": [
+            3500,
+            850,
+            1450,
+            700
+          ],
+          "generated": "exec-72bce6b5-59f6-4ab9-a46a-46000b3182e0.png",
+          "polygons": [
+            "176,212 230,211 257,243 258,301 183,301 176,250",
+            "591,196 642,195 679,223 681,288 601,289 591,241",
+            "1098,207 1150,204 1186,235 1186,298 1105,296 1098,251",
+            "768,289 814,289 815,346 766,344"
+          ],
+          "feather": 3
+        }
+      ],
+      "graphic_placements": [
+        {
+          "id": "30-31",
+          "key": "StephLS",
+          "asset": "LS_logo.png",
+          "origin": [
+            3500,
+            850
+          ],
+          "quad": [
+            [
+              185,
+              198
+            ],
+            [
+              248,
+              216
+            ],
+            [
+              232,
+              269
+            ],
+            [
+              170,
+              251
+            ]
+          ],
+          "revision": 2,
+          "full_quad": [
+            [
+              3685,
+              1048
+            ],
+            [
+              3748,
+              1066
+            ],
+            [
+              3732,
+              1119
+            ],
+            [
+              3670,
+              1101
+            ]
+          ],
+          "layer_box": [
+            3667,
+            1045,
+            85,
+            78
+          ]
+        },
+        {
+          "id": "30-31",
+          "key": "BenLS",
+          "asset": "LS_logo.png",
+          "origin": [
+            3500,
+            850
+          ],
+          "quad": [
+            [
+              616,
+              176
+            ],
+            [
+              680,
+              193
+            ],
+            [
+              665,
+              246
+            ],
+            [
+              601,
+              229
+            ]
+          ],
+          "revision": 2,
+          "full_quad": [
+            [
+              4116,
+              1026
+            ],
+            [
+              4180,
+              1043
+            ],
+            [
+              4165,
+              1096
+            ],
+            [
+              4101,
+              1079
+            ]
+          ],
+          "layer_box": [
+            4098,
+            1023,
+            86,
+            77
+          ]
+        },
+        {
+          "id": "30-31",
+          "key": "LeoLS",
+          "asset": "LS_logo.png",
+          "origin": [
+            3500,
+            850
+          ],
+          "quad": [
+            [
+              1118,
+              194
+            ],
+            [
+              1184,
+              213
+            ],
+            [
+              1168,
+              268
+            ],
+            [
+              1102,
+              249
+            ]
+          ],
+          "revision": 2,
+          "full_quad": [
+            [
+              4618,
+              1044
+            ],
+            [
+              4684,
+              1063
+            ],
+            [
+              4668,
+              1118
+            ],
+            [
+              4602,
+              1099
+            ]
+          ],
+          "layer_box": [
+            4599,
+            1041,
+            89,
+            81
+          ]
+        },
+        {
+          "id": "30-31",
+          "key": "BenSticker",
+          "asset": "Fire_Station_Sticker.png",
+          "origin": [
+            3500,
+            850
+          ],
+          "quad": [
+            [
+              773,
+              243
+            ],
+            [
+              816,
+              261
+            ],
+            [
+              793,
+              320
+            ],
+            [
+              750,
+              302
+            ]
+          ],
+          "revision": 2,
+          "full_quad": [
+            [
+              4273,
+              1093
+            ],
+            [
+              4316,
+              1111
+            ],
+            [
+              4293,
+              1170
+            ],
+            [
+              4250,
+              1152
+            ]
+          ],
+          "layer_box": [
+            4247,
+            1090,
+            73,
+            84
+          ]
+        }
+      ],
+      "audit": {
+        "drive_id": "1TNL2V87axdwKlvWbyN9FBhkUJqmuDoX_",
+        "url": "https://drive.google.com/file/d/1TNL2V87axdwKlvWbyN9FBhkUJqmuDoX_/view?usp=drivesdk",
+        "filename": "Pages30-31_REV2_People_Repair_Audit.json",
+        "sha256": "7dcb7b7e5605ec479fc5523fd9532b06de9b605174afb5ae7e4b70107502ea55"
+      }
+    }
+  ],
+  "unchanged_spreads": [
+    {
+      "pages": "02-03",
+      "id": "1cf2arHdHxEkdSbRpdLlo3sATrrROeZ_-",
+      "filename": "Book1_Pages02-03_REV12_VERSION_B_INITIAL_APPROVAL.png",
+      "sha256": "9eb7c649b7008d6e80537b16b9aa42e53f8bdfcd7839bc37568e439c656a2014",
+      "review_status": "NO_CONFIRMED_VISIBLE_MISMATCH",
+      "prior_status": "INITIAL_APPROVAL_AWAITING_FULL_BOOK_REVIEW"
+    },
+    {
+      "pages": "04-05",
+      "id": "1zZn_HEyUkMYWaklfkCVYfj07s9pT2Al8",
+      "filename": "Book1_Pages04-05_REV6_VERSION_B_INITIAL_APPROVAL.png",
+      "sha256": "b22aacd7b4f4674d83c6d53078302d419bf1e23acb5edd11a0e0121e43108ec6",
+      "review_status": "NO_CONFIRMED_VISIBLE_MISMATCH",
+      "prior_status": "INITIAL_APPROVAL_AWAITING_FULL_BOOK_REVIEW"
+    },
+    {
+      "pages": "06-07",
+      "id": "1oN3Y-YtMmm2M6K3vu92-jzSX3FQgTRLY",
+      "filename": "Book1_Pages06-07_REV6_VERSION_B_INITIAL_APPROVAL.png",
+      "sha256": "44ef8dd306458a99cba05126ba2db122bbb33801d85a5ebb4a036c71cfb34981",
+      "review_status": "NO_CONFIRMED_VISIBLE_MISMATCH",
+      "prior_status": "INITIAL_APPROVAL_AWAITING_FULL_BOOK_REVIEW"
+    },
+    {
+      "pages": "10-11",
+      "id": "1CJOfP3ujD_74OtcqME2HnTm-oM42cTp2",
+      "filename": "Book1_Pages10-11_REV2_CANON_CHECKED_CANDIDATE.png",
+      "sha256": "5541f3b0beb963f7b02842f05b58602030af3cd726ab0f581e4721cc05cdcd33",
+      "review_status": "NO_CONFIRMED_VISIBLE_MISMATCH",
+      "prior_status": "REVIEW_CANDIDATE"
+    },
+    {
+      "pages": "32-33",
+      "id": "1PRGZ_WAXRZ3Z49r8qXaKOJX5vhPa1sZ8",
+      "filename": "Book1_Pages32-33_REV1_CANON_CHECKED_CANDIDATE.png",
+      "sha256": "0a7e73ec97698e25bc9d12a57c01d4bfed9c7b342286a280e5b5a9e137b497da",
+      "review_status": "NO_VISIBLE_PEOPLE",
+      "prior_status": "REVIEW_CANDIDATE"
+    }
+  ],
+  "native_graphics": [
+    {
+      "filename": "Eastmark_logo.png",
+      "sha256": "2652cefb7fefab18256ee3ff95bad36a2447afa3f411a613611259873dc2e3c6",
+      "svg_source": "Natalie_Chen_Hardhat_Source_R8.svg",
+      "svg_drive_id": "1Jhvezhl4tFPlf0ytvCjtklKoiJy4rHgX",
+      "svg_sha256": "3d9557627a8c70af2bf41ee4286c272bf2647237a5d2ff34e4628236d9d2ce0f",
+      "embedded_element": "image2"
+    },
+    {
+      "filename": "LS_logo.png",
+      "sha256": "5f03bffb5c7c82c656b68d2b85b9361ca75d4f6486b9a853cebaa7fe14de8566",
+      "svg_source": "Ben_Hardhat_Source_R8.svg",
+      "svg_drive_id": "1QJdI271yiyhGr8OvCp8ojNzm_w4cmaKa",
+      "svg_sha256": "a9dff4680289cc394c117d763230ce30199443e97e69d3f875b26486362e847c",
+      "embedded_element": "image2"
+    },
+    {
+      "filename": "Fire_Station_Sticker.png",
+      "sha256": "adcfdcdbe9c533268012e45d5c2662cf10c8b5ef684eb389528cf7107a4975ba",
+      "svg_source": "Ben_Hardhat_Source_R8.svg",
+      "svg_drive_id": "1QJdI271yiyhGr8OvCp8ojNzm_w4cmaKa",
+      "svg_sha256": "a9dff4680289cc394c117d763230ce30199443e97e69d3f875b26486362e847c",
+      "embedded_element": "fire_asset"
+    }
+  ],
+  "verification": {
+    "drive_candidate_bytes": [
+      {
+        "pages": "08-09",
+        "bytes": 11071622,
+        "sha256": "aedd221061963893ab2dc2a17a050c45a434d189ca51e0fa27b3222a397dc071",
+        "exact_drive_bytes_match": true
+      },
+      {
+        "pages": "12-13",
+        "bytes": 8810117,
+        "sha256": "051bb47d667b98e5340c919c2000575fb76b64cb92a5d856209042b3355714c4",
+        "exact_drive_bytes_match": true
+      },
+      {
+        "pages": "14-15",
+        "bytes": 10664881,
+        "sha256": "c502187e13df08675285e4f63dcf1877fbf0672bd5304023330cb81b08a504e2",
+        "exact_drive_bytes_match": true
+      },
+      {
+        "pages": "16-17",
+        "bytes": 9190949,
+        "sha256": "9c3efdc66e775945037861a4b6a1845899a94b7d08854e5e3788201714364ae0",
+        "exact_drive_bytes_match": true
+      },
+      {
+        "pages": "18-19",
+        "bytes": 13987911,
+        "sha256": "492b48bf1aae96f8929fc87ecf2ea411a8f098a11b715c7f9de40b375366261b",
+        "exact_drive_bytes_match": true
+      },
+      {
+        "pages": "20-21",
+        "bytes": 9817656,
+        "sha256": "a54244b203922f33ccb6c0a54076140230f823707f2d5743a2887540271cc6f9",
+        "exact_drive_bytes_match": true
+      },
+      {
+        "pages": "22-23",
+        "bytes": 8899023,
+        "sha256": "4aad65d58d22f477b4f3cbbd57f58349e374d8902091d8ad1e6ede2fb40ebd9b",
+        "exact_drive_bytes_match": true
+      },
+      {
+        "pages": "24-25",
+        "bytes": 11312088,
+        "sha256": "6a55bcdb326f768b3489f96cb983eff4ab831e2dcb4a18cc4b7ce66d61c89532",
+        "exact_drive_bytes_match": true
+      },
+      {
+        "pages": "26-27",
+        "bytes": 13506378,
+        "sha256": "51452700823e8f03f85f3cf316827972189ff8b4e2ebad4598aa533c54251167",
+        "exact_drive_bytes_match": true
+      },
+      {
+        "pages": "28-29",
+        "bytes": 11649328,
+        "sha256": "4d1763eaf614de95825a0be5deda9f64075947613027ebdac79fd047c65a28b9",
+        "exact_drive_bytes_match": true
+      },
+      {
+        "pages": "30-31",
+        "bytes": 11908707,
+        "sha256": "c8d72570052a6d5d94499540a24a26c374c3e9d0cd8614414c1ee35c341067b0",
+        "exact_drive_bytes_match": true
+      }
+    ],
+    "pixel_preservation": "11 of 11: zero changed RGB pixels outside documented patch and graphic masks.",
+    "visual_review": "All repaired close-ups and all 11 full spreads inspected. PDF 26 pages rendered and inspected.",
+    "reproducibility": "Pages 30-31 repair layer rebuild tested against exact decoded RGB hash.",
+    "source_metadata_reconciled": "Current master source/profile pairs and approved eight-view/R8 metadata unchanged since 2026-11-05 audit."
+  },
+  "publication": {
+    "Book1_People_Repairs_REVIEW_2026-11-07.pdf": {
+      "drive_id": "1Cp6lPB7K1vapzT1XSe3qg6OXCeaeCQRB",
+      "url": "https://drive.google.com/file/d/1Cp6lPB7K1vapzT1XSe3qg6OXCeaeCQRB/view?usp=drivesdk",
+      "sha256": "0ccfc2543a8aba6e55ee1c2f6c9145b292d3ec7b837fa8db4a23a3bdaf4c9008",
+      "bytes": 17191247
+    },
+    "Book1_People_Repair_Layers_2026-11-07.zip": {
+      "drive_id": "1tQM0438ex_B1461EzeqTZHbk1OFEUlt3",
+      "url": "https://drive.google.com/file/d/1tQM0438ex_B1461EzeqTZHbk1OFEUlt3/view?usp=drivesdk",
+      "sha256": "9e0485983d96c19a09c3a3c4d038c04710011d001afb3d0c7cfb5ece5f476423",
+      "bytes": 18664413
+    }
+  },
+  "current_review_index_id": "1nqURs2CromTihzUo3rg3NkbdW85Yc3Ry",
+  "production_tracking": "This manifest and the linked current review index track the restarted actual-pages 02-33 sequence. Legacy 01-32 numbering and its prior approval records are preserved."
+}
