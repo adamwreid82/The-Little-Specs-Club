@@ -1,0 +1,162 @@
+[
+  {
+    "pages": "02-03",
+    "path": "/workspace/scratch/063bec37fc2d/spread_review_2026_11_04/spreads/Book1_Pages02-03_REV12_VERSION_B_INITIAL_APPROVAL.png",
+    "id": "1cf2arHdHxEkdSbRpdLlo3sATrrROeZ_-",
+    "sha256": "9eb7c649b7008d6e80537b16b9aa42e53f8bdfcd7839bc37568e439c656a2014",
+    "filename": "Book1_Pages02-03_REV12_VERSION_B_INITIAL_APPROVAL.png",
+    "revision": 12,
+    "status": "INITIAL_APPROVAL_AWAITING_FULL_BOOK_REVIEW",
+    "folder_id": null
+  },
+  {
+    "pages": "04-05",
+    "path": "/workspace/scratch/063bec37fc2d/spread_review_2026_11_04/spreads/Book1_Pages04-05_REV6_VERSION_B_INITIAL_APPROVAL.png",
+    "id": "1zZn_HEyUkMYWaklfkCVYfj07s9pT2Al8",
+    "sha256": "b22aacd7b4f4674d83c6d53078302d419bf1e23acb5edd11a0e0121e43108ec6",
+    "filename": "Book1_Pages04-05_REV6_VERSION_B_INITIAL_APPROVAL.png",
+    "revision": 6,
+    "status": "INITIAL_APPROVAL_AWAITING_FULL_BOOK_REVIEW",
+    "folder_id": null
+  },
+  {
+    "pages": "06-07",
+    "path": "/workspace/scratch/063bec37fc2d/spread_review_2026_11_04/spreads/Book1_Pages06-07_REV6_VERSION_B_INITIAL_APPROVAL.png",
+    "id": "1oN3Y-YtMmm2M6K3vu92-jzSX3FQgTRLY",
+    "sha256": "44ef8dd306458a99cba05126ba2db122bbb33801d85a5ebb4a036c71cfb34981",
+    "filename": "Book1_Pages06-07_REV6_VERSION_B_INITIAL_APPROVAL.png",
+    "revision": 6,
+    "status": "INITIAL_APPROVAL_AWAITING_FULL_BOOK_REVIEW",
+    "folder_id": null
+  },
+  {
+    "pages": "08-09",
+    "path": "/workspace/scratch/063bec37fc2d/spread_repairs_2026_11_07/candidates/Book1_Pages08-09_REV5_PEOPLE_REPAIRS_REVIEW.png",
+    "id": "1MvuuD96AuJ2nyzr74Iw1KSMEOlrZ86bE",
+    "sha256": "aedd221061963893ab2dc2a17a050c45a434d189ca51e0fa27b3222a397dc071",
+    "filename": "Book1_Pages08-09_REV5_PEOPLE_REPAIRS_REVIEW.png",
+    "revision": 5,
+    "status": "VERSION B - REVIEW REQUIRED",
+    "folder_id": "13nH1C3mPJIYj46iUkVZeYq1tOGUIR4fi"
+  },
+  {
+    "pages": "10-11",
+    "path": "/workspace/scratch/063bec37fc2d/spread_review_2026_11_04/spreads/Book1_Pages10-11_REV2_CANON_CHECKED_CANDIDATE.png",
+    "id": "1CJOfP3ujD_74OtcqME2HnTm-oM42cTp2",
+    "sha256": "5541f3b0beb963f7b02842f05b58602030af3cd726ab0f581e4721cc05cdcd33",
+    "filename": "Book1_Pages10-11_REV2_CANON_CHECKED_CANDIDATE.png",
+    "revision": 2,
+    "status": "REVIEW_CANDIDATE",
+    "folder_id": null
+  },
+  {
+    "pages": "12-13",
+    "path": "/workspace/scratch/063bec37fc2d/spread_repairs_2026_11_07/candidates/Book1_Pages12-13_REV4_PEOPLE_REPAIRS_REVIEW.png",
+    "id": "1CXzy4hhj15cBJ0kVQ5x4zqCtmrJjQU4b",
+    "sha256": "051bb47d667b98e5340c919c2000575fb76b64cb92a5d856209042b3355714c4",
+    "filename": "Book1_Pages12-13_REV4_PEOPLE_REPAIRS_REVIEW.png",
+    "revision": 4,
+    "status": "VERSION B - REVIEW REQUIRED",
+    "folder_id": "1ocQKrDu468JwHEP4l4CiIYGuIQRmy6sq"
+  },
+  {
+    "pages": "14-15",
+    "path": "/workspace/scratch/063bec37fc2d/spread_repairs_2026_11_07/candidates/Book1_Pages14-15_REV3_PEOPLE_REPAIRS_REVIEW.png",
+    "id": "1R4ACXIo0u8Ii0-g4-TZLlD-OQypglTh5",
+    "sha256": "c502187e13df08675285e4f63dcf1877fbf0672bd5304023330cb81b08a504e2",
+    "filename": "Book1_Pages14-15_REV3_PEOPLE_REPAIRS_REVIEW.png",
+    "revision": 3,
+    "status": "VERSION B - REVIEW REQUIRED",
+    "folder_id": "1dg7g6Ln1cj2aWCcLnyQojRBlJ2LZcX5M"
+  },
+  {
+    "pages": "16-17",
+    "path": "/workspace/scratch/063bec37fc2d/spread_repairs_2026_11_07/candidates/Book1_Pages16-17_REV3_PEOPLE_REPAIRS_REVIEW.png",
+    "id": "1U0OKGteSCcCrpzHM8QVPfOwPjb0BcYDl",
+    "sha256": "9c3efdc66e775945037861a4b6a1845899a94b7d08854e5e3788201714364ae0",
+    "filename": "Book1_Pages16-17_REV3_PEOPLE_REPAIRS_REVIEW.png",
+    "revision": 3,
+    "status": "VERSION B - REVIEW REQUIRED",
+    "folder_id": "1-X5JqPqHd25K0EOb89NqFo89octrGmKa"
+  },
+  {
+    "pages": "18-19",
+    "path": "/workspace/scratch/063bec37fc2d/spread_repairs_2026_11_07/candidates/Book1_Pages18-19_REV3_PEOPLE_REPAIRS_REVIEW.png",
+    "id": "1uTFRrYeacUJL9vJXgFuuxIuP2bcrv-Jr",
+    "sha256": "492b48bf1aae96f8929fc87ecf2ea411a8f098a11b715c7f9de40b375366261b",
+    "filename": "Book1_Pages18-19_REV3_PEOPLE_REPAIRS_REVIEW.png",
+    "revision": 3,
+    "status": "VERSION B - REVIEW REQUIRED",
+    "folder_id": "17kHPE53RNBAHTn5WzN2PuqUvdpm1mgAg"
+  },
+  {
+    "pages": "20-21",
+    "path": "/workspace/scratch/063bec37fc2d/spread_repairs_2026_11_07/candidates/Book1_Pages20-21_REV3_PEOPLE_REPAIRS_REVIEW.png",
+    "id": "1PbRIyH1Rkr8TiVCXut1uh6Fyw81Q0YiI",
+    "sha256": "a54244b203922f33ccb6c0a54076140230f823707f2d5743a2887540271cc6f9",
+    "filename": "Book1_Pages20-21_REV3_PEOPLE_REPAIRS_REVIEW.png",
+    "revision": 3,
+    "status": "VERSION B - REVIEW REQUIRED",
+    "folder_id": "1FSusxKTjpl2BgRi8yWqGgLZaRU039wvI"
+  },
+  {
+    "pages": "22-23",
+    "path": "/workspace/scratch/063bec37fc2d/spread_repairs_2026_11_07/candidates/Book1_Pages22-23_REV2_PEOPLE_REPAIRS_REVIEW.png",
+    "id": "1iYDaMe6iWLUICy7uUc-orHpmrDAHZ8UW",
+    "sha256": "4aad65d58d22f477b4f3cbbd57f58349e374d8902091d8ad1e6ede2fb40ebd9b",
+    "filename": "Book1_Pages22-23_REV2_PEOPLE_REPAIRS_REVIEW.png",
+    "revision": 2,
+    "status": "VERSION B - REVIEW REQUIRED",
+    "folder_id": "16OXOfpN9W5KmKdREiFWzQmhnc4WOvok0"
+  },
+  {
+    "pages": "24-25",
+    "path": "/workspace/scratch/063bec37fc2d/spread_repairs_2026_11_07/candidates/Book1_Pages24-25_REV2_PEOPLE_REPAIRS_REVIEW.png",
+    "id": "1WLD0w4K6EfUmLyzYiTVQE8-x2Cy2RgqS",
+    "sha256": "6a55bcdb326f768b3489f96cb983eff4ab831e2dcb4a18cc4b7ce66d61c89532",
+    "filename": "Book1_Pages24-25_REV2_PEOPLE_REPAIRS_REVIEW.png",
+    "revision": 2,
+    "status": "VERSION B - REVIEW REQUIRED",
+    "folder_id": "1Mz5ULynzY8w-NN4bbVz6cplk-G7vlqdG"
+  },
+  {
+    "pages": "26-27",
+    "path": "/workspace/scratch/063bec37fc2d/spread_repairs_2026_11_07/candidates/Book1_Pages26-27_REV2_PEOPLE_REPAIRS_REVIEW.png",
+    "id": "19P3nwtruKSl-R7RuXaGqRekdoFdeA0FF",
+    "sha256": "51452700823e8f03f85f3cf316827972189ff8b4e2ebad4598aa533c54251167",
+    "filename": "Book1_Pages26-27_REV2_PEOPLE_REPAIRS_REVIEW.png",
+    "revision": 2,
+    "status": "VERSION B - REVIEW REQUIRED",
+    "folder_id": "1ltoYiLdIIb8qrj1aYUd5UMahqKlPml-q"
+  },
+  {
+    "pages": "28-29",
+    "path": "/workspace/scratch/063bec37fc2d/spread_repairs_2026_11_07/candidates/Book1_Pages28-29_REV2_PEOPLE_REPAIRS_REVIEW.png",
+    "id": "1vz7gEtF4LCeIR-fmcGaptsXm3V7_E_r_",
+    "sha256": "4d1763eaf614de95825a0be5deda9f64075947613027ebdac79fd047c65a28b9",
+    "filename": "Book1_Pages28-29_REV2_PEOPLE_REPAIRS_REVIEW.png",
+    "revision": 2,
+    "status": "VERSION B - REVIEW REQUIRED",
+    "folder_id": "12IUh9t1GYndKNR5iqihhMuN_reTWM_eb"
+  },
+  {
+    "pages": "30-31",
+    "path": "/workspace/scratch/063bec37fc2d/spread_repairs_2026_11_07/candidates/Book1_Pages30-31_REV2_PEOPLE_REPAIRS_REVIEW.png",
+    "id": "1FWqyGqQXyLYspWks86T8ONxxETlOIkTb",
+    "sha256": "c8d72570052a6d5d94499540a24a26c374c3e9d0cd8614414c1ee35c341067b0",
+    "filename": "Book1_Pages30-31_REV2_PEOPLE_REPAIRS_REVIEW.png",
+    "revision": 2,
+    "status": "VERSION B - REVIEW REQUIRED",
+    "folder_id": "1xHgb7xXRQBEDjqV8w3eBJ-hbLeXoOQjp"
+  },
+  {
+    "pages": "32-33",
+    "path": "/workspace/scratch/063bec37fc2d/spread_review_2026_11_04/spreads/Book1_Pages32-33_REV1_CANON_CHECKED_CANDIDATE.png",
+    "id": "1PRGZ_WAXRZ3Z49r8qXaKOJX5vhPa1sZ8",
+    "sha256": "0a7e73ec97698e25bc9d12a57c01d4bfed9c7b342286a280e5b5a9e137b497da",
+    "filename": "Book1_Pages32-33_REV1_CANON_CHECKED_CANDIDATE.png",
+    "revision": 1,
+    "status": "REVIEW_CANDIDATE",
+    "folder_id": null
+  }
+]
