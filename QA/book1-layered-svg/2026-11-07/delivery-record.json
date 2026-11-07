@@ -1,0 +1,59 @@
+{
+  "date": "2026-11-07",
+  "pull_request": "https://github.com/adamwreid82/The-Little-Specs-Club/pull/9",
+  "status": "All 16 SVG companions uploaded and verified. No author approvals changed. Draft PR unmerged.",
+  "review_index_id": "1nqURs2CromTihzUo3rg3NkbdW85Yc3Ry",
+  "review_index_sha256": "a32ede0e3d9bc43619338373941b26691f06ad95aa482c05997e948b817ae600",
+  "library_files": [
+    {
+      "local_path": "/workspace/scratch/063bec37fc2d/spread_svgs_2026_11_07/deliverables/Book1_All_16_Layered_SVG_Spreads_2026-11-07.zip",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_0000000013a081fdb254917f8256366b",
+      "library_file_id": "libfile_acc3c30997ec8191ace34eb484239111",
+      "file_name": "Book1_All_16_Layered_SVG_Spreads_2026-11-07.zip",
+      "local_metadata_applied": true,
+      "path": "/Book1_All_16_Layered_SVG_Spreads_2026-11-07.zip",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "/workspace/scratch/063bec37fc2d/spread_svgs_2026_11_07/deliverables/Book1_SVG_Visual_Index_2026-11-07.html",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000c78081fda47a7663c3ef750f",
+      "library_file_id": "libfile_ee8834566cbc8191a3ae234300013d5a",
+      "file_name": "Book1_SVG_Visual_Index_2026-11-07.html",
+      "local_metadata_applied": true,
+      "path": "/Book1_SVG_Visual_Index_2026-11-07.html",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "/workspace/scratch/063bec37fc2d/spread_svgs_2026_11_07/deliverables/Book1_SVG_Editing_Guide_2026-11-07.txt",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000b09081fdbd893e5a8541db58",
+      "library_file_id": "libfile_e4d3f0f496148191b774ff3261bb9a82",
+      "file_name": "Book1_SVG_Editing_Guide_2026-11-07.txt",
+      "local_metadata_applied": true,
+      "path": "/Book1_SVG_Editing_Guide_2026-11-07.txt",
+      "current_version_number": 0
+    }
+  ],
+  "drive_support_files": [
+    {
+      "filename": "Book1_SVG_Editing_Guide_2026-11-07.txt",
+      "id": "1ukah0nCJ7FvebAzYF4ed-fWYVE9oua19"
+    },
+    {
+      "filename": "Book1_Layered_SVG_Manifest_2026-11-07.json",
+      "id": "1hta1Dgx4-SInDtP1cSyteFGs9jKaQvhZ"
+    },
+    {
+      "filename": "Book1_SVG_Visual_Index_2026-11-07.html",
+      "id": "1-k1eLo-kmQCNN7JOO7Bf4VOxlZPiHMJd"
+    }
+  ],
+  "svg_count": 16,
+  "svg_bytes_verified": 16,
+  "approval_cells_unchanged": true
+}

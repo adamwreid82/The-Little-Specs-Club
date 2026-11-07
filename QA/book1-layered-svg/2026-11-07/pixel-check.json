@@ -1,0 +1,178 @@
+[
+  {
+    "pages": "02-03",
+    "render_size": [
+      5100,
+      2550
+    ],
+    "outside_text_max_channel_difference": 0,
+    "outside_text_pixels_diff_gt1": 0,
+    "outside_text_pixels_diff_gt5": 0,
+    "outside_text_mean_channel_max_difference": 0.0
+  },
+  {
+    "pages": "04-05",
+    "render_size": [
+      5100,
+      2550
+    ],
+    "outside_text_max_channel_difference": 0,
+    "outside_text_pixels_diff_gt1": 0,
+    "outside_text_pixels_diff_gt5": 0,
+    "outside_text_mean_channel_max_difference": 0.0
+  },
+  {
+    "pages": "06-07",
+    "render_size": [
+      5100,
+      2550
+    ],
+    "outside_text_max_channel_difference": 0,
+    "outside_text_pixels_diff_gt1": 0,
+    "outside_text_pixels_diff_gt5": 0,
+    "outside_text_mean_channel_max_difference": 0.0
+  },
+  {
+    "pages": "08-09",
+    "render_size": [
+      5100,
+      2550
+    ],
+    "outside_text_max_channel_difference": 1,
+    "outside_text_pixels_diff_gt1": 0,
+    "outside_text_pixels_diff_gt5": 0,
+    "outside_text_mean_channel_max_difference": 0.0007076
+  },
+  {
+    "pages": "10-11",
+    "render_size": [
+      5100,
+      2550
+    ],
+    "outside_text_max_channel_difference": 0,
+    "outside_text_pixels_diff_gt1": 0,
+    "outside_text_pixels_diff_gt5": 0,
+    "outside_text_mean_channel_max_difference": 0.0
+  },
+  {
+    "pages": "12-13",
+    "render_size": [
+      5100,
+      2550
+    ],
+    "outside_text_max_channel_difference": 1,
+    "outside_text_pixels_diff_gt1": 0,
+    "outside_text_pixels_diff_gt5": 0,
+    "outside_text_mean_channel_max_difference": 0.0022016
+  },
+  {
+    "pages": "14-15",
+    "render_size": [
+      5100,
+      2550
+    ],
+    "outside_text_max_channel_difference": 2,
+    "outside_text_pixels_diff_gt1": 29,
+    "outside_text_pixels_diff_gt5": 0,
+    "outside_text_mean_channel_max_difference": 0.002437
+  },
+  {
+    "pages": "16-17",
+    "render_size": [
+      5100,
+      2550
+    ],
+    "outside_text_max_channel_difference": 2,
+    "outside_text_pixels_diff_gt1": 66,
+    "outside_text_pixels_diff_gt5": 0,
+    "outside_text_mean_channel_max_difference": 0.0021477
+  },
+  {
+    "pages": "18-19",
+    "render_size": [
+      5100,
+      2550
+    ],
+    "outside_text_max_channel_difference": 2,
+    "outside_text_pixels_diff_gt1": 107,
+    "outside_text_pixels_diff_gt5": 0,
+    "outside_text_mean_channel_max_difference": 0.0016122
+  },
+  {
+    "pages": "20-21",
+    "render_size": [
+      5100,
+      2550
+    ],
+    "outside_text_max_channel_difference": 2,
+    "outside_text_pixels_diff_gt1": 16,
+    "outside_text_pixels_diff_gt5": 0,
+    "outside_text_mean_channel_max_difference": 0.0025941
+  },
+  {
+    "pages": "22-23",
+    "render_size": [
+      5100,
+      2550
+    ],
+    "outside_text_max_channel_difference": 2,
+    "outside_text_pixels_diff_gt1": 45,
+    "outside_text_pixels_diff_gt5": 0,
+    "outside_text_mean_channel_max_difference": 0.0008507
+  },
+  {
+    "pages": "24-25",
+    "render_size": [
+      5100,
+      2550
+    ],
+    "outside_text_max_channel_difference": 2,
+    "outside_text_pixels_diff_gt1": 44,
+    "outside_text_pixels_diff_gt5": 0,
+    "outside_text_mean_channel_max_difference": 0.0023026
+  },
+  {
+    "pages": "26-27",
+    "render_size": [
+      5100,
+      2550
+    ],
+    "outside_text_max_channel_difference": 1,
+    "outside_text_pixels_diff_gt1": 0,
+    "outside_text_pixels_diff_gt5": 0,
+    "outside_text_mean_channel_max_difference": 0.0006064
+  },
+  {
+    "pages": "28-29",
+    "render_size": [
+      5100,
+      2550
+    ],
+    "outside_text_max_channel_difference": 2,
+    "outside_text_pixels_diff_gt1": 34,
+    "outside_text_pixels_diff_gt5": 0,
+    "outside_text_mean_channel_max_difference": 0.0013537
+  },
+  {
+    "pages": "30-31",
+    "render_size": [
+      5100,
+      2550
+    ],
+    "outside_text_max_channel_difference": 2,
+    "outside_text_pixels_diff_gt1": 119,
+    "outside_text_pixels_diff_gt5": 0,
+    "outside_text_mean_channel_max_difference": 0.0020082
+  },
+  {
+    "pages": "32-33",
+    "render_size": [
+      5100,
+      2550
+    ],
+    "outside_text_max_channel_difference": 0,
+    "outside_text_pixels_diff_gt1": 0,
+    "outside_text_pixels_diff_gt5": 0,
+    "outside_text_mean_channel_max_difference": 0.0
+  }
+]

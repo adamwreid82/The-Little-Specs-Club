@@ -1,0 +1,83 @@
+THE LITTLE SPECS CLUB | BOOK 1 | SVG EDITING GUIDE
+7 November 2026
+
+16 current spreads: actual pages 02-33. Initial-approval spreads are included.
+
+EDITABILITY LIMIT
+These are layered layout SVGs, not fully vector illustrations. All 177 lines
+of title, story and facts copy are live editable SVG text. The 14 existing
+repair patches and 15 corrected logo/sticker placements remain separate
+raster objects. Characters, clothing, backgrounds, the title logo, and other
+branding remain embedded raster artwork. Converting the remaining painted
+art into editable vector shapes would require a separate redraw.
+
+The original PNGs and their approval records are unchanged. These new SVG
+companions require author review. The REV number identifies the source PNG;
+it does not indicate that an SVG has inherited approval. No source character
+files were changed.
+
+HOW TO EDIT
+Open the SVG in Inkscape or another editor that supports SVG text, embedded
+images and filters. The files contain all image assets; no image relinking
+is needed. Roboto is embedded for compatible renderers and included in the
+download bundle for desktop editors that need the font installed locally.
+
+Layer 01: Original illustration as an embedded raster image.
+Layer 02: Retained character and helmet cleanup patches, where available.
+Layer 03: Separate corrected logo/sticker objects, where available.
+Layer 04: Text background recovery. KEEP VISIBLE when editing or hiding text.
+Layer 05: EDITABLE TEXT. Use the text tool to change individual lines. Longer
+          wording requires manual line wrapping and positioning.
+Layer 90: Hidden page/gutter guides. Keep hidden when exporting.
+
+To reposition one of the 15 separate branding objects, select its named
+sublayer in Layer 03. Other printed logos are still part of the illustration.
+Changing a character or moving an entire person requires raster retouching
+or new source artwork; the SVG does not expose individual face/clothing paths.
+
+TEXT BACKGROUND RECOVERY
+The supplied spreads had flattened lettering. Native SVG filters recover
+the background beneath those letters through small glyph masks. The visible
+copy is now separate live text. Do not hide Layer 04, because doing so exposes
+the old flattened lettering. Minor background reconstruction is confined to
+the original text area. Desktop apps may render SVG filters differently;
+inspect an export after editing. Inkscape renders were checked at 5100x2550.
+
+REVIEW AND VALIDATION
+All 16 SVGs were parsed, rendered and visually reviewed. The three original
+initial-approval illustrations (02-03, 04-05, 06-07) are pixel-identical outside
+the text areas. Other spread art matches the current PNGs, allowing at most
+2/255 channel levels of renderer rounding at composited patch edges. Exact
+saved Drive bytes were checked against local SHA-256 hashes for all 16 SVGs.
+Text was hidden for sky, canopy and dense facts-page checks with no duplicate
+lettering left visible. Font and text antialiasing can differ from the PNG.
+
+SOURCE SIZES
+SVG canvas: 17 x 8.5 inches; viewBox 5100 x 2550.
+This is an editable review companion, not a final press-ready PDF.
+
+FONT
+Roboto: Copyright 2011 The Roboto Project Authors
+(https://github.com/googlefonts/roboto-classic).
+Licensed under the SIL Open Font License, Version 1.1:
+https://openfontlicense.org
+The original font license and copyright metadata remain embedded in the font.
+
+SPREAD INVENTORY
+Pages | Source REV | Live text lines | Repair patches | Separate branding
+02-03 | 12 | 4 | 0 | 0
+04-05 | 6 | 14 | 0 | 0
+06-07 | 6 | 14 | 0 | 0
+08-09 | 5 | 11 | 1 | 0
+10-11 | 2 | 11 | 0 | 0
+12-13 | 4 | 15 | 1 | 0
+14-15 | 3 | 8 | 2 | 1
+16-17 | 3 | 7 | 1 | 1
+18-19 | 3 | 8 | 2 | 2
+20-21 | 3 | 8 | 2 | 1
+22-23 | 2 | 8 | 1 | 2
+24-25 | 2 | 9 | 1 | 2
+26-27 | 2 | 8 | 1 | 0
+28-29 | 2 | 9 | 1 | 2
+30-31 | 2 | 8 | 1 | 4
+32-33 | 1 | 35 | 0 | 0
